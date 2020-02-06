@@ -5,6 +5,7 @@ import java.util.ArrayList;
 /**
  * @author bryan
  */
+
 class Aluno {
 
     int Numero;
@@ -56,13 +57,12 @@ public class Ex12 {
 
         // --> Informando notas e números dos alunos
         for (int i = 0; i < alunos.size(); i++) {
-            System.out.println("Aluno: " + alunos.get(i).Numero + " - Nota: " + alunos.get(i).Nota);
+            System.out.println(String.format("Aluno: %d - Nota: %d", alunos.get(i).Numero, alunos.get(i).Nota));
         }
 
-        porcentAprovados = (((double) quantAprovados / 100) * alunos.size()) * 100;
+        porcentAprovados = (((double) quantAprovados / 100) * alunos.size() * 100);
 
-        System.out.println("\nA porcentagem de alunos aprovados é: " + porcentAprovados + "%\n");
+        System.out.println(String.format("\nA porcentagem de alunos aprovados é %.2f %%", porcentAprovados));
 
     }
-
 }

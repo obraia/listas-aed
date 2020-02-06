@@ -5,6 +5,7 @@ import java.util.Random;
 /**
  * @author bryan
  */
+
 public class Ex20 {
 
     public static void main(String[] args) {
@@ -39,7 +40,7 @@ public class Ex20 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(matriz[linha][coluna] + " ");
+                System.out.print(String.format("%2d ", matriz[linha][coluna]));
             }
 
             System.out.println();

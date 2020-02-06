@@ -10,7 +10,6 @@ import java.util.Random;
 /**
  * @author bryan
  */
-
 public class Ex14 {
 
     public static void main(String[] args) {
@@ -19,17 +18,17 @@ public class Ex14 {
 
         int maiorNumero = Integer.MIN_VALUE;
         int menorNumero = Integer.MAX_VALUE;
-        
+
         int[] maiorPosicao = new int[2];
         int[] menorPosicao = new int[2];
 
         Random random = new Random();
-        
+
         // --> Gerar matriz com números inteiros aleatórios de 0 a 99
         for (int linha = 0; linha < matriz.length; linha++) {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
-                matriz[linha][coluna] = random.nextInt(9);
+                matriz[linha][coluna] = random.nextInt(99);
             }
         }
 
@@ -51,21 +50,22 @@ public class Ex14 {
                 }
             }
         }
-        
+
         // --> Imprimir matriz
         for (int linha = 0; linha < matriz.length; linha++) {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(matriz[linha][coluna] + " ");
+                System.out.print(String.format("%2d ", matriz[linha][coluna]));
             }
-            
+
             System.out.println();
         }
-        
+
         System.out.println();
-        System.out.println("Maior número: " + maiorNumero + " Posição: [" + maiorPosicao[0] + ", " + maiorPosicao[1] +"]");
-        System.out.println("Menor número: " + menorNumero + " Posição: [" + menorPosicao[0] + ", " + menorPosicao[1] +"]");
+        System.out.println(String.format("Maior: %d Posição: [%d, %d]", maiorNumero, maiorPosicao[0], maiorPosicao[1]));
+        System.out.println(String.format("Menor: %d Posição: [%d, %d]", menorNumero, menorPosicao[0], menorPosicao[1]));
+
         System.out.println();
     }
 

@@ -23,7 +23,7 @@ public class Ex10 {
         int somaImpares = 0;
 
         for (int i = 0; i < quantNumeros; i++) {
-            System.out.println("Digite o " + (i + 1) + "º valor");
+            System.out.println(String.format("Digite o %dº valor", (i + 1)));
             numeros.add(sc.nextInt());
         }
 

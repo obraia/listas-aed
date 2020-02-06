@@ -15,11 +15,13 @@ public class Ex08 {
 
         System.out.print("Digite a quantidade de números a serem lidos: ");
         quantNumeros = sc.nextInt();
+        
+        System.out.println("");
 
         int[] numeros = new int[quantNumeros];
 
         for (int i = 0; i < quantNumeros; i++) {
-            System.out.println("Digite o " + (i + 1) + "º valor");
+            System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
             numeros[i] = sc.nextInt();
         }
 

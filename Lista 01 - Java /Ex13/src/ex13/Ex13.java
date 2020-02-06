@@ -1,11 +1,11 @@
 package ex13;
 
+import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
  * @author bryan
  */
-
 public class Ex13 {
 
     public static void main(String[] args) {
@@ -38,13 +38,13 @@ public class Ex13 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(matriz[linha][coluna] + " ");
+                System.out.print(String.format("%2d ", matriz[linha][coluna]));
             }
-            
+
             System.out.println();
         }
 
-        System.out.println("A média da diagonal principal é: " + mediaDiagonalPrincipal);
+        System.out.println(String.format("\nA média da diagonal principal é: %.2f \n", mediaDiagonalPrincipal));
 
     }
 }

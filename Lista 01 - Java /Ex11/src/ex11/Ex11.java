@@ -12,13 +12,13 @@ public class Ex11 {
 
         Scanner sc = new Scanner(System.in);
         
-        int tamanhoVetor = 15;
+        int tamanhoVetor = 3;
 
         char[] vetorA = new char[tamanhoVetor];
         char[] vetorB = new char[tamanhoVetor];
 
         for (int i = 0; i < tamanhoVetor; i++) {
-            System.out.print("Digite o " + (i + 1) + " º valor: ");
+            System.out.println(String.format("Digite o %dº caracter", (i + 1)));
             vetorA[i] = sc.next().charAt(0);
         }
         

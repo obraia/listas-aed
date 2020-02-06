@@ -1,11 +1,11 @@
 package ex16;
 
+import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
  * @author bryan
  */
-
 public class Ex16 {
 
     public static void main(String[] args) {
@@ -37,8 +37,7 @@ public class Ex16 {
             }
         }
     }
-    
-    
+
     // --> Exibir matriz na tela
     public static void ExibirMatriz(int[][] matriz) {
 
@@ -46,7 +45,7 @@ public class Ex16 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(matriz[linha][coluna] + " ");
+                System.out.print(String.format("%2d ", matriz[linha][coluna]));
             }
 
             System.out.println();
@@ -69,13 +68,13 @@ public class Ex16 {
 
         return somasLinhas;
     }
-    
+
     // --> Exibir somas dos valores de cada linha da matriz
     public static void ExibirSomasLinhas(int[] vetor) {
 
         for (int i = 0; i < vetor.length; i++) {
 
-            System.out.println("linha " + (i + 1) + " - " + vetor[i]);
+            System.out.println(String.format("linha %d - %d", (i + 1), vetor[i]));
 
         }
     }
@@ -93,20 +92,19 @@ public class Ex16 {
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
                 if (matriz[linha][coluna] > valor) {
-                    
+
                     numero = matriz[linha][coluna];
                     posicao[0] = linha;
                     posicao[1] = coluna;
                     achouValorMaior = true;
 
-                    System.out.println("Número: " + numero + " Posição: [" + posicao[0] + ", " + posicao[1] + "]");
+                    System.out.println(String.format("Numero: %d - Posição: [%d, %d]", numero, posicao[0], posicao[1]));
                 }
             }
         }
 
         if (achouValorMaior == false) {
-            System.out.println("Nenhum valor maior que " + valor + " foi encontrado");
+            System.out.println(String.format("Nenhum valor maior que %d foi encontrado", valor));
         }
     }
-
 }

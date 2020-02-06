@@ -5,7 +5,6 @@ import java.util.Scanner;
 /**
  * @author bryan
  */
-
 public class Ex09 {
 
     public static void main(String[] args) {
@@ -18,20 +17,14 @@ public class Ex09 {
 
         do {
 
-            System.out.println("1. Média Aritmética");
-            System.out.println("2. Média Ponderada");
-            System.out.println("3. Média Aritmética e Ponderada");
-            System.out.println("4. Sair");
-
-            System.out.print("Digite uma opção: ");
-            byte opc = sc.nextByte();
-
+            byte opc = Menu();
+                    
             switch (opc) {
 
                 case 1:
 
                     for (int i = 0; i < vetorNumeros.length; i++) {
-                        System.out.println("Digite o " + (i + 1) + "º valor");
+                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
                         vetorNumeros[i] = sc.nextDouble();
                     }
 
@@ -42,9 +35,9 @@ public class Ex09 {
                 case 2:
 
                     for (int i = 0; i < vetorPesos.length; i++) {
-                        System.out.println("Digite o " + (i + 1) + "º valor");
+                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
                         vetorNumeros[i] = sc.nextDouble();
-                        System.out.println("Digite o " + (i + 1) + "º peso");
+                        System.out.print(String.format("Digite o %dº peso: ", (i + 1)));
                         vetorPesos[i] = sc.nextInt();
                     }
 
@@ -52,11 +45,11 @@ public class Ex09 {
                     break;
 
                 case 3:
-                    
+
                     for (int i = 0; i < vetorPesos.length; i++) {
-                        System.out.println("Digite o " + (i + 1) + "º valor");
+                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
                         vetorNumeros[i] = sc.nextDouble();
-                        System.out.println("Digite o " + (i + 1) + "º peso");
+                        System.out.print(String.format("Digite o %dº peso: ", (i + 1)));
                         vetorPesos[i] = sc.nextInt();
                     }
 
@@ -72,13 +65,26 @@ public class Ex09 {
                     break;
 
                 default:
-                    
+
                     System.out.println("Opção inválida!");
-                    
+
                     break;
             }
 
         } while (loop == true);
+    }
+
+    public static byte Menu() {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("1. Média Aritmética");
+        System.out.println("2. Média Ponderada");
+        System.out.println("3. Média Aritmética e Ponderada");
+        System.out.println("4. Sair\n");
+
+        System.out.print("Digite uma opção: ");
+
+        return sc.nextByte();
     }
 
     public static double MediaAritmetica(double[] numeros) {
