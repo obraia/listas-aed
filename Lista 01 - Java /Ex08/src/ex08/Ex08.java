@@ -11,23 +11,23 @@ public class Ex08 {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
-        int quantNumeros = 0;
+        int quantidadeNumeros = 0;
 
         System.out.print("Digite a quantidade de números a serem lidos: ");
-        quantNumeros = sc.nextInt();
+        quantidadeNumeros = sc.nextInt();
         
         System.out.println("");
 
-        int[] numeros = new int[quantNumeros];
+        int[] numeros = new int[quantidadeNumeros];
 
-        for (int i = 0; i < quantNumeros; i++) {
+        for (int i = 0; i < quantidadeNumeros; i++) {
             System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
             numeros[i] = sc.nextInt();
         }
 
-        int[] fatoriais = new int[quantNumeros];
+        int[] fatoriais = new int[quantidadeNumeros];
 
-        for (int i = 0; i < quantNumeros; i++) {
+        for (int i = 0; i < quantidadeNumeros; i++) {
             fatoriais[i] = fatorial(numeros[i]);
             
             System.out.println(numeros[i] + "! = " + fatoriais[i]);

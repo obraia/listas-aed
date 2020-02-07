@@ -21,12 +21,12 @@ public class Ex07 {
 
         Scanner sc = new Scanner(System.in);
 
-        int quantVeiculos = 5;
-        double[] velocidades = new double[quantVeiculos];
-        int quantMultas = 0;
-        double valorArrecadado = 0;
+        int quantidadeVeiculos = 5;
+        double[] velocidades = new double[quantidadeVeiculos];
+        int quantidadeMultas = 0;
+        double valorTotalArrecadado = 0;
 
-        for (int i = 0; i < quantVeiculos; i++) {
+        for (int i = 0; i < quantidadeVeiculos; i++) {
             
             System.out.println("Digite a velocidade do " + (i+1) + "º veículo");
             velocidades[i] = sc.nextDouble();
@@ -35,13 +35,13 @@ public class Ex07 {
         for (int i = 0; i < velocidades.length; i++) {
             
             if(velocidades[i] > 60){
-                quantMultas++;
-                valorArrecadado += 150;
+                quantidadeMultas++;
+                valorTotalArrecadado += 150;
             }
         }
         
-        System.out.println("A quantidade de veículos multados foi: " + quantMultas);
-        System.out.println("Com um valor total arrecadado de R$ " + valorArrecadado);
+        System.out.println("\nA quantidade de veículos multados foi: " + quantidadeMultas);
+        System.out.println("Com um valor total arrecadado de R$ " + valorTotalArrecadado);
 
     }
 

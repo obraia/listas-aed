@@ -11,9 +11,9 @@ public class Ex09 {
 
         Scanner sc = new Scanner(System.in);
         boolean loop = true;
-        int quantNumeros = 7;
-        double[] vetorNumeros = new double[quantNumeros];
-        double[] vetorPesos = new double[quantNumeros];
+        int quantidadeNumeros = 7;
+        double[] vetorNumeros = new double[quantidadeNumeros];
+        double[] vetorPesos = new double[quantidadeNumeros];
 
         do {
 

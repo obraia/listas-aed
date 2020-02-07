@@ -36,8 +36,8 @@ public class Ex12 {
 
         char[] gabarito = {'A', 'C', 'E', 'B', 'A', 'D', 'C', 'A'};
 
-        int quantAprovados = 0;
-        double porcentAprovados;
+        int quantidadeAprovados = 0;
+        double porcentagemAprovados;
 
         // --> Criar lista do tipo Aluno e adicionar alunos
         ArrayList<Aluno> alunos = new ArrayList<>();
@@ -58,7 +58,7 @@ public class Ex12 {
             alunos.get(i).VerificarRespostas(gabarito);
 
             if (alunos.get(i).getNota() >= 5) {
-                quantAprovados++;
+                quantidadeAprovados++;
             }
         }
 
@@ -67,8 +67,8 @@ public class Ex12 {
             System.out.println(String.format("Aluno: %d - Nota: %d", alunos.get(i).getNumero(), alunos.get(i).getNota()));
         }
 
-        porcentAprovados = (((double) quantAprovados / alunos.size()) * 100);
+        porcentagemAprovados = (((double) quantidadeAprovados / alunos.size()) * 100);
 
-        System.out.println(String.format("\nA porcentagem de alunos aprovados é %.2f %% \n", porcentAprovados));
+        System.out.println(String.format("\nA porcentagem de alunos aprovados é %.2f %% \n", porcentagemAprovados));
     }
 }

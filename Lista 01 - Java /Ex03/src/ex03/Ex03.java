@@ -30,6 +30,6 @@ public class Ex03 {
 
         salario += aumento;
 
-        System.out.println("O funcionario teve um aumento de: R$ " + aumento + "\nE seu novo salário é: R$ " + salario);
+        System.out.println(String.format("O funcionario teve um aumento de R$ %.2f e seu novo salário é: R$ %.2f", aumento, salario));
     }
 }

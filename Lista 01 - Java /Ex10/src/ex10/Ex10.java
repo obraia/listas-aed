@@ -13,7 +13,7 @@ public class Ex10 {
 
         Scanner sc = new Scanner(System.in);
 
-        int quantNumeros = 6;
+        int quantidadeNumeros = 6;
 
         ArrayList<Integer> numeros = new ArrayList<>();
         ArrayList<Integer> numerosPares = new ArrayList<>();
@@ -22,7 +22,7 @@ public class Ex10 {
         int somaPares = 0;
         int somaImpares = 0;
 
-        for (int i = 0; i < quantNumeros; i++) {
+        for (int i = 0; i < quantidadeNumeros; i++) {
             System.out.println(String.format("Digite o %dº valor", (i + 1)));
             numeros.add(sc.nextInt());
         }

@@ -42,17 +42,17 @@ public class Ex04 {
                     double a = sc.nextDouble();
                     double b = sc.nextDouble();
 
-                    System.out.println("A soma dos dois números é: " + (a + b));
+                    System.out.println(String.format("%.0f + %.0f = %.0f", a, b, (a + b)));
 
                     break;
 
                 case 2:
 
-                    System.out.print("Digite um números para obter sua raiz: ");
+                    System.out.print("Digite um número para obter sua raiz: ");
 
                     int c = sc.nextInt();
-                    
-                    System.out.println("A raiz de " + c+ " é " + Math.sqrt(c));
+
+                    System.out.println(String.format("A raiz de %d é %.0f", c, Math.sqrt(c)));
 
                     break;
 
