@@ -5,23 +5,24 @@ import java.util.Scanner;
 /**
  * @author bryan
  */
-
 public class Ex08 {
 
     public static void main(String[] args) {
-        
+
         Scanner sc = new Scanner(System.in);
-        int quantidadeNumeros = 0;
+        int quantidadeNumeros;
 
         System.out.print("Digite a quantidade de números a serem lidos: ");
         quantidadeNumeros = sc.nextInt();
         
+        sc.close();
+
         System.out.println("");
 
         int[] numeros = new int[quantidadeNumeros];
 
         for (int i = 0; i < quantidadeNumeros; i++) {
-            System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
+            System.out.printf("Digite o %dº valor: ", (i + 1));
             numeros[i] = sc.nextInt();
         }
 
@@ -29,8 +30,8 @@ public class Ex08 {
 
         for (int i = 0; i < quantidadeNumeros; i++) {
             fatoriais[i] = fatorial(numeros[i]);
-            
-            System.out.println(numeros[i] + "! = " + fatoriais[i]);
+
+            System.out.printf("%d! = %d \n", numeros[i], fatoriais[i]);
         }
 
     }

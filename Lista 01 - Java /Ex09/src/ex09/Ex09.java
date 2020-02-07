@@ -7,54 +7,39 @@ import java.util.Scanner;
  */
 public class Ex09 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {    
 
-        Scanner sc = new Scanner(System.in);
         boolean loop = true;
-        int quantidadeNumeros = 7;
-        double[] vetorNumeros = new double[quantidadeNumeros];
-        double[] vetorPesos = new double[quantidadeNumeros];
+        int quantidadeNumeros = 3;
+        double[] valores = new double[quantidadeNumeros];
+        double[] pesos = new double[quantidadeNumeros];
 
         do {
 
             byte opc = Menu();
-                    
+            
+            System.out.println("");
+
             switch (opc) {
 
                 case 1:
-
-                    for (int i = 0; i < vetorNumeros.length; i++) {
-                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
-                        vetorNumeros[i] = sc.nextDouble();
-                    }
-
-                    System.out.println("A média aritmética é: " + MediaAritmetica(vetorNumeros));
+                    
+                    ObterNumerosMediaAritmetica(valores);
+                    System.out.printf("\nA média aritmética é: %.2f \n\n", MediaAritmetica(valores));
 
                     break;
 
                 case 2:
 
-                    for (int i = 0; i < vetorPesos.length; i++) {
-                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
-                        vetorNumeros[i] = sc.nextDouble();
-                        System.out.print(String.format("Digite o %dº peso: ", (i + 1)));
-                        vetorPesos[i] = sc.nextInt();
-                    }
-
-                    System.out.println("A média ponderada é: " + MediaPonderada(vetorNumeros, vetorPesos));
+                    ObterNumerosMediaPonderada(valores, pesos);
+                    System.out.printf("\nA média ponderada é: %.2f \n\n", MediaPonderada(valores, pesos));
                     break;
 
                 case 3:
 
-                    for (int i = 0; i < vetorPesos.length; i++) {
-                        System.out.print(String.format("Digite o %dº valor: ", (i + 1)));
-                        vetorNumeros[i] = sc.nextDouble();
-                        System.out.print(String.format("Digite o %dº peso: ", (i + 1)));
-                        vetorPesos[i] = sc.nextInt();
-                    }
-
-                    System.out.println("A média aritmética é: " + MediaAritmetica(vetorNumeros));
-                    System.out.println("A média ponderada é: " + MediaPonderada(vetorNumeros, vetorPesos));
+                    ObterNumerosMediaPonderada(valores, pesos);
+                    System.out.printf("\nA média aritmética é: %.2f \n", MediaAritmetica(valores));
+                    System.out.printf("A média ponderada é: %.2f \n\n", MediaPonderada(valores, pesos));
 
                     break;
 
@@ -75,6 +60,7 @@ public class Ex09 {
     }
 
     public static byte Menu() {
+        
         Scanner sc = new Scanner(System.in);
 
         System.out.println("1. Média Aritmética");
@@ -87,20 +73,43 @@ public class Ex09 {
         return sc.nextByte();
     }
 
-    public static double MediaAritmetica(double[] numeros) {
+    public static void ObterNumerosMediaAritmetica(double[] valores) {
+
+        Scanner sc = new Scanner(System.in);
+
+        for (int i = 0; i < valores.length; i++) {
+            System.out.printf("Digite o %dº valor: ", (i + 1));
+            valores[i] = sc.nextDouble();
+        }
+
+    }
+
+    public static void ObterNumerosMediaPonderada(double[] valores, double[] pesos) {
+
+        Scanner sc = new Scanner(System.in);
+
+        for (int i = 0; i < valores.length; i++) {
+            System.out.printf("Digite o %dº valor: ", (i + 1));
+            valores[i] = sc.nextDouble();
+            System.out.printf("Digite o %dº peso: ", (i + 1));
+            pesos[i] = sc.nextInt();
+        }
+
+    }
+
+    public static double MediaAritmetica(double[] valores) {
 
         double soma = 0;
 
-        for (int i = 0; i < numeros.length; i++) {
-            soma += numeros[i];
+        for (int i = 0; i < valores.length; i++) {
+            soma += valores[i];
         }
 
-        return soma / numeros.length;
+        return soma / valores.length;
     }
 
     public static double MediaPonderada(double[] numeros, double[] pesos) {
 
-        double[] aux = new double[numeros.length];
         double soma = 0;
         double somaPesos = 0;
 

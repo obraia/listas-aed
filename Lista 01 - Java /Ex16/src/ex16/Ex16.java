@@ -44,7 +44,7 @@ public class Ex16 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(String.format("%2d ", matriz[linha][coluna]));
+                System.out.printf("%2d ", matriz[linha][coluna]);
             }
 
             System.out.println();
@@ -70,10 +70,12 @@ public class Ex16 {
 
     // --> Exibir somas dos valores de cada linha da matriz
     public static void ExibirSomasLinhas(int[] vetor) {
+        
+        System.out.println("Soma dos valores de cada linha \n");
 
         for (int i = 0; i < vetor.length; i++) {
 
-            System.out.println(String.format("linha %d - %d", (i + 1), vetor[i]));
+            System.out.printf("linha %d - %d \n", (i + 1), vetor[i]);
 
         }
     }
@@ -97,13 +99,13 @@ public class Ex16 {
                     posicao[1] = coluna;
                     achouValorMaior = true;
 
-                    System.out.println(String.format("Numero: %d - Posição: [%d, %d]", numero, posicao[0], posicao[1]));
+                    System.out.printf("Numero: %d - Posição: [%d, %d] \n", numero, posicao[0], posicao[1]);
                 }
             }
         }
 
         if (achouValorMaior == false) {
-            System.out.println(String.format("Nenhum valor maior que %d foi encontrado", valor));
+            System.out.printf("Nenhum valor maior que %d foi encontrado \n", valor);
         }
     }
 }

@@ -1,24 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ex04;
 
-import java.io.Console;
 import java.util.Scanner;
 
 /**
- *
  * @author bryan
  */
+
 public class Ex04 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
 
         Scanner sc = new Scanner(System.in);
 
@@ -41,8 +31,10 @@ public class Ex04 {
 
                     double a = sc.nextDouble();
                     double b = sc.nextDouble();
+                    
+                    sc.close();
 
-                    System.out.println(String.format("%.0f + %.0f = %.0f", a, b, (a + b)));
+                    System.out.printf("%.0f + %.0f = %.0f \n", a, b, (a + b));
 
                     break;
 
@@ -51,8 +43,10 @@ public class Ex04 {
                     System.out.print("Digite um número para obter sua raiz: ");
 
                     int c = sc.nextInt();
+                    
+                    sc.close();
 
-                    System.out.println(String.format("A raiz de %d é %.0f", c, Math.sqrt(c)));
+                    System.out.printf("A raiz de %d é %.0f \n", c, Math.sqrt(c));
 
                     break;
 

@@ -17,7 +17,7 @@ public class Ex20 {
         somaValores = SomarAbaixoDiagonalPrincipal(matriz);
         
         ExibirMatriz(matriz);
-        System.out.println("\nSoma valores abaixo da diagonal principal: " + somaValores + "\n");
+        System.out.printf("\nSoma valores abaixo da diagonal principal: %d \n\n", somaValores);
     }
 
     // --> Gerar matriz com números inteiros aleatórios de 0 a 9
@@ -40,7 +40,7 @@ public class Ex20 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(String.format("%2d ", matriz[linha][coluna]));
+                System.out.printf("%2d ", matriz[linha][coluna]);
             }
 
             System.out.println();

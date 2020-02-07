@@ -41,8 +41,8 @@ public class Ex14 {
         ExibirMatriz(matriz);
 
         System.out.println();
-        System.out.println(String.format("Maior: %d Posição: [%d, %d]", maiorNumero, maiorPosicao[0], maiorPosicao[1]));
-        System.out.println(String.format("Menor: %d Posição: [%d, %d]", menorNumero, menorPosicao[0], menorPosicao[1]));
+        System.out.printf("Maior: %d Posição: [%d, %d] \n", maiorNumero, maiorPosicao[0], maiorPosicao[1]);
+        System.out.printf("Menor: %d Posição: [%d, %d] \n", menorNumero, menorPosicao[0], menorPosicao[1]);
 
         System.out.println();
     }
@@ -66,7 +66,7 @@ public class Ex14 {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
 
-                System.out.print(String.format("%2d ", matriz[linha][coluna]));
+                System.out.printf("%2d ", matriz[linha][coluna]);
             }
 
             System.out.println();

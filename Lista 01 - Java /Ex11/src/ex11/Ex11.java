@@ -18,7 +18,7 @@ public class Ex11 {
         char[] vetorB = new char[tamanhoVetor];
 
         for (int i = 0; i < tamanhoVetor; i++) {
-            System.out.println(String.format("Digite o %dº caracter", (i + 1)));
+            System.out.printf("Digite o %dº caracter: ", (i + 1));
             vetorA[i] = sc.next().charAt(0);
         }
         

@@ -25,7 +25,7 @@ public class Ex13 {
         
         ExibirMatriz(matriz);
         
-        System.out.println(String.format("\nA média da diagonal principal é: %.2f \n", mediaDiagonalPrincipal));
+        System.out.printf("\nA média da diagonal principal é: %.2f \n\n", mediaDiagonalPrincipal);
         
     }
 
@@ -48,7 +48,7 @@ public class Ex13 {
             
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
                 
-                System.out.print(String.format("%2d ", matriz[linha][coluna]));
+                System.out.printf("%2d ", matriz[linha][coluna]);
             }
             
             System.out.println();

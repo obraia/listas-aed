@@ -64,11 +64,11 @@ public class Ex12 {
 
         // --> Informar notas e números dos alunos
         for (int i = 0; i < alunos.size(); i++) {
-            System.out.println(String.format("Aluno: %d - Nota: %d", alunos.get(i).getNumero(), alunos.get(i).getNota()));
+            System.out.printf("Aluno: %d - Nota: %d \n", alunos.get(i).getNumero(), alunos.get(i).getNota());
         }
 
         porcentagemAprovados = (((double) quantidadeAprovados / alunos.size()) * 100);
 
-        System.out.println(String.format("\nA porcentagem de alunos aprovados é %.2f %% \n", porcentagemAprovados));
+        System.out.printf("\nA porcentagem de alunos aprovados é %.2f %% \n\n", porcentagemAprovados);
     }
 }

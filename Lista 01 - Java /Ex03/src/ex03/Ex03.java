@@ -19,6 +19,8 @@ public class Ex03 {
 
         System.out.print("Digite o salário do funcionário: ");
         float salario = sc.nextInt();
+        
+        sc.close();
 
         float aumento = 0;
 
@@ -30,6 +32,6 @@ public class Ex03 {
 
         salario += aumento;
 
-        System.out.println(String.format("O funcionario teve um aumento de R$ %.2f e seu novo salário é: R$ %.2f", aumento, salario));
+        System.out.printf("O funcionario teve um aumento de R$ %.2f e seu novo salário é R$ %.2f \n", aumento, salario);
     }
 }
