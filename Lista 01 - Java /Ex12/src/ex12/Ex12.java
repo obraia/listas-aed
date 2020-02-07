@@ -27,7 +27,7 @@ public class Ex12 {
         int quantAprovados = 0;
         double porcentAprovados;
 
-        // --> Criando vetor do tipo Aluno e adicionando alunos
+        // --> Criar lista do tipo Aluno e adicionando alunos
         ArrayList<Aluno> alunos = new ArrayList<>();
         alunos.add(new Aluno(05, new char[]{'B', 'C', 'E', 'B', 'A', 'D', 'C', 'A'}));
         alunos.add(new Aluno(10, new char[]{'A', 'A', 'A', 'A', 'A', 'A', 'A', 'A'}));
@@ -40,7 +40,7 @@ public class Ex12 {
         alunos.add(new Aluno(45, new char[]{'A', 'A', 'C', 'B', 'A', 'D', 'C', 'E'}));
         alunos.add(new Aluno(50, new char[]{'B', 'A', 'E', 'B', 'A', 'D', 'C', 'A'}));
 
-        // --> Verificando respostas e aplicando notas aos alunos e fazendo contagem de aprovados
+        // --> Verificar respostas, aplicar notas aos alunos e fazer contagem de aprovados
         for (int i = 0; i < alunos.size(); i++) {
 
             for (int j = 0; j < alunos.get(i).Respostas.length; j++) {
@@ -55,14 +55,13 @@ public class Ex12 {
             }
         }
 
-        // --> Informando notas e números dos alunos
+        // --> Informar notas e números dos alunos
         for (int i = 0; i < alunos.size(); i++) {
             System.out.println(String.format("Aluno: %d - Nota: %d", alunos.get(i).Numero, alunos.get(i).Nota));
         }
 
-        porcentAprovados = (((double) quantAprovados / 100) * alunos.size() * 100);
+        porcentAprovados = (((double) quantAprovados / alunos.size()) * 100);
 
         System.out.println(String.format("\nA porcentagem de alunos aprovados é %.2f %%", porcentAprovados));
-
     }
 }

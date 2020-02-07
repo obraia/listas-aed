@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ex14;
 
 import java.util.Random;
@@ -22,15 +17,7 @@ public class Ex14 {
         int[] maiorPosicao = new int[2];
         int[] menorPosicao = new int[2];
 
-        Random random = new Random();
-
-        // --> Gerar matriz com números inteiros aleatórios de 0 a 99
-        for (int linha = 0; linha < matriz.length; linha++) {
-
-            for (int coluna = 0; coluna < matriz[0].length; coluna++) {
-                matriz[linha][coluna] = random.nextInt(99);
-            }
-        }
+        GerarMatriz(matriz);
 
         // --> Encontrar maior e menor número e armazenar suas posições
         for (int linha = 0; linha < matriz.length; linha++) {
@@ -50,8 +37,31 @@ public class Ex14 {
                 }
             }
         }
+        
+        ExibirMatriz(matriz);
 
-        // --> Imprimir matriz
+        System.out.println();
+        System.out.println(String.format("Maior: %d Posição: [%d, %d]", maiorNumero, maiorPosicao[0], maiorPosicao[1]));
+        System.out.println(String.format("Menor: %d Posição: [%d, %d]", menorNumero, menorPosicao[0], menorPosicao[1]));
+
+        System.out.println();
+    }
+
+    // --> Gerar matriz com números inteiros aleatórios de 0 a 99
+    public static void GerarMatriz(int[][] matriz) {
+
+        Random random = new Random();
+
+        for (int linha = 0; linha < matriz.length; linha++) {
+
+            for (int coluna = 0; coluna < matriz[0].length; coluna++) {
+                matriz[linha][coluna] = random.nextInt(100);
+            }
+        }
+    }
+    
+    public static void ExibirMatriz(int[][] matriz) {
+        
         for (int linha = 0; linha < matriz.length; linha++) {
 
             for (int coluna = 0; coluna < matriz[0].length; coluna++) {
@@ -61,12 +71,6 @@ public class Ex14 {
 
             System.out.println();
         }
-
-        System.out.println();
-        System.out.println(String.format("Maior: %d Posição: [%d, %d]", maiorNumero, maiorPosicao[0], maiorPosicao[1]));
-        System.out.println(String.format("Menor: %d Posição: [%d, %d]", menorNumero, menorPosicao[0], menorPosicao[1]));
-
-        System.out.println();
     }
 
 }

@@ -1,6 +1,5 @@
 package ex16;
 
-import java.text.DecimalFormat;
 import java.util.Random;
 
 /**
@@ -20,7 +19,7 @@ public class Ex16 {
         System.out.println("");
         ExibirSomasLinhas(somasLinhas);
         System.out.println("");
-        PosicaoMaiorQueValor(matriz, 10);
+        IndiceMaiorQueValor(matriz, 10);
         System.out.println("");
 
     }
@@ -79,9 +78,9 @@ public class Ex16 {
         }
     }
 
-    // --> Verificar se existe valores maiores que a variável valor passado por parâmetro
+    // --> Verificar se existe índices maiores que a variável valor passado por parâmetro
     // e armazenar e exibir qual é este valor e sua posição na matriz
-    public static void PosicaoMaiorQueValor(int[][] matriz, int valor) {
+    public static void IndiceMaiorQueValor(int[][] matriz, int valor) {
 
         int numero;
         int[] posicao = new int[2];
