@@ -33,7 +33,7 @@ public class Ex20 {
         }
     }
 
-    // --> Exibir matriz na tela
+
     public static void ExibirMatriz(int[][] matriz) {
 
         for (int linha = 0; linha < matriz.length; linha++) {
@@ -47,7 +47,7 @@ public class Ex20 {
         }
     }
 
-    // --> obeter e somar valores abaixo da diagonal principal da matriz
+
     public static int SomarAbaixoDiagonalPrincipal(int[][] matriz) {
 
         int somaValores = 0;
