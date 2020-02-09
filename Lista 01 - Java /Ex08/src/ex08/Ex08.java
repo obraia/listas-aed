@@ -15,8 +15,6 @@ public class Ex08 {
         System.out.print("Digite a quantidade de números a serem lidos: ");
         quantidadeNumeros = sc.nextInt();
         
-        sc.close();
-
         System.out.println("");
 
         int[] numeros = new int[quantidadeNumeros];
@@ -25,15 +23,21 @@ public class Ex08 {
             System.out.printf("Digite o %dº valor: ", (i + 1));
             numeros[i] = sc.nextInt();
         }
+        
+        sc.close();
+        
+        System.out.println("");
 
         int[] fatoriais = new int[quantidadeNumeros];
 
         for (int i = 0; i < quantidadeNumeros; i++) {
-            fatoriais[i] = fatorial(numeros[i]);
+            fatoriais[i] = fatorialRecursivo(numeros[i]);
 
             System.out.printf("%d! = %d \n", numeros[i], fatoriais[i]);
         }
-
+        
+        System.out.println("");
+        
     }
 
     public static int fatorial(int a) {
@@ -43,6 +47,12 @@ public class Ex08 {
         }
 
         return a;
+    }
+
+    public static int fatorialRecursivo(int a) {
+
+        if (a == 0) return 1;
+        else return a * fatorialRecursivo(a - 1);
     }
 
 }
