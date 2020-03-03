@@ -2,13 +2,12 @@
 public class Program {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println(somaDosTermo(10));
+		System.out.println(somaDosTermos(10));
 	}
 	
-	public static int somaDosTermo(int n) {
+	public static int somaDosTermos(int n) {
 		if(n == 1) return n;
-		else return n + somaDosTermo(n -1);
+		else return n + somaDosTermos(n -1);
 	}
 
 }
