@@ -2,7 +2,7 @@
 public class Program {
 
 	public static void main(String[] args) {
-		System.out.println(calcular(4));
+		System.out.println(calcular(5));
 	}
 	
 	public static double calcular(double n) {

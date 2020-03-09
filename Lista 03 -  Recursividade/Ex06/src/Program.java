@@ -2,18 +2,21 @@
 public class Program {
 
 	public static void main(String[] args) {
-		String palavra = "Bryan";
-		int tamanhoPalavra = palavra.length() - 1;
-		char caracter = 'B';
+		String palavra = "Thaís";
+		int tamanho = palavra.length() - 1;
+		char caracter = 't';
 
-		System.out.println(encontrarCaracter(palavra, tamanhoPalavra, caracter));
+		palavra = palavra.toLowerCase();
+		caracter = Character.toLowerCase(caracter);
+
+		System.out.println(encontrarCaracter(palavra, tamanho, caracter));
 	}
 
-	public static boolean encontrarCaracter(String palavra, int tamanhoPalavra, char caracter) {
-		if (palavra.charAt(tamanhoPalavra) == caracter) {
+	public static boolean encontrarCaracter(String palavra, int tamanho, char caracter) {
+		if (palavra.charAt(tamanho) == caracter) {
 			return true;
-		} else if (tamanhoPalavra > 0) {
-			return encontrarCaracter(palavra, tamanhoPalavra - 1, caracter);
+		} else if (tamanho > 0) {
+			return encontrarCaracter(palavra, tamanho - 1, caracter);
 		} else {
 			return false;
 		}
