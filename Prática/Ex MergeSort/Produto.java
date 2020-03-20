@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Produto {
 
     private int Id;
@@ -10,15 +12,15 @@ class Produto {
         this.Preco = preco;
     }
 
-    public int GetId() {
+    public int getId() {
         return Id;
     }
 
-    public String GetNome(){
+    public String getNome() {
         return Nome;
     }
 
-    public float GetPreco(){
+    public float getPreco() {
         return Preco;
     }
 
@@ -26,5 +28,38 @@ class Produto {
     public String toString() {
 
         return "ID: " + Id + " - Nome: " + Nome + " - Preço: R$ " + Preco;
+    }
+
+    public boolean menorQue(Produto p) {
+        if (this.Nome.compareToIgnoreCase(p.Nome) < 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public static String getProduto(Produto[] produtos, int id) {
+
+        for (Produto produto : produtos) {
+            if (produto.getId() == id) {
+                return produto.toString();
+            }
+        }
+        return "Código de produto não encontrado";
+    }
+
+    public static void exibirTodos(Produto[] produtos) {
+        if (produtos.length == 0) {
+            System.out.print("Nenhum produto cadastrado! ");
+        } else {
+            int length = produtos.length;
+            Produto[] aux = new Produto[length];
+
+            Ordernar.mergeSort(produtos, aux, 0, length - 1);
+
+            for (Produto produto : produtos) {
+                System.out.println(produto);
+            }
+        }
     }
 }
