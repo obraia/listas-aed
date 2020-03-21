@@ -9,16 +9,17 @@ class Principal {
         Produto[] produtos = new Produto[0];
         boolean loop = true;
         byte opcao;
+        int quantidade = 0;
 
         do {
-            Console.Clear();
+            Console.clear();
 
             menu();
 
             System.out.print("\nEscolha uma opção: ");
-            opcao = sc.nextByte();
+            opcao = Validar.entradaByte();
 
-            Console.Clear();
+            Console.clear();
 
             switch (opcao) {
                 case 0:
@@ -27,22 +28,24 @@ class Principal {
 
                 case 1:
                     int inicio = produtos.length;
-                    System.out.print("Digite a quantidade de produtos para cadastrar: ");
-                    int quantidade = sc.nextInt() + produtos.length;
 
-                    if(inicio == 0) {
+                    do {
+                        System.out.print("Digite a quantidade de produtos para cadastrar: ");
+                        quantidade = Validar.entradaInt() + produtos.length;
+                    } while (!Validar.quantidade(quantidade));
+
+                    if (inicio == 0) {
                         produtos = new Produto[quantidade];
-                    }
-                    else{
+                    } else {
                         produtos = aumentarVetor(produtos, quantidade);
                     }
-                    
+
                     cadastrarProduto(produtos, inicio, quantidade);
                     break;
 
                 case 2:
                     System.out.print("\nInforme um código de barras para pesquisar: ");
-                    int id = sc.nextInt();
+                    int id = Validar.entradaInt();
                     System.out.println("\n" + Produto.getProduto(produtos, id));
                     esperar();
                     break;
@@ -54,7 +57,7 @@ class Principal {
 
                 default:
                     System.out.print("Opção inválida ");
-                    Console.Sleep(1500);
+                    Console.sleep(1000);
                     break;
             }
 
@@ -68,10 +71,10 @@ class Principal {
         System.out.println("0. Sair");
     }
 
-    public static Produto[] aumentarVetor(Produto[] produtos, int quantidade){
+    public static Produto[] aumentarVetor(Produto[] produtos, int quantidade) {
         Produto[] novoVetor = new Produto[quantidade];
 
-        for(int i = 0; i < produtos.length; i++){
+        for (int i = 0; i < produtos.length; i++) {
             novoVetor[i] = produtos[i];
         }
         return novoVetor;
@@ -83,13 +86,13 @@ class Principal {
         float preco;
 
         for (int i = inicio; i < quantidade; i++) {
-            Console.Clear();
+            Console.clear();
 
             System.out.printf("Preencha os dados do %dº produo\n\n", i + 1);
 
             do {
                 System.out.print("Id: ");
-                id = sc.nextInt();
+                id = Validar.entradaInt();
             } while (!Validar.id(produtos, id));
 
             System.out.print("Nome: ");
@@ -97,19 +100,19 @@ class Principal {
 
             do {
                 System.out.print("Preço: ");
-                preco = sc.nextFloat();
+                preco = Validar.entradaFloat();
             } while (!Validar.preco(preco));
 
             produtos[i] = new Produto(id, nome, preco);
 
-            Console.Clear();
+            Console.clear();
         }
 
         System.out.print("Produto(s) cadastrado(s) com sucesso! ");
-        Console.Sleep(1500);
+        Console.sleep(1500);
     }
 
-    public static void esperar(){
+    public static void esperar() {
         System.out.print("\nDigite qualquer tecla e pressione enter para voltar ao menu: ");
         sc.next();
     }

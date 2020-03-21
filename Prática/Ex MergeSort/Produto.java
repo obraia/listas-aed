@@ -50,7 +50,7 @@ class Produto {
 
     public static void exibirTodos(Produto[] produtos) {
         if (produtos.length == 0) {
-            System.out.print("Nenhum produto cadastrado! ");
+            System.out.println("Nenhum produto cadastrado!");
         } else {
             int length = produtos.length;
             Produto[] aux = new Produto[length];
