@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Produto {
 
     private int Id;
