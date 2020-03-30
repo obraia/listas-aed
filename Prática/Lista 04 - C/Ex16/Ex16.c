@@ -8,6 +8,7 @@ int quantColunas = 5;
 
 void preecherMatriz(int matriz[quantLinhas][quantColunas])
 {
+    srand(time(NULL));
     for (int linha = 0; linha < quantLinhas; linha++)
     {
         for (int coluna = 0; coluna < quantColunas; coluna++)

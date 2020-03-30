@@ -6,6 +6,7 @@ int tamanho = 3;
 
 void preecherMatriz(int matriz[][tamanho])
 {
+    srand(time(NULL));
     for (int linha = 0; linha < tamanho; linha++)
     {
         for (int coluna = 0; coluna < tamanho; coluna++)
