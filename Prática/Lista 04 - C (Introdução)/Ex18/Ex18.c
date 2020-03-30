@@ -8,6 +8,7 @@ int quantColunas = 4;
 
 void preecherMatriz(int matriz[quantLinhas][quantColunas])
 {
+    srand(time(NULL));
     for (int linha = 0; linha < quantLinhas; linha++)
     {
         for (int coluna = 0; coluna < quantColunas; coluna++)
@@ -50,7 +51,7 @@ int main()
 
     preecherMatriz(matriz);
     imprimirMatriz(matriz);
-    printf("\n\nMatriz resultante da divisão pelos elementos da diagonal principal:\n\n");
+    printf("\nMatriz resultante da divisão pelos elementos da diagonal principal:\n\n");
     DividirPelaDiagonal(matriz);
     imprimirMatriz(matriz);
     return 0;

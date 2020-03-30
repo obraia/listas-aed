@@ -16,13 +16,6 @@ typedef struct
     int quantidadeFilhos;
 } Pessoa;
 
-void esperar()
-{
-    char a;
-    printf("Digite qualquer tecla e pressione enter para continuar: ");
-    scanf("%s", &a);
-}
-
 void preencherVetor(Pessoa vetor[], int tamanho)
 {
     srand(time(NULL));
@@ -170,4 +163,6 @@ int main()
     printf("Salário médio da população R$ %.2f\n", mediaSalario(vetorPessoas, quantPessoas));
     printf("O número médio de filhos é %d\n", mediaFilhos(vetorPessoas, quantPessoas));
     printf("O percentual de mulher com salário maior que R$ 1500.00 é %.2f%%\n\n", percentualMulheresSalarioMaior1500(vetorPessoas, quantPessoas));
+
+    return 0;
 }
