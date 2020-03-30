@@ -11,7 +11,7 @@ long fatorial(int n)
     return n;
 }
 
-main()
+int main()
 {
     int N;
 
@@ -37,4 +37,6 @@ main()
     }
 
     printf("\n");
+
+    return 0;
 }
