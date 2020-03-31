@@ -47,7 +47,7 @@ class Registro {
 
     public String toStringSummary() {
         return String.format(
-                "ID: %d - País: %s - Cidade: %s - Avaliação: %.1f - Quartos: %s - Price: $ %.2f - Tipo: %s",
+                "ID: %d - País: %s - Cidade: %s - Avaliação: %.1f - Quartos: %s - Preço: $ %.2f - Tipo: %s",
                 this.roomId, this.country, this.city, this.reviews, this.bedrooms, this.price, this.propertyType);
     }
 
