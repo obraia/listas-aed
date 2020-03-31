@@ -4,19 +4,17 @@ import java.util.Scanner;
 
 class Arquivo {
 
-    public static Registro [] ler(String path) throws FileNotFoundException{
+    public static Registro[] ler(String path, int length) throws FileNotFoundException {
+        Registro vetorRegistro[] = new Registro[length];
+
         File arquivo = new File(path);
         Scanner sc = new Scanner(arquivo);
 
-        Registro vetorRegistro[] = new Registro[fileLength(arquivo)];
+        String line = sc.nextLine(); // -> Pular linha de cabeçalho
 
-        int lineNumber = 0;
-
-        String line = sc.nextLine();
-
-        while(sc.hasNextLine()){
+        for (int i = 0; i < length; i++) {
             line = sc.nextLine();
-            
+
             String aux[] = line.split("\t");
 
             int roomId = Integer.parseInt(aux[0]);
@@ -28,16 +26,13 @@ class Arquivo {
             float reviews = Float.parseFloat(aux[6]);
             float overallSatisfaction = Float.parseFloat(aux[7]);
             int accommodates = Integer.parseInt(aux[8]);
-            int bedrooms = (int)Float.parseFloat(aux[9]);
+            int bedrooms = (int) Float.parseFloat(aux[9]);
             float price = Float.parseFloat(aux[10]);
             String propertyType = aux[11];
 
-            vetorRegistro[lineNumber] = new Registro(roomId, hostId, roomType, country, city, neighborhood, reviews,
-            overallSatisfaction, accommodates, bedrooms, price, propertyType);
-
-            lineNumber++;
-        }  
-
+            vetorRegistro[i] = new Registro(roomId, hostId, roomType, country, city, neighborhood, reviews,
+                    overallSatisfaction, accommodates, bedrooms, price, propertyType);
+        }
 
         return vetorRegistro;
     }
@@ -46,10 +41,10 @@ class Arquivo {
         Scanner counter = new Scanner(arquivo);
         int linhas = 0;
 
-        while(counter.hasNextLine()){
+        while (counter.hasNextLine()) {
             counter.nextLine();
             linhas++;
-        }  
+        }
 
         return linhas;
     }

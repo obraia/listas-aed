@@ -29,14 +29,23 @@ class Registro {
         this.propertyType = propertyType;
     }
 
+    public boolean menorQue(Registro r) {
+        if (this.roomId < r.roomId) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
     @Override
     public String toString() {
         return String.format(
                 "Room ID: %d - Host Id: %d - Room Type: %s - Country: %s - City: %s - Neighborhood: %s - Reviews: %.1f - Overall satisfaction: %.1f - Accommodates: %d - Bedrooms: %s - Price: %.2f - Property type: %s",
-                this.roomId, this.hostId, this.roomType, this.country, this.city, this.neighborhood, this.reviews, this.overallSatisfaction, this.accommodates, this.bedrooms, this.price, this.propertyType);
+                this.roomId, this.hostId, this.roomType, this.country, this.city, this.neighborhood, this.reviews,
+                this.overallSatisfaction, this.accommodates, this.bedrooms, this.price, this.propertyType);
     }
 
-    public String toStringSummary(){
+    public String toStringSummary() {
         return String.format(
                 "ID: %d - País: %s - Cidade: %s - Avaliação: %.1f - Quartos: %s - Price: $ %.2f - Tipo: %s",
                 this.roomId, this.country, this.city, this.reviews, this.bedrooms, this.price, this.propertyType);
@@ -54,10 +63,4 @@ class Registro {
         }
     }
 
-
 }
-
-
-
-
- 
