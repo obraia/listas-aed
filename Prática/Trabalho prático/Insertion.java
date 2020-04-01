@@ -1,15 +1,15 @@
 public class Insertion {
-    public static void sort(Registro array[]) {
-        Registro key[] = new Registro[array.length];
-        int n = array.length;
+    public static void sort(Registro vetor[]) {
+        Registro aux[] = new Registro[vetor.length];
+        int n = vetor.length;
         for (int j = 1; j < n; j++) {
-            key[j] = array[j];
+            aux[j] = vetor[j];
             int i = j - 1;
-            while ((i > -1) && (key[j].menorQue(array[i]))) {
-                array[i + 1] = array[i];
+            while ((i > -1) && (aux[j].menorQue(vetor[i]))) {
+                vetor[i + 1] = vetor[i];
                 i--;
             }
-            array[i + 1] = key[j];
+            vetor[i + 1] = aux[j];
         }
     }
 }

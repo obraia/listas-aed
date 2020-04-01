@@ -10,21 +10,21 @@ class Merge {
 
         int i = 0, first = inicio, last = meio + 1;
 
-        Registro[] tmp = new Registro[fim - inicio + 1];
+        Registro[] aux = new Registro[fim - inicio + 1];
 
         while (first <= meio && last <= fim) {
-            tmp[i++] = vetor[first].menorQue(vetor[last]) ? vetor[first++] : vetor[last++];
+            aux[i++] = vetor[first].menorQue(vetor[last]) ? vetor[first++] : vetor[last++];
         }
 
         while (first <= meio) {
-            tmp[i++] = vetor[first++];
+            aux[i++] = vetor[first++];
         }
         while (last <= fim) {
-            tmp[i++] = vetor[last++];
+            aux[i++] = vetor[last++];
         }
         i = 0;
         while (inicio <= fim) {
-            vetor[inicio++] = tmp[i++];
+            vetor[inicio++] = aux[i++];
         }
     }
 }
