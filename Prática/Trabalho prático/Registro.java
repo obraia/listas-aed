@@ -29,11 +29,11 @@ class Registro {
         this.propertyType = propertyType;
     }
 
-    public boolean menorQue(Registro r) {
+    public boolean menorQue(Registro r, boolean crescente) {
         if (this.roomId < r.roomId) {
-            return true;
+            return crescente;
         } else {
-            return false;
+            return !crescente;
         }
     }
 
@@ -51,14 +51,14 @@ class Registro {
                 this.roomId, this.country, this.city, this.reviews, this.bedrooms, this.price, this.propertyType);
     }
 
-    public static void ExibirRegistros(Registro vetor[]) {
-        for (Registro registro : vetor) {
+    public static void ExibirRegistros(Registro registros[]) {
+        for (Registro registro : registros) {
             System.out.println(registro);
         }
     }
 
-    public static void ExibirResumo(Registro vetor[]) {
-        for (Registro registro : vetor) {
+    public static void ExibirResumo(Registro registros[]) {
+        for (Registro registro : registros) {
             System.out.println(registro.toStringSummary());
         }
     }

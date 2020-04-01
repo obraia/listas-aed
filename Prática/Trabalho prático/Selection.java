@@ -1,25 +1,25 @@
 public class Selection {
-	public static void sort(Registro [] registro)
+	public static void sort(Registro [] registros, boolean crescente)
 	{
 		int i,j,pos;
 		Registro aux;
-		for(i=0;i<registro.length;i++)
+		for(i=0;i<registros.length;i++)
 		{
-			aux=registro[i];
+			aux=registros[i];
 			pos=i;
-			for(j=i;j<registro.length;j++)
+			for(j=i;j<registros.length;j++)
 			{
-				if(registro[j].menorQue(aux))
+				if(registros[j].menorQue(aux, crescente))
 				{
 					pos=j;
-					aux=registro[j];
+					aux=registros[j];
 				}
 			}
-			if(aux.menorQue(registro[i]))
+			if(aux.menorQue(registros[i], crescente))
 			{
-				aux=registro[i];
-				registro[i]=registro[pos];
-				registro[pos]=aux;
+				aux=registros[i];
+				registros[i]=registros[pos];
+				registros[pos]=aux;
 			}
 		}
 	}

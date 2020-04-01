@@ -3,12 +3,16 @@ import java.util.Scanner;
 
 class App {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner sc = new Scanner(System.in);
+
         String caminhoArquivo = "./arquivos/dados_airbnb.txt";
+
+        Scanner sc = new Scanner(System.in);
+
         long tempoInicial = 0, tempoFinal = 0;
+        boolean crescente = false;
         int quantidade = 0;
-        byte opc = 0;
         boolean loop = false;
+        byte opc = 0;
 
         do {
             menuQuantidade();
@@ -18,19 +22,47 @@ class App {
                 quantidade = (int) Math.pow(2.0, opc) * 1000;
                 loop = false;
             } else {
+                System.out.println();
                 clear();
-                System.out.print("Opção inválida, tente novamente ");
+                System.out.println("Opção inválida, tente novamente.\n");
                 loop = true;
                 sleep(1000);
             }
         } while (loop);
 
-        Registro vetor[] = Arquivo.ler(caminhoArquivo, quantidade);
+        Registro registros[] = Arquivo.ler(caminhoArquivo, quantidade);
 
-        System.out.println("\n");
+        System.out.println();
 
         do {
-            menu();
+            clear();
+            System.out.print("1. Ordem crescente \n2. Ordem descrescente \n\nEscolha uma opção: ");
+            opc = sc.nextByte();
+            clear();
+
+            switch (opc) {
+                case 1:
+                    crescente = true;
+                    loop = false;
+                    break;
+                case 2:
+                    crescente = false;
+                    loop = false;
+                    break;
+                default:
+                    System.out.println();
+                    clear();
+                    System.out.println("Opção inválida, tente novamente.\n");
+                    loop = true;
+                    sleep(1000);
+                    break;
+            }
+        } while (loop);
+
+        System.out.println();
+
+        do {
+            menuMetodoOrdenamento();
             opc = sc.nextByte();
             clear();
 
@@ -38,58 +70,60 @@ class App {
                 case 1:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Insertion.sort(vetor);
+                    Insertion.sort(registros, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 case 2:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Selection.sort(vetor);
+                    Selection.sort(registros, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 case 3:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Bubble.sort(vetor);
+                    Bubble.sort(registros, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 case 4:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Merge.sort(vetor, 0, quantidade - 1);
+                    Merge.sort(registros, 0, quantidade - 1, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 case 5:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Merge.sort(vetor, 0, quantidade - 1);
+                    Heap.sort(registros, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 case 6:
                     System.out.println("Ordenando vetor...\n");
                     tempoInicial = System.currentTimeMillis();
-                    Quick.sort(vetor);
+                    Quick.sort(registros, crescente);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
                 default:
-                    System.out.print("Opção inválida, tente novamente ");
+                    System.out.println();
+                    clear();
+                    System.out.println("Opção inválida, tente novamente.\n");
                     loop = true;
                     sleep(1000);
                     break;
             }
         } while (loop);
 
-        Registro.ExibirResumo(vetor);
+        Registro.ExibirResumo(registros);
         System.out.printf("\nTempo total gasto %.5f segundos%n\n", (tempoFinal - tempoInicial) / 1000d);
     }
 
-    public static void menu() {
+    public static void menuMetodoOrdenamento() {
         clear();
         System.out.println("1. Inserção \n2. Seleção \n3. Bolha \n4. Mergesort \n5. Heapsort \n6. Quicksort\n");
         System.out.print("Escolha um método de ordenação: ");
