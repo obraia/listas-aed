@@ -46,6 +46,8 @@ class Arquivo {
             linhas++;
         }
 
+        counter.close();
+
         return linhas;
     }
 }
