@@ -8,53 +8,85 @@ class App {
         long tempoInicial = 0, tempoFinal = 0;
         int quantidade = 0;
         byte opc = 0;
+        boolean loop = false;
 
-        menuQuantidade();
-        opc = sc.nextByte();
+        do {
+            menuQuantidade();
+            opc = sc.nextByte();
 
-        if (opc >= 1 && opc <= 7) {
-            quantidade = (int) Math.pow(2.0, opc) * 1000;
-        }
+            if (opc >= 1 && opc <= 7) {
+                quantidade = (int) Math.pow(2.0, opc) * 1000;
+                loop = false;
+            } else {
+                clear();
+                System.out.print("Opção inválida, tente novamente ");
+                loop = true;
+                sleep(1000);
+            }
+        } while (loop);
 
         Registro vetor[] = Arquivo.ler(caminhoArquivo, quantidade);
 
-        System.out.println();
-   
-        menu();
-        opc = sc.nextByte();
+        System.out.println("\n");
 
-        switch (opc) {
-            case 1:
-                tempoInicial = System.currentTimeMillis();
-                Insertion.sort(vetor);
-                tempoFinal = System.currentTimeMillis();
-                break;
-            case 2:
-                tempoInicial = System.currentTimeMillis();
-                Selection.sort(vetor);
-                tempoFinal = System.currentTimeMillis();
-                break;
-            case 3:
-                tempoInicial = System.currentTimeMillis();
-                Bubble.sort(vetor);
-                tempoFinal = System.currentTimeMillis();
-                break;
-            case 4:
-                tempoInicial = System.currentTimeMillis();
-                Merge.sort(vetor, 0, quantidade - 1);
-                tempoFinal = System.currentTimeMillis();
-                break;
-            case 5:
-                break;
-            case 6:
-                break;
-            default:
-                System.out.println("Opção inválida, tente novamente.");
-                break;
-        }
+        do {
+            menu();
+            opc = sc.nextByte();
+            clear();
+
+            switch (opc) {
+                case 1:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Insertion.sort(vetor);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                case 2:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Selection.sort(vetor);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                case 3:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Bubble.sort(vetor);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                case 4:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Merge.sort(vetor, 0, quantidade - 1);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                case 5:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Merge.sort(vetor, 0, quantidade - 1);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                case 6:
+                    System.out.println("Ordenando vetor...\n");
+                    tempoInicial = System.currentTimeMillis();
+                    Quick.sort(vetor);
+                    tempoFinal = System.currentTimeMillis();
+                    loop = false;
+                    break;
+                default:
+                    System.out.print("Opção inválida, tente novamente ");
+                    loop = true;
+                    sleep(1000);
+                    break;
+            }
+        } while (loop);
 
         Registro.ExibirResumo(vetor);
-        System.out.printf("\nTempo total gasto %.5f ms%n\n", (tempoFinal - tempoInicial) / 1000d);
+        System.out.printf("\nTempo total gasto %.5f segundos%n\n", (tempoFinal - tempoInicial) / 1000d);
     }
 
     public static void menu() {
@@ -66,7 +98,7 @@ class App {
     public static void menuQuantidade() {
         clear();
         for (int i = 1; i <= 7; i++) {
-            System.out.printf("%d. %d registros\n", i, (int)Math.pow(2.0, i) * 1000);
+            System.out.printf("%d. %d registros\n", i, (int) Math.pow(2.0, i) * 1000);
         }
         System.out.print("\nEscolha a quantidade de registros: ");
     }
@@ -74,5 +106,12 @@ class App {
     public static void clear() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
+    }
+
+    public static void sleep(long tempo) {
+        try {
+            Thread.sleep(tempo);
+        } catch (Exception e) {
+        }
     }
 }
