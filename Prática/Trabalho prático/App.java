@@ -1,10 +1,13 @@
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+import java.time.Duration;
+import java.time.Instant;
 
 class App {
-    public static void main(String[] args) throws FileNotFoundException {
 
-        String caminhoArquivo = "./dados/dados_airbnb.txt";
+    static String caminhoArquivo = "./dados/dados_airbnb.txt";
+
+    public static void main(String[] args) throws FileNotFoundException {
 
         Scanner sc = new Scanner(System.in);
 
@@ -110,9 +113,9 @@ class App {
                     loop = false;
                     break;
                 case 7:
-                    System.out.println("Ordenando vetor...\n");
+                    System.out.println("Fazendo testes, aguarde...\n");
                     tempoInicial = System.currentTimeMillis();
-                    relatorio(registros, crescente);
+                    relatorio(registros, crescente, true);
                     tempoFinal = System.currentTimeMillis();
                     loop = false;
                     break;
@@ -126,13 +129,13 @@ class App {
             }
         } while (loop);
 
-        //Registro.ExibirResumo(registros);
-        System.out.printf("\nTempo total gasto %.5f segundos%n\n", (tempoFinal - tempoInicial) / 1000d);
+        System.out.printf("Tempo total gasto %.3f segundos%n\n", (tempoFinal - tempoInicial) / 1000d);
     }
 
     public static void menuMetodoOrdenamento() {
         clear();
-        System.out.println("1. Inserção \n2. Seleção \n3. Bolha \n4. Mergesort \n5. Heapsort \n6. Quicksort \n7. Relatório completo\n");
+        System.out.println(
+                "1. Inserção \n2. Seleção \n3. Bolha \n4. Mergesort \n5. Heapsort \n6. Quicksort \n7. Relatório completo\n");
         System.out.print("Escolha um método de ordenação: ");
     }
 
@@ -144,45 +147,74 @@ class App {
         System.out.print("\nEscolha a quantidade de registros: ");
     }
 
-    public static void relatorio(Registro[] registros, boolean crescente) {
-        long tempInsertionI = 0, tempInsertionF = 0;
-        long tempSelectionI = 0, tempSelectionF = 0;
-        long tempBubbleI = 0, tempBubbleF = 0;
-        long tempMergeI = 0, tempMergeF = 0;
-        long tempHeapI = 0, tempHeapF = 0;
-        long tempQuickI = 0, tempQuickF = 0;
+    public static void relatorio(Registro[] registros, boolean crescente, boolean aleatorio)
+            throws FileNotFoundException {
 
-        tempInsertionI = System.currentTimeMillis();
+        Instant start, end;
+        long tempoInsertion = 0;
+        long tempoSelection = 0;
+        long tempoBubble = 0;
+        long tempoMerge = 0;
+        long tempoHeap = 0;
+        long tempoQuick = 0;
+
+        start = Instant.now();
         Insertion.sort(registros, crescente);
-        tempInsertionF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoInsertion = Duration.between(start, end).toMillis();
 
-        tempSelectionI = System.currentTimeMillis();
+        if (aleatorio) {
+            registros = Arquivo.ler(caminhoArquivo, registros.length);
+        }
+
+        start = Instant.now();
         Selection.sort(registros, crescente);
-        tempSelectionF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoSelection = Duration.between(start, end).toMillis();
 
-        tempBubbleI = System.currentTimeMillis();
+        if (aleatorio) {
+            registros = Arquivo.ler(caminhoArquivo, registros.length);
+        }
+
+        start = Instant.now();
         Bubble.sort(registros, crescente);
-        tempBubbleF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoBubble = Duration.between(start, end).toMillis();
 
-        tempMergeI = System.currentTimeMillis();
+        if (aleatorio) {
+            registros = Arquivo.ler(caminhoArquivo, registros.length);
+        }
+
+        start = Instant.now();
         Merge.sort(registros, 0, registros.length - 1, crescente);
-        tempMergeF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoMerge = Duration.between(start, end).toMillis();
 
-        tempHeapI = System.currentTimeMillis();
+        if (aleatorio) {
+            registros = Arquivo.ler(caminhoArquivo, registros.length);
+        }
+
+        start = Instant.now();
         Heap.sort(registros, crescente);
-        tempHeapF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoHeap = Duration.between(start, end).toMillis();
 
-        tempQuickI = System.currentTimeMillis();
+        if (aleatorio) {
+            registros = Arquivo.ler(caminhoArquivo, registros.length);
+        }
+
+        start = Instant.now();
         Quick.sort(registros, crescente);
-        tempQuickF = System.currentTimeMillis();
+        end = Instant.now();
+        tempoQuick = Duration.between(start, end).toMillis();
 
-        System.out.println("Tempo gasto em cada método de ordenamento: ");
-        System.out.printf("\nInsertion sort %.5f segundos%n", (tempInsertionF - tempInsertionI) / 1000d);
-        System.out.printf("\nSelection sort %.5f segundos%n", (tempSelectionF-tempSelectionI) / 1000d);
-        System.out.printf("\nBubble sort %.5f segundos%n", (tempBubbleF - tempBubbleI) / 1000d);
-        System.out.printf("\nMerge sort %.5f segundos%n", (tempMergeF - tempMergeI) / 1000d);
-        System.out.printf("\nHeap sort %.5f segundos%n", (tempHeapF - tempHeapI) / 1000d);
-        System.out.printf("\nQuick sort %.5f segundos%n\n", (tempQuickF - tempQuickI) / 1000d);
+        System.out.printf("Tempo gasto com %d registros:\n", registros.length);
+        System.out.printf("\nInsertion sort %.3f segundos", tempoInsertion / 1000d);
+        System.out.printf("\nSelection sort %.3f segundos", tempoSelection / 1000d);
+        System.out.printf("\nBubble sort %.3f segundos", tempoBubble / 1000d);
+        System.out.printf("\nMerge sort %.3f segundos", tempoMerge / 1000d);
+        System.out.printf("\nHeap sort %.3f segundos", tempoHeap / 1000d);
+        System.out.printf("\nQuick sort %.3f segundos\n\n", tempoQuick / 1000d);
     }
 
     public static void clear() {

@@ -17,7 +17,6 @@ public class Heap {
 	        } 
 	    } 
 	  
-
 	    public static void heapify(Registro registros[], int pos, int tamanhoDoVetor, boolean crescente) 
 	    { 
 	        int largest = tamanhoDoVetor;
