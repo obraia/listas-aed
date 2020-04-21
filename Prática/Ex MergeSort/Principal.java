@@ -12,14 +12,10 @@ class Principal {
         int quantidade = 0;
 
         do {
-            Console.clear();
-
             menu();
 
             System.out.print("\nEscolha uma opção: ");
             opcao = Validar.entradaByte();
-
-            Console.clear();
 
             switch (opcao) {
                 case 0:
@@ -86,7 +82,6 @@ class Principal {
         float preco;
 
         for (int i = inicio; i < quantidade; i++) {
-            Console.clear();
 
             System.out.printf("Preencha os dados do %dº produo\n\n", i + 1);
 
@@ -105,7 +100,6 @@ class Principal {
 
             produtos[i] = new Produto(id, nome, preco);
 
-            Console.clear();
         }
 
         System.out.print("Produto(s) cadastrado(s) com sucesso! ");

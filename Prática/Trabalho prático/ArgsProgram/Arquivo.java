@@ -34,6 +34,7 @@ public class Arquivo {
         return linha;
     }
 
+    // Ler todo arquivo e salvar em vetor do tipo Registro
     public static Registro[] carregarVetor(String caminhoArquivo, int length) throws FileNotFoundException {
         Arquivo arquivo = new Arquivo(caminhoArquivo);
         Registro vetorRegistro[] = new Registro[length];
@@ -66,6 +67,7 @@ public class Arquivo {
         return vetorRegistro;
     }
 
+    // Salvar testes que são exibidos em tela
     public static void salvarTestes(String nomeArquivo, long tempoInsertion, long tempoSelection, long tempoBubble,
             long tempoMerge, long tempoHeap, long tempoQuick) throws IOException {
         File arquivo = new File("./relatorios/" + nomeArquivo + ".txt");
@@ -76,13 +78,14 @@ public class Arquivo {
         }
         String linha = String.format(
                 "Insertion: %.3f \nSelection: %.3f \nBubble: %.3f \nMerge: %.3f \nHeap: %.3f \nQuick: %.3f\n\n",
-                tempoInsertion / 1000000000d, tempoSelection / 1000000000d, tempoBubble / 1000000000d, tempoMerge / 1000000000d,
-                tempoHeap / 1000000000d, tempoQuick / 1000000000d);
+                tempoInsertion / 1000000000d, tempoSelection / 1000000000d, tempoBubble / 1000000000d,
+                tempoMerge / 1000000000d, tempoHeap / 1000000000d, tempoQuick / 1000000000d);
 
         fw.write(linha);
         fw.close();
     }
 
+    // Salvar tempos em segundos para calcular média
     public static void salvarTempos(String nomeArquivo, long tempoInsertion, long tempoSelection, long tempoBubble,
             long tempoMerge, long tempoHeap, long tempoQuick) throws IOException {
 
@@ -92,8 +95,9 @@ public class Arquivo {
         if (!arquivo.exists()) {
             arquivo.createNewFile();
         }
-        String linha = String.format("%.3f;%.3f;%.3f;%.3f;%.3f;%.3f\n", tempoInsertion / 1000000000d, tempoSelection / 1000000000d,
-                tempoBubble / 1000000000d, tempoMerge / 1000000000d, tempoHeap / 1000000000d, tempoQuick / 1000000000d);
+        String linha = String.format("%.3f;%.3f;%.3f;%.3f;%.3f;%.3f\n", tempoInsertion / 1000000000d,
+                tempoSelection / 1000000000d, tempoBubble / 1000000000d, tempoMerge / 1000000000d,
+                tempoHeap / 1000000000d, tempoQuick / 1000000000d);
 
         linha = linha.replaceAll(",", ".");
         fw.write(linha);

@@ -9,7 +9,7 @@ java AppArgs 2000 decrescente crescente
 java AppArgs 2000 decrescente crescente
 java AppArgs 2000 decrescente crescente
 
-java AppArgs 4000 decrescente crescente
+java AppArgs 4000 decrescente
 java AppArgs 4000 decrescente crescente
 java AppArgs 4000 decrescente crescente
 java AppArgs 4000 decrescente crescente

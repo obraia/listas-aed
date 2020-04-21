@@ -44,7 +44,7 @@ void imprimirVetor(Estado vetorEstados[], int tamanho)
 {
     for (int i = 0; i < tamanho; i++)
     {
-        printf("Estado: %s - Nº de acidentes: %d\n", vetorEstados[i].sigla, vetorEstados[i].acidentesNoAno);
+        printf("Estado: %s - N de acidentes: %d\n", vetorEstados[i].sigla, vetorEstados[i].acidentesNoAno);
     }
 }
 

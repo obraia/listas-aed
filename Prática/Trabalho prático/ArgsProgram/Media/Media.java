@@ -89,7 +89,10 @@ class Media {
             tempoHeap[i] = Float.parseFloat(aux[4]);
             tempoQuick[i] = Float.parseFloat(aux[5]);
 
-            try{linha = sc.nextLine();}catch(Exception e){}
+            try {
+                linha = sc.nextLine();
+            } catch (Exception e) {
+            }
         }
 
         mediaInsertion = mediaTempos(tempoInsertion);

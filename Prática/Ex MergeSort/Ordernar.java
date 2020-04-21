@@ -1,28 +1,29 @@
 class Ordernar {
+    public static void mergeSort(Produto[] produtos, int inicio, int fim) {
+        int meio = (inicio + fim) / 2;
 
-    public static void mergeSort(Produto[] aux1, Produto[] aux2, int inicio, int fim) {
         if (inicio < fim) {
-            int meio = (inicio + fim) / 2;
-            mergeSort(aux1, aux2, inicio, meio);
-            mergeSort(aux1, aux2, meio + 1, fim);
-            intercalar(aux1, aux2, inicio, meio, fim);
-        }
-    }
-
-    public static void intercalar(Produto[] aux1, Produto[] aux2, int inicio, int meio, int fim) {
-
-        for (int i = inicio; i <= fim; i++) {
-            aux2[i] = aux1[i];
+            mergeSort(produtos, inicio, meio);
+            mergeSort(produtos, meio + 1, fim);
         }
 
-        int a = inicio;
-        int b = meio + 1;
+        int i = 0, first = inicio, last = meio + 1;
 
-        for (int i = inicio; i <= fim; i++) {
-            if(a > meio) aux1[i] = aux2[b++];
-            else if(b > fim) aux1[i] = aux2[a++];
-            else if(aux2[a].menorQue(aux1[b])) aux1[i] = aux1[a++];
-            else aux1[i] = aux2[b++];
+        Produto[] aux = new Produto[fim - inicio + 1];
+
+        while (first <= meio && last <= fim) {
+            aux[i++] = produtos[first].menorQue(produtos[last]) ? produtos[first++] : produtos[last++];
+        }
+
+        while (first <= meio) {
+            aux[i++] = produtos[first++];
+        }
+        while (last <= fim) {
+            aux[i++] = produtos[last++];
+        }
+        i = 0;
+        while (inicio <= fim) {
+            produtos[inicio++] = aux[i++];
         }
     }
 }

@@ -51,9 +51,8 @@ class Produto {
             System.out.println("Nenhum produto cadastrado!");
         } else {
             int length = produtos.length;
-            Produto[] aux = new Produto[length];
 
-            Ordernar.mergeSort(produtos, aux, 0, length - 1);
+            Ordernar.mergeSort(produtos, 0, length - 1);
 
             for (Produto produto : produtos) {
                 System.out.println(produto);
