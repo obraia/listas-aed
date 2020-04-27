@@ -1,0 +1,6 @@
+Insertion: 0.0170 
+Selection: 19.0267 
+Bubble: 28.0910 
+Merge: 0.1007 
+Heap: 0.0837 
+Quick: 0.0447

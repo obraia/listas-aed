@@ -1,0 +1,35 @@
+Insertion: 64,524 
+Selection: 20,205 
+Bubble: 29,861 
+Merge: 0,142 
+Heap: 0,084 
+Quick: 0,070
+
+Insertion: 64,817 
+Selection: 21,175 
+Bubble: 25,656 
+Merge: 0,109 
+Heap: 0,075 
+Quick: 0,083
+
+Insertion: 68,489 
+Selection: 30,352 
+Bubble: 33,851 
+Merge: 0,121 
+Heap: 0,068 
+Quick: 0,165
+
+Insertion: 70,224 
+Selection: 31,724 
+Bubble: 33,989 
+Merge: 0,199 
+Heap: 0,085 
+Quick: 0,084
+
+Insertion: 63,384 
+Selection: 19,447 
+Bubble: 27,299 
+Merge: 0,253 
+Heap: 0,132 
+Quick: 0,276
+

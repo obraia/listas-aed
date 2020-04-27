@@ -4,3 +4,5 @@ Para testar o programa basta:
 2. Executar o programa com: java AppArgs quantidadeRegistros ordemEntrada OrdemSaida
 Ex: java AppArgs 2000 decrescente crescente
 3. Esperar os testes terminarem, e vericiar os resultados na pasta ./relatorios
+
+Obs: Script Start.bat criado para executar no Windows.
