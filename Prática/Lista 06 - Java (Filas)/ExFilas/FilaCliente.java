@@ -85,7 +85,7 @@ public class FilaCliente {
             auxFila.desenfileirar();
             contador++;
         }
-        
+
         return contador;
     }
 
@@ -115,7 +115,7 @@ public class FilaCliente {
             cont++;
             auxCliente = auxFila.frente.item;
 
-            if(auxCliente.getNome().equals(nomeCliente)){
+            if (auxCliente.getNome().equals(nomeCliente)) {
                 return auxFila.obterNumeroClientes() - cont;
             }
             auxFila.desenfileirar();
@@ -128,7 +128,8 @@ public class FilaCliente {
         FilaCliente copiaFila = new FilaCliente();
         FilaCliente copiaFilaAux = new FilaCliente();
 
-        // Fazer duas copias, uma que será retornada e outra para poder reescrever a lista principal
+        // Fazer duas copias, uma que será retornada e outra para poder reescrever a
+        // lista principal
         while (!this.filaVazia()) {
             Cliente aux = this.obterPrimeiro();
             Cliente copiaCliente = new Cliente(aux.getNome(), aux.getHorarioChegada());
@@ -146,28 +147,28 @@ public class FilaCliente {
             Cliente copiaCliente = new Cliente(aux.getNome(), aux.getHorarioChegada());
 
             this.enfileirar(copiaCliente);
-            
+
             copiaFilaAux.desenfileirar();
         }
 
         return copiaFila;
-    } 
+    }
 
-    public Double obterTempoMedioEspera(){
+    public Double obterTempoMedioEspera() {
         FilaCliente auxFila = copiar();
-        
+
         LocalDateTime chegada;
         LocalDateTime saida;
         long somaTempos = 0;
 
         while (!auxFila.filaVazia()) {
-            chegada =  auxFila.frente.proximo.item.getHorarioChegada();
+            chegada = auxFila.frente.proximo.item.getHorarioChegada();
             saida = LocalDateTime.now();
             somaTempos += Duration.between(chegada, saida).getNano();
 
             auxFila.desenfileirar();
         }
 
-        return (double)somaTempos / obterNumeroClientes() / 10000000;
+        return (double) somaTempos / obterNumeroClientes() / 10000000;
     }
 }

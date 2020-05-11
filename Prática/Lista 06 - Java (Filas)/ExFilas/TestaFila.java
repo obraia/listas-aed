@@ -3,7 +3,7 @@ import java.time.*;
 public class TestaFila {
 
     public static void main(String[] args) throws InterruptedException {
-        //testeA();
+        testeA();
         testeB();
     }
 
