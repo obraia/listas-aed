@@ -1,0 +1,33 @@
+Movimento Democrático Brasileiro;MDB
+Partido dos Trabalhadores;PT
+Partido da Social Democracia Brasileira;PSDB
+Progressistas;PP
+Partido Democrático Trabalhista;PDT
+Partido Trabalhista Brasileiro;PTB
+Democratas;DEM
+Partido Liberal;PL
+Partido Socialista Brasileiro;PSB
+Republicanos;REBUBLICANOS
+Cidadania;CIDADANIA
+Partido Social Liberal;PSL
+Partido Social Cristão;PSC
+Partido Comunista do Brasil;PCdoB
+Podemos;PODE
+Partido Social Democrático;PSD
+Partido Verde;PV
+Patriota;PATRIOTA
+Solidariedade;SOLIDARIEDADE
+Partido da Mobilização Nacional;PMN
+Avante;AVANTE
+Partido Trabalhista Cristão;PTC
+Partido Socialismo e Liberdade;PSOL
+Democracia Cristã;DC
+Partido Renovador Trabalhista Brasileiro;PRTB
+Partido Republicano da Ordem Social;PROS
+Partido da Mulher Brasileira;PMB
+Partido Novo;NOVO
+Rede Sustentabilidade;REDE
+Partido Socialista dos Trabalhadores Unificado;PSTU
+Partido Comunista Brasileiro;PCB
+Partido da Causa Operária;PCO
+Unidade Popular;UP																

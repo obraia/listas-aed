@@ -1,0 +1,1890 @@
+Helson Soares da Silva;12456;Oiapoque;Partido Democrático Trabalhista;V
+Jesiel Ribeiro Pena;45123;Oiapoque;Partido da Social Democracia Brasileira;V
+Marileide Amoras Furtado;18000;Ferreira Gomes;Rede Sustentabilidade;V
+Marco Antonio Silva da Costa;12312;Santana;Partido Democrático Trabalhista;V
+Raimundo Egilson Paulino;40123;Porto Grande;Partido Socialista Brasileiro;V
+Luiz Rodrigues da Silva Junior;27;Calçoene;Partido Social Democrata Cristão;P
+Rosivaldo Sá de Sales;51247;Macapá;Partido Ecológico Nacional;V
+Alexsandro Picanço Pessoa;77234;Itaubal;Solidariedade;V
+Lindomar Carvalho Chaves;22789;Vitória do Jari;Partido da República;V
+Reginaldo Alves Sarmento;15456;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Rita Regina Alves de Assis;90500;Santana;Partido Republicano da Ordem Social;V
+Antonio Luiz Coutinho Marques;33190;Santana;Partido da Mobilização Nacional;V
+Katia Gomes da Silva de Carvalho;44456;Macapá;Partido Republicano Progressista;V
+Raimundo Souza Rodrigues;25123;Serra do Navio;Democratas;V
+Lineu Junior Nascimento Costa;12580;Macapá;Partido Democrático Trabalhista;V
+Geane Michele do Nascimento Nunes;65555;Amapá;Partido Comunista do Brasil;V
+Alan Fabricio Moreira Rodrigues;12369;Ferreira Gomes;Partido Democrático Trabalhista;V
+Francisco Costa Dantas;27123;Tartarugalzinho;Partido Social Democrata Cristão;V
+Maria Elisangela de Sousa Lima;70369;Oiapoque;Partido Trabalhista do Brasil;V
+Naaliel Alves Correa Castelo;12000;Serra do Navio;Partido Democrático Trabalhista;V
+Raimundo Ferreira Magalhães;15123;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Nelson dos Santos Domingues;25123;Porto Grande;Democratas;V
+Maike Soares Rodrigues;12000;Vitória do Jari;Partido Democrático Trabalhista;V
+Joao Geraldo Nadler Lages;14000;Tartarugalzinho;Partido Trabalhista Brasileiro;V
+Stefane Lucia Pinto Nascimento;50555;Macapá;Partido Socialismo e  Liberdade;V
+Manoel Roberto Marinho de Sousa;18000;Pedra Branca do Amapari;Rede Sustentabilidade;V
+Maraina Kellen Martins Souto;22123;Macapá;Partido da República;V
+Rogerffson Pereira Leite Rosa;51789;Porto Grande;Partido Ecológico Nacional;V
+Marcos Lucio Ribeiro Farias;20000;Oiapoque;Partido Social Cristão;V
+Celio Ubirajara Araujo Dias;90100;Santana;Partido Republicano da Ordem Social;V
+Leidielson Oliveira dos Passos;50050;Pracuúba;Partido Socialismo e  Liberdade;V
+Sandoval Alves dos Santos;55572;Mazagão;Partido Social Democrático;V
+Antonio Raimundo Santiago Pereira;90456;Tartarugalzinho;Partido Republicano da Ordem Social;V
+Kelley Lobato;33777;Amapá;Partido da Mobilização Nacional;V
+Glaucio Paula de Oliveira;77777;Tartarugalzinho;Solidariedade;V
+Antonio Charles Guedes dos Santos;14555;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Marcio Marlon Almeida Chagas;44434;Calçoene;Partido Republicano Progressista;V
+Jose Silva Santos;77222;Calçoene;Solidariedade;V
+Raimundo Pantoja Feitosa;12421;Calçoene;Partido Democrático Trabalhista;V
+Joaquim Savio da Silva Mareco;51789;Macapá;Partido Ecológico Nacional;V
+Deuzelima de Azevedo Pereira;23456;Mazagão;Partido Popular Socialista;V
+Edmilson Gomes Coelho;43123;Pedra Branca do Amapari;Partido Verde;V
+Jaciane Fernandes Oliveira;55147;Vitória do Jari;Partido Social Democrático;V
+Cassio Rodrigo Silva;50222;Pracuúba;Partido Socialismo e  Liberdade;V
+Elcias Guimarães Borges;15;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;P
+Francinelson Guilherme Vilhena;15123;Amapá;Partido do Movimento Democrático Brasileiro;V
+Marcio Clay da Costa Serrão;10;Laranjal do Jari;Partido Republicano Brasileiro;P
+Giseli Lima da Silva;14777;Pedra Branca do Amapari;Partido Trabalhista Brasileiro;V
+Evan Cristian Pereira Carvalho;12123;Cutias;Partido Democrático Trabalhista;V
+Diego de Almeida Trajano de Souza;17123;Macapá;Partido Social Liberal;V
+Françoíde Pinto de Farias de Oliveira;13789;Serra do Navio;Partido dos Trabalhadores;V
+Raimundo Nonato Lima Vieira;14500;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Manoel Nazareno Nascimento Braz;27027;Macapá;Partido Social Democrata Cristão;V
+Mojaniel Vilhena Vieira;15000;Cutias;Partido do Movimento Democrático Brasileiro;V
+Manoel Vanderley Loureiro da Silva;90123;Tartarugalzinho;Partido Republicano da Ordem Social;V
+Samuel Rodrigues Santana;14123;Porto Grande;Partido Trabalhista Brasileiro;V
+Luzenilde Guimaraes Brito da Silva;33;Amapá;Partido Social Democrata Cristão;P
+Raquel Neves Camara;51111;Macapá;Partido Ecológico Nacional;V
+Rubenil Balieiro de Freitas;14789;Porto Grande;Partido Trabalhista Brasileiro;V
+Helena Pereira de Lima;44122;Santana;Partido Republicano Progressista;V
+Francisco Antonio Barros Lima;12333;Laranjal do Jari;Partido Democrático Trabalhista;V
+Willian Maciel da Silva;33123;Amapá;Partido da Mobilização Nacional;V
+Lucinete Beserra Lopes;11789;Laranjal do Jari;Partido Progressista;V
+Edvanilza Amaral de Souza;45222;Macapá;Partido da Social Democracia Brasileira;V
+Francinildo Leite Dantas;51777;Oiapoque;Partido Ecológico Nacional;V
+Antônio Carneiro Muniz;12333;Macapá;Partido Democrático Trabalhista;V
+Marcio de Oliveira Brito;13;Tartarugalzinho;Partido dos Trabalhadores;P
+Elisana Penha Souto dos Passos;50000;Pracuúba;Partido Socialismo e  Liberdade;V
+Antonio Renildo da Costa;35123;Ferreira Gomes;Partido da Mulher Brasileira;V
+Carlos Alberto de Oliveira Junior;10123;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Jose Maria Bessa de Oliveira;12;Porto Grande;Partido Democrático Trabalhista;P
+Diene Tavares Paz;55369;Itaubal;Partido Social Democrático;V
+Elenilson Lima Espirito Santo;14000;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Genivan Pires da Costa;50369;Ferreira Gomes;Partido Socialismo e  Liberdade;V
+Maria de Nazaré Marques Machado Brandão;18777;Santana;Rede Sustentabilidade;V
+Luciano dos Santos Carvalho;44222;Macapá;Partido Republicano Progressista;V
+Walderlan Mendes de Carvalho Lay;10333;Laranjal do Jari;Partido Republicano Brasileiro;V
+Felipe Oliveira de Almeida;20123;Mazagão;Partido Social Cristão;V
+Jose Correa de Oliveira Lobato;40653;Macapá;Partido Socialista Brasileiro;V
+Carmino da Silva Lazame;70456;Oiapoque;Partido Trabalhista do Brasil;V
+Débora Cristina Araújo e  Silva;12;Cutias;Partido Democrático Trabalhista;P
+Maria de Nazaré da Silva Agenor;70444;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Iury Lorran Silva da Soledade;44123;Macapá;Partido Republicano Progressista;V
+Jose Edilson Pereira Melo;50111;Laranjal do Jari;Partido Socialismo e  Liberdade;V
+Jaime Jesus Santana;15123;Itaubal;Partido do Movimento Democrático Brasileiro;V
+Carlos Alberto Oliveira Gonçalves;13113;Macapá;Partido dos Trabalhadores;V
+Júlio dos Santos Dias;18789;Tartarugalzinho;Rede Sustentabilidade;V
+Elson do Socorro Martins Brazão;70007;Oiapoque;Partido Trabalhista do Brasil;V
+Jose Ribamar de Souza Brito;70770;Oiapoque;Partido Trabalhista do Brasil;V
+Jailson dos Santos Sá;18180;Macapá;Rede Sustentabilidade;V
+Jose Ronaldo de Souza Martins;50;Laranjal do Jari;Partido Socialismo e  Liberdade;P
+Irlany Queiroga de Souza;12123;Laranjal do Jari;Partido Democrático Trabalhista;V
+Ivaldo da Silva Feitosa;12123;Oiapoque;Partido Democrático Trabalhista;V
+Elielza Souza de Araujo;50789;Vitória do Jari;Partido Socialismo e  Liberdade;V
+Maria Eliana Souza Paiva Cordeiro;22300;Santana;Partido da República;V
+Joessy de Cassia Feitoza Aguiar;43123;Oiapoque;Partido Verde;V
+Joelson Brito Cardoso;43432;Ferreira Gomes;Partido Verde;V
+Marcos Pantoja de Oliveira;55555;Porto Grande;Partido Social Democrático;V
+Ana Rosaria Ramos da Costa Ferreira;70789;Pracuúba;Partido Trabalhista do Brasil;V
+Adielson Viegas da Silva;20300;Itaubal;Partido Social Cristão;V
+Rômolo Elcio Cardoso Lima;55533;Macapá;Partido Social Democrático;V
+Carlos Murilo Pinheiro;90123;Macapá;Partido Republicano da Ordem Social;V
+Marcos José do Nascimento;22333;Porto Grande;Partido da República;V
+Olivaldo dos Santos;40;Oiapoque;Partido da Mobilização Nacional;P
+Frank Júnior Araújo Rocha;25123;Cutias;Democratas;V
+Maria Marcyalinne de Sousa Miranda;14456;Santana;Partido Trabalhista Brasileiro;V
+Leni Lima da Cruz;12147;Mazagão;Partido Democrático Trabalhista;V
+João Gerson Moraes Cardoso;18123;Serra do Navio;Rede Sustentabilidade;V
+Gleiciani Souza Sobrinho;90234;Porto Grande;Partido Republicano da Ordem Social;V
+Juciane Lins dos Santos;12805;Pracuúba;Partido Democrático Trabalhista;V
+Maria Creuza da Silva Braga;51001;Santana;Partido Ecológico Nacional;V
+Maria de Lourdes Oliveira Portal;25123;Pedra Branca do Amapari;Democratas;V
+Silvinho dos Santos Rocha;15111;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Maria Elizia Lau de Azevedo;40111;Santana;Partido Socialista Brasileiro;V
+Marly Flexa Lima;12112;Porto Grande;Partido Democrático Trabalhista;V
+Sebastião Pinheiro Gomes;33222;Vitória do Jari;Partido da Mobilização Nacional;V
+Yuri Pelaes Brito;15123;Macapá;Partido do Movimento Democrático Brasileiro;V
+Josimar dos Santos Pinheiro;70569;Serra do Navio;Partido Trabalhista do Brasil;V
+Marcelo de Matos Dias;23123;Macapá;Partido Popular Socialista;V
+Benedito de Melo Santos;22212;Santana;Partido da República;V
+Raimundo Luciano Costa Teixeira;12222;Tartarugalzinho;Partido Democrático Trabalhista;V
+João Pires Custódio;35123;Amapá;Partido da Mulher Brasileira;V
+Marciel Viana de Sousa;70369;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Josivaldo Anjos Ferreira;15125;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Cristiane Sanches Baroso Souza;10333;Santana;Partido Republicano Brasileiro;V
+Ana Patricia Cardoso Alfaia;22580;Ferreira Gomes;Partido da República;V
+Raimundo Nonato Barbosa Alves;18178;Calçoene;Rede Sustentabilidade;V
+Maria Beth Ribeiro Soares;12222;Macapá;Partido Democrático Trabalhista;V
+Pedro Sérgio Viana Torres;54999;Mazagão;Partido Pátria Livre;V
+Valmileno Meireles da Silva;44789;Calçoene;Partido Republicano Progressista;V
+Silviomar da Silva Santos;55222;Mazagão;Partido Social Democrático;V
+Iracema Forte;40117;Calçoene;Partido Socialista Brasileiro;V
+Adelson Borges Guedes;51234;Santana;Partido Ecológico Nacional;V
+Iroliane dos Santos da Silva;13333;Santana;Partido dos Trabalhadores;V
+Ogileno Morais de Farias;25100;Oiapoque;Democratas;V
+Eunice Magave Ramos;12456;Pracuúba;Partido Democrático Trabalhista;V
+Magno da Costa Barbosa;55123;Macapá;Partido Social Democrático;V
+Sonia Regina Menezes Ester;15111;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Cicero Vitor de Mendonça;10234;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Tereza da Silva Araújo;40140;Mazagão;Partido Socialista Brasileiro;V
+Iracema Ferreira de Oliveira;33456;Porto Grande;Partido da Mobilização Nacional;V
+Ana Debora Gama da Silva;70123;Itaubal;Partido Trabalhista do Brasil;V
+Edimilson Santos da Silva;22;Pedra Branca do Amapari;Partido dos Trabalhadores;P
+Aristides da Silva Lopes;44777;Macapá;Partido Republicano Progressista;V
+Ariane Martins da Silva Cruz;25662;Macapá;Democratas;V
+Jose Serafim Picanço Filho;15;Itaubal;Partido da República;P
+Cleibe Helena Brito Coelho;23333;Ferreira Gomes;Partido Popular Socialista;V
+Maria Antonia Marinho do Carmo;65000;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Cristina Serrão de Melo Carmo;22555;Pedra Branca do Amapari;Partido da República;V
+Diogo Wenceslau Vilhena Senior;35123;Macapá;Partido da Mulher Brasileira;V
+José Araújo da Paixão;54666;Macapá;Partido Pátria Livre;V
+Marilene Correa Valente;10789;Santana;Partido Republicano Brasileiro;V
+Katia Oliveira Leite Ferreira;11456;Tartarugalzinho;Partido Progressista;V
+Maria da Gloria Pena Rocha;17000;Macapá;Partido Social Liberal;V
+Ivanildo Monteiro Vitor de Souza;45666;Ferreira Gomes;Partido da Social Democracia Brasileira;V
+Laides Lima dos Santos;44777;Itaubal;Partido Republicano Progressista;V
+Enoque Costa Galvao;70;Oiapoque;Partido Trabalhista do Brasil;P
+Ana Lúcia da Silva Costa da Costa;27346;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+Ilma Barbosa Correa;22333;Tartarugalzinho;Partido da República;V
+Afonso Ligorio Pereira Flexa Junior;43123;Santana;Partido Verde;V
+Andreia Barbosa de Arruda;70000;Laranjal do Jari;Partido Trabalhista do Brasil;V
+Acácio da Silva Favacho Neto;90000;Macapá;Partido Republicano da Ordem Social;V
+Kassyo Santos Ramos;27123;Macapá;Partido Social Democrata Cristão;V
+Adinailton da Silva Ribeiro;11777;Vitória do Jari;Partido Progressista;V
+Alcindo Alves Fernandes;12789;Pracuúba;Partido Democrático Trabalhista;V
+Nilton Luiz Cabral Tork;55369;Santana;Partido Social Democrático;V
+Jocenilde Pinto Pires;51234;Laranjal do Jari;Partido Ecológico Nacional;V
+Edvaldo Pena dos Santos;45678;Laranjal do Jari;Partido da Social Democracia Brasileira;V
+Jurema da Silva Fenicio;19222;Santana;Partido Trabalhista Nacional;V
+Lindomar Pastana de Oliveira;77123;Vitória do Jari;Solidariedade;V
+Jailton Amaral Froz;19999;Porto Grande;Partido Trabalhista Nacional;V
+Vanete Rodrigues Castro;22321;Macapá;Partido da República;V
+Auriane Soares Amoras Tavora;14222;Tartarugalzinho;Partido Trabalhista Brasileiro;V
+José do Socorro Gonçalves Cardoso;15169;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Paulo Hugo Pinheiro Borralho;28128;Macapá;Partido Renovador Trabalhista Brasileiro;V
+Agnaldo Cremonini Bombarda;15211;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Ivanete de Oliveira Pontes;90456;Pracuúba;Partido Republicano da Ordem Social;V
+Walter Alves Lobato;50190;Macapá;Partido Socialismo e  Liberdade;V
+Victor Hugo Carneiro Fernandes;43133;Macapá;Partido Verde;V
+Jair Gomes Sampaio;36369;Santana;Partido Trabalhista Cristão;V
+Denilson Santos de Brito;54369;Macapá;Partido Pátria Livre;V
+Patriciana Guimarães Araujo;10147;Macapá;Partido Republicano Brasileiro;V
+Jakson Braga Moraes;51000;Laranjal do Jari;Partido Ecológico Nacional;V
+Maria do Carmo Tavares Pires;18001;Macapá;Rede Sustentabilidade;V
+Elevi dos Santos Gama;10134;Santana;Partido Republicano Brasileiro;V
+Iacy Furtado Gonçalves;40000;Santana;Partido Socialista Brasileiro;V
+Manases Santos da Silva;12789;Cutias;Partido Democrático Trabalhista;V
+Geuza Aires dos Santos;51333;Porto Grande;Partido Ecológico Nacional;V
+Julio Cesár Buscarons;15789;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Dorivan dos Santos Sobral;15;Amapá;Partido Democrático Trabalhista;P
+Clodomir Cardoso Vieira;65147;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+João da Silva Costa;54;Mazagão;Partido Pátria Livre;P
+Josielma Brito Maciel;13133;Tartarugalzinho;Partido dos Trabalhadores;V
+Natan Silva Lage;22;Amapá;Partido da República;P
+Anderson do Carmo Meguro;44123;Porto Grande;Partido Republicano Progressista;V
+Adonias Alves Brilhante;43321;Macapá;Partido Verde;V
+Tereza Garces Gomes;40000;Cutias;Partido Socialista Brasileiro;V
+Eldon Abreu da Silva;54777;Macapá;Partido Pátria Livre;V
+Aldair Palheta Nunes;70070;Serra do Navio;Partido Trabalhista do Brasil;V
+Jarlete Brazao Vaz;70456;Cutias;Partido Trabalhista do Brasil;V
+Dineia Gomes Duarte;12345;Vitória do Jari;Partido Democrático Trabalhista;V
+José Hosana Nunes da Silva;40111;Mazagão;Partido Socialista Brasileiro;V
+Welyngton Santos Almeida;70000;Vitória do Jari;Partido Trabalhista do Brasil;V
+Rosely Lienne Malcher Ramos;54004;Macapá;Partido Pátria Livre;V
+Ellen Malheiros Wanzeler dos Santos;51555;Laranjal do Jari;Partido Ecológico Nacional;V
+Benedito Jose Oleastro Sotelo;70123;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Patricia Dias Videira;18000;Laranjal do Jari;Rede Sustentabilidade;V
+Jose Ribamar Nogueira Soares;33123;Porto Grande;Partido da Mobilização Nacional;V
+Luiz Fábio Albuquerque da Silva;51234;Pedra Branca do Amapari;Partido Ecológico Nacional;V
+Daniel Oliveira da Mota;43066;Macapá;Partido Verde;V
+Alcyr Borges de Almeida;12123;Santana;Partido Democrático Trabalhista;V
+Maria Vanda da Silva Alves;70123;Vitória do Jari;Partido Trabalhista do Brasil;V
+Sonia Maria Costa Cabral;40987;Calçoene;Partido Socialista Brasileiro;V
+Aldrin Nunes Torrinha;90190;Macapá;Partido Republicano da Ordem Social;V
+Esmeralda Correa Lopes Serra;28;Ferreira Gomes;Partido Renovador Trabalhista Brasileiro;P
+George William Cortes Pereira;50250;Macapá;Partido Socialismo e  Liberdade;V
+Valmir Ferreira Sarges;14222;Cutias;Partido Trabalhista Brasileiro;V
+Elizeu Costa Monteverde;55789;Macapá;Partido Social Democrático;V
+Lidiane Santos da Conceição;50222;Santana;Partido Socialismo e  Liberdade;V
+Raimundo Nonato Martil Piaba;43123;Calçoene;Partido Verde;V
+Sharles Pinheiro Lima;15225;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Marcivânia do Socorro da Rocha Flexa;65;Santana;Partido Comunista do Brasil;P
+Joelma Andrade Ferreira;36444;Santana;Partido Trabalhista Cristão;V
+José Max Ideltrudes Ferreira;18321;Macapá;Rede Sustentabilidade;V
+Angela Maria Avelar Deniur Monteiro;23;Calçoene;Rede Sustentabilidade;P
+Naara Ferreira Barbosa;54123;Cutias;Partido Pátria Livre;V
+Karen Luana Ferreira Costa;18888;Macapá;Rede Sustentabilidade;V
+Ana Caroline Oliveira Pantoja;23456;Macapá;Partido Popular Socialista;V
+Elizeu Sarmento Ramos;40369;Cutias;Partido Socialista Brasileiro;V
+Lucivane Ferreira dos Santos;12110;Porto Grande;Partido Democrático Trabalhista;V
+Francisco de Assis Leite Teixeira;15;Amapá;Partido do Movimento Democrático Brasileiro;P
+Jose de Ribamar Pavao;25456;Laranjal do Jari;Democratas;V
+Jose Adecildo de Farias;15;Pedra Branca do Amapari;Partido Comunista do Brasil;P
+Gilmar Batista Freitas Soeiro;13123;Vitória do Jari;Partido dos Trabalhadores;V
+Raimundo Alves Macedo;33;Itaubal;Partido da Mobilização Nacional;P
+Iranildo Pantoja Mourão;11123;Calçoene;Partido Progressista;V
+Elizabete do Rosario Monteiro;12367;Macapá;Partido Democrático Trabalhista;V
+Paulo Younes Bandeira Portela Junior;12000;Cutias;Partido Democrático Trabalhista;V
+Simone Aranha da Silva;28222;Santana;Partido Renovador Trabalhista Brasileiro;V
+Pedro Salvador Gadelha Moraes;10456;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Ivonelson Moreira dos Santos;22022;Ferreira Gomes;Partido da República;V
+Flavio Lima de Brito;35555;Tartarugalzinho;Partido da Mulher Brasileira;V
+Evandro Brazão Fernandes;23456;Pedra Branca do Amapari;Partido Popular Socialista;V
+Maria Creuza Dias Leão;70777;Serra do Navio;Partido Trabalhista do Brasil;V
+Keity Anne Filgueiras Teixeira;22369;Ferreira Gomes;Partido da República;V
+Erik Guilhermino da Silva;65789;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Francisco Derival Cardoso da Silva;51250;Ferreira Gomes;Partido Ecológico Nacional;V
+Ana Celia de Oliveira Andrade;11222;Ferreira Gomes;Partido Progressista;V
+Luiz Campos Ribeiro;13321;Santana;Partido dos Trabalhadores;V
+Dione Rodrigues Almeida;22133;Ferreira Gomes;Partido da República;V
+Renê dos Santos Pinheiro;70123;Serra do Navio;Partido Trabalhista do Brasil;V
+Alcir Alves Fernandes;12789;Macapá;Partido Democrático Trabalhista;V
+Obadias Rosa de Oliveira;51369;Porto Grande;Partido Ecológico Nacional;V
+Marivaldo Jardim Lobato;14777;Macapá;Partido Trabalhista Brasileiro;V
+Cleidiane Cortes da Silva;65555;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Dinair Moreira de Souza Serra;44777;Laranjal do Jari;Partido Republicano Progressista;V
+Glauber de Souza Ribeiro;18123;Porto Grande;Rede Sustentabilidade;V
+Stevenson Fabio de Souza Batista;40888;Macapá;Partido Socialista Brasileiro;V
+Rosivaldo dos Santos;15789;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Sandra Maria Pereira de Abreu Nascimento;44333;Macapá;Partido Republicano Progressista;V
+Walmir Reis Silva;43625;Macapá;Partido Verde;V
+Elson Belo Barreto;23;Mazagão;Partido Popular Socialista;P
+Darci dos Santos e  Silva;43456;Vitória do Jari;Partido Verde;V
+Lucirene da Silva Pires;55456;Mazagão;Partido Social Democrático;V
+Vera Lúcia dos Santos Aguiar;14444;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Andeilson Moreira Veras;12002;Oiapoque;Partido Democrático Trabalhista;V
+Benedita do Socorro Brasil Meireles;22326;Santana;Partido da República;V
+Doralice Nascimento de Souza;13;Macapá;Partido dos Trabalhadores;P
+Edicleuma Morais Santos;27145;Tartarugalzinho;Partido Social Democrata Cristão;V
+Rosangela Carvalho Nascimento;12812;Santana;Partido Democrático Trabalhista;V
+Maria Regina Vidal Moreira Rodrigues;15;Ferreira Gomes;Partido Democrático Trabalhista;P
+Adalton Bezerra de Holanda;54111;Vitória do Jari;Partido Pátria Livre;V
+Carlos Gilberto Lobato dos Santos;40369;Itaubal;Partido Socialista Brasileiro;V
+Alan Jerran Cardoso da Silva;22800;Santana;Partido da República;V
+Francisco Farias Penha;15023;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Raimundo Nonato Braga Costa;14789;Pedra Branca do Amapari;Partido Trabalhista Brasileiro;V
+Nilson Ferreira Barbosa;25321;Pracuúba;Democratas;V
+Adriana da Silva Quaresma;33333;Mazagão;Partido da Mobilização Nacional;V
+Dismin Ribeiro Dias;14000;Oiapoque;Partido Trabalhista Brasileiro;V
+Edielen Tavares Ribeiro;25000;Cutias;Democratas;V
+Raimundo de Jesus Baia Pacheco;36236;Santana;Partido Trabalhista Cristão;V
+Josimar de Souza Mota;65100;Laranjal do Jari;Partido Comunista do Brasil;V
+Walmir Oliveira dos Santos;13;Tartarugalzinho;Partido Comunista do Brasil;P
+Bruna Cavalcante de Melo Santiago;22867;Macapá;Partido da República;V
+Francisco Eurico do Nascimento Souza;70777;Cutias;Partido Trabalhista do Brasil;V
+Homero Gonçalves Barauna;25123;Laranjal do Jari;Democratas;V
+Antonio de Sousa Pinto;12;Calçoene;Partido da República;P
+Jaqueline da Silva Ferreira;25896;Macapá;Democratas;V
+Aguinardo Coutinho Marques;17890;Santana;Partido Social Liberal;V
+José Sergio Tavares de Souza;25123;Amapá;Democratas;V
+Nelma Rodrigues da Silveira;20123;Vitória do Jari;Partido Social Cristão;V
+Raimundo Roberto de Moura Madeira;40000;Macapá;Partido Socialista Brasileiro;V
+Darliete Tavares Palmerim;20123;Itaubal;Partido Social Cristão;V
+Maria Ozenir Correa Nobre;70777;Itaubal;Partido Trabalhista do Brasil;V
+Enilda da Silva Gomes;25252;Calçoene;Democratas;V
+Gesiel Luz dos Santos;12369;Pedra Branca do Amapari;Partido Democrático Trabalhista;V
+Rayfran Macedo Barroso;22678;Macapá;Partido da República;V
+Ana Célia Ardasse Picanço;14789;Itaubal;Partido Trabalhista Brasileiro;V
+Manoel Batista Soares;23100;Laranjal do Jari;Partido Popular Socialista;V
+Rosinaldo Farias Paiva;23789;Tartarugalzinho;Partido Popular Socialista;V
+Marcia Christina Pinheiro Corrêa;65123;Macapá;Partido Comunista do Brasil;V
+Gibson Costa dos Santos;25125;Calçoene;Democratas;V
+Maria Madalena de Oliveira Monteiro;55321;Vitória do Jari;Partido Social Democrático;V
+Cledison Pantoja Andrade;28258;Porto Grande;Partido Renovador Trabalhista Brasileiro;V
+Cid dos Santos Souza;10123;Vitória do Jari;Partido Republicano Brasileiro;V
+Odinamar Nonato Pinheiro;22369;Santana;Partido da República;V
+Raimunda de Fátima Lima Soeiro;12333;Santana;Partido Democrático Trabalhista;V
+Catia Hozana Alexandre dos Santos;27136;Serra do Navio;Partido Social Democrata Cristão;V
+Benedito Monteiro Barbosa;33456;Cutias;Partido da Mobilização Nacional;V
+Jucinaldo Santos Pena;40000;Itaubal;Partido Socialista Brasileiro;V
+Marlon Barbosa Moura;15777;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;V
+Rômulo Torres do Nascimento Mello;65321;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Izan Elias Ferreira;23444;Santana;Partido Popular Socialista;V
+Paulo Edson Marinho Lima;23111;Macapá;Partido Popular Socialista;V
+Maria Gorete Beserra Loiola;15555;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Juscelino Moraes de Souza;70456;Santana;Partido Trabalhista do Brasil;V
+Maria Cristina Gomes dos Santos;40789;Oiapoque;Partido Socialista Brasileiro;V
+Francisco Sucupira Marques;40123;Amapá;Partido Socialista Brasileiro;V
+Valdemir Cajazeira de Morais;33333;Santana;Partido da Mobilização Nacional;V
+Analiana Sardinha Agenor;33222;Ferreira Gomes;Partido da Mobilização Nacional;V
+Josivan Nascimento;54888;Mazagão;Partido Pátria Livre;V
+Arlucia Siqueira Oliveira;12300;Pracuúba;Partido Democrático Trabalhista;V
+Creuza Maria dos Santos;12000;Oiapoque;Partido Democrático Trabalhista;V
+Dimilson Souza Leão;50222;Macapá;Partido Socialismo e  Liberdade;V
+Ruth Helena Rodrigues Monteiro;12004;Oiapoque;Partido Democrático Trabalhista;V
+Francisco Romildo Mota da Silva;18148;Calçoene;Rede Sustentabilidade;V
+Helton Soares da Silva;77234;Porto Grande;Solidariedade;V
+Wellington Ramon Tourinho da Costa;13000;Macapá;Partido dos Trabalhadores;V
+José Jorge Figueiredo dos Santos;18580;Santana;Rede Sustentabilidade;V
+Gregório dos Santos;51234;Ferreira Gomes;Partido Ecológico Nacional;V
+Erlis dos Santos Karipunas;45;Oiapoque;Partido Ecológico Nacional;P
+Jadson da Silva Brito;40123;Pedra Branca do Amapari;Partido Socialista Brasileiro;V
+Angelo Nascimento dos Santos;65123;Santana;Partido Comunista do Brasil;V
+Darciria Baia da Silva;27122;Macapá;Partido Social Democrata Cristão;V
+Silvino Viana Rabelo;13802;Macapá;Partido dos Trabalhadores;V
+Marcia Lilian Santos do Livramento;65123;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Jefferson Morais Sampaio;40555;Macapá;Partido Socialista Brasileiro;V
+Francisco Pereira Rodrigues;65147;Macapá;Partido Comunista do Brasil;V
+Marlice Duarte Pereira;23666;Mazagão;Partido Popular Socialista;V
+Francisco Moraes Araujo;40190;Oiapoque;Partido Socialista Brasileiro;V
+Marcio do Socorro Costa Ferreira;10;Macapá;Partido Trabalhista Brasileiro;P
+Deuzarina de Araujo Chaves;51551;Macapá;Partido Ecológico Nacional;V
+Derley Duarte do Nascimento;43123;Vitória do Jari;Partido Verde;V
+Maylane dos Reis Fonseca;55777;Porto Grande;Partido Social Democrático;V
+Josivaldo Santos Abrantes;12789;Santana;Partido Democrático Trabalhista;V
+Dayse Marques;33111;Amapá;Partido da Mobilização Nacional;V
+Lenivaldo de França Costa;19156;Porto Grande;Partido Trabalhista Nacional;V
+Manoel Pedro Souza Ferreira;27151;Serra do Navio;Partido Social Democrata Cristão;V
+Raimunda Ferreira da Silva;12367;Tartarugalzinho;Partido Democrático Trabalhista;V
+Luiz Antonio Gomes da Costa;90111;Laranjal do Jari;Partido Republicano da Ordem Social;V
+Lucio Barbosa Rodrigues;70;Oiapoque;Partido Democrático Trabalhista;P
+Magno Correa Lima;45451;Itaubal;Partido da Social Democracia Brasileira;V
+Luiz Cantuaria Barreto;25456;Macapá;Democratas;V
+Maria do Socorro Sousa da Silva;35333;Laranjal do Jari;Partido da Mulher Brasileira;V
+Edilson Silva de Souza;33;Calçoene;Partido da Mobilização Nacional;P
+Raimundo Hildemar Pantoja;19000;Porto Grande;Partido Trabalhista Nacional;V
+Luiz Fernando Borges da Silva;12789;Vitória do Jari;Partido Democrático Trabalhista;V
+Edivan dos Santos Santos;43123;Cutias;Partido Verde;V
+Rosa Karina Mareco Reis dos Anjos;43000;Ferreira Gomes;Partido Verde;V
+Donato Silva;22222;Laranjal do Jari;Partido da República;V
+Euclecio Estevam dos Santos;25699;Pedra Branca do Amapari;Democratas;V
+Juciane Costa Pontes;22222;Amapá;Partido da República;V
+Jair Almeida Cantuária;13500;Macapá;Partido dos Trabalhadores;V
+Raimundo Ivo Giusti;40190;Santana;Partido Socialista Brasileiro;V
+Jose Ayres Andrade Antunes;15123;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Rarison Richar Santiago Pinto;44000;Santana;Partido Republicano Progressista;V
+Maria Mery Ferreira Pastana;12246;Macapá;Partido Democrático Trabalhista;V
+Marcione Araújo Batista;44456;Santana;Partido Republicano Progressista;V
+Rildo Santos Pantoja;15789;Cutias;Partido do Movimento Democrático Brasileiro;V
+Benedito Xavier das Chagas;23456;Calçoene;Partido Popular Socialista;V
+Eliana Pantoja dos Santos;12012;Tartarugalzinho;Partido Democrático Trabalhista;V
+Nilson Lacerda;55123;Cutias;Partido Social Democrático;V
+Sérgio da Costa Quaresma;12190;Tartarugalzinho;Partido Democrático Trabalhista;V
+Valdez Barros da Silva;22;Porto Grande;Partido Progressista;P
+Angelina Barbosa de Souza;45678;Oiapoque;Partido da Social Democracia Brasileira;V
+Dinael Ferreira Barbosa;27123;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+David Barbosa Campos;23123;Ferreira Gomes;Partido Popular Socialista;V
+Francisco Assis Guedes Rodrigues;15800;Serra do Navio;Partido do Movimento Democrático Brasileiro;V
+Adriana da Trindade Pessoa Oliveira;22111;Tartarugalzinho;Partido da República;V
+Raimundo Lima Damasceno;40369;Ferreira Gomes;Partido Socialista Brasileiro;V
+Edivan Tavares dos Santos;51369;Ferreira Gomes;Partido Ecológico Nacional;V
+William dos Santos Castro;33789;Oiapoque;Partido da Mobilização Nacional;V
+Francisco Neves Leal;33456;Oiapoque;Partido da Mobilização Nacional;V
+Francinaldo de Souza Oliveira;65123;Porto Grande;Partido Comunista do Brasil;V
+Mirivaldo dos Santos Costa;12;Itaubal;Partido Democrático Trabalhista;P
+Almerinda Maria da Silva Ferreira Pacheco;15345;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Elem Martins de Melo;15123;Vitória do Jari;Partido do Movimento Democrático Brasileiro;V
+Jose Bernardo de Freitas Gomes;22000;Macapá;Partido da República;V
+Reuel Nunes da Silva;19369;Santana;Partido Trabalhista Nacional;V
+Jairo Machado de Sousa;40100;Oiapoque;Partido Socialista Brasileiro;V
+Isaac da Silva e  Silva;10123;Oiapoque;Partido Republicano Brasileiro;V
+Paulo Lima Bezerra;20369;Oiapoque;Partido Social Cristão;V
+Rutineide Oliveira da Costa;17620;Tartarugalzinho;Partido Social Liberal;V
+Benedito da Gama Machado;40777;Macapá;Partido Socialista Brasileiro;V
+Paulo Alexandro Pinheiro Gomes;27456;Vitória do Jari;Partido Social Democrata Cristão;V
+João Tadeu da Silva;10;Laranjal do Jari;Partido Republicano Progressista;P
+Adriana Lopes Pires;55147;Santana;Partido Social Democrático;V
+Joelma de Morais Santos;12369;Macapá;Partido Democrático Trabalhista;V
+Jonilson Pires Alves;10100;Macapá;Partido Republicano Brasileiro;V
+Patric Uandrel de Azevedo Teixeira;27123;Santana;Partido Social Democrata Cristão;V
+Clelton Ribeiro Leite;10123;Macapá;Partido Republicano Brasileiro;V
+Maria do Carmo dos Santos Nunes;11123;Tartarugalzinho;Partido Progressista;V
+Patricia Moraes Audin;10123;Amapá;Partido Republicano Brasileiro;V
+Marivaldo da Cunha Palheta;13111;Laranjal do Jari;Partido dos Trabalhadores;V
+David Nunes Maciel;54;Mazagão;Partido Social Democrático;P
+Luiz Antonio Lobato da Silva;45167;Oiapoque;Partido da Social Democracia Brasileira;V
+Neurivan Pereira Costa;43333;Ferreira Gomes;Partido Verde;V
+Jawaruwa Waiãpi;18345;Pedra Branca do Amapari;Rede Sustentabilidade;V
+Clécio Luís Vilhena Vieira;18;Macapá;Rede Sustentabilidade;P
+Elian Barbosa do Nascimento;15456;Macapá;Partido do Movimento Democrático Brasileiro;V
+Davickson Amoras da Cruz;55123;Ferreira Gomes;Partido Social Democrático;V
+Flávio William Silva Costa;50777;Macapá;Partido Socialismo e  Liberdade;V
+José Lima Tavares;50456;Santana;Partido Socialismo e  Liberdade;V
+Luiz Rodrigues da Silva;90123;Porto Grande;Partido Republicano da Ordem Social;V
+Joaquim Raimundo Gibson Machado;27333;Macapá;Partido Social Democrata Cristão;V
+Jose Vivaldo dos Santos Sena;10222;Santana;Partido Republicano Brasileiro;V
+Stelcia do Socorro Costa Magyar;15177;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Geovana dos Santos Dias;15615;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Marlene Souza de Oliveira;14222;Oiapoque;Partido Trabalhista Brasileiro;V
+Ananda Mayra Moraes de Moraes;51147;Cutias;Partido Ecológico Nacional;V
+Jose Raimundo Lima Guimaraes;33456;Amapá;Partido da Mobilização Nacional;V
+Alinne Cris Nascimento da Silva Pereira;15;Laranjal do Jari;Partido Ecológico Nacional;P
+Francenilson Guedes Pinheiro;54456;Mazagão;Partido Pátria Livre;V
+Telma Adriana Nery Paiva;18;Macapá;Democratas;P
+Edimilson de Abreu Monteiro;14190;Macapá;Partido Trabalhista Brasileiro;V
+Edmilson de Oliveira Silva;44444;Itaubal;Partido Republicano Progressista;V
+Amanda Bentes do Nascimento;25874;Macapá;Democratas;V
+Maria Carlinda Miranda;15777;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Marilia dos Santos Silva;10456;Laranjal do Jari;Partido Republicano Brasileiro;V
+Media Leao Soares;77890;Vitória do Jari;Solidariedade;V
+Elenilson Agenor Vidal;27123;Ferreira Gomes;Partido Social Democrata Cristão;V
+Manoel de Jesus Ferreira Lima Furtado;35888;Laranjal do Jari;Partido da Mulher Brasileira;V
+Jose Nilton Ferreira dos Santos;12111;Tartarugalzinho;Partido Democrático Trabalhista;V
+Elisama Machado Araujo;45888;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Antonia Cardoso dos Santos Moraes;23123;Santana;Partido Popular Socialista;V
+Olivio Fernandes Nogueira;25133;Macapá;Democratas;V
+Wilker Magave da Silva;28008;Santana;Partido Renovador Trabalhista Brasileiro;V
+Ione Santos Pinheiro;14888;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Carmen Keila Cardoso de Almeida;28;Santana;Partido Renovador Trabalhista Brasileiro;P
+Maria dos Anjos Lacerda;43333;Itaubal;Partido Verde;V
+Cantareli Brito Mira;44123;Cutias;Partido Republicano Progressista;V
+Jose de Arimatéa Pessoa;15707;Macapá;Partido do Movimento Democrático Brasileiro;V
+Manoel Carvalho;25111;Laranjal do Jari;Democratas;V
+Valney Barbosa de Carvalho;90190;Mazagão;Partido Republicano da Ordem Social;V
+Acenildo Furtado da Costa;10000;Macapá;Partido Republicano Brasileiro;V
+Claudio Roberto Ribeiro;20678;Laranjal do Jari;Partido Social Cristão;V
+Lucineia Marques Correia;27333;Ferreira Gomes;Partido Social Democrata Cristão;V
+Simone Alves de Oliveira;55123;Amapá;Partido Social Democrático;V
+Natanael da Silva do Nascimento;22600;Santana;Partido da República;V
+Ana Maria Gomes da Silva;35222;Calçoene;Partido da Mulher Brasileira;V
+Mary Lucia Pinto Figueira;11456;Santana;Partido Progressista;V
+Glauber William Souza dos Santos;44190;Macapá;Partido Republicano Progressista;V
+Rosicleia Souza da Cruz de Lima;25444;Laranjal do Jari;Democratas;V
+Celso Ricardo Pereira de Figueiredo;50264;Macapá;Partido Socialismo e  Liberdade;V
+Ana Lidia Agenor Vidal;35369;Ferreira Gomes;Partido da Mulher Brasileira;V
+Alex Barreto da Silva;28177;Santana;Partido Renovador Trabalhista Brasileiro;V
+Radson de Almeida Pereira;51236;Ferreira Gomes;Partido Ecológico Nacional;V
+Andre Luiz Alves de Lima;54700;Macapá;Partido Pátria Livre;V
+Jucivaldo Silva da Silva;17423;Santana;Partido Social Liberal;V
+Aline Penha Pires;22999;Pracuúba;Partido da República;V
+Alexandre Mendes Cardoso;10110;Santana;Partido Republicano Brasileiro;V
+Cosmo dos Santos Oliveira;13113;Vitória do Jari;Partido dos Trabalhadores;V
+Francisco Moura Maciel;22578;Amapá;Partido da República;V
+Luiz Wagner da Silva;70196;Macapá;Partido Trabalhista do Brasil;V
+Rafael Pimentel Flexa;45321;Macapá;Partido da Social Democracia Brasileira;V
+Gilvam Pinheiro Borges;15;Macapá;Partido do Movimento Democrático Brasileiro;P
+Bruna Toloza dos Santos;45123;Cutias;Partido da Social Democracia Brasileira;V
+Cleidiane Nascimento Trindade;50789;Ferreira Gomes;Partido Socialismo e  Liberdade;V
+Sheldon Jose da Silva;10010;Macapá;Partido Republicano Brasileiro;V
+Maria Geniana dos Santos Pantaleão;11687;Pracuúba;Partido Progressista;V
+Maria Rosimar Ferreira Barbosa;15777;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Raimundo Nonato de Araújo Benvindo;13000;Pedra Branca do Amapari;Partido dos Trabalhadores;V
+Leonardo da Silva Barros;11100;Macapá;Partido Progressista;V
+Clarice Ferreira Brazão;12366;Tartarugalzinho;Partido Democrático Trabalhista;V
+Roberto Teixeira de Moura;12012;Pracuúba;Partido Democrático Trabalhista;V
+Jackson Cardoso Amaral;23789;Macapá;Partido Popular Socialista;V
+Erlan Barbosa da Silva;15115;Santana;Partido do Movimento Democrático Brasileiro;V
+Luany  Crysty Ferreira Favacho Santos;13;Santana;Partido Republicano da Ordem Social;P
+Cleudiomar Oliveira Gomes;22222;Calçoene;Partido da República;V
+Cleison Alves Rodrigues;25000;Laranjal do Jari;Democratas;V
+Orlete Nascimento Vaz;36789;Laranjal do Jari;Partido Trabalhista Cristão;V
+Jair da Silva Pinheiro;27;Calçoene;Partido Social Democrata Cristão;P
+Lerilene Costa Paixao de Paiva;14789;Tartarugalzinho;Partido Trabalhista Brasileiro;V
+Elieber dos Reis Souza;23246;Ferreira Gomes;Partido Popular Socialista;V
+Francilene Sousa de Sousa;54123;Laranjal do Jari;Partido Pátria Livre;V
+Cristian Dave Monteiro da Luz;22991;Macapá;Partido da República;V
+Patricia de Oliveira Souza Albuquerque;33123;Itaubal;Partido da Mobilização Nacional;V
+Romulo Sérgio Alves do Nascimento;22;Porto Grande;Partido da República;P
+Rubens Lima Morais;11111;Itaubal;Partido Progressista;V
+Roger Andre Farias Batista;14111;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Nicodemos Macedo Pereira;25666;Itaubal;Democratas;V
+Valdir Tenorio Martins;45222;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Romario Maciel Gomes;25225;Pracuúba;Democratas;V
+Raiane Souza do Nascimento;50555;Itaubal;Partido Socialismo e  Liberdade;V
+Leo Savio Felgueiras Faria e  Souza de Almeida;50000;Macapá;Partido Socialismo e  Liberdade;V
+Claudio Peres de Oliveira Neto;20123;Cutias;Partido Social Cristão;V
+Maria Oneide Forte;12105;Oiapoque;Partido Democrático Trabalhista;V
+Enderson Costa Baia;12116;Macapá;Partido Democrático Trabalhista;V
+Welton Machado Borges;12180;Santana;Partido Democrático Trabalhista;V
+Claudejunior Martins Pereira;40333;Oiapoque;Partido Socialista Brasileiro;V
+Maria Silva da Costa;45678;Vitória do Jari;Partido da Social Democracia Brasileira;V
+Eldy Passos Oliveira;35345;Tartarugalzinho;Partido da Mulher Brasileira;V
+Maria Raimunda Costa Holanda Llorens;45100;Oiapoque;Partido da Social Democracia Brasileira;V
+José Cláudio Serrão Pinto;51765;Ferreira Gomes;Partido Ecológico Nacional;V
+William Rafael Pena Pestana de Oliveira;12123;Macapá;Partido Democrático Trabalhista;V
+Dielen dos Santos Ferreira;31909;Vitória do Jari;Partido Humanista da Solidariedade;V
+Ana Meris Alves Chagas;25369;Calçoene;Democratas;V
+Antonio Maria Lima da Silva;70700;Serra do Navio;Partido Trabalhista do Brasil;V
+Messias Gomes de Freitas;44444;Laranjal do Jari;Partido Republicano Progressista;V
+Wellington de Souza Góes;33123;Santana;Partido da Mobilização Nacional;V
+Joelma Viana da Silva;11777;Laranjal do Jari;Partido Progressista;V
+Ricardo da Gama Silva;40153;Laranjal do Jari;Partido Socialista Brasileiro;V
+Marcio Dias Cardoso;22789;Cutias;Partido da República;V
+Antonio Natanael Gomes de Farias;43233;Santana;Partido Verde;V
+Moisés Rivaldo Pereira;51;Macapá;Partido Ecológico Nacional;P
+Edmilson Benevenuto Ribeiro;36123;Laranjal do Jari;Partido Trabalhista Cristão;V
+Ronildo dos Santos Nobre;22;Santana;Partido Popular Socialista;P
+Maria Izabel Costa dos Santos;65333;Santana;Partido Comunista do Brasil;V
+Allan Patrick Pantoja de Oliveira;40111;Macapá;Partido Socialista Brasileiro;V
+Raimundo Paulo Almeida da Silva;20456;Mazagão;Partido Social Cristão;V
+Jose Eraldo Barcelar Soares;10555;Laranjal do Jari;Partido Republicano Brasileiro;V
+Maria Raimunda Cardozo Balieiro;23456;Tartarugalzinho;Partido Popular Socialista;V
+Francimar Santana da Silva;40145;Macapá;Partido Socialista Brasileiro;V
+Katia Maria Ferreira Barbosa;35100;Cutias;Partido da Mulher Brasileira;V
+Aldemir Tiago Moreira;12780;Santana;Partido Democrático Trabalhista;V
+Zildinez Rabelo da Silva Isacksson;33333;Ferreira Gomes;Partido da Mobilização Nacional;V
+Reginaldo Ferreira Lima;51789;Ferreira Gomes;Partido Ecológico Nacional;V
+Gracilene  Aleixo Barros;35;Calçoene;Partido da Mulher Brasileira;P
+Alexandro Brazão Ferreira;51222;Ferreira Gomes;Partido Ecológico Nacional;V
+Jones Fabio Nunes Cavalcante;23;Calçoene;Partido Popular Socialista;P
+Elma Palheta de Normandia Marques;22253;Porto Grande;Partido da República;V
+Ordalan Ferreira dos Santos;15555;Itaubal;Partido do Movimento Democrático Brasileiro;V
+Jocelma Pires Coelho;40123;Cutias;Partido Socialista Brasileiro;V
+Eukilene Vinhote Campelo do Carmo;70456;Serra do Navio;Partido Trabalhista do Brasil;V
+Genival Marreiros de Oliveira;35123;Santana;Partido da Mulher Brasileira;V
+Cristiane Brito Gibson;25555;Pracuúba;Democratas;V
+Jailson Djalma Maia de Oliveira;43456;Laranjal do Jari;Partido Verde;V
+Dejaci de Jesus Oliveira;45333;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Helane Rodrigues Sena;14789;Ferreira Gomes;Partido Trabalhista Brasileiro;V
+Erivaldo Gomes de Souza;12111;Serra do Navio;Partido Democrático Trabalhista;V
+Cleisiel da Silva Ferreira;22123;Itaubal;Partido da República;V
+Maria do Socorro Gomes Ferreira;20111;Laranjal do Jari;Partido Social Cristão;V
+João Martins da Costa;77123;Porto Grande;Solidariedade;V
+Dulcelene Tavares Paz;12;Itaubal;Partido Social Democrático;P
+Paulo Wellington de Freitas Monteiro;20234;Macapá;Partido Social Cristão;V
+Miraelson Coutinho Texeira Alves;12300;Macapá;Partido Democrático Trabalhista;V
+Richardson Regio da Silva;11111;Porto Grande;Partido Progressista;V
+Djair Pereira Barreto;18765;Santana;Rede Sustentabilidade;V
+Raimundo Nonato Souza Miranda;20123;Pedra Branca do Amapari;Partido Social Cristão;V
+Ilma Costa da Silva;13123;Mazagão;Partido dos Trabalhadores;V
+Ruan Felipe Cardoso;40369;Macapá;Partido Socialista Brasileiro;V
+Marlucio Viana de Almeida;27111;Santana;Partido Social Democrata Cristão;V
+Raimundo Alves;12580;Tartarugalzinho;Partido Democrático Trabalhista;V
+Hilton da Conceição Luz;12000;Macapá;Partido Democrático Trabalhista;V
+Hernanda Lima Cunha;18369;Pedra Branca do Amapari;Rede Sustentabilidade;V
+Camila Lopes Mondego;55555;Calçoene;Partido Social Democrático;V
+Nelma da Silva Pureza;15333;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Gilvandro Marcos Monteiro de Oliveira;19456;Cutias;Partido Trabalhista Nacional;V
+Jose da Assuncao Ferreira Camara;13;Vitória do Jari;Partido Democrático Trabalhista;P
+Raimundo Castelo Fernandes;33155;Itaubal;Partido da Mobilização Nacional;V
+Denise dos Santos Brito Costa;27;Laranjal do Jari;Partido Social Cristão;P
+Ronaldo de Nazare Braz Miranda;40;Cutias;Partido Socialista Brasileiro;P
+Ocilene Monteiro Cantidio;50789;Macapá;Partido Socialismo e  Liberdade;V
+Fábio Lima Benjó;12123;Porto Grande;Partido Democrático Trabalhista;V
+Diego Delon Ferreira Souza;22580;Porto Grande;Partido da República;V
+Manoel Soares Almeida;55369;Cutias;Partido Social Democrático;V
+Heider Gonçalves Buna;27123;Laranjal do Jari;Partido Social Democrata Cristão;V
+Aurian da Silva Batista;40000;Oiapoque;Partido Socialista Brasileiro;V
+Oracildes Gomes;45123;Pedra Branca do Amapari;Partido da Social Democracia Brasileira;V
+Valdirene do Socorro Santos Miranda;25;Pedra Branca do Amapari;Democratas;P
+Waldenira Mendes de Carvalho;55123;Laranjal do Jari;Partido Social Democrático;V
+Manoel do Carmo de Oliveira da Silva;40456;Vitória do Jari;Partido Socialista Brasileiro;V
+Jucicleide de Souza Pinheiro;15678;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Rosane Penha Barbosa;22888;Pracuúba;Partido da República;V
+Mariano Padilha de Lima Junior;28123;Laranjal do Jari;Partido Renovador Trabalhista Brasileiro;V
+Valdinei Pinheiro Ferreira;13;Cutias;Partido Comunista do Brasil;P
+Laura Chaves dos Santos;13500;Pedra Branca do Amapari;Partido dos Trabalhadores;V
+Rosendi Andrade dos Anjos;22123;Porto Grande;Partido da República;V
+Celi Garcia de Sousa;90;Porto Grande;Partido Republicano da Ordem Social;P
+Clea Rosangela Martins Conceiçao;36123;Oiapoque;Partido Trabalhista Cristão;V
+Waldemira Coelho de Carvalho;70123;Laranjal do Jari;Partido Trabalhista do Brasil;V
+Mario da Silva Brandão;15123;Santana;Partido do Movimento Democrático Brasileiro;V
+Tânia Cristiane de Castro Tavares;22345;Porto Grande;Partido da República;V
+Isoneide Castro da Silva;11333;Tartarugalzinho;Partido Progressista;V
+Caubi Pereira Coelho;28123;Cutias;Partido Renovador Trabalhista Brasileiro;V
+Janeide de Jesus Neves;12122;Santana;Partido Democrático Trabalhista;V
+Walter Monteiro Benathar;55;Vitória do Jari;Partido Social Democrático;P
+Felinto Alberto Silva Marques;10222;Laranjal do Jari;Partido Republicano Brasileiro;V
+Jose Ribamar Dourado Melo;65789;Porto Grande;Partido Comunista do Brasil;V
+José Maria Santa Rosa Gomes;12345;Mazagão;Partido Democrático Trabalhista;V
+Johny Maykon Figueredo Lima;40401;Serra do Navio;Partido Socialista Brasileiro;V
+Benedito da Silva Alves;25123;Vitória do Jari;Democratas;V
+Clemilda Pereira dos Santos;12212;Itaubal;Partido Democrático Trabalhista;V
+José Claudionor Ferreira;65333;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Marita de Oliveira Barbosa;11123;Cutias;Partido Progressista;V
+Maria de Nazaré da Silva;36789;Santana;Partido Trabalhista Cristão;V
+Marco Luiz da Costa Ribeiro;14111;Macapá;Partido Trabalhista Brasileiro;V
+Aldineia Vaz Leal;12;Cutias;Partido Democrático Trabalhista;P
+Ana Maria Machado Pinto;15111;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Jofre Ferreira da Silva;15555;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Bianor Monteiro dos Santos;23456;Santana;Partido Popular Socialista;V
+Jorgileno do Carmo Vieira;22456;Vitória do Jari;Partido da República;V
+Domingos da Costa Silva;18222;Santana;Rede Sustentabilidade;V
+Iranildo Salviano de Melo;15222;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Edilene da Costa Chagas;22321;Porto Grande;Partido da República;V
+Jackeline Rodrigues da Cruz;27333;Serra do Navio;Partido Social Democrata Cristão;V
+Larissa Neves Nunes;77000;Tartarugalzinho;Solidariedade;V
+Joao Silva dos Santos;36789;Oiapoque;Partido Trabalhista Cristão;V
+Antonio Joao Ferreira de Melo;18111;Macapá;Rede Sustentabilidade;V
+Preben Elkjaer Larsen Nascimento Picanço;44656;Macapá;Partido Republicano Progressista;V
+Elias Real da Silva;28;Santana;Partido Renovador Trabalhista Brasileiro;P
+Roberto Mendes dos Santos;12456;Calçoene;Partido Democrático Trabalhista;V
+Reginaldo Alves Sarmento;15456;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Jose Edilson Alves de Figueiredo;17999;Macapá;Partido Social Liberal;V
+Maria Alice Lima de Oliveira;65222;Laranjal do Jari;Partido Comunista do Brasil;V
+Lucinete de Souza Nunes;25333;Pedra Branca do Amapari;Democratas;V
+Ronivon Gomes da Silva;65123;Vitória do Jari;Partido Comunista do Brasil;V
+Jacinelma Pinheiro Fernandes;36123;Santana;Partido Trabalhista Cristão;V
+Deusdeth dos Santos Santana;13123;Tartarugalzinho;Partido dos Trabalhadores;V
+Edy Carlos Brazão da Silva;15000;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Selmy Brito da Costa;45123;Amapá;Partido da Social Democracia Brasileira;V
+Reginaldo Lima dos Santos;23333;Tartarugalzinho;Partido Popular Socialista;V
+Elian Oliveira dos Passos;22223;Pracuúba;Partido da República;V
+Julio Cesar Buscarons;15789;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Aldenira Braga da Silva;12225;Santana;Partido Democrático Trabalhista;V
+Maeli Furtado dos Anjos;15777;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Francisco Adriano Justino da Silva;43000;Pedra Branca do Amapari;Partido Verde;V
+Janete Souza Silva;20123;Santana;Partido Social Cristão;V
+Antônio Firmino de Lima Rosa;40777;Tartarugalzinho;Partido Socialista Brasileiro;V
+Rosilene Brandão da Silva e  Silva;17456;Santana;Partido Social Liberal;V
+Robson Roger Cordeiro Coutinho;22123;Santana;Partido da República;V
+Rociclaudio Rodrigues da Silva;12111;Macapá;Partido Democrático Trabalhista;V
+Milena Antonelle Barbosa Amador;11111;Ferreira Gomes;Partido Progressista;V
+Manoel Carlos de Freitas Barriga;25800;Pedra Branca do Amapari;Democratas;V
+Marcele da Costa Tavares;28222;Ferreira Gomes;Partido Renovador Trabalhista Brasileiro;V
+Raul dos Anjos Brito;12115;Macapá;Partido Democrático Trabalhista;V
+Venilton Francisco dos Santos;20123;Macapá;Partido Social Cristão;V
+Angelina Conceição Souza;43122;Laranjal do Jari;Partido Verde;V
+Marton Coelho Palmerim;10123;Itaubal;Partido Republicano Brasileiro;V
+Josimar dos Santos Tavares;22555;Ferreira Gomes;Partido da República;V
+Eunice Maria Aguiar Jardim;51341;Macapá;Partido Ecológico Nacional;V
+Bruna Suzi e  Silva Xavier;45555;Macapá;Partido da Social Democracia Brasileira;V
+Antonia Rodrigues da Silva;13222;Santana;Partido dos Trabalhadores;V
+Dinaldo Carvalho de Oliveira;22000;Porto Grande;Partido da República;V
+Markaise da Costa e  Silva;27123;Oiapoque;Partido Social Democrata Cristão;V
+Rozilda Freitas Martins dos Santos;20000;Macapá;Partido Social Cristão;V
+Fabio Pereira dos Santos;35123;Oiapoque;Partido da Mulher Brasileira;V
+Glailso Santos dos Santos;14123;Tartarugalzinho;Partido Trabalhista Brasileiro;V
+Antonio Carlos Diniz Junior;14;Laranjal do Jari;Partido Trabalhista Nacional;P
+Antônio Alaércio Gonçalves Lima;28777;Santana;Partido Renovador Trabalhista Brasileiro;V
+Irraelma Barbosa do Nascimento;15123;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Augusto de Oliveira Mendes;28444;Macapá;Partido Renovador Trabalhista Brasileiro;V
+José Eddy Clay da Silva Góes;90580;Macapá;Partido Republicano da Ordem Social;V
+Almir dos Reis Jonas;13000;Cutias;Partido dos Trabalhadores;V
+Belize Conceição Costa Ramos;22;Pracuúba;Partido da República;P
+Jovanny da Costa Furtado;51512;Macapá;Partido Ecológico Nacional;V
+Marcelo Cardoso do Nascimento;10579;Macapá;Partido Republicano Brasileiro;V
+Jonivaldo dos Santos Pereira;19222;Macapá;Partido Trabalhista Nacional;V
+Aurines Sousa Siqueira;54123;Macapá;Partido Pátria Livre;V
+Washington Luis Lopes Lisboa;90;Porto Grande;Partido Republicano da Ordem Social;P
+Jocilene Costa da Silva;45578;Oiapoque;Partido da Social Democracia Brasileira;V
+Crebes Pereira da Silva Viana;22007;Macapá;Partido da República;V
+Rodilton Felipe da Paixão;12500;Oiapoque;Partido Democrático Trabalhista;V
+Raimundo Nonato Gomes de Oliveira;11111;Pracuúba;Partido Progressista;V
+Maria Auxiliadora Lima Alho;12456;Vitória do Jari;Partido Democrático Trabalhista;V
+Derivaldo Melo Viana;25555;Laranjal do Jari;Democratas;V
+Maria Selma de Castro Passos Monteiro;20020;Macapá;Partido Social Cristão;V
+Lidiane Oliveira Nunes;22222;Pracuúba;Partido da República;V
+José Fredson Miranda da Silva;27020;Santana;Partido Social Democrata Cristão;V
+Marcio Jose Custodio;25000;Pedra Branca do Amapari;Democratas;V
+Aline Prata de Alfaia;15152;Macapá;Partido do Movimento Democrático Brasileiro;V
+Ruy Pinto Duarte;43123;Laranjal do Jari;Partido Verde;V
+José Raimundo Lobato dos Santos;10147;Santana;Partido Republicano Brasileiro;V
+Antonio Pantoja Fernandes;90100;Laranjal do Jari;Partido Republicano da Ordem Social;V
+Wagner Oliveira Barreto;12121;Cutias;Partido Democrático Trabalhista;V
+Angela Maria Morais Barreto;15155;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Sebastião Ferreira Pompeu;14789;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Luiz Marcos Rosa;12580;Vitória do Jari;Partido Democrático Trabalhista;V
+Francenilde Ferreira de Oliveira;33148;Macapá;Partido da Mobilização Nacional;V
+Edilson Pelaes Cardoso;12123;Pedra Branca do Amapari;Partido Democrático Trabalhista;V
+Raimundo Soares Vilhena;28123;Ferreira Gomes;Partido Renovador Trabalhista Brasileiro;V
+Artur Lima de Sousa;43;Oiapoque;Partido Verde;P
+Elino Barbosa Oliveira;12345;Pracuúba;Partido Democrático Trabalhista;V
+Alan Carlos Dias;12130;Itaubal;Partido Democrático Trabalhista;V
+Maria Madalena Brito Pereira;15456;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+José da Silva Gomes;22345;Pedra Branca do Amapari;Partido da República;V
+Ednaldo dos Santos Diniz;27580;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+Jefferson Dias da Costa;51051;Macapá;Partido Ecológico Nacional;V
+Dionete Mendes;10203;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Emerson dos Santos Silva;45123;Serra do Navio;Partido da Social Democracia Brasileira;V
+Jose dos Santos Rocha;70231;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Marina dos Santos;35123;Laranjal do Jari;Partido da Mulher Brasileira;V
+Eliete Mendes Dutra;15333;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Jodoval Farias da Costa;40140;Macapá;Partido Socialista Brasileiro;V
+Marcus Cesar Santos Lima;23023;Santana;Partido Popular Socialista;V
+Nara da Silva dos Prazeres;35369;Cutias;Partido da Mulher Brasileira;V
+Ione dos Santos Leite;15000;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Wanderson Vieira;27123;Vitória do Jari;Partido Social Democrata Cristão;V
+Helton Luiz Brazao;45234;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Wanderley Pantoja Ramos;70000;Pracuúba;Partido Trabalhista do Brasil;V
+Wanna Rayra Silva de Souza;10777;Macapá;Partido Republicano Brasileiro;V
+Alci Mendes Gurjao;12123;Pracuúba;Partido Democrático Trabalhista;V
+João Álvaro Rocha Rodrigues;51;Ferreira Gomes;Partido Ecológico Nacional;P
+Yago Norato Sales da Silva;35123;Serra do Navio;Partido da Mulher Brasileira;V
+Clebiano Juvencio da Silva;10800;Oiapoque;Partido Republicano Brasileiro;V
+Cleber Alfaia de Souza;23123;Mazagão;Partido Popular Socialista;V
+Jane Selma Almeida de Souza;40401;Macapá;Partido Socialista Brasileiro;V
+Fabio dos Santos Muniz;11111;Laranjal do Jari;Partido Progressista;V
+Itama Ferreira da Rocha;12234;Tartarugalzinho;Partido Democrático Trabalhista;V
+José Amiraldo de Oliveira Costa;12112;Macapá;Partido Democrático Trabalhista;V
+Marilene Conceição de Souza;15315;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Ingrid Rayana da Silva Lima;16;Macapá;Partido Socialista dos Trabalhadores Unificado;P
+Francisco Gomes de Oliveira;17234;Tartarugalzinho;Partido Social Liberal;V
+Dreiser de Almeida Alencar;18580;Macapá;Rede Sustentabilidade;V
+Diogo Campos Correa;22222;Ferreira Gomes;Partido da República;V
+Ernani Augusto Cardoso da Rocha;51123;Pedra Branca do Amapari;Partido Ecológico Nacional;V
+Amiraldo da Costa Santos;10234;Vitória do Jari;Partido Republicano Brasileiro;V
+Irineia Alves da Silva;23444;Vitória do Jari;Partido Popular Socialista;V
+Alessandra da Silva;35963;Amapá;Partido da Mulher Brasileira;V
+Valdeci de Oliveira Moraes;33114;Macapá;Partido da Mobilização Nacional;V
+Wanderleia Pinheiro da Costa;12555;Laranjal do Jari;Partido Democrático Trabalhista;V
+Rosivaldo Neves Nunes;22;Tartarugalzinho;Partido da Mulher Brasileira;P
+Josenilson da Silva Freitas;51015;Macapá;Partido Ecológico Nacional;V
+Leandro Mendes Ferreira;22123;Tartarugalzinho;Partido da República;V
+Natalicio Santos Pereira;50150;Oiapoque;Partido Socialismo e  Liberdade;V
+Francisco do Socorro Lopes Ferreira;22322;Santana;Partido da República;V
+Alberto Silva Negrão;36999;Santana;Partido Trabalhista Cristão;V
+Alexsandro Coelho Maciel;51123;Cutias;Partido Ecológico Nacional;V
+Raimundo Chagas Silveira dos Santos;25555;Mazagão;Democratas;V
+José Leonicio do Amaral Filho;45123;Mazagão;Partido da Social Democracia Brasileira;V
+Cornélio Soares Mendes Filho;11115;Tartarugalzinho;Partido Progressista;V
+Jerfferson Alves dos Santos;90699;Cutias;Partido Republicano da Ordem Social;V
+Guilherme Agenor de Almeida;43222;Pedra Branca do Amapari;Partido Verde;V
+Waldenez Dias Costa;45444;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Anilton Galvão Lopes;22789;Porto Grande;Partido da República;V
+Gerson Caldeira de Freitas;25789;Vitória do Jari;Democratas;V
+Antônio Fernando Tavares Guedes;27258;Serra do Navio;Partido Social Democrata Cristão;V
+João Paulo Coelho Ferreira;18123;Mazagão;Rede Sustentabilidade;V
+Ildalena Monteiro Tomasio;70112;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Nadielson Siqueira Costa;13789;Santana;Partido dos Trabalhadores;V
+Jorleci Coelho de Lima;12111;Santana;Partido Democrático Trabalhista;V
+Andre da Conceição Oliveira Torres;55449;Mazagão;Partido Social Democrático;V
+Vívian Maíse Silva dos Santos;22333;Mazagão;Partido da República;V
+Antonio Rangel da Silva Ribeiro;20222;Oiapoque;Partido Social Cristão;V
+Valdilene Silva Santos;45555;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Maria Terezinha da Silva;40789;Ferreira Gomes;Partido Socialista Brasileiro;V
+Callins Oliveira dos Anjos;43;Ferreira Gomes;Partido Verde;P
+Placido Pereira Vieira;13058;Macapá;Partido dos Trabalhadores;V
+Camilo Silva Vieira;12122;Calçoene;Partido Democrático Trabalhista;V
+Jennifer Mesquita Machado;15789;Santana;Partido do Movimento Democrático Brasileiro;V
+Liliane Batista Sousa;10300;Santana;Partido Republicano Brasileiro;V
+Waldenir Pinheiro de Sousa;55369;Vitória do Jari;Partido Social Democrático;V
+Raiza da Silva Ferreira dos Santos;55123;Mazagão;Partido Social Democrático;V
+Cristiano Augusto Teixeira de Souza;16123;Macapá;Partido Socialista dos Trabalhadores Unificado;V
+Celso Malheiros Pinto;90123;Santana;Partido Republicano da Ordem Social;V
+Jailson Correa Simplício;22456;Santana;Partido da República;V
+Tiago Hugo da Fonseca Neto;15456;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Jamil Nassif Abdalla;44700;Macapá;Partido Republicano Progressista;V
+Jose Tadeu Batista;31611;Vitória do Jari;Partido Humanista da Solidariedade;V
+Antonio dos Santos Lobato;45123;Itaubal;Partido da Social Democracia Brasileira;V
+Rildo de Jesus Negreiro da Silva;51222;Macapá;Partido Ecológico Nacional;V
+Marta Kdma Monteiro Brito;51002;Laranjal do Jari;Partido Ecológico Nacional;V
+Jeias Leite Dias;11234;Tartarugalzinho;Partido Progressista;V
+Jameson Rodrigues Nascimento;43999;Ferreira Gomes;Partido Verde;V
+Elson Belo Lobato;70;Serra do Navio;Partido Trabalhista do Brasil;P
+Anderson Gibson Barbosa;44234;Macapá;Partido Republicano Progressista;V
+Josias Chaves Viana;51111;Itaubal;Partido Ecológico Nacional;V
+José Maria Mascarenhas Monteiro;12277;Macapá;Partido Democrático Trabalhista;V
+Marcia Sharlene Santos de Oliveira;35111;Tartarugalzinho;Partido da Mulher Brasileira;V
+Rosiane da Silva Santana;12122;Serra do Navio;Partido Democrático Trabalhista;V
+Carlos Alberto Farias Borges;40123;Oiapoque;Partido Socialista Brasileiro;V
+Odail Jose Brito Mira;22123;Cutias;Partido da República;V
+Angela Maria Avelar Deniur Monteiro;18;Calçoene;Rede Sustentabilidade;P
+Jose Arnoudo Alves de Amorim;23222;Macapá;Partido Popular Socialista;V
+Alex Valdivino da Silva;10122;Santana;Partido Republicano Brasileiro;V
+Domingos do Socorro Pereira Belo;35123;Mazagão;Partido da Mulher Brasileira;V
+Afonso de Souza da Silva;51555;Macapá;Partido Ecológico Nacional;V
+Matheus Pastana Araujo;22000;Tartarugalzinho;Partido da República;V
+Margarida Maria Dias de Oliveira;13123;Laranjal do Jari;Partido dos Trabalhadores;V
+Adiomar Roberto Veronese;15;Macapá;Partido Republicano da Ordem Social;P
+Antonio Rodrigues Galeno;19123;Porto Grande;Partido Trabalhista Nacional;V
+Amilton Macedo de Andrade;15456;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Anilton Araujo Costa;15180;Oiapoque;Partido do Movimento Democrático Brasileiro;V
+Matheus Celes Quaresma dos Santos;55234;Macapá;Partido Social Democrático;V
+Vera Lucia Oliveira Santos;18000;Serra do Navio;Rede Sustentabilidade;V
+Cristina Lopes Brito;12138;Porto Grande;Partido Democrático Trabalhista;V
+Jacinete Barboza Lobato;40000;Porto Grande;Partido Socialista Brasileiro;V
+Elizeu de Lima;44321;Serra do Navio;Partido Republicano Progressista;V
+Ezivaldo Leite da Cruz Galeno;50500;Santana;Partido Socialismo e  Liberdade;V
+Edivan Dutra da Silva;65000;Vitória do Jari;Partido Comunista do Brasil;V
+Delci de Alcantara;70580;Laranjal do Jari;Partido Trabalhista do Brasil;V
+Arlindo Lima de Amorim;22222;Porto Grande;Partido da República;V
+Jean da Silva e  Silva;50123;Santana;Partido Socialismo e  Liberdade;V
+Orismar Silva Paiva;14123;Oiapoque;Partido Trabalhista Brasileiro;V
+Joilson Guimaraes Passos;15200;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Carlos Sampaio Duarte;33;Amapá;Partido da Mobilização Nacional;P
+Jose Valter Cavalcante;43;Calçoene;Partido Verde;P
+Maria do Socorro Braz;20567;Laranjal do Jari;Partido Social Cristão;V
+Leeanderson Pacheco Braga;11007;Laranjal do Jari;Partido Progressista;V
+Merlane Mikure Tuwimpo Tiriyo;12013;Macapá;Partido Democrático Trabalhista;V
+Raimundo Nonato Ferreira de Assis;43456;Macapá;Partido Verde;V
+Edinaldo Conceicao;45777;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Euricelia Melo Cardoso;11;Laranjal do Jari;Partido Progressista;P
+Miraci Lima do Vale;10580;Macapá;Partido Republicano Brasileiro;V
+Elizete dos Santos Rodrigues;23000;Pedra Branca do Amapari;Partido Popular Socialista;V
+Rafaela Sabrina Correa da Gama;22222;Pedra Branca do Amapari;Partido da República;V
+Jairo Ferreira Morais;22222;Tartarugalzinho;Partido da República;V
+Fabricio Mendes Dias;11055;Laranjal do Jari;Partido Progressista;V
+Valdez Amorim de Almeida;12100;Macapá;Partido Democrático Trabalhista;V
+José da Silva Maciel;25555;Pedra Branca do Amapari;Democratas;V
+Lucicleuton Souza da Cruz;10147;Porto Grande;Partido Republicano Brasileiro;V
+Luiz dos Santos;70678;Oiapoque;Partido Trabalhista do Brasil;V
+Jovanny da Costa Furtado;51512;Macapá;Partido Ecológico Nacional;V
+Maria de Nazare Braga da Silva;15152;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Jones Fabio Nunes Cavalcante;23111;Calçoene;Partido Popular Socialista;V
+Silvia Cristina Rabelo Maués;18369;Santana;Rede Sustentabilidade;V
+Mislene da Silva Lopes;19019;Macapá;Partido Trabalhista Nacional;V
+Antonio Maia Gonçalves;18789;Santana;Rede Sustentabilidade;V
+Durceli dos Santos Barros;55777;Macapá;Partido Social Democrático;V
+Joao Bosco Ribeiro Pimentel;31000;Macapá;Partido Humanista da Solidariedade;V
+Alzenerico Brito dos Santos;90789;Cutias;Partido Republicano da Ordem Social;V
+Elza dos Santos Oliveira;51733;Santana;Partido Ecológico Nacional;V
+Juacy Viana da Silva;27123;Amapá;Partido Social Democrata Cristão;V
+Creusa Maria da Silva Ribeiro;20123;Oiapoque;Partido Social Cristão;V
+Deusdeth Freitas do Carmo;18123;Laranjal do Jari;Rede Sustentabilidade;V
+Nilson Vidal Figueiredo;12112;Tartarugalzinho;Partido Democrático Trabalhista;V
+Suane Brito Ferreira;14321;Cutias;Partido Trabalhista Brasileiro;V
+Rubia Santos da Costa;15456;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Josimi Brazão Vaz;70123;Cutias;Partido Trabalhista do Brasil;V
+Paulo Henrique dos Santos;22122;Porto Grande;Partido da República;V
+Ronaldo Socorro Tavares Pereira;70111;Oiapoque;Partido Trabalhista do Brasil;V
+Lindoval Santos do Rosario;20;Calçoene;Partido Social Cristão;P
+Rodinelson Costa Palmerim;15678;Itaubal;Partido do Movimento Democrático Brasileiro;V
+Priscila Fernandes Cambraia;18888;Amapá;Rede Sustentabilidade;V
+Juscelino Paulo da Silveira Alves;27369;Santana;Partido Social Democrata Cristão;V
+Evanildo Brito Braga;65369;Cutias;Partido Comunista do Brasil;V
+Marcelo Marcal Costa Alves;22555;Pracuúba;Partido da República;V
+Jonis Silva Evangelista;54321;Vitória do Jari;Partido Pátria Livre;V
+Darinto Costa Oliveira;65123;Pracuúba;Partido Comunista do Brasil;V
+Zacarias da Silva Belo;13333;Mazagão;Partido dos Trabalhadores;V
+Ana Cristina da Silva Cardoso;65125;Santana;Partido Comunista do Brasil;V
+Kliger Fabiano Costa Campos;50500;Macapá;Partido Socialismo e  Liberdade;V
+Maila Cristina Gemaque de Souza;25345;Pedra Branca do Amapari;Democratas;V
+Cleudo Pereira da Trindade;22369;Macapá;Partido da República;V
+Antonio da Silva Morais;22456;Amapá;Partido da República;V
+Francisco Carneiro de Vasconcelos;33555;Itaubal;Partido da Mobilização Nacional;V
+Valdicleia Favacho Aleixo;18026;Calçoene;Rede Sustentabilidade;V
+Paulo José Assunção Baia;18222;Macapá;Rede Sustentabilidade;V
+Izonilde dos Anjos Costa;11126;Pracuúba;Partido Progressista;V
+Mariusa Soares Alves;12003;Oiapoque;Partido Democrático Trabalhista;V
+Edson dos Santos;13013;Macapá;Partido dos Trabalhadores;V
+Jean Carlos Borges da Costa;65741;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+José Angelo Nunes da Silva;27147;Tartarugalzinho;Partido Social Democrata Cristão;V
+Rosineide Nascimento da Silva Moraes;90900;Macapá;Partido Republicano da Ordem Social;V
+Francinei Dias Amoras;27147;Pracuúba;Partido Social Democrata Cristão;V
+Claudiomar Rosa da Silva;50369;Macapá;Partido Socialismo e  Liberdade;V
+Roseli Ferreira Tavares;43123;Ferreira Gomes;Partido Verde;V
+Orleane Dias Mendes;20333;Pracuúba;Partido Social Cristão;V
+Silvana Souza da Silva;45111;Serra do Navio;Partido da Social Democracia Brasileira;V
+Marcio Luis Flor Freitas;31123;Macapá;Partido Humanista da Solidariedade;V
+Maria Raimunda Pinheiro Picanço;12333;Tartarugalzinho;Partido Democrático Trabalhista;V
+Ronnivaldo Maciel Oliveira;25120;Pracuúba;Democratas;V
+Valdirene dos Santos Hage;15200;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Manoel Raimundo dos Santos Costa;15000;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Raimundo Socorro Costa de Morais;54123;Calçoene;Partido Pátria Livre;V
+Guilherme de Oliveira Ferreira;70699;Serra do Navio;Partido Trabalhista do Brasil;V
+Renaldo Pinto Teixeira;15115;Vitória do Jari;Partido do Movimento Democrático Brasileiro;V
+João Baia de Carvalho;19333;Santana;Partido Trabalhista Nacional;V
+Benedito Anisio Alberto Neri;50200;Macapá;Partido Socialismo e  Liberdade;V
+Zacarias Batista Lima;12300;Porto Grande;Partido Democrático Trabalhista;V
+Francisco Rodrigues do Nascimento;40;Calçoene;Partido do Movimento Democrático Brasileiro;P
+Matias Labonte;12121;Oiapoque;Partido Democrático Trabalhista;V
+Sandra da Silva Oliveira;23023;Porto Grande;Partido Popular Socialista;V
+Joao Clemente Sarmento;50111;Oiapoque;Partido Socialismo e  Liberdade;V
+Antonio Maria de Oliveira Monteiro;12125;Vitória do Jari;Partido Democrático Trabalhista;V
+Antonio Cristalino de Souza Santos;14000;Santana;Partido Trabalhista Brasileiro;V
+Reginaldo Padilha Aguiar;51234;Macapá;Partido Ecológico Nacional;V
+Jonas de Sousa Dias;35000;Pracuúba;Partido da Mulher Brasileira;V
+Israel Lucas Brandão Cunha;23456;Porto Grande;Partido Popular Socialista;V
+Ivan Viana Guimaraes;33;Calçoene;Partido da Mobilização Nacional;P
+Bruna da Silva do Nascimento;44445;Santana;Partido Republicano Progressista;V
+Jairison Ataide Vales;12360;Porto Grande;Partido Democrático Trabalhista;V
+Oziel da Costa Nascimento;17017;Santana;Partido Social Liberal;V
+Reginaldo Baima da Silva;45111;Macapá;Partido da Social Democracia Brasileira;V
+Marcelo Padilha Aguiar;28000;Laranjal do Jari;Partido Renovador Trabalhista Brasileiro;V
+Jose Landri Cunha Nunes;12111;Pracuúba;Partido Democrático Trabalhista;V
+Simone Amaral do Nascimento;45165;Santana;Partido da Social Democracia Brasileira;V
+Marcelo Lima de Souza;54444;Laranjal do Jari;Partido Pátria Livre;V
+Jerlley Danilo de Moraes Albarado;65000;Porto Grande;Partido Comunista do Brasil;V
+Deusicleia Pantoja dos Santos;70888;Oiapoque;Partido Trabalhista do Brasil;V
+Manoel dos Reis Ferreira;70111;Vitória do Jari;Partido Trabalhista do Brasil;V
+Bruna Ramila Farias Gomes;33123;Calçoene;Partido da Mobilização Nacional;V
+Sandrielle dos Santos Camões;54444;Cutias;Partido Pátria Livre;V
+Adimar Barreto de Melo;43031;Macapá;Partido Verde;V
+Adinaldo Mendes dos Santos Lima;20;Calçoene;Partido Social Cristão;P
+Jorge Henrique Rodrigues de Souza;40133;Santana;Partido Socialista Brasileiro;V
+Jacimar Monteiro Alves;12777;Amapá;Partido Democrático Trabalhista;V
+Juliam Eduardo Holanda Soares;20100;Macapá;Partido Social Cristão;V
+Jozino Farias Costa;18580;Amapá;Rede Sustentabilidade;V
+Weliton Videira dos Santos;12789;Mazagão;Partido Democrático Trabalhista;V
+Delcio Deniur Nunes;33123;Tartarugalzinho;Partido da Mobilização Nacional;V
+Errinelson Vieira Pimentel;50193;Macapá;Partido Socialismo e  Liberdade;V
+Almir Rezende;22;Tartarugalzinho;Partido da República;P
+Domingos Souza da Silva;22147;Santana;Partido da República;V
+Elizabete Santos de Sena;14369;Porto Grande;Partido Trabalhista Brasileiro;V
+Júnior Cardoso Coutinho;22122;Santana;Partido da República;V
+Raimunda Pantoja Alves;35120;Cutias;Partido da Mulher Brasileira;V
+Raimundo Rosa dos Reis;25123;Santana;Democratas;V
+Robson Ferreira Nascimento;12120;Pracuúba;Partido Democrático Trabalhista;V
+Ruzivan de Jesus Pontes da Silva;77123;Macapá;Solidariedade;V
+Neres Pinto de Oliveira;14251;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Valdir Coutinho do Carmo;12001;Oiapoque;Partido Democrático Trabalhista;V
+Diego Monteiro Melo;35789;Amapá;Partido da Mulher Brasileira;V
+Maria Odeth Santos de Souza;17222;Macapá;Partido Social Liberal;V
+Fabiola Vitoria Ribeiro Rocha;20111;Macapá;Partido Social Cristão;V
+Magno Lobato Marques;35000;Amapá;Partido da Mulher Brasileira;V
+Lana Patricia Chagas Martins;65222;Oiapoque;Partido Comunista do Brasil;V
+Luciane Rocha Gomes Santana;15222;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Fernando de Menezes Santos;33133;Serra do Navio;Partido da Mobilização Nacional;V
+Roberto Alan dos Santos Barata;20123;Calçoene;Partido Social Cristão;V
+Miguel Figueiredo;22245;Amapá;Partido da República;V
+Joao Sacramento de Araujo;25444;Itaubal;Democratas;V
+Jose Nilson Pinheiro Borges;15123;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Josivaldo da Silva Santos;65;Porto Grande;Partido Social Cristão;P
+Darlita Daniela Ferreira Barros;12000;Mazagão;Partido Democrático Trabalhista;V
+Eloise Reis da Silva;43289;Ferreira Gomes;Partido Verde;V
+Izamar Ferrera Batista;45555;Oiapoque;Partido da Social Democracia Brasileira;V
+Edmilson Ferreira Cabral;15015;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Francinei Ferreira da Conceição;10369;Porto Grande;Partido Republicano Brasileiro;V
+Jose Ribamar Canela de Melo;25190;Macapá;Democratas;V
+Francinaldo Rodrigues de Moraes;22000;Pedra Branca do Amapari;Partido da República;V
+José Ricardo Alcantara Pereira;15333;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;V
+Odineia Guimaraes;23456;Amapá;Partido Popular Socialista;V
+Pedro Costa Silva;51;Itaubal;Partido Ecológico Nacional;P
+Rosivaldo Paixão Ramos;35789;Pracuúba;Partido da Mulher Brasileira;V
+Edna Shirley da Silva Teixeira;15266;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Fabio de Azevedo Viana;36222;Santana;Partido Trabalhista Cristão;V
+Rui Madureira Borges;27789;Santana;Partido Social Democrata Cristão;V
+Francisco Mendes de Almeida;55555;Mazagão;Partido Social Democrático;V
+Paulo Guilherme Carvalho de Macedo;54000;Cutias;Partido Pátria Livre;V
+Jones Pereira Araujo;31580;Macapá;Partido Humanista da Solidariedade;V
+Adelson Borges Rocha;55000;Santana;Partido Social Democrático;V
+Armand San Rodrigues de Andrade Fonseca;11000;Tartarugalzinho;Partido Progressista;V
+Bento Felix Cavalcante;51222;Porto Grande;Partido Ecológico Nacional;V
+Luiz Andrade da Costa Junior;25456;Pracuúba;Democratas;V
+Danielle Mônica da Cunha Barbosa;35000;Serra do Navio;Partido da Mulher Brasileira;V
+Fabricio Ferreira Flexa;90123;Mazagão;Partido Republicano da Ordem Social;V
+Darlene dos Santos Pinheiro;22500;Oiapoque;Partido da República;V
+Glaucon Max Miranda dos Santos;55800;Santana;Partido Social Democrático;V
+Lincolin Silva Americo;45000;Macapá;Partido da Social Democracia Brasileira;V
+Jose Arnaldo de Meneses Dias;28123;Tartarugalzinho;Partido Renovador Trabalhista Brasileiro;V
+Rodrigo Souza Gomes;18999;Macapá;Rede Sustentabilidade;V
+Cleoson Correa;40123;Calçoene;Partido Socialista Brasileiro;V
+Marcia da Silva Lopes;12012;Oiapoque;Partido Democrático Trabalhista;V
+Paulo Alcantara Vieira;22555;Mazagão;Partido da República;V
+Maria de Fátima Lima Pantoja;22777;Santana;Partido da República;V
+Marlene Soares da Silva;40222;Cutias;Partido Socialista Brasileiro;V
+Fausto José dos Santos;15699;Serra do Navio;Partido do Movimento Democrático Brasileiro;V
+Evandro Costa Gama;28123;Macapá;Partido Renovador Trabalhista Brasileiro;V
+José Paulo Nunes da Silva;50999;Macapá;Partido Socialismo e  Liberdade;V
+Pedro Ferreira da Silva;10777;Santana;Partido Republicano Brasileiro;V
+Sandra Maria Portal de Almeida;13132;Macapá;Partido dos Trabalhadores;V
+Joeyder Layo Santos Souza;70789;Serra do Navio;Partido Trabalhista do Brasil;V
+Francisco Nunes da Costa;43444;Santana;Partido Verde;V
+Manoel Benedito de Oliveira Pantoja;65000;Santana;Partido Comunista do Brasil;V
+Dinelson de Lima Araújo;51;Ferreira Gomes;Partido Trabalhista Brasileiro;P
+Marliane Pinheiro do Nascimento;10011;Santana;Partido Republicano Brasileiro;V
+Magno Dowglas Sebastiao da Silva;23323;Santana;Partido Popular Socialista;V
+Emerson Real da Silva;18190;Macapá;Rede Sustentabilidade;V
+Luiz Junior Brito Ferreira;13456;Cutias;Partido dos Trabalhadores;V
+Meriam Correa Nobre;70456;Itaubal;Partido Trabalhista do Brasil;V
+Luis Campos dos Santos;12670;Oiapoque;Partido Democrático Trabalhista;V
+Esmeranelson Abreu Oliveira;15600;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Emilli Maara Espindola Gomes;21122;Macapá;Partido Comunista Brasileiro;V
+Raimundo Nonato Lobato Marques;22;Amapá;Partido Trabalhista Brasileiro;P
+Ary Duarte da Costa;27369;Vitória do Jari;Partido Social Democrata Cristão;V
+Jorielson Brito Nascimento;44111;Macapá;Partido Republicano Progressista;V
+Maria Cleonice Conceição Lima;10222;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Maria do Livramento dos Reis Lacerda;45234;Porto Grande;Partido da Social Democracia Brasileira;V
+Amiraldo Gomes Moraes;65258;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Janete Borges Conceição;33456;Itaubal;Partido da Mobilização Nacional;V
+Ronilson Barriga Marques;15800;Santana;Partido do Movimento Democrático Brasileiro;V
+Irivaldo de Oliveira Costa;45123;Porto Grande;Partido da Social Democracia Brasileira;V
+Victor Hugo Lopes Rodrigues;15;Itaubal;Partido do Movimento Democrático Brasileiro;P
+Caubi Silva de Medeiros;50123;Ferreira Gomes;Partido Socialismo e  Liberdade;V
+Gilvani Castelo Tourinho;43100;Macapá;Partido Verde;V
+Jaciara Oliveira dos Santos;70999;Oiapoque;Partido Trabalhista do Brasil;V
+Elindomar Raimundo Cordeiro Soares;70;Serra do Navio;Democratas;P
+Josilana da Costa Santos;50321;Macapá;Partido Socialismo e  Liberdade;V
+Edivam de Almeida Sobrinho;10000;Laranjal do Jari;Partido Republicano Brasileiro;V
+Luiz Chady Carvalho Guedes;40122;Cutias;Partido Socialista Brasileiro;V
+Lana Rafaela Vianna Ramos;12000;Pracuúba;Partido Democrático Trabalhista;V
+Amilton Pereira de Sousa;13;Cutias;Partido dos Trabalhadores;P
+Sérgio Francisco de Oliveira;22302;Porto Grande;Partido da República;V
+Odileia dos Reis Lacerda;55321;Porto Grande;Partido Social Democrático;V
+Darlene da Fonseca e  Silva;15999;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Maria de Nazare da Silva Vieira;11123;Mazagão;Partido Progressista;V
+Benedito Afonso Silva de Farias;17896;Santana;Partido Social Liberal;V
+Manoel Fernando da Costa e  Silva;44333;Laranjal do Jari;Partido Republicano Progressista;V
+Roseli Cleide Ferreira dos Santos;55111;Macapá;Partido Social Democrático;V
+Rosa Maria Sodré do Amaral;43177;Macapá;Partido Verde;V
+Fredson Garcia Soares;12182;Pracuúba;Partido Democrático Trabalhista;V
+David Martins;12345;Santana;Partido Democrático Trabalhista;V
+Manoel Afonso Cordeiro de Espirito Santo;14123;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Thawanna de Paula Ferreira Barros;50150;Macapá;Partido Socialismo e  Liberdade;V
+Joao da Silva Paiva;28111;Santana;Partido Renovador Trabalhista Brasileiro;V
+Claudete Maria Ferreira Morais;20000;Tartarugalzinho;Partido Social Cristão;V
+Antonio Roques Silva;40403;Oiapoque;Partido Socialista Brasileiro;V
+Adonias Batista de Albuquerque;70123;Pedra Branca do Amapari;Partido Trabalhista do Brasil;V
+Vagner William Dias Pereira;20456;Pracuúba;Partido Social Cristão;V
+Edielson Viana de Oliveira;11152;Pracuúba;Partido Progressista;V
+Maurino de Assunção Lobato;22333;Laranjal do Jari;Partido da República;V
+Elizangela de Souza Castelo;15151;Itaubal;Partido do Movimento Democrático Brasileiro;V
+Maria Carmelita Cantaneide Rocha;11222;Serra do Navio;Partido Progressista;V
+Marinez da Silva Lopes;65123;Laranjal do Jari;Partido Comunista do Brasil;V
+Stephanne Susan Banha Pereira;13130;Macapá;Partido dos Trabalhadores;V
+Jose Alonso Ramos Maciel;18979;Porto Grande;Rede Sustentabilidade;V
+Adriano Bastos Barbosa;40123;Vitória do Jari;Partido Socialista Brasileiro;V
+Ozeniro do Carmo Chucre;23156;Mazagão;Partido Popular Socialista;V
+Chirstian Rogger Cardoso Rocha;22123;Ferreira Gomes;Partido da República;V
+Antonio dos Santos Silva;20555;Laranjal do Jari;Partido Social Cristão;V
+Ademar Oliveira Lacerda;43456;Ferreira Gomes;Partido Verde;V
+Florisvaldo dos Santos Silva;50122;Santana;Partido Socialismo e  Liberdade;V
+Edson Alves da Costa;20147;Mazagão;Partido Social Cristão;V
+Evanilson Rodrigues Alves;25147;Santana;Democratas;V
+Joabson Oliveira da Rocha;40234;Tartarugalzinho;Partido Socialista Brasileiro;V
+Elson Costa da Silva;36123;Serra do Navio;Partido Trabalhista Cristão;V
+Clovis Pinto de Araujo;12777;Porto Grande;Partido Democrático Trabalhista;V
+Flávia Cristina de Barros Maia;19000;Macapá;Partido Trabalhista Nacional;V
+Evandro dos Santos Picanço;15111;Oiapoque;Partido do Movimento Democrático Brasileiro;V
+Antonia Viana Barbosa;27;Ferreira Gomes;Partido Social Democrata Cristão;P
+Ivone Silva dos Santos;13123;Serra do Navio;Partido dos Trabalhadores;V
+Antonia do Socorro Nogueira de Souza;13123;Santana;Partido dos Trabalhadores;V
+Jose Klenio dos Reis;44112;Macapá;Partido Republicano Progressista;V
+Dennith Dayllon de Souza Santos;51321;Santana;Partido Ecológico Nacional;V
+Jocinei Baia Pacheco;40678;Vitória do Jari;Partido Socialista Brasileiro;V
+Jeziel Silva e  Silva;11;Serra do Navio;Partido Progressista;P
+Francisco Alves Gomes;14;Vitória do Jari;Partido Trabalhista Brasileiro;P
+Maria Darlene Pureza dos Santos;44800;Macapá;Partido Republicano Progressista;V
+Roniclei Macedo Barroso;14;Vitória do Jari;Partido da Mulher Brasileira;P
+Danielson de Oliveira Rosa;43350;Oiapoque;Partido Verde;V
+Roberto Veiga da Silva;15100;Oiapoque;Partido do Movimento Democrático Brasileiro;V
+Maria de Nazare Sales Pinto;33000;Vitória do Jari;Partido da Mobilização Nacional;V
+Edcarlos Corrêa Barbosa;45000;Vitória do Jari;Partido da Social Democracia Brasileira;V
+Raimundo Furtado dos Santos;18066;Macapá;Rede Sustentabilidade;V
+Josafa de Pinho Ramos;14000;Porto Grande;Partido Trabalhista Brasileiro;V
+Marcelo Pantoja dos Santos;15690;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Maria Jose Amaral;40321;Oiapoque;Partido Socialista Brasileiro;V
+Herinaldo Nascimento da Silva;23190;Santana;Partido Popular Socialista;V
+Celia Cristina Sousa Mineiro;11222;Laranjal do Jari;Partido Progressista;V
+Henry de Lima Amanajas;22456;Cutias;Partido da República;V
+Elisangela Albuquerque Rocha dos Santos;77123;Itaubal;Solidariedade;V
+Carlos Jorge Penante de Souza;13100;Serra do Navio;Partido dos Trabalhadores;V
+Antonio Paulo Miranda Souza;27;Ferreira Gomes;Partido Social Democrata Cristão;P
+Wemerson Silva da Silva;35225;Serra do Navio;Partido da Mulher Brasileira;V
+Raimundo Lourenço de Oliveira Figueira;55123;Vitória do Jari;Partido Social Democrático;V
+Adailton Roberto da Silva;33111;Ferreira Gomes;Partido da Mobilização Nacional;V
+Josinaldo Pantaleão de Souza;13699;Tartarugalzinho;Partido dos Trabalhadores;V
+Leonil Nazareno da Cunha Cardoso;15369;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Edinaldo Guedes de Souza;12347;Macapá;Partido Democrático Trabalhista;V
+Jordelane Ribeiro de Jesus;13111;Porto Grande;Partido dos Trabalhadores;V
+Jorge Luiz de Souza;50111;Macapá;Partido Socialismo e  Liberdade;V
+Paula Regiane Cutrin Veiga;12678;Vitória do Jari;Partido Democrático Trabalhista;V
+Antonio Pinheiro da Silva;55123;Tartarugalzinho;Partido Social Democrático;V
+Francisco Carlos de Abreu Primo;22123;Serra do Navio;Partido da República;V
+Antonio Brito da Silva;50123;Itaubal;Partido Socialismo e  Liberdade;V
+Adolpho Eugenio de Oliveira Nery Filho;11000;Macapá;Partido Progressista;V
+Tarlysson Gonçalves Soares;35678;Vitória do Jari;Partido da Mulher Brasileira;V
+Dionata Benaion Pombo;15000;Santana;Partido do Movimento Democrático Brasileiro;V
+Sebastião Cosmo Barriga Marques;70123;Santana;Partido Trabalhista do Brasil;V
+Waldecy de Oliveira Tavares;25190;Laranjal do Jari;Democratas;V
+Jonathan Pena Furlin;55321;Macapá;Partido Social Democrático;V
+Odicleia Silva Lima;25280;Laranjal do Jari;Democratas;V
+Valdir Melo da Cruz;54222;Vitória do Jari;Partido Pátria Livre;V
+Vinicius Valente Vilhena;19100;Santana;Partido Trabalhista Nacional;V
+Maricleuma Guedes Vieira;20333;Macapá;Partido Social Cristão;V
+Tibiriçá Angelo Oliveira de Abreu;12123;Serra do Navio;Partido Democrático Trabalhista;V
+Maria Nelci Lisboa dos Anjos;35000;Tartarugalzinho;Partido da Mulher Brasileira;V
+Daniel Ferreira de Oliveira;33456;Macapá;Partido da Mobilização Nacional;V
+Roberto Gonçalves Baia;12444;Laranjal do Jari;Partido Democrático Trabalhista;V
+Jaci Brazão dos Reis;43369;Ferreira Gomes;Partido Verde;V
+Walmir Carmo Sousa Lima;33444;Macapá;Partido da Mobilização Nacional;V
+Edilson Duarte Dantas Filho;27369;Serra do Navio;Partido Social Democrata Cristão;V
+Jorge Luiz Vieira de Sousa;44567;Santana;Partido Republicano Progressista;V
+Celso Beker de Sousa;55619;Porto Grande;Partido Social Democrático;V
+Jose Maria Barbosa Aragao;31000;Vitória do Jari;Partido Humanista da Solidariedade;V
+Josimar Batista Pinto;25999;Macapá;Democratas;V
+Risolete Brazão dos Santos;40222;Oiapoque;Partido Socialista Brasileiro;V
+Laudelino Castro da Silva;51999;Porto Grande;Partido Ecológico Nacional;V
+Romildo dos Santos;12125;Oiapoque;Partido Democrático Trabalhista;V
+Erica Gonçalves dos Santos;44123;Itaubal;Partido Republicano Progressista;V
+Raimundo Pureza Barreto;12333;Mazagão;Partido Democrático Trabalhista;V
+Avery Marques dos Santos;20028;Macapá;Partido Social Cristão;V
+Rosely Regina Nascimento Costa;55222;Macapá;Partido Social Democrático;V
+Diana Chagas Pinto Castelo;36360;Santana;Partido Trabalhista Cristão;V
+Cleber Barbosa Vinhas;35700;Santana;Partido da Mulher Brasileira;V
+Jose Josivaldo Rocha Brandão;77123;Santana;Solidariedade;V
+Valdiner Silva França;20123;Laranjal do Jari;Partido Social Cristão;V
+Clezian da Silva Oliveira;22;Cutias;Partido Social Cristão;P
+Paulo Junior Oliveira dos Santos;17111;Macapá;Partido Social Liberal;V
+Fúlvio Ariosto Ferreira Favacho;19123;Santana;Partido Trabalhista Nacional;V
+Josiane Correa Lisboa;51777;Macapá;Partido Ecológico Nacional;V
+Raimundo Nonato Pereira Braga;12589;Macapá;Partido Democrático Trabalhista;V
+Cleia Furtado Campos Rocha;23456;Vitória do Jari;Partido Popular Socialista;V
+Raimundo Alessandro Pinheiro Brito;40404;Cutias;Partido Socialista Brasileiro;V
+Jose Maria da Silva;44044;Macapá;Partido Republicano Progressista;V
+Maria Iolanda Sousa da Costa;17000;Oiapoque;Partido Social Liberal;V
+Eddy Raihathy Figueiredo Ramos;70123;Amapá;Partido Trabalhista do Brasil;V
+Maria Orlanda Marques Garcia;45;Oiapoque;Partido da Social Democracia Brasileira;P
+Alexandre Miranda da Luz;15123;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;V
+Manoel Caetano Bentes Monteiro Neto;20800;Macapá;Partido Social Cristão;V
+Maria de Fatima Dias Botelho;15369;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Jose Otavio Marques Picanço;43380;Santana;Partido Verde;V
+Heber José da Silva Viana;11125;Serra do Navio;Partido Progressista;V
+Ronan Coelho da Silva;14369;Cutias;Partido Trabalhista Brasileiro;V
+Josiney Pereira Alves;36000;Santana;Partido Trabalhista Cristão;V
+Mauro Sergio dos Santos Abreu;14;Laranjal do Jari;Partido Trabalhista Brasileiro;P
+Cristiano Bevilacqua Furlan;77000;Macapá;Solidariedade;V
+Clécio Luís Vilhena Vieira;18;Macapá;Rede Sustentabilidade;P
+Luciel Maciel da Silva;65065;Amapá;Partido Comunista do Brasil;V
+Maria Neli Nonato;18;Calçoene;Democratas;P
+Danielle Pires da Silva;20111;Amapá;Partido Social Cristão;V
+Rafael dos Santos Silva;33555;Macapá;Partido da Mobilização Nacional;V
+Elton Silva Garcia;44555;Macapá;Partido Republicano Progressista;V
+Elais Naila dos Passos Penha;54111;Pracuúba;Partido Pátria Livre;V
+Marinelio Cordeiro Monteiro;33;Amapá;Partido Social Cristão;P
+Mario Ricardo Nascimento de Oliveira;15007;Santana;Partido do Movimento Democrático Brasileiro;V
+Rildo Frederico Ferreira;21123;Macapá;Partido Comunista Brasileiro;V
+Zilma Correa Balieiro dos Santos;25;Santana;Democratas;P
+Luiz Amanajas da Silva;12009;Oiapoque;Partido Democrático Trabalhista;V
+Arivaldo dos Santos Serra;15678;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Haisha Marry Brito da Silva dos Santos;51369;Macapá;Partido Ecológico Nacional;V
+Edilson Vieira Rocha;13801;Macapá;Partido dos Trabalhadores;V
+Rosinete Rodrigues Serrão;40180;Macapá;Partido Socialista Brasileiro;V
+Carlindo da Cruz Pereira;15100;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Alana Bruna Soares Rodrigues;11123;Macapá;Partido Progressista;V
+Marilandia dos Santos de Sales Monteiro;20580;Porto Grande;Partido Social Cristão;V
+Adinailson Santos de Oliveira;15215;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Luana Ingrid Oliveira Beserra;44323;Calçoene;Partido Republicano Progressista;V
+Marycia Gabrieli da Silva Sobral;35500;Amapá;Partido da Mulher Brasileira;V
+Valdinei Vitoriano Batista;44444;Santana;Partido Republicano Progressista;V
+Arivaldo Viana Bahia;43123;Mazagão;Partido Verde;V
+Elizomar Pereira Alves;10190;Santana;Partido Republicano Brasileiro;V
+Maria dos Anjos Oliveira Siqueira;22456;Porto Grande;Partido da República;V
+Getulio Coelho dos Santos;77456;Cutias;Solidariedade;V
+Helison Roberto dos Santos de Andrade;45800;Oiapoque;Partido da Social Democracia Brasileira;V
+Alzivan Alves Sarmento;44123;Ferreira Gomes;Partido Republicano Progressista;V
+Dayana Picanço Tavares dos Reis;65789;Oiapoque;Partido Comunista do Brasil;V
+Carlos Pereira dos Santos;17147;Porto Grande;Partido Social Liberal;V
+Lindomar Santos do Rosario Feitosa;20000;Calçoene;Partido Social Cristão;V
+Manoel Assunção da Cruz Monteiro;12222;Laranjal do Jari;Partido Democrático Trabalhista;V
+Eleaquim Conceição Vieira;11111;Tartarugalzinho;Partido Progressista;V
+Moises Rodrigues Brito;12006;Oiapoque;Partido Democrático Trabalhista;V
+Karlene Aguiar Lamberg;14000;Macapá;Partido Trabalhista Brasileiro;V
+Cleiton Azevedo das Chagas;55999;Laranjal do Jari;Partido Social Democrático;V
+Elielson da Silva Moraes;12380;Porto Grande;Partido Democrático Trabalhista;V
+Hozana Mamede;22789;Amapá;Partido da República;V
+Silvia Cristina Quaresma Coelho;13309;Macapá;Partido dos Trabalhadores;V
+Antonio Barbosa de Oliveira;17888;Tartarugalzinho;Partido Social Liberal;V
+Enilson Rodrigues Ferreira;28555;Santana;Partido Renovador Trabalhista Brasileiro;V
+Aldenora Portilho dos Santos;18123;Santana;Rede Sustentabilidade;V
+Rosineide Melo dos Santos;36789;Laranjal do Jari;Partido Trabalhista Cristão;V
+Maria Veronica da Silva Monteiro;54123;Mazagão;Partido Pátria Livre;V
+Ivaneide Santos de Almeida da Matta;12123;Amapá;Partido Democrático Trabalhista;V
+Carlos Alexandre Campos da Costa;13123;Pedra Branca do Amapari;Partido dos Trabalhadores;V
+Pedro Gouveia Chaves;10999;Santana;Partido Republicano Brasileiro;V
+Jose dos Santos Cardoso;40222;Santana;Partido Socialista Brasileiro;V
+Odileia dos Santos Coelho;55978;Mazagão;Partido Social Democrático;V
+Ademir Mendes Pessoa;19123;Tartarugalzinho;Partido Trabalhista Nacional;V
+Edileuza Farias Dias;25123;Pracuúba;Democratas;V
+José Benedito Rodrigues Durans;50;Laranjal do Jari;Partido Socialismo e  Liberdade;P
+Maria do Socorro Sanches Nunes;43550;Macapá;Partido Verde;V
+Raimunda Terezinha Silva Fernandes;31031;Macapá;Partido Humanista da Solidariedade;V
+Ivone Alho Batista;70333;Vitória do Jari;Partido Trabalhista do Brasil;V
+Richel Mendes Pantoja;12222;Cutias;Partido Democrático Trabalhista;V
+Raquel do Socorro da Silva Borges;22456;Ferreira Gomes;Partido da República;V
+Herison Alex da Silva Duarte;15198;Macapá;Partido do Movimento Democrático Brasileiro;V
+Livio de Jesus Almeida;22123;Pracuúba;Partido da República;V
+Queila de Almeida dos Santos;10580;Santana;Partido Republicano Brasileiro;V
+Reginaldo Silva Marques;31123;Oiapoque;Partido Humanista da Solidariedade;V
+Orivaldo Oliveira de Brito;13444;Tartarugalzinho;Partido dos Trabalhadores;V
+Joacy Rabelo da Silva;40;Oiapoque;Partido Socialista Brasileiro;P
+Elias Gomes de Almeida;10123;Santana;Partido Republicano Brasileiro;V
+Francisco Gomes Correa;40156;Calçoene;Partido Socialista Brasileiro;V
+Arlene Guedes do Nascimento;70613;Serra do Navio;Partido Trabalhista do Brasil;V
+Edemir de Lima Santos Filho;20123;Tartarugalzinho;Partido Social Cristão;V
+Kezia Barbosa de Souza;27222;Ferreira Gomes;Partido Social Democrata Cristão;V
+Waldon Chaves dos Santos;11789;Santana;Partido Progressista;V
+José da Silva;65123;Oiapoque;Partido Comunista do Brasil;V
+Geraldo Oliveira Leite;10147;Tartarugalzinho;Partido Republicano Brasileiro;V
+Rafael Cunha Magalhaes;20789;Macapá;Partido Social Cristão;V
+Francisco das Chagas Mendes;11211;Laranjal do Jari;Partido Progressista;V
+Francisco Rone Lima Marreiro;27000;Laranjal do Jari;Partido Social Democrata Cristão;V
+Regiane Gurgel Menezes Medeiros;27777;Macapá;Partido Social Democrata Cristão;V
+Eusenir Chaves Silva;22580;Mazagão;Partido da República;V
+Jose Raimundo Santos Pessoa;25555;Itaubal;Democratas;V
+José de Ribamar da Conceição Silva;33000;Laranjal do Jari;Partido da Mobilização Nacional;V
+Bernardo Junior Leite Nápoles dos Santos;10789;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Ana Claudia Tavares Magave;27888;Ferreira Gomes;Partido Social Democrata Cristão;V
+Aldiedson Barbosa Melonio;35000;Laranjal do Jari;Partido da Mulher Brasileira;V
+Aldenei Costa Ladislau;55123;Itaubal;Partido Social Democrático;V
+Lacimir de Freitas Andrade;25;Santana;Partido Ecológico Nacional;P
+Edilson Mendes Froes;23123;Vitória do Jari;Partido Popular Socialista;V
+Raquel Capiberibe da Silva;51;Macapá;Partido da Mobilização Nacional;P
+Waldir de Sousa Paiva;35111;Laranjal do Jari;Partido da Mulher Brasileira;V
+Allan Rubens da Silva Nunes;35007;Oiapoque;Partido da Mulher Brasileira;V
+Josivam Neri Sales;25133;Itaubal;Democratas;V
+Jorge Alcindo Furtado Abidon;44444;Macapá;Partido Republicano Progressista;V
+Paulo Lennon da Silva Coutinho;51333;Ferreira Gomes;Partido Ecológico Nacional;V
+Marlene Almeida dos Santos;10111;Santana;Partido Republicano Brasileiro;V
+Arnon Wendell Nonato;25123;Calçoene;Democratas;V
+Paulo Rogerio Dias do Vale;23777;Macapá;Partido Popular Socialista;V
+Pablo Valente Texeira Bandeira;51123;Macapá;Partido Ecológico Nacional;V
+Manoel Soares Feitoza Filho;11112;Calçoene;Partido Progressista;V
+Walterlison da Silva Costa;12123;Itaubal;Partido Democrático Trabalhista;V
+Cleineide Moreira Batista;51222;Laranjal do Jari;Partido Ecológico Nacional;V
+Maria Santana da Silva Santos;77456;Santana;Solidariedade;V
+Magnaldo Ferreira da Rocha;22369;Pedra Branca do Amapari;Partido da República;V
+Welson de Freitas Soares;12125;Tartarugalzinho;Partido Democrático Trabalhista;V
+Oscar Gislael Vieira Silva;18123;Oiapoque;Rede Sustentabilidade;V
+Dina Soares dos Reis;23;Tartarugalzinho;Partido Trabalhista Brasileiro;P
+Virgulino da Silva Freitas;12456;Porto Grande;Partido Democrático Trabalhista;V
+Antonio Mauricio de Medeiros;40121;Santana;Partido Socialista Brasileiro;V
+Joelma Fortuna Gomes;33123;Pedra Branca do Amapari;Partido da Mobilização Nacional;V
+Rosinaldo da Silva Mira;13123;Amapá;Partido dos Trabalhadores;V
+Fabricio Brito Moreira;13123;Macapá;Partido dos Trabalhadores;V
+Jucivaldo Barriga dos Santos;40040;Macapá;Partido Socialista Brasileiro;V
+Mario Rocha de Matos Filho;27123;Mazagão;Partido Social Democrata Cristão;V
+Francisco Araujo da Silva;35620;Itaubal;Partido da Mulher Brasileira;V
+Elias da Costa Farias;25123;Macapá;Democratas;V
+Moroni Pascale Bemuyal Guimarães;50;Ferreira Gomes;Partido Socialismo e  Liberdade;P
+Diene Tavares Paz;18123;Itaubal;Rede Sustentabilidade;V
+Alexsandro Pastana Monteiro;18666;Macapá;Rede Sustentabilidade;V
+Andreza Souza Gomes;70000;Pedra Branca do Amapari;Partido Trabalhista do Brasil;V
+Leida Teles Costa;43789;Laranjal do Jari;Partido Verde;V
+Neuci Cardoso Barbosa;51122;Ferreira Gomes;Partido Ecológico Nacional;V
+Roberto Vales dos Prazeres;18123;Tartarugalzinho;Rede Sustentabilidade;V
+Katiane Pereira Lima;19111;Santana;Partido Trabalhista Nacional;V
+Sebastião Nelson Silva de Souza;18123;Macapá;Rede Sustentabilidade;V
+Auciney Rodrigues Maciel;45123;Macapá;Partido da Social Democracia Brasileira;V
+Valber Lima da Silva;22789;Pedra Branca do Amapari;Partido da República;V
+Paulo Renato Santos Lima;18111;Calçoene;Rede Sustentabilidade;V
+Maria Lizeth da Costa Figueiredo;25123;Itaubal;Democratas;V
+Raimundo de Alcimar Ney de Souza;13;Vitória do Jari;Partido dos Trabalhadores;P
+Washington Luiz Magalhães Picanço da Silva;40123;Macapá;Partido Socialista Brasileiro;V
+Endreson Silveira da Silva;18456;Macapá;Rede Sustentabilidade;V
+Risoleta Castro Souza;40123;Tartarugalzinho;Partido Socialista Brasileiro;V
+Roberval de Albuquerque Carvalho;12345;Oiapoque;Partido Democrático Trabalhista;V
+Antonio Carlos Cavaleiro Mourao;10369;Itaubal;Partido Republicano Brasileiro;V
+Dayane Correa dos Santos;22;Pracuúba;Democratas;P
+Nadabe de Jesus da Silva Cordeiro Guedes;17222;Santana;Partido Social Liberal;V
+Lucimar Oliveira dos Passos;50234;Pracuúba;Partido Socialismo e  Liberdade;V
+Eliezio Pereira Moraes;10789;Laranjal do Jari;Partido Republicano Brasileiro;V
+Valder Isacksson Monteiro;43;Ferreira Gomes;Democratas;P
+Edinaldo Monteiro Duarte;65222;Santana;Partido Comunista do Brasil;V
+Francisco Pereira da Silva;13000;Laranjal do Jari;Partido dos Trabalhadores;V
+Jose Levindo Maciel de Almeida;36123;Macapá;Partido Trabalhista Cristão;V
+Domingos de Amorim;19456;Laranjal do Jari;Partido Trabalhista Nacional;V
+Telma Adriana Nery Paiva;18;Macapá;Democratas;P
+Kelsen Barbosa Dias;65123;Cutias;Partido Comunista do Brasil;V
+Reginaldo de Azevedo Rodrigues;40024;Santana;Partido Socialista Brasileiro;V
+José Luiz Wanzeler Carvalho;40244;Macapá;Partido Socialista Brasileiro;V
+Everaldo Cardoso Cruz;51567;Macapá;Partido Ecológico Nacional;V
+Janilson Cavalcante Carvalho;40150;Macapá;Partido Socialista Brasileiro;V
+Jose Mauro Palhares;70123;Oiapoque;Partido Trabalhista do Brasil;V
+Benedita Francinilde Botelho Galvão;12555;Tartarugalzinho;Partido Democrático Trabalhista;V
+Ezequiel da Silva Santos;33;Itaubal;Partido Comunista do Brasil;P
+Eliseu de Assis Ferreira de Almeida;19300;Santana;Partido Trabalhista Nacional;V
+Welden Berg Carvalho Costa;33123;Ferreira Gomes;Partido da Mobilização Nacional;V
+Jose Eduardo Moraes Vieira;55789;Vitória do Jari;Partido Social Democrático;V
+Antonio Peres de Araujo;70111;Calçoene;Partido Trabalhista do Brasil;V
+Jeciane Duarte Cardoso;51555;Oiapoque;Partido Ecológico Nacional;V
+Oriel Ferreira Campos;10380;Itaubal;Partido Republicano Brasileiro;V
+Maria Gorete Beserra Loiola;15555;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Erivelton de Araújo Costa;11789;Macapá;Partido Progressista;V
+André da Silva Borges;28178;Santana;Partido Renovador Trabalhista Brasileiro;V
+Jurandilson Sarmento de Brito;77120;Cutias;Solidariedade;V
+Genival Gemaque Santana;22;Pedra Branca do Amapari;Partido da República;P
+Neldinei Rodrigues dos Santos;20200;Calçoene;Partido Social Cristão;V
+Miguel da Fonseca e  Silva;90000;Mazagão;Partido Republicano da Ordem Social;V
+Francisco Ferreira de Barros Junior;44100;Calçoene;Partido Republicano Progressista;V
+Nilson da Silva Figueiredo;15;Tartarugalzinho;Partido Democrático Trabalhista;P
+Ronaldo Del Castillo Cambraia;40123;Mazagão;Partido Socialista Brasileiro;V
+Benedito da Silva Braga;15555;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Orivana Barbosa Costa;45111;Oiapoque;Partido da Social Democracia Brasileira;V
+Arinaldo Machado Lobo;22223;Tartarugalzinho;Partido da República;V
+Vanuza Muniz Aguiar;22122;Macapá;Partido da República;V
+João Evangelista Batista da  Silva;43555;Laranjal do Jari;Partido Verde;V
+Fabio Morais Breynne;45123;Santana;Partido da Social Democracia Brasileira;V
+Gildoval Farias Barbosa;33610;Macapá;Partido da Mobilização Nacional;V
+Shirley Gisele Ribeiro Dantas;45331;Macapá;Partido da Social Democracia Brasileira;V
+Eliel Tenorio Soares;12053;Macapá;Partido Democrático Trabalhista;V
+Maria Vilma Melo Melônio;14456;Serra do Navio;Partido Trabalhista Brasileiro;V
+Edinael da Silva Santos;50789;Santana;Partido Socialismo e  Liberdade;V
+Franck Asley Almeida de Brito;12555;Cutias;Partido Democrático Trabalhista;V
+Euclimar Fontineles Lima;70234;Oiapoque;Partido Trabalhista do Brasil;V
+Francineide de Oliveira Moreira;35123;Tartarugalzinho;Partido da Mulher Brasileira;V
+Katiane Dorneles Miranda Holanda;10699;Macapá;Partido Republicano Brasileiro;V
+Izaias Jose Cruz Cunha;12;Porto Grande;Partido Popular Socialista;P
+Renato Sales Marques;12456;Amapá;Partido Democrático Trabalhista;V
+Katia Cristina Sousa Aguiar;90555;Vitória do Jari;Partido Republicano da Ordem Social;V
+André Luis Nunes Ferreira;44567;Macapá;Partido Republicano Progressista;V
+Cleidione Costa Ferreira;18000;Macapá;Rede Sustentabilidade;V
+Luciano Dalvis Tavares;18000;Santana;Rede Sustentabilidade;V
+Olgailzo Brito Tolosa;40444;Cutias;Partido Socialista Brasileiro;V
+Euque Siqueira Moraes;11123;Pracuúba;Partido Progressista;V
+Raimundo Edilson Ribeiro;55565;Porto Grande;Partido Social Democrático;V
+Maria das Graças Vilhena da Fonseca;51123;Pracuúba;Partido Ecológico Nacional;V
+Maria do Socorro Fonteles Ohashi;12345;Calçoene;Partido Democrático Trabalhista;V
+Camila Palmerim de Palmerim;51456;Itaubal;Partido Ecológico Nacional;V
+Janete Silva da Costa Goes;36111;Santana;Partido Trabalhista Cristão;V
+Akiana Pereira Martins;51111;Laranjal do Jari;Partido Ecológico Nacional;V
+Juvelino Penha Magave;10222;Pracuúba;Partido Republicano Brasileiro;V
+Ayrton Cleber do Carmo Nobre;43;Laranjal do Jari;Partido Verde;P
+Rose Patricia Ribeiro da Silva Castro;44123;Laranjal do Jari;Partido Republicano Progressista;V
+Raimundo Martins dos Santos;40333;Itaubal;Partido Socialista Brasileiro;V
+Anael Sousa e  Sá;22789;Santana;Partido da República;V
+Engraci Marques Bruno;22412;Macapá;Partido da República;V
+Jó de Souza Pereira;27222;Serra do Navio;Partido Social Democrata Cristão;V
+Magdiel Eliton Ayres do Couto;70147;Macapá;Partido Trabalhista do Brasil;V
+Madson Ferreira Rodrigues;43789;Vitória do Jari;Partido Verde;V
+Geida Fonseca Pontes;40;Calçoene;Partido Socialista Brasileiro;P
+Ramirys Gomes Silva;45111;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Waldir Oliveira Pantoja;27377;Macapá;Partido Social Democrata Cristão;V
+Ofirney da Conceição Sadala;27;Santana;Partido Social Democrata Cristão;P
+Anilton Silva de Oliveira;70000;Serra do Navio;Partido Trabalhista do Brasil;V
+Adervan Frans Guimarães Mira;23123;Amapá;Partido Popular Socialista;V
+Emanoel da Silva Costa;65165;Vitória do Jari;Partido Comunista do Brasil;V
+Jose Domingos de Almeida Vaz;12699;Porto Grande;Partido Democrático Trabalhista;V
+Jose Paulo Sena dos Santos;13456;Vitória do Jari;Partido dos Trabalhadores;V
+Zeruia de Souza Ferreira Pereira;12666;Cutias;Partido Democrático Trabalhista;V
+Rogério Pereira Brito;12001;Santana;Partido Democrático Trabalhista;V
+Rita de Cássia de Oliveira Sousa;22069;Santana;Partido da República;V
+Charlene Cristina Tavares;17777;Macapá;Partido Social Liberal;V
+Rubenvaldo Barata Chagas;25777;Macapá;Democratas;V
+Marcio Alexandre Soares Santana;14333;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Robson Santana Rocha Freires;22;Santana;Partido da República;P
+Lindoval Santos do Rosario;20;Calçoene;Partido Social Cristão;P
+Francinei de Souza Nunes;54822;Santana;Partido Pátria Livre;V
+Francisco Antonio Rodrigues da Silva;45024;Serra do Navio;Partido da Social Democracia Brasileira;V
+Rafael Claudio Oliveira de Jesus;13123;Cutias;Partido dos Trabalhadores;V
+Juracy das Neves Brito;10111;Laranjal do Jari;Partido Republicano Brasileiro;V
+Claudomiro de Moraes Guedes;17000;Santana;Partido Social Liberal;V
+Uzian Pinto Machado;27;Laranjal do Jari;Partido Social Democrata Cristão;P
+Francisco do Carmo Souza de Oliveira;44678;Santana;Partido Republicano Progressista;V
+Helber Jose Amorim dos Santos;15222;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Domingos Alves Macedo;25234;Itaubal;Democratas;V
+Arienzo Lima Goés;22022;Santana;Partido da República;V
+Sandrigue Ribeiro Gonçalves;70789;Oiapoque;Partido Trabalhista do Brasil;V
+Geraldo Vale Ramos;45580;Macapá;Partido da Social Democracia Brasileira;V
+Cícero Neto Machado da Silva;22123;Pedra Branca do Amapari;Partido da República;V
+Carlos Alberto Sousa Lopes;15251;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Ed Lincoln Vilhena Botelho;25333;Macapá;Democratas;V
+Henrique Nubia Brabo Sousa;33666;Oiapoque;Partido da Mobilização Nacional;V
+Junior Almeida do Nascimento;70303;Serra do Navio;Partido Trabalhista do Brasil;V
+Antonio Nascimento da Silva;70000;Porto Grande;Partido Trabalhista do Brasil;V
+Jonas Gomes de Oliveira;13131;Macapá;Partido dos Trabalhadores;V
+Alderiza de Souza Pereira Monteiro;12333;Cutias;Partido Democrático Trabalhista;V
+Belarmino Borges Gomes;90171;Santana;Partido Republicano da Ordem Social;V
+Mario Arlindo Amoras da Silva;65345;Oiapoque;Partido Comunista do Brasil;V
+Gean Arlon Aleixo Nunes;44100;Macapá;Partido Republicano Progressista;V
+Rosa Maria Rodrigues da Silva;13111;Cutias;Partido dos Trabalhadores;V
+Jeová Coelho;20222;Macapá;Partido Social Cristão;V
+Feliciano Ribeiro da Cruz;12362;Santana;Partido Democrático Trabalhista;V
+Edinaldo Cardias dos Santos;51477;Porto Grande;Partido Ecológico Nacional;V
+Carlos Alberto Rodrigues do Carmo;15123;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Samara Rocha Ferreira;35789;Cutias;Partido da Mulher Brasileira;V
+Natalia Marreiros da Silva Correa;23111;Santana;Partido Popular Socialista;V
+Salomao Viana da Silva;35123;Itaubal;Partido da Mulher Brasileira;V
+Nafitali Soares dos Reis;20800;Tartarugalzinho;Partido Social Cristão;V
+Sania Pinheiro Alves;31111;Cutias;Partido Humanista da Solidariedade;V
+Alex Costa Miranda;43123;Itaubal;Partido Verde;V
+Thicianny de Franca Cruz;27111;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+Iramá Veras Silva;12123;Tartarugalzinho;Partido Democrático Trabalhista;V
+Jocileia Pereira Almeida;22567;Itaubal;Partido da República;V
+Vencelau Alves da Costa;51;Itaubal;Partido Ecológico Nacional;P
+Alexsander Pinheiro Melo;28723;Ferreira Gomes;Partido Renovador Trabalhista Brasileiro;V
+Rosineide do Socorro Carvalho da Silva;22123;Vitória do Jari;Partido da República;V
+Stelcia do Socorro Costa Magyar;15177;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Odilene Pinheiro da Silva;35000;Porto Grande;Partido da Mulher Brasileira;V
+Manoel Quaresma dos Santos;15111;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Diomar Vicente da Silva;27147;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+Maria José Rodrigues;13000;Tartarugalzinho;Partido dos Trabalhadores;V
+Mariele Chagas Barbosa;55111;Vitória do Jari;Partido Social Democrático;V
+José Carlos Floriano Ribeiro;19123;Vitória do Jari;Partido Trabalhista Nacional;V
+Raimundo Nonato Pantoja Nascimento;55000;Mazagão;Partido Social Democrático;V
+Clamisael Freitas Barros;77289;Porto Grande;Solidariedade;V
+Juliane Figueiredo Pereira;12777;Macapá;Partido Democrático Trabalhista;V
+Walter Soares Monteiro;55678;Vitória do Jari;Partido Social Democrático;V
+Cristina Santos de Oliveira Cosme;77777;Macapá;Solidariedade;V
+Francisco das Chagas Gomes Freires;17123;Santana;Partido Social Liberal;V
+Bruno Coelho Mendonça;11111;Cutias;Partido Progressista;V
+Claudirene Cardozo Damião;50444;Macapá;Partido Socialismo e  Liberdade;V
+Aldemar Gomes da Silva;35123;Calçoene;Partido da Mulher Brasileira;V
+José Augusto Dias Gurjão;15555;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Ricardo Sousa Farias Junior;15699;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Luiz Armando Vidal Ramos;51234;Oiapoque;Partido Ecológico Nacional;V
+Gilmario Carvalho Tavares;22456;Pracuúba;Partido da República;V
+Sonia Monteiro da Costa;15678;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Mateus de Souza Silva;90369;Pedra Branca do Amapari;Partido Republicano da Ordem Social;V
+Veridiano Barbosa Toloza Filho;54120;Cutias;Partido Pátria Livre;V
+Tharcio Miguel Paixão de Sousa;11123;Laranjal do Jari;Partido Progressista;V
+Raimundo Nonato Sousa;12369;Calçoene;Partido Democrático Trabalhista;V
+Ricardo de Oliveira Bento;15134;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Gilson Costa Homobono;14569;Itaubal;Partido Trabalhista Brasileiro;V
+Nanci de Sousa Brito;27;Pedra Branca do Amapari;Partido Democrático Trabalhista;P
+Geovan Souza da Costa;12111;Amapá;Partido Democrático Trabalhista;V
+Rubens José da Conceição dos Navegantes;90222;Macapá;Partido Republicano da Ordem Social;V
+Railander de Souza dos Santos;70369;Vitória do Jari;Partido Trabalhista do Brasil;V
+Iara Viana Mourao;10963;Itaubal;Partido Republicano Brasileiro;V
+Elenice de Oliveira Silva Moura;50100;Macapá;Partido Socialismo e  Liberdade;V
+Mário Flávio Silva de Sousa;22111;Mazagão;Partido da República;V
+Elizabeth Pelaes dos Santos;15;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;P
+Benedito Vieira de Barros;23;Mazagão;Partido Republicano Brasileiro;P
+Charles Alves Costa;45000;Serra do Navio;Partido da Social Democracia Brasileira;V
+Leonete Pantaleao Oliveira;15678;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+João Paulo Rocha Rodrigues;51999;Ferreira Gomes;Partido Ecológico Nacional;V
+Ediana da Silva Marques;36131;Santana;Partido Trabalhista Cristão;V
+Gelson de Miranda Barros;33123;Mazagão;Partido da Mobilização Nacional;V
+Neilson Almeida Ribeiro;31333;Laranjal do Jari;Partido Humanista da Solidariedade;V
+Arlei Batista Ferreira Isacksson;43111;Ferreira Gomes;Partido Verde;V
+Raimunda da Silva Trindade;18181;Macapá;Rede Sustentabilidade;V
+Paulo Sergio Gaia Malcher;27890;Vitória do Jari;Partido Social Democrata Cristão;V
+Rosa Maria Ferreira dos Santos;12555;Santana;Partido Democrático Trabalhista;V
+Ramos dos Santos;43;Oiapoque;Partido Progressista;P
+Pedro Paulo dos Santos Costa;55;Porto Grande;Democratas;P
+Christiandson Kaue Corria da Silva;12789;Oiapoque;Partido Democrático Trabalhista;V
+Ivone Lamaral Furtado;43110;Macapá;Partido Verde;V
+Azarias Ioio Iaparra;43222;Oiapoque;Partido Verde;V
+Francisco Filho de Morais Ribeiro;12312;Pracuúba;Partido Democrático Trabalhista;V
+Maria Benedita Dias Marques;33123;Vitória do Jari;Partido da Mobilização Nacional;V
+José do Espírito Santo Farias Reis;12369;Tartarugalzinho;Partido Democrático Trabalhista;V
+Jonatas do Nascimento;43443;Macapá;Partido Verde;V
+Marcio Alessandro Marques dos Santos;11333;Porto Grande;Partido Progressista;V
+Jose Otavio Braga da Silva Correa;50000;Oiapoque;Partido Socialismo e  Liberdade;V
+Juscelino Viana de Morais;10000;Santana;Partido Republicano Brasileiro;V
+Gloria de Fatima Lobo Sousa;10369;Pedra Branca do Amapari;Partido Republicano Brasileiro;V
+Ricardo Sousa do Nascimento;17789;Macapá;Partido Social Liberal;V
+Odilson Serra Nunes;10111;Macapá;Partido Republicano Brasileiro;V
+Aldo Santana Gonçalves;18123;Amapá;Rede Sustentabilidade;V
+Dorivan Cortes Soares Menezes;44123;Serra do Navio;Partido Republicano Progressista;V
+Valcir Marvulle;43;Laranjal do Jari;Partido Social Democrático;P
+Antonio Paulo Castillo de Oliveira;22333;Pracuúba;Partido da República;V
+Valnei do Nascimento Guedes;13456;Santana;Partido dos Trabalhadores;V
+Jolianne Pereira Fontenele;65125;Porto Grande;Partido Comunista do Brasil;V
+Rayane de Sales dos Santos;50224;Santana;Partido Socialismo e  Liberdade;V
+José Nazareno Lima Tavares;40401;Cutias;Partido Socialista Brasileiro;V
+Auzenir Ferreira Duarte;14678;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Geam Lamarão Dias;13111;Macapá;Partido dos Trabalhadores;V
+Ivanete Franklin Furtado;23333;Macapá;Partido Popular Socialista;V
+Benedito Amarildo da Costa Araújo;17007;Macapá;Partido Social Liberal;V
+Sandro Ramos Brito;22456;Oiapoque;Partido da República;V
+José Raimundo de Oliveira Cordeiro;13580;Santana;Partido dos Trabalhadores;V
+Raimundo Tolosa Santana;13456;Itaubal;Partido dos Trabalhadores;V
+Wilson de Sousa Filho;27;Pedra Branca do Amapari;Partido Social Democrata Cristão;P
+Ronildo Costa da Silva;33111;Itaubal;Partido da Mobilização Nacional;V
+Ana Maria Ferreira Perna;55222;Santana;Partido Social Democrático;V
+Antonio Marcos Passos de Sales;22342;Pracuúba;Partido da República;V
+Neucicley Nascimento Rodrigues;19999;Serra do Navio;Partido Trabalhista Nacional;V
+Jean Freitas Rodrigues;40111;Calçoene;Partido Socialista Brasileiro;V
+Valdeci Ribeiro dos Santos;22777;Pracuúba;Partido da República;V
+Jefferson dos Anjos Monteiro;10456;Itaubal;Partido Republicano Brasileiro;V
+Marilucia Valente de Souza;77021;Santana;Solidariedade;V
+José Antônio Cabral Pereira;13122;Macapá;Partido dos Trabalhadores;V
+Estevam dos Santos Nascimento;22555;Porto Grande;Partido da República;V
+Tatiana Gemaque Rezende;50123;Macapá;Partido Socialismo e  Liberdade;V
+Luiz Carlos Souza da Costa;12555;Macapá;Partido Democrático Trabalhista;V
+Jose Pantoja Alves;77123;Cutias;Solidariedade;V
+Richelly Amorim Tavares;13139;Macapá;Partido dos Trabalhadores;V
+Gilvam Pinheiro Borges;15;Macapá;Partido do Movimento Democrático Brasileiro;P
+Regiane Miranda Sá;27277;Santana;Partido Social Democrata Cristão;V
+Walcimar Ribeiro Fonseca;90000;Laranjal do Jari;Partido Republicano da Ordem Social;V
+Alan Jerffeson Rocha Picanço;11233;Itaubal;Partido Progressista;V
+Diogo dos Santos Pantoja;10222;Macapá;Partido Republicano Brasileiro;V
+Lidiane Freitas Araujo;77031;Santana;Solidariedade;V
+Jose Meneses de Macedo Carvalho;23;Tartarugalzinho;Partido Popular Socialista;P
+Alexandre Ramos da Costa;22222;Macapá;Partido da República;V
+Wenner Fran Pantoja dos Santos;13333;Cutias;Partido dos Trabalhadores;V
+Gercineide Silva Santos;19123;Oiapoque;Partido Trabalhista Nacional;V
+Maria de Fátima Ferreira Pena;22133;Santana;Partido da República;V
+Marilia Batista Costa;51321;Macapá;Partido Ecológico Nacional;V
+Celia dos Santos Filgueiras Lobo;22221;Tartarugalzinho;Partido da República;V
+Maria Sinhá Barbosa de Souza;36777;Laranjal do Jari;Partido Trabalhista Cristão;V
+Marco Aurelio Sousa dos Santos;55123;Santana;Partido Social Democrático;V
+Ana Celia Santos Leão;54164;Cutias;Partido Pátria Livre;V
+Francisco Assis Junior Pinto de Souza;25888;Pedra Branca do Amapari;Democratas;V
+Janilde Maria Monteiro Tavares;28;Ferreira Gomes;Partido Renovador Trabalhista Brasileiro;P
+Reinaldo Santos Barros;12;Calçoene;Partido Democrático Trabalhista;P
+Manoel dos Santos Ferreira;77123;Tartarugalzinho;Solidariedade;V
+Antonio Carlos Leite de Mendonça Junior;12;Pracuúba;Partido Democrático Trabalhista;P
+Paulo Ramos Pinheiro;25456;Santana;Democratas;V
+Adnaelson dos Reis Ferreira;90;Cutias;Partido Ecológico Nacional;P
+Emilio Matos e  Silva;65123;Amapá;Partido Comunista do Brasil;V
+Fredison Pena Lobato;28100;Macapá;Partido Renovador Trabalhista Brasileiro;V
+Eula Paula Torres da Silva;18018;Pedra Branca do Amapari;Rede Sustentabilidade;V
+Maria do Perpetuo Socorro Balieiro Teixeira;54123;Santana;Partido Pátria Livre;V
+Adiomar Roberto Veronese;15;Macapá;Partido Republicano da Ordem Social;P
+Greomar Ribeiro Botelho;11;Laranjal do Jari;Partido Humanista da Solidariedade;P
+Dulcivaldo Cantão da Costa;15156;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Neudilene Correia de Souza;12412;Itaubal;Partido Democrático Trabalhista;V
+Eliel Silva Andrade;65111;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Maria Helena dos Reis Santos;50150;Itaubal;Partido Socialismo e  Liberdade;V
+Ester Candida Chagas da Silva;40;Itaubal;Partido Socialista Brasileiro;P
+Samuel Chaves Nogueira;11000;Laranjal do Jari;Partido Progressista;V
+Evandro de Souza de Figueiredo;20555;Mazagão;Partido Social Cristão;V
+Raimundo Leão da Costa;55555;Macapá;Partido Social Democrático;V
+Lucimara Corrêa da Silva;18881;Macapá;Rede Sustentabilidade;V
+José Roberto da Silva Jesus;15000;Serra do Navio;Partido do Movimento Democrático Brasileiro;V
+Rosalina dos Santos Pacheco;12131;Calçoene;Partido Democrático Trabalhista;V
+Adrianna Socorro Avila Ramos;14789;Macapá;Partido Trabalhista Brasileiro;V
+Carlos Gabriel Andrade Nonato;51444;Macapá;Partido Ecológico Nacional;V
+Nilson de Oliveira Caluf;15123;Oiapoque;Partido do Movimento Democrático Brasileiro;V
+Juvenal Diniz Froz;51123;Santana;Partido Ecológico Nacional;V
+Anderson Ricardo de Almeida Feio;25000;Santana;Democratas;V
+Alison Diego dos Santos Pinheiro;19123;Macapá;Partido Trabalhista Nacional;V
+Elcimar Braga da Costa;22123;Mazagão;Partido da República;V
+Marceli Ribeiro dos Santos Bouland;27147;Oiapoque;Partido Social Democrata Cristão;V
+Luã de Oliveira e  Silva;55678;Macapá;Partido Social Democrático;V
+Valdo Oliveira Vaz;15333;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+Cleumi Furtado dos Anjos;50;Ferreira Gomes;Partido Socialista Brasileiro;P
+Silvio Jose Cardoso Barbosa;28123;Amapá;Partido Renovador Trabalhista Brasileiro;V
+João Bosco Chahini Melem;12345;Macapá;Partido Democrático Trabalhista;V
+Ricardo Luz dos Santos;51010;Santana;Partido Ecológico Nacional;V
+Helton Araujo Portela;54000;Macapá;Partido Pátria Livre;V
+Robson Souza Machado;22369;Serra do Navio;Partido da República;V
+Daimini Braga de Araujo;28246;Santana;Partido Renovador Trabalhista Brasileiro;V
+Pedro da Silva Souza;90100;Macapá;Partido Republicano da Ordem Social;V
+Remerson Pinheiro Alves;40;Cutias;Partido Socialista Brasileiro;P
+Luciana Albuquerque Ferreira Matias;40;Macapá;Partido Socialista Brasileiro;P
+Huani Cris Braga Andrade;51678;Santana;Partido Ecológico Nacional;V
+Andre Ribeiro da Costa;20123;Serra do Navio;Partido Social Cristão;V
+Evandro de Souza Pacheco;45190;Macapá;Partido da Social Democracia Brasileira;V
+João Mendes Campos Ferreira;10123;Ferreira Gomes;Partido Republicano Brasileiro;V
+Ruy Guilherme Smith Neves;40;Macapá;Partido Socialista Brasileiro;P
+Fabiola da Silva Chagas Lobato;27247;Serra do Navio;Partido Social Democrata Cristão;V
+Conceição Gomes de Carvalho;55;Vitória do Jari;Partido da Mobilização Nacional;P
+Michelli Fernandes Martins;44321;Macapá;Partido Republicano Progressista;V
+Carlos Alberto Mazzini do Amaral Neto;90123;Itaubal;Partido Republicano da Ordem Social;V
+Ester dos Santos Maciel;33111;Macapá;Partido da Mobilização Nacional;V
+Antônio Trindade Costa;15123;Cutias;Partido do Movimento Democrático Brasileiro;V
+Erison José Souza Pires;27777;Ferreira Gomes;Partido Social Democrata Cristão;V
+Pedro Celso Monteiro Jordão;12345;Porto Grande;Partido Democrático Trabalhista;V
+Adelso Sena Monteiro;44000;Macapá;Partido Republicano Progressista;V
+Elim Soares Mendes;15678;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Dário Gomes Dias;22000;Santana;Partido da República;V
+Elton Mauro Vilhena Ribeiro;51888;Macapá;Partido Ecológico Nacional;V
+Leide Maria Pantoja Ferreira;13999;Santana;Partido dos Trabalhadores;V
+Amarildo Maciel dos Santos;27193;Oiapoque;Partido Social Democrata Cristão;V
+José Maria Nascimento de Souza;90000;Porto Grande;Partido Republicano da Ordem Social;V
+Adinaldo Mendes dos Santos Lima;20;Calçoene;Partido Social Cristão;P
+Advaldo Costa Pessoa;25789;Pedra Branca do Amapari;Democratas;V
+Willian Orany Sa e  Silva;65222;Pedra Branca do Amapari;Partido Comunista do Brasil;V
+Nazilda Fernandes Rodrigues;15;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;P
+Elmira Fatima Flores;14567;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Adilson Dias da Silva;12500;Santana;Partido Democrático Trabalhista;V
+Edna Shirley da Silva Teixeira;15266;Calçoene;Partido do Movimento Democrático Brasileiro;V
+Marcelo Barbosa de Melo;14123;Cutias;Partido Trabalhista Brasileiro;V
+Rildo Gomes de Oliveira;15;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;P
+Edineuma Ideltrudes Ferreira;18512;Macapá;Rede Sustentabilidade;V
+Maria Angela Ciria da Silva Nunes;12333;Calçoene;Partido Democrático Trabalhista;V
+André Torres da Silva;15555;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;V
+Jeanne Soares Nunes Palheta;12112;Pracuúba;Partido Democrático Trabalhista;V
+Maria do Socorro do Carmo Leite;50456;Macapá;Partido Socialismo e  Liberdade;V
+Ana Maria Nogueira Uchoa;40275;Vitória do Jari;Partido Socialista Brasileiro;V
+Eliasibe Nunes Santos Filho;35123;Cutias;Partido da Mulher Brasileira;V
+Fabiano Leandro Oliveira;22111;Santana;Partido da República;V
+Benedito Raimundo da Costa;15789;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Ivoneide Ramos de Souza;40000;Ferreira Gomes;Partido Socialista Brasileiro;V
+Rayane da Silva Martins;44000;Serra do Navio;Partido Republicano Progressista;V
+Hamilton de Jesus Costa;12369;Pracuúba;Partido Democrático Trabalhista;V
+Adenilso Viana Moura;12112;Santana;Partido Democrático Trabalhista;V
+Jenival Pereira da Silva;90123;Pedra Branca do Amapari;Partido Republicano da Ordem Social;V
+Alcides Frazao Silva;14000;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Izaque da Silva Andrade;12111;Porto Grande;Partido Democrático Trabalhista;V
+Erica Carla Benjó de Andrade Ramos;15123;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Maria Conceição da Silva Barata;23123;Porto Grande;Partido Popular Socialista;V
+Eudes Gomes da Costa;54021;Macapá;Partido Pátria Livre;V
+Agnaldo Soares Correia;13000;Santana;Partido dos Trabalhadores;V
+Maria Rutilene Soares Nogueira;14111;Oiapoque;Partido Trabalhista Brasileiro;V
+Neuza Monteiro de Velasco;40789;Macapá;Partido Socialista Brasileiro;V
+Welliton Brito Ferreira;20000;Laranjal do Jari;Partido Social Cristão;V
+Luzenildo Pimentel Sarub;12121;Vitória do Jari;Partido Democrático Trabalhista;V
+Marcelo dos Santos Vales;51000;Macapá;Partido Ecológico Nacional;V
+Júlio Chucre Maciel;12229;Macapá;Partido Democrático Trabalhista;V
+Ossimar Torres Sarmento;40140;Calçoene;Partido Socialista Brasileiro;V
+Francisco Rozivaldo Ribeiro de Oliveira;27;Santana;Partido Verde;P
+Dulcival da Silva Lobato;51331;Santana;Partido Ecológico Nacional;V
+Marlete dos Reis Dias Oliveira;12225;Macapá;Partido Democrático Trabalhista;V
+José Santos da Silva;33777;Ferreira Gomes;Partido da Mobilização Nacional;V
+Carlos Figueiredo de Oliveira;12152;Amapá;Partido Democrático Trabalhista;V
+Antonio Souza de Oliveira;55000;Tartarugalzinho;Partido Social Democrático;V
+Manuelle Jackeline do Carmo Cabral;90699;Macapá;Partido Republicano da Ordem Social;V
+Wedson Picanço da Silva;23789;Mazagão;Partido Popular Socialista;V
+Jaisom da Costa Picanço;35111;Itaubal;Partido da Mulher Brasileira;V
+Francisco Elbt da Costa Torres;33180;Santana;Partido da Mobilização Nacional;V
+Clenildo de Oliveira Dias;20258;Serra do Navio;Partido Social Cristão;V
+Nara Rafaela dos Santos Pinheiro da Costa;17456;Macapá;Partido Social Liberal;V
+Angelo Sucupira;90123;Amapá;Partido Republicano da Ordem Social;V
+Dayanne Rafaelle do Nascimento Lima;13;Macapá;Partido Humanista da Solidariedade;P
+Marco Antonio Reis de Abreu;28000;Macapá;Partido Renovador Trabalhista Brasileiro;V
+Genival Cruz de Araújo;16;Macapá;Partido Socialista dos Trabalhadores Unificado;P
+Andrea Kalina Cambuim Cavalcanti;27147;Macapá;Partido Social Democrata Cristão;V
+Nonato Quaresma de Oliveira;28367;Tartarugalzinho;Partido Renovador Trabalhista Brasileiro;V
+Orimisac Ramos Figueiredo;14580;Macapá;Partido Trabalhista Brasileiro;V
+Silvio Climaco Tavares Moreira;51123;Ferreira Gomes;Partido Ecológico Nacional;V
+Vanda Barreto de Oliveira;13567;Vitória do Jari;Partido dos Trabalhadores;V
+Fatima Maria da Costa Ramos;15630;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Graciete Cordeiro Aleixo Barros;12;Calçoene;Partido Democrático Trabalhista;P
+Washington Matos Aguiar;55360;Porto Grande;Partido Social Democrático;V
+Ruan Diego Aguiar da Silva;51151;Macapá;Partido Ecológico Nacional;V
+Antonia Sinara Hage;12222;Calçoene;Partido Democrático Trabalhista;V
+Carlos Magno Magalhães Maia Junior;55123;Porto Grande;Partido Social Democrático;V
+Nadilce Castro Gabriel;43100;Oiapoque;Partido Verde;V
+Maria Tereza Carmezim Perdigão;33033;Santana;Partido da Mobilização Nacional;V
+Giancarlo Darla Pinon Nery;70123;Macapá;Partido Trabalhista do Brasil;V
+Leidivan Duarte Sousa;43222;Ferreira Gomes;Partido Verde;V
+Nice Amaral dos Santos;25135;Itaubal;Democratas;V
+Jose Augusto Oliveira da Silva;10123;Laranjal do Jari;Partido Republicano Brasileiro;V
+Edinaldo Tavares de Araujo;51051;Santana;Partido Ecológico Nacional;V
+Jose Luiz Gonçalves Sosinho;23621;Porto Grande;Partido Popular Socialista;V
+Nádia Lima Moisés;51258;Ferreira Gomes;Partido Ecológico Nacional;V
+Lauanderson Sousa da Silva;70000;Oiapoque;Partido Trabalhista do Brasil;V
+Alex Tavares Souza;45789;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Dayana Silva Almeida Moraes;11123;Serra do Navio;Partido Progressista;V
+Alessandra Moreira Azevedo;40;Itaubal;Partido Republicano da Ordem Social;P
+Queila Rodrigues Santana;13789;Itaubal;Partido dos Trabalhadores;V
+Francimar Pena Custódio;45777;Macapá;Partido da Social Democracia Brasileira;V
+Josivan Pires de Oliveira;27147;Serra do Navio;Partido Social Democrata Cristão;V
+Suzane Gomes Pereira;13369;Cutias;Partido dos Trabalhadores;V
+Maria Gracineide Torres Cardoso;12321;Serra do Navio;Partido Democrático Trabalhista;V
+Alex Lopes de Souza;22234;Porto Grande;Partido da República;V
+Jose Vilson Monteiro Ferreira;20000;Amapá;Partido Social Cristão;V
+Marcelo da Silva;13654;Macapá;Partido dos Trabalhadores;V
+Valdelice da Silva e  Silva;28123;Santana;Partido Renovador Trabalhista Brasileiro;V
+Ariana dos Santos;23100;Oiapoque;Partido Popular Socialista;V
+Ulisses de Paula Guimarães da Silva;55234;Porto Grande;Partido Social Democrático;V
+Maria Marlene de Azevedo Nogueira;43567;Pedra Branca do Amapari;Partido Verde;V
+Messias Reis da Silva;27258;Macapá;Partido Social Democrata Cristão;V
+Aldeci Santos de Oliveira;12123;Ferreira Gomes;Partido Democrático Trabalhista;V
+Edivaldo Soares dos Santos;11155;Serra do Navio;Partido Progressista;V
+José da Silva de Moraes;12222;Amapá;Partido Democrático Trabalhista;V
+Nair Soares Lopes e  Lopes;22580;Amapá;Partido da República;V
+Claudia Thereza de Oliveira Cardoso;12213;Porto Grande;Partido Democrático Trabalhista;V
+Gregorio Dias da Silva;19123;Amapá;Partido Trabalhista Nacional;V
+Karlúcio Alves Batista;25456;Calçoene;Democratas;V
+Marcio Andres Lobato Sucupira;22123;Amapá;Partido da República;V
+Maria de Fatima Vieira dos Santos;25;Pedra Branca do Amapari;Partido Trabalhista do Brasil;P
+Wenderson Oliveira dos Santos;15222;Mazagão;Partido do Movimento Democrático Brasileiro;V
+Claudiane Pinheiro Araújo;16016;Macapá;Partido Socialista dos Trabalhadores Unificado;V
+Patricia Ramos Santos;43333;Calçoene;Partido Verde;V
+Atalíbio dos Santos Silva;11;Serra do Navio;Partido dos Trabalhadores;P
+Jose Maria Cabral de Abilio;43123;Porto Grande;Partido Verde;V
+Miguel Progenio dos Santos;19789;Santana;Partido Trabalhista Nacional;V
+Cacilda de Nazare Cunha dos Santos;43456;Porto Grande;Partido Verde;V
+Giodilson Pinheiro Borges;15;Mazagão;Partido do Movimento Democrático Brasileiro;P
+Adivaldo de Souza Costa;14111;Serra do Navio;Partido Trabalhista Brasileiro;V
+Maleliel Marques Coelho;22789;Laranjal do Jari;Partido da República;V
+Marcelo de Sousa Oliveira;12222;Ferreira Gomes;Partido Democrático Trabalhista;V
+Elane dos Santos Oliveira;40147;Santana;Partido Socialista Brasileiro;V
+Amiraldo Ramos;77369;Cutias;Solidariedade;V
+Regina de Oliveira Siqueira;23222;Pracuúba;Partido Popular Socialista;V
+José André da Costa;23100;Itaubal;Partido Popular Socialista;V
+Richard Madureira da Silva;65;Santana;Rede Sustentabilidade;P
+Edielson da Silva Cruz;15;Mazagão;Partido Democrático Trabalhista;P
+Daciane Amaral de Oliveira;12456;Cutias;Partido Democrático Trabalhista;V
+Miraiza Pantoja Souza;22147;Porto Grande;Partido da República;V
+William Bento dos Santos Pereira;10369;Santana;Partido Republicano Brasileiro;V
+Antonia do Socorro Maciel Dias;40222;Itaubal;Partido Socialista Brasileiro;V
+Eliasi Soares dos Santos;18133;Santana;Rede Sustentabilidade;V
+Raimundo Mesquita Ferreira dos Santos;25123;Ferreira Gomes;Democratas;V
+Luziel dos Reis Nascimento;27456;Pedra Branca do Amapari;Partido Social Democrata Cristão;V
+Farley Kelly dos Passos Soares;51111;Porto Grande;Partido Ecológico Nacional;V
+Darilson Nei da Silva;33333;Vitória do Jari;Partido da Mobilização Nacional;V
+Maria da Costa Nunes;22222;Mazagão;Partido da República;V
+Orismar Oliveira da Silva;22789;Ferreira Gomes;Partido da República;V
+Isaac Barbosa de Souza;70111;Tartarugalzinho;Partido Trabalhista do Brasil;V
+Ameliany Assunçao Azevedo;20777;Macapá;Partido Social Cristão;V
+Janio Rabelo Mourão;90123;Cutias;Partido Republicano da Ordem Social;V
+Edilena Gonçalves Dias;18147;Macapá;Rede Sustentabilidade;V
+Dione Silva Brito;14000;Cutias;Partido Trabalhista Brasileiro;V
+Paula Caroline Vaz Amanajás;90147;Cutias;Partido Republicano da Ordem Social;V
+Leonardo dos Santos Costa;14123;Pedra Branca do Amapari;Partido Trabalhista Brasileiro;V
+Ieda Costa da Fonseca Nascimento;15999;Tartarugalzinho;Partido do Movimento Democrático Brasileiro;V
+José Vicente da Silva Marques;27147;Santana;Partido Social Democrata Cristão;V
+Jhonison Farias Castelo;51193;Macapá;Partido Ecológico Nacional;V
+Josiane de Souza Farias;22345;Pracuúba;Partido da República;V
+Carlos Rinaldo Nogueira Martins;50050;Macapá;Partido Socialismo e  Liberdade;V
+Alerrandra Farias Mira;14444;Cutias;Partido Trabalhista Brasileiro;V
+Angelo da Silva Alves;25125;Pedra Branca do Amapari;Democratas;V
+Antonio do Socorro Nascimento Nunes;65456;Santana;Partido Comunista do Brasil;V
+Raimundo Barbosa Amanajás Filho;90;Cutias;Partido Republicano da Ordem Social;P
+Josias Batista de Oliveira;90123;Vitória do Jari;Partido Republicano da Ordem Social;V
+Fernanda Ferreira Chaves;13400;Macapá;Partido dos Trabalhadores;V
+Heida dos Reis Pantoja;12444;Cutias;Partido Democrático Trabalhista;V
+Edemildon dos Anjos Brazão;15147;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Jose Antonio da Silva Ramos;33333;Macapá;Partido da Mobilização Nacional;V
+Catilene de Souza Coutinho;13321;Macapá;Partido dos Trabalhadores;V
+Geovan Alfaia Pastana;35123;Pracuúba;Partido da Mulher Brasileira;V
+Raimundo Moraes Mendes;44123;Santana;Partido Republicano Progressista;V
+Reginaldo Dantas Ferreira;27321;Serra do Navio;Partido Social Democrata Cristão;V
+Dyana Cortez da Fonseca;51000;Pracuúba;Partido Ecológico Nacional;V
+Maria Edinelza dos Santos;20233;Laranjal do Jari;Partido Social Cristão;V
+Edgar do Nascimento Castelo;22789;Macapá;Partido da República;V
+Eliane Reis de Sousa;17555;Santana;Partido Social Liberal;V
+Marilene Rosa dos Santos;12321;Oiapoque;Partido Democrático Trabalhista;V
+Rodrigo Marcos Barbosa de Almeida;40456;Macapá;Partido Socialista Brasileiro;V
+Magno Martins Cardoso;20654;Laranjal do Jari;Partido Social Cristão;V
+Helton de Assis Gama;36000;Laranjal do Jari;Partido Trabalhista Cristão;V
+Francisco Carlos Brito Cardoso;15999;Porto Grande;Partido do Movimento Democrático Brasileiro;V
+Pedro Euclides Barbosa de Almeida Junior;65065;Santana;Partido Comunista do Brasil;V
+Joaquim do Rosario Camargo dos Reis;11;Laranjal do Jari;Partido Progressista;P
+Elane Cristina dos Santos Barbosa;10456;Ferreira Gomes;Partido Republicano Brasileiro;V
+Katia Silene Pinheiro da Silva;43235;Ferreira Gomes;Partido Verde;V
+João Maria Ramos Farias;70456;Pracuúba;Partido Trabalhista do Brasil;V
+Izaelson da Silva Lavrador;12222;Vitória do Jari;Partido Democrático Trabalhista;V
+Marcelo Martins Guimarães;25123;Oiapoque;Democratas;V
+Luiz do Socorro Assunção Barbosa;14123;Laranjal do Jari;Partido Trabalhista Brasileiro;V
+Antonio Cordeiro dos Santos Filho;12123;Vitória do Jari;Partido Democrático Trabalhista;V
+Antônio de Deus Nunes dos Santos;43123;Macapá;Partido Verde;V
+Michel da Silva Rodrigues;10000;Tartarugalzinho;Partido Republicano Brasileiro;V
+Adriane Macedo Nunes;50223;Santana;Partido Socialismo e  Liberdade;V
+Antonio de Sousa Pinto;35;Calçoene;Partido da República;P
+Flávia Sousa dos Santos;12111;Cutias;Partido Democrático Trabalhista;V
+Alciene Silva dos Santos Oliveira;40123;Laranjal do Jari;Partido Socialista Brasileiro;V
+Aldineia Machado Gomes;65656;Macapá;Partido Comunista do Brasil;V
+Antonio Ilson de Oliveira Pontes;90123;Pracuúba;Partido Republicano da Ordem Social;V
+Marcos Roni Soares Alves;28699;Santana;Partido Renovador Trabalhista Brasileiro;V
+Idedson Lopes de Oliveira;10210;Santana;Partido Republicano Brasileiro;V
+Sebastião da Silva;43;Calçoene;Partido Verde;P
+Bruna Guimarães Aires da Costa;45369;Macapá;Partido da Social Democracia Brasileira;V
+Francisco de Assis Trindade;51007;Laranjal do Jari;Partido Ecológico Nacional;V
+Jose Alfredo de Almeida Baia;17145;Santana;Partido Social Liberal;V
+Jucelino Fernandes de Souza;40321;Santana;Partido Socialista Brasileiro;V
+Joao Araujo;18888;Porto Grande;Rede Sustentabilidade;V
+Maria Francisca Palmeira de Oliveira Neri;70227;Serra do Navio;Partido Trabalhista do Brasil;V
+Alexandre Azevedo dos Santos;18100;Macapá;Rede Sustentabilidade;V
+Natanael da Paixão Ramos;15615;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Ronicley Neves Pereira;22222;Santana;Partido da República;V
+Elizete Pinheiro dos Santos;70777;Oiapoque;Partido Trabalhista do Brasil;V
+Marivaldo Barbosa de Moraes;44789;Santana;Partido Republicano Progressista;V
+Ademir dos Santos Figueiredo;43111;Oiapoque;Partido Verde;V
+Jose Eronides de Lima;22222;Oiapoque;Partido da República;V
+Antõnio Geovandro Palmeirim da Costa;13580;Pedra Branca do Amapari;Partido dos Trabalhadores;V
+Luiz Carlos Pacheco;12345;Serra do Navio;Partido Democrático Trabalhista;V
+Josiel Brito da Costa;18123;Ferreira Gomes;Rede Sustentabilidade;V
+Dani Leila Ferreira Leal Lobato;70444;Serra do Navio;Partido Trabalhista do Brasil;V
+Marloncio Vieira Pinheiro;22222;Itaubal;Partido da República;V
+Felipe Santos de Jesus;43333;Laranjal do Jari;Partido Verde;V
+Joaquim Lima Gomes;22123;Oiapoque;Partido da República;V
+Gerson Pontes Souza;15777;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+José Edvan Luz de Freitas;55000;Vitória do Jari;Partido Social Democrático;V
+Aurino Nazaré Gomes de Oliveira;13013;Santana;Partido dos Trabalhadores;V
+Delvanes dos Reis Pereira;44123;Calçoene;Partido Republicano Progressista;V
+Antonio Carlos Santos do Rosario;45123;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Izilda Cristiane Alfaia de Paula;51245;Ferreira Gomes;Partido Ecológico Nacional;V
+Maria Tolosa Ferreira Barbosa;28789;Cutias;Partido Renovador Trabalhista Brasileiro;V
+Celino da Silva;43222;Macapá;Partido Verde;V
+Ernandes Oliveira Mesquita;19123;Laranjal do Jari;Partido Trabalhista Nacional;V
+Jose Irineu Lobo Palheta Junior;15000;Macapá;Partido do Movimento Democrático Brasileiro;V
+Luis Carlos Garcia Filho;27222;Macapá;Partido Social Democrata Cristão;V
+Augusto de Morais e  Moraes;90333;Tartarugalzinho;Partido Republicano da Ordem Social;V
+Francinete dos Santos Moraes;23123;Laranjal do Jari;Partido Popular Socialista;V
+Janei Ferreira Cardoso;40123;Santana;Partido Socialista Brasileiro;V
+Antonio de Sousa Pereira;65;Porto Grande;Partido Comunista do Brasil;P
+Rosa Maria Bezerra da Silveira;40111;Itaubal;Partido Socialista Brasileiro;V
+Marcklei Costa Ferreira;13580;Cutias;Partido dos Trabalhadores;V
+Luiz Carlos Silva Amaral;45678;Tartarugalzinho;Partido da Social Democracia Brasileira;V
+Ivanilse de Sena Gomes;18123;Pedra Branca do Amapari;Rede Sustentabilidade;V
+Girleide de Lima Silva;40401;Porto Grande;Partido Socialista Brasileiro;V
+Antonio Carlos Pereira;11011;Mazagão;Partido Progressista;V
+Maria Rusivania Pantoja Alfaia;23333;Santana;Partido Popular Socialista;V
+Mauro Pereira Segundo;19699;Macapá;Partido Trabalhista Nacional;V
+Eunice Neves Camara;51999;Macapá;Partido Ecológico Nacional;V
+Adriele Santos Oliveira;51000;Pracuúba;Partido Ecológico Nacional;V
+Edenilton Lima Pereira;22;Ferreira Gomes;Partido da República;P
+Denis dos Santos Andrade;19123;Cutias;Partido Trabalhista Nacional;V
+Josenildo Siqueira Oliveira;33321;Amapá;Partido da Mobilização Nacional;V
+Paula Francinet Miranda Magno;43333;Santana;Partido Verde;V
+Antonio Ronaldo de Almeida Nunes;25777;Laranjal do Jari;Democratas;V
+Rosangela Mota Videira;22123;Laranjal do Jari;Partido da República;V
+Rosangelo Duarte da Silva;12190;Santana;Partido Democrático Trabalhista;V
+Rogerio Santos Lima;44369;Macapá;Partido Republicano Progressista;V
+Jose Ribamar Fernandes Monteiro;23789;Santana;Partido Popular Socialista;V
+João de Deus Rodrigues Sales;12147;Santana;Partido Democrático Trabalhista;V
+Lisandra da Silva Neta;12122;Vitória do Jari;Partido Democrático Trabalhista;V
+Jesiel Gomes dos Santos;14567;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Maria das Dores Dantas da Silva;22456;Pedra Branca do Amapari;Partido da República;V
+Jucelino Fernandes;12500;Macapá;Partido Democrático Trabalhista;V
+Antonio Vieira Sobral;50246;Macapá;Partido Socialismo e  Liberdade;V
+Erika Santana da Conceição;45123;Laranjal do Jari;Partido da Social Democracia Brasileira;V
+Odorildo Marcio da Silva;14222;Serra do Navio;Partido Trabalhista Brasileiro;V
+Clézio Farias Viegas;22110;Vitória do Jari;Partido da República;V
+Raimundo Alcindo Figueiredo dos Santos;18789;Calçoene;Rede Sustentabilidade;V
+Marcio Roberto Gaia Correa;11111;Santana;Partido Progressista;V
+Wklezia de Jesus Costa Chaves Vieira;15222;Macapá;Partido do Movimento Democrático Brasileiro;V
+Marinete dos Santos Costa;12456;Itaubal;Partido Democrático Trabalhista;V
+Zander Guedes Ferreira;13200;Serra do Navio;Partido dos Trabalhadores;V
+Aline Paranhos Varonil Gurgel;10;Macapá;Partido Republicano Brasileiro;P
+José Viana Sampaio;12567;Santana;Partido Democrático Trabalhista;V
+Eliane da Silva Marques;27147;Mazagão;Partido Social Democrata Cristão;V
+Rosivanda Portal Gomes;12224;Calçoene;Partido Democrático Trabalhista;V
+Pedro Carvalho dos Santos;12580;Serra do Navio;Partido Democrático Trabalhista;V
+Elmo Carlos Moraes Cardoso;51345;Santana;Partido Ecológico Nacional;V
+Rosângela Sarmento Barbosa;18888;Calçoene;Rede Sustentabilidade;V
+Elemar Dias de Moraes;54123;Pracuúba;Partido Pátria Livre;V
+Rogerio Pires Vieira;36456;Santana;Partido Trabalhista Cristão;V
+Flávia Natália Rodrigues de Souza;11123;Santana;Partido Progressista;V
+Laide de Jesus Flexa Vilhena;40366;Macapá;Partido Socialista Brasileiro;V
+Giselli Trindade de Sousa;51666;Laranjal do Jari;Partido Ecológico Nacional;V
+Osvaldo dos Reis Geraldo;12369;Oiapoque;Partido Democrático Trabalhista;V
+Geysi de Brito Ferreira;14963;Cutias;Partido Trabalhista Brasileiro;V
+Sheila Kátia Mendes Garrido Campos;17367;Santana;Partido Social Liberal;V
+Maria Alice Pereira de Souza;55555;Tartarugalzinho;Partido Social Democrático;V
+Emerson Gemaque Freitas;70123;Mazagão;Partido Trabalhista do Brasil;V
+Lucilene da Silva Lima;40123;Serra do Navio;Partido Socialista Brasileiro;V
+José Castilho Guedes Feio;51000;Oiapoque;Partido Ecológico Nacional;V
+Francilene Lobo Martins Nascimento;40999;Macapá;Partido Socialista Brasileiro;V
+Neuraci Lima Pereira;45123;Ferreira Gomes;Partido da Social Democracia Brasileira;V
+Raimundo Lima do Nascimento;27123;Serra do Navio;Partido Social Democrata Cristão;V
+Clebson Ribeiro de Souza;55980;Vitória do Jari;Partido Social Democrático;V
+Célia Amorim de Almeida;22033;Porto Grande;Partido da República;V
+Luiza dos Santos Duarte;12444;Macapá;Partido Democrático Trabalhista;V
+Oseas dos Santos;11122;Serra do Navio;Partido Progressista;V
+João Rodrigues Ferreira;12345;Laranjal do Jari;Partido Democrático Trabalhista;V
+Laercio Ribeiro de Souza;43456;Santana;Partido Verde;V
+Jarilon de Araújo dos Santos;10234;Santana;Partido Republicano Brasileiro;V
+Adelcio Carvalho Cardoso;40111;Cutias;Partido Socialista Brasileiro;V
+Ronaldo Morais da Silva;12147;Porto Grande;Partido Democrático Trabalhista;V
+Maria Gorete Bessa Oliveira de Brito;12000;Porto Grande;Partido Democrático Trabalhista;V
+Edmilson dos Santos Geronimo da Silva;15000;Laranjal do Jari;Partido do Movimento Democrático Brasileiro;V
+Narson da Silva Santos;14121;Porto Grande;Partido Trabalhista Brasileiro;V
+José Fernando da Costa;12370;Macapá;Partido Democrático Trabalhista;V
+José Nazareno Rodrigues;90123;Oiapoque;Partido Republicano da Ordem Social;V
+Samuel Lopes Pinheiro;33123;Oiapoque;Partido da Mobilização Nacional;V
+Alex Roberto dos Santos Conceição;20301;Porto Grande;Partido Social Cristão;V
+Altemar Moyses de Sousa Góes;12012;Santana;Partido Democrático Trabalhista;V
+Carlos Davi Silva da Silva;51171;Laranjal do Jari;Partido Ecológico Nacional;V
+Eliane Costa Lima;35369;Macapá;Partido da Mulher Brasileira;V
+Joaquim Ferreira de Aguiar;45222;Serra do Navio;Partido da Social Democracia Brasileira;V
+Edileia Reis da Silva;65789;Cutias;Partido Comunista do Brasil;V
+Aldinei dos Santos Silva;18123;Calçoene;Rede Sustentabilidade;V
+Raimundo Edilson Dias da Silva;12123;Mazagão;Partido Democrático Trabalhista;V
+José Carlos dos Santos Pinheiro;17080;Santana;Partido Social Liberal;V
+Jaqueline Penha Souto;15000;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Zilmar Tavares Maciel dos Santos;15012;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Simone Ferreira dos Santos;40255;Macapá;Partido Socialista Brasileiro;V
+Joao da Costa Brito;14222;Vitória do Jari;Partido Trabalhista Brasileiro;V
+Marcos Antonio Marques;12333;Pracuúba;Partido Democrático Trabalhista;V
+Claudionor Moura dos Santos;35122;Amapá;Partido da Mulher Brasileira;V
+Vilson de Carvalho Sena;18300;Santana;Rede Sustentabilidade;V
+Leonice Alves de Sousa;12197;Calçoene;Partido Democrático Trabalhista;V
+Jonas Pereira Gomes;27147;Ferreira Gomes;Partido Social Democrata Cristão;V
+Ueslei Nei da Silveira Teles;43000;Oiapoque;Partido Verde;V
+Maria Delcineia Mendes de Almeida;18888;Santana;Rede Sustentabilidade;V
+Maria Isabel Nogueira de Sousa;13;Santana;Partido dos Trabalhadores;P
+Fábio Wilson Moreira Jucá;70111;Macapá;Partido Trabalhista do Brasil;V
+Carla Dayane Siqueira Tavares;15415;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Melque da Costa Lima;18456;Santana;Rede Sustentabilidade;V
+Eliã de Castro Amaral;35456;Mazagão;Partido da Mulher Brasileira;V
+Domingos Pantoja Marinho;17123;Itaubal;Partido Social Liberal;V
+Danieli Pereira dos Santos;65300;Porto Grande;Partido Comunista do Brasil;V
+Maria de Fátima dos Santos;22111;Pedra Branca do Amapari;Partido da República;V
+Creusinalda Belo Barreto;23999;Mazagão;Partido Popular Socialista;V
+José Carlos Sena dos Santos;51345;Laranjal do Jari;Partido Ecológico Nacional;V
+Paulo Roberto Cortez;55;Porto Grande;Partido Social Democrático;P
+José Raimundo Figueiredo Ferreira;10100;Santana;Partido Republicano Brasileiro;V
+Jose Morais de Sousa;15678;Oiapoque;Partido do Movimento Democrático Brasileiro;V
+Adelcio Ribeiro dos Santos;50123;Pracuúba;Partido Socialismo e  Liberdade;V
+Edinei Lima dos Santos;15156;Ferreira Gomes;Partido do Movimento Democrático Brasileiro;V
+Reginaldo Nunes dos Santos;17622;Santana;Partido Social Liberal;V
+Ilson Magave Ramos;12;Pracuúba;Partido do Movimento Democrático Brasileiro;P
+Sebastiana Elza Arouche Barros;77000;Porto Grande;Solidariedade;V
+Josyney Guimbal Borges;12000;Santana;Partido Democrático Trabalhista;V
+Nilton Dias Ramos;15123;Pracuúba;Partido do Movimento Democrático Brasileiro;V
+Luiz Antonio de Sousa Balieiro;12555;Mazagão;Partido Democrático Trabalhista;V
+Josilane Brito Sacramento;22771;Macapá;Partido da República;V
+Eliane do Nascimento Santos;22;Cutias;Partido da República;P
+Ivone Cortes Ferreira;12124;Santana;Partido Democrático Trabalhista;V
+Marcelo Sarraf Santos;18010;Laranjal do Jari;Rede Sustentabilidade;V
+José Antonio Barros de Souza;12789;Laranjal do Jari;Partido Democrático Trabalhista;V
+Jeciane Barbosa dos Santos;11333;Serra do Navio;Partido Progressista;V
+Quelson Cardoso Costa;14122;Calçoene;Partido Trabalhista Brasileiro;V
+Tatiana do Carmo Pinto;15789;Pedra Branca do Amapari;Partido do Movimento Democrático Brasileiro;V
+Neuci da Silva Ferreira;13589;Macapá;Partido dos Trabalhadores;V
+Elienai dos Santos Trindade;28000;Santana;Partido Renovador Trabalhista Brasileiro;V
+Ronny Miranda Prado;27222;Santana;Partido Social Democrata Cristão;V
+Francisco Junior de França Pereira;12345;Tartarugalzinho;Partido Democrático Trabalhista;V
+Geoval da Silva Costa;12369;Cutias;Partido Democrático Trabalhista;V
+Norma Cardoso Sanches Silva;45444;Serra do Navio;Partido da Social Democracia Brasileira;V
+Raimundo do Socorro Custodio Pires;50234;Ferreira Gomes;Partido Socialismo e  Liberdade;V

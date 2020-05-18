@@ -1,0 +1,5570 @@
+Alta Floresta D'Oeste;Rondônia;22945;9
+Ariquemes;Rondônia;107863;11
+Cabixi;Rondônia;5312;9
+Cacoal;Rondônia;85359;10
+Cerejeiras;Rondônia;16323;9
+Colorado do Oeste;Rondônia;15882;9
+Corumbiara;Rondônia;7391;9
+Costa Marques;Rondônia;18331;9
+Espigão D'Oeste;Rondônia;32374;9
+Guajará-Mirim;Rondônia;46174;9
+Jaru;Rondônia;51775;10
+Ji-Paraná;Rondônia;128969;11
+Machadinho D'Oeste;Rondônia;39991;9
+Nova Brasilândia D'Oeste;Rondônia;20474;9
+Ouro Preto do Oeste;Rondônia;36035;9
+Pimenta Bueno;Rondônia;36660;9
+Porto Velho;Rondônia;529544;20
+Presidente Médici;Rondônia;18986;9
+Rio Crespo;Rondônia;3764;9
+Rolim de Moura;Rondônia;55058;10
+Santa Luzia D'Oeste;Rondônia;6495;9
+Vilhena;Rondônia;99854;11
+São Miguel do Guaporé;Rondônia;23005;9
+Nova Mamoré;Rondônia;30583;9
+Alvorada D'Oeste;Rondônia;14411;9
+Alto Alegre dos Parecis;Rondônia;13241;9
+Alto Paraíso;Rondônia;21428;9
+Buritis;Rondônia;39654;9
+Novo Horizonte do Oeste;Rondônia;8538;9
+Cacaulândia;Rondônia;6230;9
+Campo Novo de Rondônia;Rondônia;14139;9
+Candeias do Jamari;Rondônia;26693;9
+Castanheiras;Rondônia;3052;9
+Chupinguaia;Rondônia;11182;9
+Cujubim;Rondônia;25215;9
+Governador Jorge Teixeira;Rondônia;7767;9
+Itapuã do Oeste;Rondônia;10458;9
+Ministro Andreazza;Rondônia;9660;9
+Mirante da Serra;Rondônia;10947;9
+Monte Negro;Rondônia;15852;9
+Nova União;Rondônia;6970;9
+Parecis;Rondônia;6074;9
+Pimenteiras do Oeste;Rondônia;2169;9
+Primavera de Rondônia;Rondônia;2856;9
+São Felipe D'Oeste;Rondônia;5172;9
+São Francisco do Guaporé;Rondônia;20266;9
+Seringueiras;Rondônia;11856;9
+Teixeirópolis;Rondônia;4308;9
+Theobroma;Rondônia;10444;9
+Urupá;Rondônia;11467;9
+Vale do Anari;Rondônia;11204;9
+Vale do Paraíso;Rondônia;6825;9
+Acrelândia;Acre;15256;9
+Assis Brasil;Acre;7417;9
+Brasiléia;Acre;26278;9
+Bujari;Acre;10266;9
+Capixaba;Acre;11733;9
+Cruzeiro do Sul;Acre;88376;10
+Epitaciolândia;Acre;18411;9
+Feijó;Acre;34780;9
+Jordão;Acre;8317;9
+Mâncio Lima;Acre;18977;9
+Manoel Urbano;Acre;9459;9
+Marechal Thaumaturgo;Acre;18867;9
+Plácido de Castro;Acre;19761;9
+Porto Walter;Acre;11982;9
+Rio Branco;Acre;407319;17
+Rodrigues Alves;Acre;18930;9
+Santa Rosa do Purus;Acre;6540;9
+Senador Guiomard;Acre;23024;9
+Sena Madureira;Acre;45848;9
+Tarauacá;Acre;42567;9
+Xapuri;Acre;19323;9
+Porto Acre;Acre;18504;9
+Alvarães;Amazonas;16041;9
+Amaturá;Amazonas;11536;9
+Anamã;Amazonas;13614;9
+Anori;Amazonas;21010;9
+Apuí;Amazonas;21973;9
+Atalaia do Norte;Amazonas;19921;9
+Autazes;Amazonas;39565;9
+Barcelos;Amazonas;27502;9
+Barreirinha;Amazonas;32041;9
+Benjamin Constant;Amazonas;42984;9
+Beruri;Amazonas;19679;9
+Boa Vista do Ramos;Amazonas;19207;9
+Boca do Acre;Amazonas;34308;9
+Borba;Amazonas;41161;9
+Caapiranga;Amazonas;13081;9
+Canutama;Amazonas;15629;9
+Carauari;Amazonas;28294;9
+Careiro;Amazonas;37869;9
+Careiro da Várzea;Amazonas;30225;9
+Coari;Amazonas;85097;10
+Codajás;Amazonas;28637;9
+Eirunepé;Amazonas;35273;9
+Envira;Amazonas;20033;9
+Fonte Boa;Amazonas;17609;9
+Guajará;Amazonas;16678;9
+Humaitá;Amazonas;55080;10
+Ipixuna;Amazonas;29689;9
+Iranduba;Amazonas;48296;10
+Itacoatiara;Amazonas;101337;11
+Itamarati;Amazonas;7851;9
+Itapiranga;Amazonas;9148;9
+Japurá;Amazonas;2755;9
+Juruá;Amazonas;14712;9
+Jutaí;Amazonas;14317;9
+Lábrea;Amazonas;46069;9
+Manacapuru;Amazonas;97377;11
+Manaquiri;Amazonas;32105;9
+Manaus;Amazonas;2182763;41
+Manicoré;Amazonas;55751;10
+Maraã;Amazonas;18224;9
+Maués;Amazonas;63905;10
+Nhamundá;Amazonas;21173;9
+Nova Olinda do Norte;Amazonas;37378;9
+Novo Airão;Amazonas;19454;9
+Novo Aripuanã;Amazonas;25644;9
+Parintins;Amazonas;114273;11
+Pauini;Amazonas;19426;9
+Presidente Figueiredo;Amazonas;36279;9
+Rio Preto da Eva;Amazonas;33347;9
+Santa Isabel do Rio Negro;Amazonas;25156;9
+Santo Antônio do Içá;Amazonas;21602;9
+São Gabriel da Cachoeira;Amazonas;45564;9
+São Paulo de Olivença;Amazonas;39299;9
+São Sebastião do Uatumã;Amazonas;14020;9
+Silves;Amazonas;9171;9
+Tabatinga;Amazonas;65844;10
+Tapauá;Amazonas;17156;9
+Tefé;Amazonas;59849;10
+Tonantins;Amazonas;18755;9
+Uarini;Amazonas;13540;9
+Urucará;Amazonas;16256;9
+Urucurituba;Amazonas;23065;9
+Amajari;Roraima;12796;9
+Alto Alegre;Roraima;15510;9
+Boa Vista;Roraima;399213;17
+Bonfim;Roraima;12409;9
+Cantá;Roraima;18335;9
+Caracaraí;Roraima;21926;9
+Caroebe;Roraima;10169;9
+Iracema;Roraima;11950;9
+Mucajaí;Roraima;17853;9
+Normandia;Roraima;11290;9
+Pacaraima;Roraima;17401;9
+Rorainópolis;Roraima;30163;9
+São João da Baliza;Roraima;8201;9
+São Luiz;Roraima;7986;9
+Uiramutã;Roraima;10559;9
+Abaetetuba;Pará;157698;12
+Abel Figueiredo;Pará;7434;9
+Acará;Pará;55591;10
+Afuá;Pará;39218;9
+Água Azul do Norte;Pará;27430;9
+Alenquer;Pará;56789;10
+Almeirim;Pará;34109;9
+Altamira;Pará;114594;11
+Anajás;Pará;29277;9
+Ananindeua;Pará;530598;20
+Anapu;Pará;27890;9
+Augusto Corrêa;Pará;45998;9
+Aurora do Pará;Pará;31338;9
+Aveiro;Pará;16388;9
+Bagre;Pará;30673;9
+Baião;Pará;47446;9
+Bannach;Pará;3286;9
+Barcarena;Pará;124680;11
+Belém;Pará;1492745;37
+Belterra;Pará;17732;9
+Benevides;Pará;62737;10
+Bom Jesus do Tocantins;Pará;16981;9
+Bonito;Pará;16286;9
+Bragança;Pará;127686;11
+Brasil Novo;Pará;15086;9
+Brejo Grande do Araguaia;Pará;7380;9
+Breu Branco;Pará;66046;10
+Breves;Pará;102701;11
+Bujaru;Pará;29132;9
+Cachoeira do Piriá;Pará;33900;9
+Cachoeira do Arari;Pará;23767;9
+Cametá;Pará;137890;11
+Canaã dos Carajás;Pará;37085;9
+Capanema;Pará;69027;10
+Capitão Poço;Pará;54303;10
+Castanhal;Pará;200793;13
+Chaves;Pará;23717;9
+Colares;Pará;12085;9
+Conceição do Araguaia;Pará;47864;10
+Concórdia do Pará;Pará;33318;9
+Cumaru do Norte;Pará;13473;9
+Curionópolis;Pará;17929;9
+Curralinho;Pará;34448;9
+Curuá;Pará;14393;9
+Curuçá;Pará;40066;9
+Dom Eliseu;Pará;59719;10
+Eldorado do Carajás;Pará;33808;9
+Faro;Pará;7194;9
+Floresta do Araguaia;Pará;20304;9
+Garrafão do Norte;Pará;26066;9
+Goianésia do Pará;Pará;40475;9
+Gurupá;Pará;33376;9
+Igarapé-Açu;Pará;38807;9
+Igarapé-Miri;Pará;62698;10
+Inhangapi;Pará;11711;9
+Ipixuna do Pará;Pará;64053;10
+Irituia;Pará;32550;9
+Itaituba;Pará;101247;11
+Itupiranga;Pará;53269;10
+Jacareacanga;Pará;8239;9
+Jacundá;Pará;59155;10
+Juruti;Pará;57943;10
+Limoeiro do Ajuru;Pará;28935;9
+Mãe do Rio;Pará;30077;9
+Magalhães Barata;Pará;8548;9
+Marabá;Pará;279349;14
+Maracanã;Pará;29473;9
+Marapanim;Pará;28336;9
+Marituba;Pará;131521;11
+Medicilândia;Pará;31597;9
+Melgaço;Pará;27654;9
+Mocajuba;Pará;31136;9
+Moju;Pará;82094;10
+Mojuí dos Campos;Pará;16084;9
+Monte Alegre;Pará;58032;10
+Muaná;Pará;40349;9
+Nova Esperança do Piriá;Pará;21368;9
+Nova Ipixuna;Pará;16678;9
+Nova Timboteua;Pará;15363;9
+Novo Progresso;Pará;25762;9
+Novo Repartimento;Pará;75919;10
+Óbidos;Pará;52137;10
+Oeiras do Pará;Pará;32512;9
+Oriximiná;Pará;73096;10
+Ourém;Pará;17842;9
+Ourilândia do Norte;Pará;32832;9
+Pacajá;Pará;47706;10
+Palestina do Pará;Pará;7589;9
+Paragominas;Pará;113145;11
+Parauapebas;Pará;208273;13
+Pau D'Arco;Pará;5483;9
+Peixe-Boi;Pará;8077;9
+Piçarra;Pará;12981;9
+Placas;Pará;30982;9
+Ponta de Pedras;Pará;31082;9
+Portel;Pará;62043;10
+Porto de Moz;Pará;41135;9
+Prainha;Pará;29866;9
+Primavera;Pará;10825;9
+Quatipuru;Pará;13608;9
+Redenção;Pará;84787;10
+Rio Maria;Pará;18193;9
+Rondon do Pará;Pará;52357;10
+Rurópolis;Pará;50510;10
+Salinópolis;Pará;40675;9
+Salvaterra;Pará;23752;9
+Santa Bárbara do Pará;Pará;21079;9
+Santa Cruz do Arari;Pará;10128;9
+Santa Izabel do Pará;Pará;70801;10
+Santa Luzia do Pará;Pará;19848;9
+Santa Maria das Barreiras;Pará;21449;9
+Santa Maria do Pará;Pará;24861;9
+Santana do Araguaia;Pará;72817;10
+Santarém;Pará;304589;15
+Santarém Novo;Pará;6709;9
+Santo Antônio do Tauá;Pará;31482;9
+São Caetano de Odivelas;Pará;18050;9
+São Domingos do Araguaia;Pará;25557;9
+São Domingos do Capim;Pará;31989;9
+São Félix do Xingu;Pará;128481;11
+São Francisco do Pará;Pará;15882;9
+São Geraldo do Araguaia;Pará;24847;9
+São João da Ponta;Pará;6139;9
+São João de Pirabas;Pará;23045;9
+São João do Araguaia;Pará;13996;9
+São Miguel do Guamá;Pará;58986;10
+São Sebastião da Boa Vista;Pará;26640;9
+Sapucaia;Pará;5930;9
+Senador José Porfírio;Pará;11658;9
+Soure;Pará;25374;9
+Tailândia;Pará;106339;11
+Terra Alta;Pará;11720;9
+Terra Santa;Pará;18769;9
+Tomé-Açu;Pará;63447;10
+Tracuateua;Pará;30959;9
+Trairão;Pará;18989;9
+Tucumã;Pará;39602;9
+Tucuruí;Pará;113659;11
+Ulianópolis;Pará;59210;10
+Uruará;Pará;45476;9
+Vigia;Pará;53686;10
+Viseu;Pará;61403;10
+Vitória do Xingu;Pará;15134;9
+Xinguara;Pará;44751;9
+Serra do Navio;Amapá;5397;9
+Amapá;Amapá;9109;9
+Pedra Branca do Amapari;Amapá;16502;9
+Calçoene;Amapá;11117;9
+Cutias;Amapá;5983;9
+Ferreira Gomes;Amapá;7780;9
+Itaubal;Amapá;5503;9
+Laranjal do Jari;Amapá;50410;10
+Macapá;Amapá;503327;19
+Mazagão;Amapá;21632;9
+Oiapoque;Amapá;27270;9
+Porto Grande;Amapá;21971;9
+Pracuúba;Amapá;5120;9
+Santana;Amapá;121364;11
+Tartarugalzinho;Amapá;17315;9
+Vitória do Jari;Amapá;15931;9
+Abreulândia;Tocantins;2579;9
+Aguiarnópolis;Tocantins;6733;9
+Aliança do Tocantins;Tocantins;5390;9
+Almas;Tocantins;7055;9
+Alvorada;Tocantins;8412;9
+Ananás;Tocantins;9549;9
+Angico;Tocantins;3433;9
+Aparecida do Rio Negro;Tocantins;4795;9
+Aragominas;Tocantins;5758;9
+Araguacema;Tocantins;7086;9
+Araguaçu;Tocantins;8517;9
+Araguaína;Tocantins;180470;12
+Araguanã;Tocantins;5729;9
+Araguatins;Tocantins;35761;9
+Arapoema;Tocantins;6643;9
+Arraias;Tocantins;10567;9
+Augustinópolis;Tocantins;18412;9
+Aurora do Tocantins;Tocantins;3757;9
+Axixá do Tocantins;Tocantins;9756;9
+Babaçulândia;Tocantins;10664;9
+Bandeirantes do Tocantins;Tocantins;3553;9
+Barra do Ouro;Tocantins;4591;9
+Barrolândia;Tocantins;5632;9
+Bernardo Sayão;Tocantins;4459;9
+Bom Jesus do Tocantins;Tocantins;4894;9
+Brasilândia do Tocantins;Tocantins;2201;9
+Brejinho de Nazaré;Tocantins;5497;9
+Buriti do Tocantins;Tocantins;11348;9
+Cachoeirinha;Tocantins;2275;9
+Campos Lindos;Tocantins;10116;9
+Cariri do Tocantins;Tocantins;4382;9
+Carmolândia;Tocantins;2580;9
+Carrasco Bonito;Tocantins;4095;9
+Caseara;Tocantins;5369;9
+Centenário;Tocantins;2905;9
+Chapada de Areia;Tocantins;1406;9
+Chapada da Natividade;Tocantins;3333;9
+Colinas do Tocantins;Tocantins;35424;9
+Combinado;Tocantins;4852;9
+Conceição do Tocantins;Tocantins;4105;9
+Couto Magalhães;Tocantins;5588;9
+Cristalândia;Tocantins;7289;9
+Crixás do Tocantins;Tocantins;1722;9
+Darcinópolis;Tocantins;6097;9
+Dianópolis;Tocantins;22139;9
+Divinópolis do Tocantins;Tocantins;6900;9
+Dois Irmãos do Tocantins;Tocantins;7198;9
+Dueré;Tocantins;4686;9
+Esperantina;Tocantins;10996;9
+Fátima;Tocantins;3835;9
+Figueirópolis;Tocantins;5263;9
+Filadélfia;Tocantins;8856;9
+Formoso do Araguaia;Tocantins;18440;9
+Fortaleza do Tabocão;Tocantins;2589;9
+Goianorte;Tocantins;5123;9
+Goiatins;Tocantins;13019;9
+Guaraí;Tocantins;25923;9
+Gurupi;Tocantins;86647;10
+Ipueiras;Tocantins;2015;9
+Itacajá;Tocantins;7433;9
+Itaguatins;Tocantins;5864;9
+Itapiratins;Tocantins;3777;9
+Itaporã do Tocantins;Tocantins;2427;9
+Jaú do Tocantins;Tocantins;3849;9
+Juarina;Tocantins;2193;9
+Lagoa da Confusão;Tocantins;13357;9
+Lagoa do Tocantins;Tocantins;4316;9
+Lajeado;Tocantins;3134;9
+Lavandeira;Tocantins;1923;9
+Lizarda;Tocantins;3740;9
+Luzinópolis;Tocantins;3108;9
+Marianópolis do Tocantins;Tocantins;5175;9
+Mateiros;Tocantins;2684;9
+Maurilândia do Tocantins;Tocantins;3426;9
+Miracema do Tocantins;Tocantins;18248;9
+Miranorte;Tocantins;13434;9
+Monte do Carmo;Tocantins;7947;9
+Monte Santo do Tocantins;Tocantins;2279;9
+Palmeiras do Tocantins;Tocantins;6658;9
+Muricilândia;Tocantins;3551;9
+Natividade;Tocantins;9244;9
+Nazaré;Tocantins;3898;9
+Nova Olinda;Tocantins;11819;9
+Nova Rosalândia;Tocantins;4260;9
+Novo Acordo;Tocantins;4342;9
+Novo Alegre;Tocantins;2332;9
+Novo Jardim;Tocantins;2722;9
+Oliveira de Fátima;Tocantins;1112;9
+Palmeirante;Tocantins;6026;9
+Palmeirópolis;Tocantins;7659;9
+Paraíso do Tocantins;Tocantins;51252;10
+Paranã;Tocantins;10449;9
+Pau D'Arco;Tocantins;4849;9
+Pedro Afonso;Tocantins;13578;9
+Peixe;Tocantins;11749;9
+Pequizeiro;Tocantins;5477;9
+Colméia;Tocantins;8205;9
+Pindorama do Tocantins;Tocantins;4447;9
+Piraquê;Tocantins;3028;9
+Pium;Tocantins;7654;9
+Ponte Alta do Bom Jesus;Tocantins;4596;9
+Ponte Alta do Tocantins;Tocantins;8039;9
+Porto Alegre do Tocantins;Tocantins;3139;9
+Porto Nacional;Tocantins;53010;10
+Praia Norte;Tocantins;8432;9
+Presidente Kennedy;Tocantins;3684;9
+Pugmil;Tocantins;2688;9
+Recursolândia;Tocantins;4293;9
+Riachinho;Tocantins;4645;9
+Rio da Conceição;Tocantins;2130;9
+Rio dos Bois;Tocantins;2834;9
+Rio Sono;Tocantins;6478;9
+Sampaio;Tocantins;4711;9
+Sandolândia;Tocantins;3375;9
+Santa Fé do Araguaia;Tocantins;7512;9
+Santa Maria do Tocantins;Tocantins;3434;9
+Santa Rita do Tocantins;Tocantins;2365;9
+Santa Rosa do Tocantins;Tocantins;4829;9
+Santa Tereza do Tocantins;Tocantins;2866;9
+Santa Terezinha do Tocantins;Tocantins;2529;9
+São Bento do Tocantins;Tocantins;5324;9
+São Félix do Tocantins;Tocantins;1585;9
+São Miguel do Tocantins;Tocantins;12139;9
+São Salvador do Tocantins;Tocantins;3082;9
+São Sebastião do Tocantins;Tocantins;4805;9
+São Valério;Tocantins;3960;9
+Silvanópolis;Tocantins;5403;9
+Sítio Novo do Tocantins;Tocantins;9029;9
+Sucupira;Tocantins;1966;9
+Taguatinga;Tocantins;16683;9
+Taipas do Tocantins;Tocantins;2148;9
+Talismã;Tocantins;2793;9
+Palmas;Tocantins;299127;15
+Tocantínia;Tocantins;7545;9
+Tocantinópolis;Tocantins;22870;9
+Tupirama;Tocantins;1891;9
+Tupiratins;Tocantins;2671;9
+Wanderlândia;Tocantins;11683;9
+Xambioá;Tocantins;11540;9
+Açailândia;Maranhão;112445;11
+Afonso Cunha;Maranhão;6524;9
+Água Doce do Maranhão;Maranhão;12571;9
+Alcântara;Maranhão;22097;9
+Aldeias Altas;Maranhão;26532;9
+Altamira do Maranhão;Maranhão;8128;9
+Alto Alegre do Maranhão;Maranhão;27053;9
+Alto Alegre do Pindaré;Maranhão;31919;9
+Alto Parnaíba;Maranhão;11190;9
+Amapá do Maranhão;Maranhão;6962;9
+Amarante do Maranhão;Maranhão;41435;9
+Anajatuba;Maranhão;26803;9
+Anapurus;Maranhão;15732;9
+Apicum-Açu;Maranhão;17239;9
+Araguanã;Maranhão;15426;9
+Araioses;Maranhão;46440;9
+Arame;Maranhão;32701;9
+Arari;Maranhão;29848;9
+Axixá;Maranhão;12130;9
+Bacabal;Maranhão;104949;11
+Bacabeira;Maranhão;17055;9
+Bacuri;Maranhão;18582;9
+Bacurituba;Maranhão;5644;9
+Balsas;Maranhão;94887;10
+Barão de Grajaú;Maranhão;18820;9
+Barra do Corda;Maranhão;88212;10
+Barreirinhas;Maranhão;62528;10
+Belágua;Maranhão;7469;9
+Bela Vista do Maranhão;Maranhão;11209;9
+Benedito Leite;Maranhão;5632;9
+Bequimão;Maranhão;21280;9
+Bernardo do Mearim;Maranhão;6043;9
+Boa Vista do Gurupi;Maranhão;9287;9
+Bom Jardim;Maranhão;41630;9
+Bom Jesus das Selvas;Maranhão;34028;9
+Bom Lugar;Maranhão;16294;9
+Brejo;Maranhão;36397;9
+Brejo de Areia;Maranhão;9188;9
+Buriti;Maranhão;28678;9
+Buriti Bravo;Maranhão;23884;9
+Buriticupu;Maranhão;72358;10
+Buritirana;Maranhão;15430;9
+Cachoeira Grande;Maranhão;9431;9
+Cajapió;Maranhão;11177;9
+Cajari;Maranhão;19379;9
+Campestre do Maranhão;Maranhão;14374;9
+Cândido Mendes;Maranhão;20178;9
+Cantanhede;Maranhão;21995;9
+Capinzal do Norte;Maranhão;10934;9
+Carolina;Maranhão;24322;9
+Carutapera;Maranhão;23807;9
+Caxias;Maranhão;164880;12
+Cedral;Maranhão;10675;9
+Central do Maranhão;Maranhão;8673;9
+Centro do Guilherme;Maranhão;13458;9
+Centro Novo do Maranhão;Maranhão;21622;9
+Chapadinha;Maranhão;79675;10
+Cidelândia;Maranhão;14697;9
+Codó;Maranhão;122859;11
+Coelho Neto;Maranhão;49435;10
+Colinas;Maranhão;41178;9
+Conceição do Lago-Açu;Maranhão;16237;9
+Coroatá;Maranhão;65296;10
+Cururupu;Maranhão;32695;9
+Davinópolis;Maranhão;12908;9
+Dom Pedro;Maranhão;23350;9
+Duque Bacelar;Maranhão;11349;9
+Esperantinópolis;Maranhão;17241;9
+Estreito;Maranhão;41946;9
+Feira Nova do Maranhão;Maranhão;8504;9
+Fernando Falcão;Maranhão;10360;9
+Formosa da Serra Negra;Maranhão;19089;9
+Fortaleza dos Nogueiras;Maranhão;12631;9
+Fortuna;Maranhão;15552;9
+Godofredo Viana;Maranhão;11819;9
+Gonçalves Dias;Maranhão;17934;9
+Governador Archer;Maranhão;10840;9
+Governador Edison Lobão;Maranhão;18296;9
+Governador Eugênio Barros;Maranhão;16828;9
+Governador Luiz Rocha;Maranhão;7807;9
+Governador Newton Bello;Maranhão;10180;9
+Governador Nunes Freire;Maranhão;25577;9
+Graça Aranha;Maranhão;6262;9
+Grajaú;Maranhão;69527;10
+Guimarães;Maranhão;12030;9
+Humberto de Campos;Maranhão;28717;9
+Icatu;Maranhão;27113;9
+Igarapé do Meio;Maranhão;14177;9
+Igarapé Grande;Maranhão;11320;9
+Imperatriz;Maranhão;258682;14
+Itaipava do Grajaú;Maranhão;16057;9
+Itapecuru Mirim;Maranhão;68203;10
+Itinga do Maranhão;Maranhão;26000;9
+Jatobá;Maranhão;10153;9
+Jenipapo dos Vieiras;Maranhão;16515;9
+João Lisboa;Maranhão;23632;9
+Joselândia;Maranhão;16168;9
+Junco do Maranhão;Maranhão;3432;9
+Lago da Pedra;Maranhão;50266;10
+Lago do Junco;Maranhão;10840;9
+Lago Verde;Maranhão;16257;9
+Lagoa do Mato;Maranhão;11250;9
+Lago dos Rodrigues;Maranhão;8873;9
+Lagoa Grande do Maranhão;Maranhão;11394;9
+Lajeado Novo;Maranhão;7550;9
+Lima Campos;Maranhão;11893;9
+Loreto;Maranhão;12157;9
+Luís Domingues;Maranhão;6951;9
+Magalhães de Almeida;Maranhão;19826;9
+Maracaçumé;Maranhão;21395;9
+Marajá do Sena;Maranhão;7792;9
+Maranhãozinho;Maranhão;16265;9
+Mata Roma;Maranhão;16829;9
+Matinha;Maranhão;23370;9
+Matões;Maranhão;33782;9
+Matões do Norte;Maranhão;16745;9
+Milagres do Maranhão;Maranhão;8464;9
+Mirador;Maranhão;21015;9
+Miranda do Norte;Maranhão;28381;9
+Mirinzal;Maranhão;14962;9
+Monção;Maranhão;33434;9
+Montes Altos;Maranhão;9160;9
+Morros;Maranhão;19433;9
+Nina Rodrigues;Maranhão;14454;9
+Nova Colinas;Maranhão;5384;9
+Nova Iorque;Maranhão;4683;9
+Nova Olinda do Maranhão;Maranhão;20928;9
+Olho d'Água das Cunhãs;Maranhão;19505;9
+Olinda Nova do Maranhão;Maranhão;14701;9
+Paço do Lumiar;Maranhão;122197;11
+Palmeirândia;Maranhão;19722;9
+Paraibano;Maranhão;21386;9
+Parnarama;Maranhão;34907;9
+Passagem Franca;Maranhão;19019;9
+Pastos Bons;Maranhão;19472;9
+Paulino Neves;Maranhão;16035;9
+Paulo Ramos;Maranhão;21040;9
+Pedreiras;Maranhão;39229;9
+Pedro do Rosário;Maranhão;25144;9
+Penalva;Maranhão;38470;9
+Peri Mirim;Maranhão;14318;9
+Peritoró;Maranhão;23196;9
+Pindaré-Mirim;Maranhão;32941;9
+Pinheiro;Maranhão;83387;10
+Pio XII;Maranhão;21485;9
+Pirapemas;Maranhão;18625;9
+Poção de Pedras;Maranhão;17873;9
+Porto Franco;Maranhão;23885;9
+Porto Rico do Maranhão;Maranhão;5975;9
+Presidente Dutra;Maranhão;47804;10
+Presidente Juscelino;Maranhão;12734;9
+Presidente Médici;Maranhão;7015;9
+Presidente Sarney;Maranhão;18918;9
+Presidente Vargas;Maranhão;11193;9
+Primeira Cruz;Maranhão;15315;9
+Raposa;Maranhão;30761;9
+Riachão;Maranhão;20195;9
+Ribamar Fiquene;Maranhão;7791;9
+Rosário;Maranhão;42740;9
+Sambaíba;Maranhão;5671;9
+Santa Filomena do Maranhão;Maranhão;7773;9
+Santa Helena;Maranhão;42130;9
+Santa Inês;Maranhão;89044;10
+Santa Luzia;Maranhão;72667;10
+Santa Luzia do Paruá;Maranhão;25254;9
+Santa Quitéria do Maranhão;Maranhão;25642;9
+Santa Rita;Maranhão;37855;9
+Santana do Maranhão;Maranhão;13386;9
+Santo Amaro do Maranhão;Maranhão;15846;9
+Santo Antônio dos Lopes;Maranhão;14528;9
+São Benedito do Rio Preto;Maranhão;18663;9
+São Bento;Maranhão;45211;9
+São Bernardo;Maranhão;28507;9
+São Domingos do Azeitão;Maranhão;7392;9
+São Domingos do Maranhão;Maranhão;34376;9
+São Félix de Balsas;Maranhão;4585;9
+São Francisco do Brejão;Maranhão;11798;9
+São Francisco do Maranhão;Maranhão;12210;9
+São João Batista;Maranhão;20665;9
+São João do Carú;Maranhão;15808;9
+São João do Paraíso;Maranhão;11177;9
+São João do Soter;Maranhão;18543;9
+São João dos Patos;Maranhão;25929;9
+São José de Ribamar;Maranhão;177687;12
+São José dos Basílios;Maranhão;7641;9
+São Luís;Maranhão;1101884;33
+São Luís Gonzaga do Maranhão;Maranhão;18856;9
+São Mateus do Maranhão;Maranhão;41529;9
+São Pedro da Água Branca;Maranhão;12690;9
+São Pedro dos Crentes;Maranhão;4668;9
+São Raimundo das Mangabeiras;Maranhão;18868;9
+São Raimundo do Doca Bezerra;Maranhão;5237;9
+São Roberto;Maranhão;6719;9
+São Vicente Ferrer;Maranhão;22247;9
+Satubinha;Maranhão;13914;9
+Senador Alexandre Costa;Maranhão;11141;9
+Senador La Rocque;Maranhão;14293;9
+Serrano do Maranhão;Maranhão;10253;9
+Sítio Novo;Maranhão;18081;9
+Sucupira do Norte;Maranhão;10636;9
+Sucupira do Riachão;Maranhão;5660;9
+Tasso Fragoso;Maranhão;8521;9
+Timbiras;Maranhão;29124;9
+Timon;Maranhão;169107;12
+Trizidela do Vale;Maranhão;21998;9
+Tufilândia;Maranhão;5840;9
+Tuntum;Maranhão;41832;9
+Turiaçu;Maranhão;35604;9
+Turilândia;Maranhão;25619;9
+Tutóia;Maranhão;58860;10
+Urbano Santos;Maranhão;33122;9
+Vargem Grande;Maranhão;56510;10
+Viana;Maranhão;52441;10
+Vila Nova dos Martírios;Maranhão;13392;9
+Vitória do Mearim;Maranhão;32764;9
+Vitorino Freire;Maranhão;31523;9
+Zé Doca;Maranhão;51714;10
+Acauã;Piauí;7084;9
+Agricolândia;Piauí;5139;9
+Água Branca;Piauí;17411;9
+Alagoinha do Piauí;Piauí;7651;9
+Alegrete do Piauí;Piauí;4915;9
+Alto Longá;Piauí;14304;9
+Altos;Piauí;40524;9
+Alvorada do Gurguéia;Piauí;5419;9
+Amarante;Piauí;17598;9
+Angical do Piauí;Piauí;6788;9
+Anísio de Abreu;Piauí;9880;9
+Antônio Almeida;Piauí;3164;9
+Aroazes;Piauí;5835;9
+Aroeiras do Itaim;Piauí;2551;9
+Arraial;Piauí;4727;9
+Assunção do Piauí;Piauí;7846;9
+Avelino Lopes;Piauí;11289;9
+Baixa Grande do Ribeiro;Piauí;11586;9
+Barra D'Alcântara;Piauí;3951;9
+Barras;Piauí;47066;9
+Barreiras do Piauí;Piauí;3348;9
+Barro Duro;Piauí;7032;9
+Batalha;Piauí;26857;9
+Bela Vista do Piauí;Piauí;4015;9
+Belém do Piauí;Piauí;3566;9
+Beneditinos;Piauí;10467;9
+Bertolínia;Piauí;5501;9
+Betânia do Piauí;Piauí;6205;9
+Boa Hora;Piauí;6781;9
+Bocaina;Piauí;4500;9
+Bom Jesus;Piauí;25179;9
+Bom Princípio do Piauí;Piauí;5630;9
+Bonfim do Piauí;Piauí;5670;9
+Boqueirão do Piauí;Piauí;6407;9
+Brasileira;Piauí;8329;9
+Brejo do Piauí;Piauí;3875;9
+Buriti dos Lopes;Piauí;19781;9
+Buriti dos Montes;Piauí;8244;9
+Cabeceiras do Piauí;Piauí;10586;9
+Cajazeiras do Piauí;Piauí;3559;9
+Cajueiro da Praia;Piauí;7642;9
+Caldeirão Grande do Piauí;Piauí;5776;9
+Campinas do Piauí;Piauí;5613;9
+Campo Alegre do Fidalgo;Piauí;5045;9
+Campo Grande do Piauí;Piauí;5943;9
+Campo Largo do Piauí;Piauí;7279;9
+Campo Maior;Piauí;46833;9
+Canavieira;Piauí;3950;9
+Canto do Buriti;Piauí;21187;9
+Capitão de Campos;Piauí;11417;9
+Capitão Gervásio Oliveira;Piauí;4100;9
+Caracol;Piauí;10916;9
+Caraúbas do Piauí;Piauí;5868;9
+Caridade do Piauí;Piauí;5067;9
+Castelo do Piauí;Piauí;19716;9
+Caxingó;Piauí;5424;9
+Cocal;Piauí;27787;9
+Cocal de Telha;Piauí;4891;9
+Cocal dos Alves;Piauí;6153;9
+Coivaras;Piauí;4020;9
+Colônia do Gurguéia;Piauí;6484;9
+Colônia do Piauí;Piauí;7656;9
+Conceição do Canindé;Piauí;4803;9
+Coronel José Dias;Piauí;4682;9
+Corrente;Piauí;26644;9
+Cristalândia do Piauí;Piauí;8294;9
+Cristino Castro;Piauí;10423;9
+Curimatá;Piauí;11388;9
+Currais;Piauí;4954;9
+Curralinhos;Piauí;4443;9
+Curral Novo do Piauí;Piauí;5343;9
+Demerval Lobão;Piauí;13817;9
+Dirceu Arcoverde;Piauí;7011;9
+Dom Expedito Lopes;Piauí;6904;9
+Domingos Mourão;Piauí;4355;9
+Dom Inocêncio;Piauí;9556;9
+Elesbão Veloso;Piauí;14602;9
+Eliseu Martins;Piauí;4915;9
+Esperantina;Piauí;39737;9
+Fartura do Piauí;Piauí;5307;9
+Flores do Piauí;Piauí;4463;9
+Floresta do Piauí;Piauí;2558;9
+Floriano;Piauí;59935;10
+Francinópolis;Piauí;5348;9
+Francisco Ayres;Piauí;4348;9
+Francisco Macedo;Piauí;3184;9
+Francisco Santos;Piauí;9319;9
+Fronteiras;Piauí;11625;9
+Geminiano;Piauí;5442;9
+Gilbués;Piauí;10690;9
+Guadalupe;Piauí;10499;9
+Guaribas;Piauí;4562;9
+Hugo Napoleão;Piauí;3877;9
+Ilha Grande;Piauí;9426;9
+Inhuma;Piauí;15308;9
+Ipiranga do Piauí;Piauí;9811;9
+Isaías Coelho;Piauí;8549;9
+Itainópolis;Piauí;11530;9
+Itaueira;Piauí;11019;9
+Jacobina do Piauí;Piauí;5741;9
+Jaicós;Piauí;19104;9
+Jardim do Mulato;Piauí;4504;9
+Jatobá do Piauí;Piauí;4865;9
+Jerumenha;Piauí;4452;9
+João Costa;Piauí;3008;9
+Joaquim Pires;Piauí;14354;9
+Joca Marques;Piauí;5443;9
+José de Freitas;Piauí;39208;9
+Juazeiro do Piauí;Piauí;5478;9
+Júlio Borges;Piauí;5627;9
+Jurema;Piauí;4763;9
+Lagoinha do Piauí;Piauí;2845;9
+Lagoa Alegre;Piauí;8542;9
+Lagoa do Barro do Piauí;Piauí;4655;9
+Lagoa de São Francisco;Piauí;6758;9
+Lagoa do Piauí;Piauí;4064;9
+Lagoa do Sítio;Piauí;5177;9
+Landri Sales;Piauí;5295;9
+Luís Correia;Piauí;30311;9
+Luzilândia;Piauí;25486;9
+Madeiro;Piauí;8310;9
+Manoel Emídio;Piauí;5349;9
+Marcolândia;Piauí;8492;9
+Marcos Parente;Piauí;4549;9
+Massapê do Piauí;Piauí;6441;9
+Matias Olímpio;Piauí;10936;9
+Miguel Alves;Piauí;33760;9
+Miguel Leão;Piauí;1246;9
+Milton Brandão;Piauí;6613;9
+Monsenhor Gil;Piauí;10564;9
+Monsenhor Hipólito;Piauí;7749;9
+Monte Alegre do Piauí;Piauí;10613;9
+Morro Cabeça no Tempo;Piauí;4532;9
+Morro do Chapéu do Piauí;Piauí;6796;9
+Murici dos Portelas;Piauí;9159;9
+Nazaré do Piauí;Piauí;7339;9
+Nazária;Piauí;8570;9
+Nossa Senhora de Nazaré;Piauí;4870;9
+Nossa Senhora dos Remédios;Piauí;8692;9
+Novo Oriente do Piauí;Piauí;6565;9
+Novo Santo Antônio;Piauí;2991;9
+Oeiras;Piauí;37029;9
+Olho D'Água do Piauí;Piauí;2459;9
+Padre Marcos;Piauí;6868;9
+Paes Landim;Piauí;4129;9
+Pajeú do Piauí;Piauí;3389;9
+Palmeira do Piauí;Piauí;5043;9
+Palmeirais;Piauí;14539;9
+Paquetá;Piauí;3945;9
+Parnaguá;Piauí;10791;9
+Parnaíba;Piauí;153078;12
+Passagem Franca do Piauí;Piauí;4313;9
+Patos do Piauí;Piauí;6392;9
+Pau D'Arco do Piauí;Piauí;4045;9
+Paulistana;Piauí;20523;9
+Pavussu;Piauí;3677;9
+Pedro II;Piauí;38742;9
+Pedro Laurentino;Piauí;2536;9
+Nova Santa Rita;Piauí;4374;9
+Picos;Piauí;78222;10
+Pimenteiras;Piauí;12127;9
+Pio IX;Piauí;18425;9
+Piracuruca;Piauí;28791;9
+Piripiri;Piauí;63742;10
+Porto;Piauí;12568;9
+Porto Alegre do Piauí;Piauí;2710;9
+Prata do Piauí;Piauí;3151;9
+Queimada Nova;Piauí;8992;9
+Redenção do Gurguéia;Piauí;8778;9
+Regeneração;Piauí;17978;9
+Riacho Frio;Piauí;4312;9
+Ribeira do Piauí;Piauí;4477;9
+Ribeiro Gonçalves;Piauí;7341;9
+Rio Grande do Piauí;Piauí;6432;9
+Santa Cruz do Piauí;Piauí;6240;9
+Santa Cruz dos Milagres;Piauí;4019;9
+Santa Filomena;Piauí;6253;9
+Santa Luz;Piauí;5860;9
+Santana do Piauí;Piauí;4634;9
+Santa Rosa do Piauí;Piauí;5257;9
+Santo Antônio de Lisboa;Piauí;6415;9
+Santo Antônio dos Milagres;Piauí;2161;9
+Santo Inácio do Piauí;Piauí;3798;9
+São Braz do Piauí;Piauí;4448;9
+São Félix do Piauí;Piauí;2942;9
+São Francisco de Assis do Piauí;Piauí;5755;9
+São Francisco do Piauí;Piauí;6423;9
+São Gonçalo do Gurguéia;Piauí;3041;9
+São Gonçalo do Piauí;Piauí;5015;9
+São João da Canabrava;Piauí;4608;9
+São João da Fronteira;Piauí;6042;9
+São João da Serra;Piauí;6139;9
+São João da Varjota;Piauí;4840;9
+São João do Arraial;Piauí;7989;9
+São João do Piauí;Piauí;20601;9
+São José do Divino;Piauí;5346;9
+São José do Peixe;Piauí;3745;9
+São José do Piauí;Piauí;6705;9
+São Julião;Piauí;6363;9
+São Lourenço do Piauí;Piauí;4573;9
+São Luis do Piauí;Piauí;2644;9
+São Miguel da Baixa Grande;Piauí;2452;9
+São Miguel do Fidalgo;Piauí;3039;9
+São Miguel do Tapuio;Piauí;17662;9
+São Pedro do Piauí;Piauí;14291;9
+São Raimundo Nonato;Piauí;34710;9
+Sebastião Barros;Piauí;3469;9
+Sebastião Leal;Piauí;4294;9
+Sigefredo Pacheco;Piauí;10041;9
+Simões;Piauí;14633;9
+Simplício Mendes;Piauí;12711;9
+Socorro do Piauí;Piauí;4569;9
+Sussuapara;Piauí;6730;9
+Tamboril do Piauí;Piauí;2919;9
+Tanque do Piauí;Piauí;2765;9
+Teresina;Piauí;864845;21
+União;Piauí;44485;9
+Uruçuí;Piauí;21558;9
+Valença do Piauí;Piauí;20918;9
+Várzea Branca;Piauí;4947;9
+Várzea Grande;Piauí;4391;9
+Vera Mendes;Piauí;3077;9
+Vila Nova do Piauí;Piauí;2971;9
+Wall Ferraz;Piauí;4462;9
+Abaiara;Ceará;11737;9
+Acarape;Ceará;14929;9
+Acaraú;Ceará;62641;10
+Acopiara;Ceará;54270;10
+Aiuaba;Ceará;17399;9
+Alcântaras;Ceará;11714;9
+Altaneira;Ceará;7586;9
+Alto Santo;Ceará;17146;9
+Amontada;Ceará;43452;9
+Antonina do Norte;Ceará;7353;9
+Apuiarés;Ceará;14600;9
+Aquiraz;Ceará;80271;10
+Aracati;Ceará;74547;10
+Aracoiaba;Ceará;26469;9
+Ararendá;Ceará;10935;9
+Araripe;Ceará;21600;9
+Aratuba;Ceará;11847;9
+Arneiroz;Ceará;7840;9
+Assaré;Ceará;23417;9
+Aurora;Ceará;24654;9
+Baixio;Ceará;6288;9
+Banabuiú;Ceará;18197;9
+Barbalha;Ceará;60781;10
+Barreira;Ceará;22425;9
+Barro;Ceará;22680;9
+Barroquinha;Ceará;15017;9
+Baturité;Ceará;35750;9
+Beberibe;Ceará;53573;10
+Bela Cruz;Ceará;32591;9
+Boa Viagem;Ceará;54470;10
+Brejo Santo;Ceará;49477;10
+Camocim;Ceará;63661;10
+Campos Sales;Ceará;27426;9
+Canindé;Ceará;76997;10
+Capistrano;Ceará;17738;9
+Caridade;Ceará;22547;9
+Cariré;Ceará;18448;9
+Caririaçu;Ceará;26965;9
+Cariús;Ceará;18699;9
+Carnaubal;Ceará;17606;9
+Cascavel;Ceará;71743;10
+Catarina;Ceará;20698;9
+Catunda;Ceará;10342;9
+Caucaia;Ceará;361400;16
+Cedro;Ceará;25557;9
+Chaval;Ceará;13069;9
+Choró;Ceará;13521;9
+Chorozinho;Ceará;20264;9
+Coreaú;Ceará;23136;9
+Crateús;Ceará;75074;10
+Crato;Ceará;132123;11
+Croatá;Ceará;18063;9
+Cruz;Ceará;24827;9
+Deputado Irapuan Pinheiro;Ceará;9625;9
+Ererê;Ceará;7198;9
+Eusébio;Ceará;53618;10
+Farias Brito;Ceará;19450;9
+Forquilha;Ceará;24218;9
+Fortaleza;Ceará;2669342;41
+Fortim;Ceará;16480;9
+Frecheirinha;Ceará;14072;9
+General Sampaio;Ceará;7618;9
+Graça;Ceará;14399;9
+Granja;Ceará;54748;10
+Granjeiro;Ceará;4844;9
+Groaíras;Ceará;11068;9
+Guaiúba;Ceará;26064;9
+Guaraciaba do Norte;Ceará;40642;9
+Guaramiranga;Ceará;5193;9
+Hidrolândia;Ceará;19978;9
+Horizonte;Ceará;67337;10
+Ibaretama;Ceará;13353;9
+Ibiapina;Ceará;24997;9
+Ibicuitinga;Ceará;12525;9
+Icapuí;Ceará;19934;9
+Icó;Ceará;68018;10
+Iguatu;Ceará;102498;11
+Independência;Ceará;26178;9
+Ipaporanga;Ceará;11593;9
+Ipaumirim;Ceará;12463;9
+Ipu;Ceará;41964;9
+Ipueiras;Ceará;38166;9
+Iracema;Ceará;14297;9
+Irauçuba;Ceará;24156;9
+Itaiçaba;Ceará;7827;9
+Itaitinga;Ceará;37980;9
+Itapajé;Ceará;52675;10
+Itapipoca;Ceará;129358;11
+Itapiúna;Ceará;20382;9
+Itarema;Ceará;41826;9
+Itatira;Ceará;21647;9
+Jaguaretama;Ceará;18162;9
+Jaguaribara;Ceará;11401;9
+Jaguaribe;Ceará;34682;9
+Jaguaruana;Ceará;33705;9
+Jardim;Ceará;27174;9
+Jati;Ceará;8111;9
+Jijoca de Jericoacoara;Ceará;19816;9
+Juazeiro do Norte;Ceará;274207;14
+Jucás;Ceará;24833;9
+Lavras da Mangabeira;Ceará;31508;9
+Limoeiro do Norte;Ceará;59540;10
+Madalena;Ceará;19691;9
+Maracanaú;Ceará;227886;13
+Maranguape;Ceará;128978;11
+Marco;Ceará;27361;9
+Martinópole;Ceará;11233;9
+Massapê;Ceará;38737;9
+Mauriti;Ceará;47962;10
+Meruoca;Ceará;15057;9
+Milagres;Ceará;27512;9
+Milhã;Ceará;13155;9
+Miraíma;Ceará;13818;9
+Missão Velha;Ceará;35393;9
+Mombaça;Ceará;43797;9
+Monsenhor Tabosa;Ceará;17234;9
+Morada Nova;Ceará;61890;10
+Moraújo;Ceará;8724;9
+Morrinhos;Ceará;22534;9
+Mucambo;Ceará;14537;9
+Mulungu;Ceará;10823;9
+Nova Olinda;Ceará;15565;9
+Nova Russas;Ceará;32328;9
+Novo Oriente;Ceará;28607;9
+Ocara;Ceará;25703;9
+Orós;Ceará;21427;9
+Pacajus;Ceará;72203;10
+Pacatuba;Ceará;83432;10
+Pacoti;Ceará;12261;9
+Pacujá;Ceará;6533;9
+Palhano;Ceará;9386;9
+Palmácia;Ceará;13322;9
+Paracuru;Ceará;35076;9
+Paraipaba;Ceará;32744;9
+Parambu;Ceará;31521;9
+Paramoti;Ceará;12226;9
+Pedra Branca;Ceará;43258;9
+Penaforte;Ceará;9077;9
+Pentecoste;Ceará;37751;9
+Pereiro;Ceará;16307;9
+Pindoretama;Ceará;20567;9
+Piquet Carneiro;Ceará;16959;9
+Pires Ferreira;Ceará;10951;9
+Poranga;Ceará;12336;9
+Porteiras;Ceará;14996;9
+Potengi;Ceará;11045;9
+Potiretama;Ceará;6419;9
+Quiterianópolis;Ceará;21084;9
+Quixadá;Ceará;87728;10
+Quixelô;Ceará;16178;9
+Quixeramobim;Ceará;81082;10
+Quixeré;Ceará;22149;9
+Redenção;Ceará;29053;9
+Reriutaba;Ceará;18491;9
+Russas;Ceará;78194;10
+Saboeiro;Ceará;15819;9
+Salitre;Ceará;16554;9
+Santana do Acaraú;Ceará;32452;9
+Santana do Cariri;Ceará;17700;9
+Santa Quitéria;Ceará;43703;9
+São Benedito;Ceará;47903;10
+São Gonçalo do Amarante;Ceará;48422;10
+São João do Jaguaribe;Ceará;7645;9
+São Luís do Curu;Ceará;13000;9
+Senador Pompeu;Ceará;25496;9
+Senador Sá;Ceará;7623;9
+Sobral;Ceará;208935;13
+Solonópole;Ceará;18324;9
+Tabuleiro do Norte;Ceará;30697;9
+Tamboril;Ceará;26251;9
+Tarrafas;Ceará;8592;9
+Tauá;Ceará;58859;10
+Tejuçuoca;Ceará;19187;9
+Tianguá;Ceará;75946;10
+Trairi;Ceará;55918;10
+Tururu;Ceará;16271;9
+Ubajara;Ceará;34792;9
+Umari;Ceará;7733;9
+Umirim;Ceará;19825;9
+Uruburetama;Ceará;21850;9
+Uruoca;Ceará;13840;9
+Varjota;Ceará;18420;9
+Várzea Alegre;Ceará;40721;9
+Viçosa do Ceará;Ceará;60889;10
+Acari;Rio Grande do Norte;11136;9
+Açu;Rio Grande do Norte;58017;10
+Afonso Bezerra;Rio Grande do Norte;11035;9
+Água Nova;Rio Grande do Norte;3252;9
+Alexandria;Rio Grande do Norte;13577;9
+Almino Afonso;Rio Grande do Norte;4735;9
+Alto do Rodrigues;Rio Grande do Norte;14529;9
+Angicos;Rio Grande do Norte;11714;9
+Antônio Martins;Rio Grande do Norte;7145;9
+Apodi;Rio Grande do Norte;35845;9
+Areia Branca;Rio Grande do Norte;27774;9
+Arês;Rio Grande do Norte;14306;9
+Augusto Severo;Rio Grande do Norte;9655;9
+Baía Formosa;Rio Grande do Norte;9271;9
+Baraúna;Rio Grande do Norte;28374;9
+Barcelona;Rio Grande do Norte;3998;9
+Bento Fernandes;Rio Grande do Norte;5497;9
+Bodó;Rio Grande do Norte;2223;9
+Bom Jesus;Rio Grande do Norte;10210;9
+Brejinho;Rio Grande do Norte;12699;9
+Caiçara do Norte;Rio Grande do Norte;6549;9
+Caiçara do Rio do Vento;Rio Grande do Norte;3684;9
+Caicó;Rio Grande do Norte;67952;10
+Campo Redondo;Rio Grande do Norte;11217;9
+Canguaretama;Rio Grande do Norte;34276;9
+Caraúbas;Rio Grande do Norte;20493;9
+Carnaúba dos Dantas;Rio Grande do Norte;8180;9
+Carnaubais;Rio Grande do Norte;10759;9
+Ceará-Mirim;Rio Grande do Norte;73497;10
+Cerro Corá;Rio Grande do Norte;11179;9
+Coronel Ezequiel;Rio Grande do Norte;5506;9
+Coronel João Pessoa;Rio Grande do Norte;4912;9
+Cruzeta;Rio Grande do Norte;7998;9
+Currais Novos;Rio Grande do Norte;44786;9
+Doutor Severiano;Rio Grande do Norte;7076;9
+Parnamirim;Rio Grande do Norte;261469;14
+Encanto;Rio Grande do Norte;5638;9
+Equador;Rio Grande do Norte;6045;9
+Espírito Santo;Rio Grande do Norte;10505;9
+Extremoz;Rio Grande do Norte;28583;9
+Felipe Guerra;Rio Grande do Norte;5985;9
+Fernando Pedroza;Rio Grande do Norte;3054;9
+Florânia;Rio Grande do Norte;9116;9
+Francisco Dantas;Rio Grande do Norte;2824;9
+Frutuoso Gomes;Rio Grande do Norte;4068;9
+Galinhos;Rio Grande do Norte;2786;9
+Goianinha;Rio Grande do Norte;26328;9
+Governador Dix-Sept Rosado;Rio Grande do Norte;13037;9
+Grossos;Rio Grande do Norte;10383;9
+Guamaré;Rio Grande do Norte;15659;9
+Ielmo Marinho;Rio Grande do Norte;13766;9
+Ipanguaçu;Rio Grande do Norte;15491;9
+Ipueira;Rio Grande do Norte;2241;9
+Itajá;Rio Grande do Norte;7548;9
+Itaú;Rio Grande do Norte;5878;9
+Jaçanã;Rio Grande do Norte;9133;9
+Jandaíra;Rio Grande do Norte;6878;9
+Janduís;Rio Grande do Norte;5268;9
+Januário Cicco;Rio Grande do Norte;10181;9
+Japi;Rio Grande do Norte;5055;9
+Jardim de Angicos;Rio Grande do Norte;2612;9
+Jardim de Piranhas;Rio Grande do Norte;14837;9
+Jardim do Seridó;Rio Grande do Norte;12396;9
+João Câmara;Rio Grande do Norte;34955;9
+João Dias;Rio Grande do Norte;2654;9
+José da Penha;Rio Grande do Norte;5951;9
+Jucurutu;Rio Grande do Norte;18295;9
+Jundiá;Rio Grande do Norte;3898;9
+Lagoa d'Anta;Rio Grande do Norte;6769;9
+Lagoa de Pedras;Rio Grande do Norte;7544;9
+Lagoa de Velhos;Rio Grande do Norte;2732;9
+Lagoa Nova;Rio Grande do Norte;15614;9
+Lagoa Salgada;Rio Grande do Norte;8245;9
+Lajes;Rio Grande do Norte;11277;9
+Lajes Pintadas;Rio Grande do Norte;4759;9
+Lucrécia;Rio Grande do Norte;3996;9
+Luís Gomes;Rio Grande do Norte;10116;9
+Macaíba;Rio Grande do Norte;80792;10
+Macau;Rio Grande do Norte;31814;9
+Major Sales;Rio Grande do Norte;4020;9
+Marcelino Vieira;Rio Grande do Norte;8347;9
+Martins;Rio Grande do Norte;8725;9
+Maxaranguape;Rio Grande do Norte;12371;9
+Messias Targino;Rio Grande do Norte;4601;9
+Montanhas;Rio Grande do Norte;11251;9
+Monte Alegre;Rio Grande do Norte;22451;9
+Monte das Gameleiras;Rio Grande do Norte;2105;9
+Mossoró;Rio Grande do Norte;297378;15
+Natal;Rio Grande do Norte;884122;21
+Nísia Floresta;Rio Grande do Norte;27602;9
+Nova Cruz;Rio Grande do Norte;37343;9
+Olho d'Água do Borges;Rio Grande do Norte;4258;9
+Ouro Branco;Rio Grande do Norte;4812;9
+Paraná;Rio Grande do Norte;4254;9
+Paraú;Rio Grande do Norte;3768;9
+Parazinho;Rio Grande do Norte;5237;9
+Parelhas;Rio Grande do Norte;21477;9
+Rio do Fogo;Rio Grande do Norte;10848;9
+Passa e Fica;Rio Grande do Norte;13277;9
+Passagem;Rio Grande do Norte;3089;9
+Patu;Rio Grande do Norte;12755;9
+Santa Maria;Rio Grande do Norte;5551;9
+Pau dos Ferros;Rio Grande do Norte;30394;9
+Pedra Grande;Rio Grande do Norte;3237;9
+Pedra Preta;Rio Grande do Norte;2458;9
+Pedro Avelino;Rio Grande do Norte;6716;9
+Pedro Velho;Rio Grande do Norte;14806;9
+Pendências;Rio Grande do Norte;15129;9
+Pilões;Rio Grande do Norte;3838;9
+Poço Branco;Rio Grande do Norte;15413;9
+Portalegre;Rio Grande do Norte;7867;9
+Porto do Mangue;Rio Grande do Norte;6437;9
+Serra Caiada;Rio Grande do Norte;10395;9
+Pureza;Rio Grande do Norte;9621;9
+Rafael Fernandes;Rio Grande do Norte;5098;9
+Rafael Godeiro;Rio Grande do Norte;3201;9
+Riacho da Cruz;Rio Grande do Norte;3579;9
+Riacho de Santana;Rio Grande do Norte;4204;9
+Riachuelo;Rio Grande do Norte;8128;9
+Rodolfo Fernandes;Rio Grande do Norte;4467;9
+Tibau;Rio Grande do Norte;4106;9
+Ruy Barbosa;Rio Grande do Norte;3600;9
+Santa Cruz;Rio Grande do Norte;39674;9
+Santana do Matos;Rio Grande do Norte;12791;9
+Santana do Seridó;Rio Grande do Norte;2680;9
+Santo Antônio;Rio Grande do Norte;24136;9
+São Bento do Norte;Rio Grande do Norte;2747;9
+São Bento do Trairí;Rio Grande do Norte;4449;9
+São Fernando;Rio Grande do Norte;3584;9
+São Francisco do Oeste;Rio Grande do Norte;4228;9
+São Gonçalo do Amarante;Rio Grande do Norte;102400;11
+São João do Sabugi;Rio Grande do Norte;6193;9
+São José de Mipibu;Rio Grande do Norte;43899;9
+São José do Campestre;Rio Grande do Norte;12856;9
+São José do Seridó;Rio Grande do Norte;4634;9
+São Miguel;Rio Grande do Norte;23519;9
+São Miguel do Gostoso;Rio Grande do Norte;10282;9
+São Paulo do Potengi;Rio Grande do Norte;17579;9
+São Pedro;Rio Grande do Norte;5971;9
+São Rafael;Rio Grande do Norte;8202;9
+São Tomé;Rio Grande do Norte;11055;9
+São Vicente;Rio Grande do Norte;6424;9
+Senador Elói de Souza;Rio Grande do Norte;6086;9
+Senador Georgino Avelino;Rio Grande do Norte;4440;9
+Serra de São Bento;Rio Grande do Norte;5762;9
+Serra do Mel;Rio Grande do Norte;11938;9
+Serra Negra do Norte;Rio Grande do Norte;8078;9
+Serrinha;Rio Grande do Norte;6229;9
+Serrinha dos Pintos;Rio Grande do Norte;4800;9
+Severiano Melo;Rio Grande do Norte;2440;9
+Sítio Novo;Rio Grande do Norte;5522;9
+Taboleiro Grande;Rio Grande do Norte;2566;9
+Taipu;Rio Grande do Norte;12279;9
+Tangará;Rio Grande do Norte;15727;9
+Tenente Ananias;Rio Grande do Norte;10786;9
+Tenente Laurentino Cruz;Rio Grande do Norte;5952;9
+Tibau do Sul;Rio Grande do Norte;14180;9
+Timbaúba dos Batistas;Rio Grande do Norte;2414;9
+Touros;Rio Grande do Norte;33287;9
+Triunfo Potiguar;Rio Grande do Norte;3237;9
+Umarizal;Rio Grande do Norte;10555;9
+Upanema;Rio Grande do Norte;14659;9
+Várzea;Rio Grande do Norte;5500;9
+Venha-Ver;Rio Grande do Norte;4177;9
+Vera Cruz;Rio Grande do Norte;12481;9
+Viçosa;Rio Grande do Norte;1718;9
+Vila Flor;Rio Grande do Norte;3170;9
+Água Branca;Paraíba;10234;9
+Aguiar;Paraíba;5640;9
+Alagoa Grande;Paraíba;28496;9
+Alagoa Nova;Paraíba;20849;9
+Alagoinha;Paraíba;14489;9
+Alcantil;Paraíba;5492;9
+Algodão de Jandaíra;Paraíba;2567;9
+Alhandra;Paraíba;19588;9
+São João do Rio do Peixe;Paraíba;18034;9
+Amparo;Paraíba;2238;9
+Aparecida;Paraíba;8347;9
+Araçagi;Paraíba;16987;9
+Arara;Paraíba;13470;9
+Araruna;Paraíba;20312;9
+Areia;Paraíba;22819;9
+Areia de Baraúnas;Paraíba;2128;9
+Areial;Paraíba;6998;9
+Aroeiras;Paraíba;19153;9
+Assunção;Paraíba;3990;9
+Baía da Traição;Paraíba;8993;9
+Bananeiras;Paraíba;21318;9
+Baraúna;Paraíba;4892;9
+Barra de Santana;Paraíba;8359;9
+Barra de Santa Rosa;Paraíba;15384;9
+Barra de São Miguel;Paraíba;6036;9
+Bayeux;Paraíba;96880;11
+Belém;Paraíba;17676;9
+Belém do Brejo do Cruz;Paraíba;7342;9
+Bernardino Batista;Paraíba;3501;9
+Boa Ventura;Paraíba;5366;9
+Boa Vista;Paraíba;7051;9
+Bom Jesus;Paraíba;2561;9
+Bom Sucesso;Paraíba;4975;9
+Bonito de Santa Fé;Paraíba;11917;9
+Boqueirão;Paraíba;17804;9
+Igaracy;Paraíba;6117;9
+Borborema;Paraíba;5263;9
+Brejo do Cruz;Paraíba;14122;9
+Brejo dos Santos;Paraíba;6449;9
+Caaporã;Paraíba;21828;9
+Cabaceiras;Paraíba;5611;9
+Cabedelo;Paraíba;67736;10
+Cachoeira dos Índios;Paraíba;10244;9
+Cacimba de Areia;Paraíba;3682;9
+Cacimba de Dentro;Paraíba;17187;9
+Cacimbas;Paraíba;7173;9
+Caiçara;Paraíba;7201;9
+Cajazeiras;Paraíba;61993;10
+Cajazeirinhas;Paraíba;3193;9
+Caldas Brandão;Paraíba;6014;9
+Camalaú;Paraíba;6013;9
+Campina Grande;Paraíba;409731;17
+Capim;Paraíba;6523;9
+Caraúbas;Paraíba;4162;9
+Carrapateira;Paraíba;2659;9
+Casserengue;Paraíba;7468;9
+Catingueira;Paraíba;4932;9
+Catolé do Rocha;Paraíba;30546;9
+Caturité;Paraíba;4852;9
+Conceição;Paraíba;18982;9
+Condado;Paraíba;6654;9
+Conde;Paraíba;24670;9
+Congo;Paraíba;4786;9
+Coremas;Paraíba;15445;9
+Coxixola;Paraíba;1921;9
+Cruz do Espírito Santo;Paraíba;17319;9
+Cubati;Paraíba;7797;9
+Cuité;Paraíba;20338;9
+Cuitegi;Paraíba;6803;9
+Cuité de Mamanguape;Paraíba;6353;9
+Curral de Cima;Paraíba;5227;9
+Curral Velho;Paraíba;2516;9
+Damião;Paraíba;5330;9
+Desterro;Paraíba;8297;9
+Vista Serrana;Paraíba;3798;9
+Diamante;Paraíba;6552;9
+Dona Inês;Paraíba;10453;9
+Duas Estradas;Paraíba;3596;9
+Emas;Paraíba;3522;9
+Esperança;Paraíba;33007;9
+Fagundes;Paraíba;11253;9
+Frei Martinho;Paraíba;2989;9
+Gado Bravo;Paraíba;8316;9
+Guarabira;Paraíba;58833;10
+Gurinhém;Paraíba;14129;9
+Gurjão;Paraíba;3428;9
+Ibiara;Paraíba;5929;9
+Imaculada;Paraíba;11819;9
+Ingá;Paraíba;18103;9
+Itabaiana;Paraíba;24477;9
+Itaporanga;Paraíba;24692;9
+Itapororoca;Paraíba;18664;9
+Itatuba;Paraíba;10962;9
+Jacaraú;Paraíba;14431;9
+Jericó;Paraíba;7739;9
+João Pessoa;Paraíba;809015;21
+Juarez Távora;Paraíba;7936;9
+Juazeirinho;Paraíba;18171;9
+Junco do Seridó;Paraíba;7150;9
+Juripiranga;Paraíba;10756;9
+Juru;Paraíba;9867;9
+Lagoa;Paraíba;4666;9
+Lagoa de Dentro;Paraíba;7719;9
+Lagoa Seca;Paraíba;27503;9
+Lastro;Paraíba;2737;9
+Livramento;Paraíba;7256;9
+Logradouro;Paraíba;4332;9
+Lucena;Paraíba;13080;9
+Mãe d'Água;Paraíba;4009;9
+Malta;Paraíba;5759;9
+Mamanguape;Paraíba;44882;9
+Manaíra;Paraíba;10955;9
+Marcação;Paraíba;8558;9
+Mari;Paraíba;21837;9
+Marizópolis;Paraíba;6617;9
+Massaranduba;Paraíba;13918;9
+Mataraca;Paraíba;8434;9
+Matinhas;Paraíba;4500;9
+Mato Grosso;Paraíba;2908;9
+Maturéia;Paraíba;6569;9
+Mogeiro;Paraíba;13284;9
+Montadas;Paraíba;5669;9
+Monte Horebe;Paraíba;4816;9
+Monteiro;Paraíba;33222;9
+Mulungu;Paraíba;9902;9
+Natuba;Paraíba;10454;9
+Nazarezinho;Paraíba;7301;9
+Nova Floresta;Paraíba;10638;9
+Nova Olinda;Paraíba;5949;9
+Nova Palmeira;Paraíba;4906;9
+Olho d'Água;Paraíba;6526;9
+Olivedos;Paraíba;3932;9
+Ouro Velho;Paraíba;3039;9
+Parari;Paraíba;1771;9
+Passagem;Paraíba;2419;9
+Patos;Paraíba;107605;11
+Paulista;Paraíba;12347;9
+Pedra Branca;Paraíba;3801;9
+Pedra Lavrada;Paraíba;7843;9
+Pedras de Fogo;Paraíba;28458;9
+Piancó;Paraíba;16075;9
+Picuí;Paraíba;18703;9
+Pilar;Paraíba;11917;9
+Pilões;Paraíba;6635;9
+Pilõezinhos;Paraíba;4976;9
+Pirpirituba;Paraíba;10579;9
+Pitimbu;Paraíba;19065;9
+Pocinhos;Paraíba;18564;9
+Poço Dantas;Paraíba;3888;9
+Poço de José de Moura;Paraíba;4307;9
+Pombal;Paraíba;32801;9
+Prata;Paraíba;4209;9
+Princesa Isabel;Paraíba;23345;9
+Puxinanã;Paraíba;13680;9
+Queimadas;Paraíba;43967;9
+Quixaba;Paraíba;1956;9
+Remígio;Paraíba;19621;9
+Pedro Régis;Paraíba;6089;9
+Riachão;Paraíba;3588;9
+Riachão do Bacamarte;Paraíba;4521;9
+Riachão do Poço;Paraíba;4509;9
+Riacho de Santo Antônio;Paraíba;1948;9
+Riacho dos Cavalos;Paraíba;8526;9
+Rio Tinto;Paraíba;24176;9
+Salgadinho;Paraíba;3885;9
+Salgado de São Félix;Paraíba;12140;9
+Santa Cecília;Paraíba;6558;9
+Santa Cruz;Paraíba;6583;9
+Santa Helena;Paraíba;5889;9
+Santa Inês;Paraíba;3595;9
+Santa Luzia;Paraíba;15382;9
+Santana de Mangueira;Paraíba;5162;9
+Santana dos Garrotes;Paraíba;7031;9
+Joca Claudino;Paraíba;2636;9
+Santa Rita;Paraíba;136586;11
+Santa Teresinha;Paraíba;4573;9
+Santo André;Paraíba;2521;9
+São Bento;Paraíba;34031;9
+São Bentinho;Paraíba;4529;9
+São Domingos do Cariri;Paraíba;2615;9
+São Domingos;Paraíba;3073;9
+São Francisco;Paraíba;3392;9
+São João do Cariri;Paraíba;4199;9
+São João do Tigre;Paraíba;4422;9
+São José da Lagoa Tapada;Paraíba;7630;9
+São José de Caiana;Paraíba;6359;9
+São José de Espinharas;Paraíba;4682;9
+São José dos Ramos;Paraíba;5957;9
+São José de Piranhas;Paraíba;20251;9
+São José de Princesa;Paraíba;4003;9
+São José do Bonfim;Paraíba;3557;9
+São José do Brejo do Cruz;Paraíba;1801;9
+São José do Sabugi;Paraíba;4141;9
+São José dos Cordeiros;Paraíba;3628;9
+São Mamede;Paraíba;7724;9
+São Miguel de Taipu;Paraíba;7368;9
+São Sebastião de Lagoa de Roça;Paraíba;11661;9
+São Sebastião do Umbuzeiro;Paraíba;3489;9
+Sapé;Paraíba;52625;10
+São Vicente do Seridó;Paraíba;10775;9
+Serra Branca;Paraíba;13699;9
+Serra da Raiz;Paraíba;3148;9
+Serra Grande;Paraíba;2909;9
+Serra Redonda;Paraíba;7041;9
+Serraria;Paraíba;6099;9
+Sertãozinho;Paraíba;5024;9
+Sobrado;Paraíba;7783;9
+Solânea;Paraíba;26407;9
+Soledade;Paraíba;14989;9
+Sossêgo;Paraíba;3555;9
+Sousa;Paraíba;69444;10
+Sumé;Paraíba;16966;9
+Tacima;Paraíba;10911;9
+Taperoá;Paraíba;15376;9
+Tavares;Paraíba;14726;9
+Teixeira;Paraíba;15161;9
+Tenório;Paraíba;3058;9
+Triunfo;Paraíba;9455;9
+Uiraúna;Paraíba;15242;9
+Umbuzeiro;Paraíba;9907;9
+Várzea;Paraíba;2810;9
+Vieirópolis;Paraíba;5348;9
+Zabelê;Paraíba;2240;9
+Abreu e Lima;Pernambuco;99990;11
+Afogados da Ingazeira;Pernambuco;37259;9
+Afrânio;Pernambuco;19635;9
+Agrestina;Pernambuco;24885;9
+Água Preta;Pernambuco;36771;9
+Águas Belas;Pernambuco;43443;9
+Alagoinha;Pernambuco;14636;9
+Aliança;Pernambuco;38386;9
+Altinho;Pernambuco;22972;9
+Amaraji;Pernambuco;22829;9
+Angelim;Pernambuco;11150;9
+Araçoiaba;Pernambuco;20524;9
+Araripina;Pernambuco;84418;10
+Arcoverde;Pernambuco;74338;10
+Barra de Guabiraba;Pernambuco;14385;9
+Barreiros;Pernambuco;42659;9
+Belém de Maria;Pernambuco;12073;9
+Belém do São Francisco;Pernambuco;20729;9
+Belo Jardim;Pernambuco;76439;10
+Betânia;Pernambuco;12719;9
+Bezerros;Pernambuco;60798;10
+Bodocó;Pernambuco;38146;9
+Bom Conselho;Pernambuco;48554;10
+Bom Jardim;Pernambuco;39184;9
+Bonito;Pernambuco;38134;9
+Brejão;Pernambuco;8993;9
+Brejinho;Pernambuco;7487;9
+Brejo da Madre de Deus;Pernambuco;50742;10
+Buenos Aires;Pernambuco;13155;9
+Buíque;Pernambuco;58378;10
+Cabo de Santo Agostinho;Pernambuco;207048;13
+Cabrobó;Pernambuco;34221;9
+Cachoeirinha;Pernambuco;20380;9
+Caetés;Pernambuco;28739;9
+Calçado;Pernambuco;11053;9
+Calumbi;Pernambuco;5750;9
+Camaragibe;Pernambuco;157828;12
+Camocim de São Félix;Pernambuco;18765;9
+Camutanga;Pernambuco;8551;9
+Canhotinho;Pernambuco;24804;9
+Capoeiras;Pernambuco;20048;9
+Carnaíba;Pernambuco;19551;9
+Carnaubeira da Penha;Pernambuco;12932;9
+Carpina;Pernambuco;83641;10
+Caruaru;Pernambuco;361118;16
+Casinhas;Pernambuco;14341;9
+Catende;Pernambuco;42892;9
+Cedro;Pernambuco;11807;9
+Chã de Alegria;Pernambuco;13518;9
+Chã Grande;Pernambuco;21698;9
+Condado;Pernambuco;26421;9
+Correntes;Pernambuco;18207;9
+Cortês;Pernambuco;12578;9
+Cumaru;Pernambuco;10906;9
+Cupira;Pernambuco;24107;9
+Custódia;Pernambuco;37111;9
+Dormentes;Pernambuco;18908;9
+Escada;Pernambuco;68875;10
+Exu;Pernambuco;31825;9
+Feira Nova;Pernambuco;22131;9
+Fernando de Noronha;Pernambuco;3061;9
+Ferreiros;Pernambuco;12123;9
+Flores;Pernambuco;22624;9
+Floresta;Pernambuco;32873;9
+Frei Miguelinho;Pernambuco;15457;9
+Gameleira;Pernambuco;31052;9
+Garanhuns;Pernambuco;139788;11
+Glória do Goitá;Pernambuco;30604;9
+Goiana;Pernambuco;79758;10
+Granito;Pernambuco;7486;9
+Gravatá;Pernambuco;84074;10
+Iati;Pernambuco;19197;9
+Ibimirim;Pernambuco;29235;9
+Ibirajuba;Pernambuco;7762;9
+Igarassu;Pernambuco;117019;11
+Iguaracy;Pernambuco;12228;9
+Inajá;Pernambuco;23247;9
+Ingazeira;Pernambuco;4548;9
+Ipojuca;Pernambuco;96204;11
+Ipubi;Pernambuco;30854;9
+Itacuruba;Pernambuco;4918;9
+Itaíba;Pernambuco;26349;9
+Ilha de Itamaracá;Pernambuco;26258;9
+Itambé;Pernambuco;36447;9
+Itapetim;Pernambuco;13616;9
+Itapissuma;Pernambuco;26651;9
+Itaquitinga;Pernambuco;16955;9
+Jaboatão dos Guararapes;Pernambuco;702298;21
+Jaqueira;Pernambuco;11656;9
+Jataúba;Pernambuco;17150;9
+Jatobá;Pernambuco;14796;9
+João Alfredo;Pernambuco;33822;9
+Joaquim Nabuco;Pernambuco;16023;9
+Jucati;Pernambuco;11424;9
+Jupi;Pernambuco;14836;9
+Jurema;Pernambuco;15378;9
+Lagoa do Carro;Pernambuco;18071;9
+Lagoa de Itaenga;Pernambuco;21429;9
+Lagoa do Ouro;Pernambuco;13145;9
+Lagoa dos Gatos;Pernambuco;16290;9
+Lagoa Grande;Pernambuco;25601;9
+Lajedo;Pernambuco;40288;9
+Limoeiro;Pernambuco;56250;10
+Macaparana;Pernambuco;25376;9
+Machados;Pernambuco;16088;9
+Manari;Pernambuco;21434;9
+Maraial;Pernambuco;11345;9
+Mirandiba;Pernambuco;15390;9
+Moreno;Pernambuco;62784;10
+Nazaré da Mata;Pernambuco;32471;9
+Olinda;Pernambuco;392482;17
+Orobó;Pernambuco;23884;9
+Orocó;Pernambuco;14991;9
+Ouricuri;Pernambuco;69459;10
+Palmares;Pernambuco;63250;10
+Palmeirina;Pernambuco;7693;9
+Panelas;Pernambuco;26474;9
+Paranatama;Pernambuco;11523;9
+Parnamirim;Pernambuco;22010;9
+Passira;Pernambuco;28933;9
+Paudalho;Pernambuco;56506;10
+Paulista;Pernambuco;331774;15
+Pedra;Pernambuco;22617;9
+Pesqueira;Pernambuco;67395;10
+Petrolândia;Pernambuco;36548;9
+Petrolina;Pernambuco;349145;16
+Poção;Pernambuco;11302;9
+Pombos;Pernambuco;27091;9
+Primavera;Pernambuco;14966;9
+Quipapá;Pernambuco;26037;9
+Quixaba;Pernambuco;6813;9
+Recife;Pernambuco;1645727;38
+Riacho das Almas;Pernambuco;20546;9
+Ribeirão;Pernambuco;47415;9
+Rio Formoso;Pernambuco;23535;9
+Sairé;Pernambuco;9932;9
+Salgadinho;Pernambuco;10919;9
+Salgueiro;Pernambuco;60930;10
+Saloá;Pernambuco;15843;9
+Sanharó;Pernambuco;26462;9
+Santa Cruz;Pernambuco;15398;9
+Santa Cruz da Baixa Verde;Pernambuco;12592;9
+Santa Cruz do Capibaribe;Pernambuco;107937;11
+Santa Filomena;Pernambuco;14477;9
+Santa Maria da Boa Vista;Pernambuco;41931;9
+Santa Maria do Cambucá;Pernambuco;14137;9
+Santa Terezinha;Pernambuco;11815;9
+São Benedito do Sul;Pernambuco;15895;9
+São Bento do Una;Pernambuco;59504;10
+São Caitano;Pernambuco;37245;9
+São João;Pernambuco;22793;9
+São Joaquim do Monte;Pernambuco;21356;9
+São José da Coroa Grande;Pernambuco;21298;9
+São José do Belmonte;Pernambuco;33959;9
+São José do Egito;Pernambuco;33951;9
+São Lourenço da Mata;Pernambuco;113230;11
+São Vicente Férrer;Pernambuco;18018;9
+Serra Talhada;Pernambuco;86350;10
+Serrita;Pernambuco;19165;9
+Sertânia;Pernambuco;35907;9
+Sirinhaém;Pernambuco;45865;9
+Moreilândia;Pernambuco;11270;9
+Solidão;Pernambuco;6007;9
+Surubim;Pernambuco;65089;10
+Tabira;Pernambuco;28534;9
+Tacaimbó;Pernambuco;12874;9
+Tacaratu;Pernambuco;25765;9
+Tamandaré;Pernambuco;23388;9
+Taquaritinga do Norte;Pernambuco;28775;9
+Terezinha;Pernambuco;7169;9
+Terra Nova;Pernambuco;10096;9
+Timbaúba;Pernambuco;53022;10
+Toritama;Pernambuco;45219;9
+Tracunhaém;Pernambuco;13769;9
+Trindade;Pernambuco;30521;9
+Triunfo;Pernambuco;15254;9
+Tupanatinga;Pernambuco;27304;9
+Tuparetama;Pernambuco;8202;9
+Venturosa;Pernambuco;18482;9
+Verdejante;Pernambuco;9534;9
+Vertente do Lério;Pernambuco;7618;9
+Vertentes;Pernambuco;20731;9
+Vicência;Pernambuco;32643;9
+Vitória de Santo Antão;Pernambuco;138757;11
+Xexéu;Pernambuco;14725;9
+Água Branca;Alagoas;20196;9
+Anadia;Alagoas;17545;9
+Arapiraca;Alagoas;231747;13
+Atalaia;Alagoas;47185;9
+Barra de Santo Antônio;Alagoas;15932;9
+Barra de São Miguel;Alagoas;8322;9
+Batalha;Alagoas;18232;9
+Belém;Alagoas;4344;9
+Belo Monte;Alagoas;6704;9
+Boca da Mata;Alagoas;27281;9
+Branquinha;Alagoas;10494;9
+Cacimbinhas;Alagoas;10858;9
+Cajueiro;Alagoas;21264;9
+Campestre;Alagoas;6936;9
+Campo Alegre;Alagoas;57063;10
+Campo Grande;Alagoas;9558;9
+Canapi;Alagoas;17722;9
+Capela;Alagoas;17053;9
+Carneiros;Alagoas;9081;9
+Chã Preta;Alagoas;7311;9
+Coité do Nóia;Alagoas;10693;9
+Colônia Leopoldina;Alagoas;21698;9
+Coqueiro Seco;Alagoas;5845;9
+Coruripe;Alagoas;56933;10
+Craíbas;Alagoas;24219;9
+Delmiro Gouveia;Alagoas;52016;10
+Dois Riachos;Alagoas;11075;9
+Estrela de Alagoas;Alagoas;18205;9
+Feira Grande;Alagoas;22166;9
+Feliz Deserto;Alagoas;4754;9
+Flexeiras;Alagoas;12790;9
+Girau do Ponciano;Alagoas;40917;9
+Ibateguara;Alagoas;15616;9
+Igaci;Alagoas;25631;9
+Igreja Nova;Alagoas;24499;9
+Inhapi;Alagoas;18385;9
+Jacaré dos Homens;Alagoas;5253;9
+Jacuípe;Alagoas;7021;9
+Japaratinga;Alagoas;8361;9
+Jaramataia;Alagoas;5770;9
+Jequiá da Praia;Alagoas;11580;9
+Joaquim Gomes;Alagoas;23993;9
+Jundiá;Alagoas;4155;9
+Junqueiro;Alagoas;24727;9
+Lagoa da Canoa;Alagoas;17852;9
+Limoeiro de Anadia;Alagoas;28635;9
+Maceió;Alagoas;1018948;33
+Major Isidoro;Alagoas;19804;9
+Maragogi;Alagoas;32704;9
+Maravilha;Alagoas;9163;9
+Marechal Deodoro;Alagoas;51901;10
+Maribondo;Alagoas;13264;9
+Mar Vermelho;Alagoas;3514;9
+Mata Grande;Alagoas;25216;9
+Matriz de Camaragibe;Alagoas;24642;9
+Messias;Alagoas;17856;9
+Minador do Negrão;Alagoas;5329;9
+Monteirópolis;Alagoas;7159;9
+Murici;Alagoas;28236;9
+Novo Lino;Alagoas;12690;9
+Olho d'Água das Flores;Alagoas;21688;9
+Olho d'Água do Casado;Alagoas;9373;9
+Olho d'Água Grande;Alagoas;5123;9
+Olivença;Alagoas;11624;9
+Ouro Branco;Alagoas;11496;9
+Palestina;Alagoas;5011;9
+Palmeira dos Índios;Alagoas;73218;10
+Pão de Açúcar;Alagoas;24399;9
+Pariconha;Alagoas;10533;9
+Paripueira;Alagoas;13176;9
+Passo de Camaragibe;Alagoas;15245;9
+Paulo Jacinto;Alagoas;7564;9
+Penedo;Alagoas;63683;10
+Piaçabuçu;Alagoas;17827;9
+Pilar;Alagoas;35111;9
+Pindoba;Alagoas;2908;9
+Piranhas;Alagoas;25039;9
+Poço das Trincheiras;Alagoas;14386;9
+Porto Calvo;Alagoas;27165;9
+Porto de Pedras;Alagoas;7786;9
+Porto Real do Colégio;Alagoas;20066;9
+Quebrangulo;Alagoas;11294;9
+Rio Largo;Alagoas;75120;10
+Roteiro;Alagoas;6664;9
+Santa Luzia do Norte;Alagoas;7296;9
+Santana do Ipanema;Alagoas;47654;10
+Santana do Mundaú;Alagoas;10740;9
+São Brás;Alagoas;6961;9
+São José da Laje;Alagoas;23927;9
+São José da Tapera;Alagoas;32260;9
+São Luís do Quitunde;Alagoas;34555;9
+São Miguel dos Campos;Alagoas;61251;10
+São Miguel dos Milagres;Alagoas;7951;9
+São Sebastião;Alagoas;34152;9
+Satuba;Alagoas;13828;9
+Senador Rui Palmeira;Alagoas;13870;9
+Tanque d'Arca;Alagoas;6162;9
+Taquarana;Alagoas;19980;9
+Teotônio Vilela;Alagoas;44169;9
+Traipu;Alagoas;27715;9
+União dos Palmares;Alagoas;65611;10
+Viçosa;Alagoas;25733;9
+Amparo de São Francisco;Sergipe;2374;9
+Aquidabã;Sergipe;21563;9
+Aracaju;Sergipe;657013;21
+Arauá;Sergipe;10056;9
+Areia Branca;Sergipe;18542;9
+Barra dos Coqueiros;Sergipe;30407;9
+Boquim;Sergipe;26816;9
+Brejo Grande;Sergipe;8309;9
+Campo do Brito;Sergipe;18109;9
+Canhoba;Sergipe;4008;9
+Canindé de São Francisco;Sergipe;29900;9
+Capela;Sergipe;34213;9
+Carira;Sergipe;22082;9
+Carmópolis;Sergipe;16634;9
+Cedro de São João;Sergipe;5897;9
+Cristinápolis;Sergipe;17874;9
+Cumbe;Sergipe;3987;9
+Divina Pastora;Sergipe;5138;9
+Estância;Sergipe;69184;10
+Feira Nova;Sergipe;5584;9
+Frei Paulo;Sergipe;15421;9
+Gararu;Sergipe;11604;9
+General Maynard;Sergipe;3346;9
+Gracho Cardoso;Sergipe;5818;9
+Ilha das Flores;Sergipe;8520;9
+Indiaroba;Sergipe;17957;9
+Itabaiana;Sergipe;95427;11
+Itabaianinha;Sergipe;41928;9
+Itabi;Sergipe;4903;9
+Itaporanga d'Ajuda;Sergipe;34356;9
+Japaratuba;Sergipe;18743;9
+Japoatã;Sergipe;13434;9
+Lagarto;Sergipe;104408;11
+Laranjeiras;Sergipe;29826;9
+Macambira;Sergipe;6919;9
+Malhada dos Bois;Sergipe;3682;9
+Malhador;Sergipe;12618;9
+Maruim;Sergipe;17213;9
+Moita Bonita;Sergipe;11335;9
+Monte Alegre de Sergipe;Sergipe;15031;9
+Muribeca;Sergipe;7625;9
+Neópolis;Sergipe;18719;9
+Nossa Senhora Aparecida;Sergipe;8796;9
+Nossa Senhora da Glória;Sergipe;36924;9
+Nossa Senhora das Dores;Sergipe;26629;9
+Nossa Senhora de Lourdes;Sergipe;6483;9
+Nossa Senhora do Socorro;Sergipe;183628;12
+Pacatuba;Sergipe;14428;9
+Pedra Mole;Sergipe;3261;9
+Pedrinhas;Sergipe;9602;9
+Pinhão;Sergipe;6576;9
+Pirambu;Sergipe;9280;9
+Poço Redondo;Sergipe;34775;9
+Poço Verde;Sergipe;23728;9
+Porto da Folha;Sergipe;28596;9
+Propriá;Sergipe;29626;9
+Riachão do Dantas;Sergipe;19805;9
+Riachuelo;Sergipe;10213;9
+Ribeirópolis;Sergipe;18652;9
+Rosário do Catete;Sergipe;10855;9
+Salgado;Sergipe;19998;9
+Santa Luzia do Itanhy;Sergipe;14035;9
+Santana do São Francisco;Sergipe;7780;9
+Santa Rosa de Lima;Sergipe;3913;9
+Santo Amaro das Brotas;Sergipe;12102;9
+São Cristóvão;Sergipe;90072;10
+São Domingos;Sergipe;11137;9
+São Francisco;Sergipe;3724;9
+São Miguel do Aleixo;Sergipe;3930;9
+Simão Dias;Sergipe;40484;9
+Siriri;Sergipe;8893;9
+Telha;Sergipe;3227;9
+Tobias Barreto;Sergipe;52191;10
+Tomar do Geru;Sergipe;13536;9
+Umbaúba;Sergipe;25294;9
+Abaíra;Bahia;8739;9
+Abaré;Bahia;20086;9
+Acajutiba;Bahia;15159;9
+Adustina;Bahia;17040;9
+Água Fria;Bahia;16970;9
+Érico Cardoso;Bahia;10610;9
+Aiquara;Bahia;4446;9
+Alagoinhas;Bahia;151596;12
+Alcobaça;Bahia;22470;9
+Almadina;Bahia;5464;9
+Amargosa;Bahia;37241;9
+Amélia Rodrigues;Bahia;25102;9
+América Dourada;Bahia;16094;9
+Anagé;Bahia;22005;9
+Andaraí;Bahia;13143;9
+Andorinha;Bahia;14595;9
+Angical;Bahia;13977;9
+Anguera;Bahia;11221;9
+Antas;Bahia;19291;9
+Antônio Cardoso;Bahia;11683;9
+Antônio Gonçalves;Bahia;11798;9
+Aporá;Bahia;17731;9
+Apuarema;Bahia;7330;9
+Aracatu;Bahia;13135;9
+Araçás;Bahia;12177;9
+Araci;Bahia;54379;10
+Aramari;Bahia;11397;9
+Arataca;Bahia;11019;9
+Aratuípe;Bahia;8825;9
+Aurelino Leal;Bahia;11531;9
+Baianópolis;Bahia;13877;9
+Baixa Grande;Bahia;20468;9
+Banzaê;Bahia;13229;9
+Barra;Bahia;53578;10
+Barra da Estiva;Bahia;20598;9
+Barra do Choça;Bahia;31603;9
+Barra do Mendes;Bahia;13865;9
+Barra do Rocha;Bahia;5714;9
+Barreiras;Bahia;155439;12
+Barro Alto;Bahia;14931;9
+Barrocas;Bahia;15978;9
+Barro Preto;Bahia;5591;9
+Belmonte;Bahia;23328;9
+Belo Campo;Bahia;17211;9
+Biritinga;Bahia;15979;9
+Boa Nova;Bahia;12633;9
+Boa Vista do Tupim;Bahia;18576;9
+Bom Jesus da Lapa;Bahia;69148;10
+Bom Jesus da Serra;Bahia;9880;9
+Boninal;Bahia;14368;9
+Bonito;Bahia;16764;9
+Boquira;Bahia;21508;9
+Botuporã;Bahia;10211;9
+Brejões;Bahia;14295;9
+Brejolândia;Bahia;10557;9
+Brotas de Macaúbas;Bahia;10231;9
+Brumado;Bahia;67195;10
+Buerarema;Bahia;18349;9
+Buritirama;Bahia;21174;9
+Caatiba;Bahia;6758;9
+Cabaceiras do Paraguaçu;Bahia;18807;9
+Cachoeira;Bahia;33470;9
+Caculé;Bahia;23170;9
+Caém;Bahia;9213;9
+Caetanos;Bahia;14542;9
+Caetité;Bahia;50975;10
+Cafarnaum;Bahia;18437;9
+Cairu;Bahia;18176;9
+Caldeirão Grande;Bahia;13327;9
+Camacan;Bahia;31988;9
+Camaçari;Bahia;299132;15
+Camamu;Bahia;35316;9
+Campo Alegre de Lourdes;Bahia;28798;9
+Campo Formoso;Bahia;71206;10
+Canápolis;Bahia;9711;9
+Canarana;Bahia;26176;9
+Canavieiras;Bahia;31099;9
+Candeal;Bahia;8258;9
+Candeias;Bahia;87076;10
+Candiba;Bahia;14319;9
+Cândido Sales;Bahia;25189;9
+Cansanção;Bahia;34834;9
+Canudos;Bahia;16668;9
+Capela do Alto Alegre;Bahia;11637;9
+Capim Grosso;Bahia;30662;9
+Caraíbas;Bahia;8951;9
+Caravelas;Bahia;22016;9
+Cardeal da Silva;Bahia;9295;9
+Carinhanha;Bahia;29018;9
+Casa Nova;Bahia;71969;10
+Castro Alves;Bahia;26264;9
+Catolândia;Bahia;3577;9
+Catu;Bahia;54704;10
+Caturama;Bahia;9329;9
+Central;Bahia;17266;9
+Chorrochó;Bahia;11177;9
+Cícero Dantas;Bahia;32515;9
+Cipó;Bahia;17300;9
+Coaraci;Bahia;16993;9
+Cocos;Bahia;18777;9
+Conceição da Feira;Bahia;22581;9
+Conceição do Almeida;Bahia;17247;9
+Conceição do Coité;Bahia;66612;10
+Conceição do Jacuípe;Bahia;33153;9
+Conde;Bahia;25837;9
+Condeúba;Bahia;17247;9
+Contendas do Sincorá;Bahia;4066;9
+Coração de Maria;Bahia;22605;9
+Cordeiros;Bahia;8614;9
+Coribe;Bahia;14194;9
+Coronel João Sá;Bahia;15895;9
+Correntina;Bahia;32137;9
+Cotegipe;Bahia;13782;9
+Cravolândia;Bahia;5349;9
+Crisópolis;Bahia;21103;9
+Cristópolis;Bahia;13910;9
+Cruz das Almas;Bahia;63239;10
+Curaçá;Bahia;34700;9
+Dário Meira;Bahia;10710;9
+Dias d'Ávila;Bahia;81089;10
+Dom Basílio;Bahia;12199;9
+Dom Macedo Costa;Bahia;4058;9
+Elísio Medrado;Bahia;8122;9
+Encruzilhada;Bahia;17006;9
+Entre Rios;Bahia;41780;9
+Esplanada;Bahia;37237;9
+Euclides da Cunha;Bahia;60585;10
+Eunápolis;Bahia;113380;11
+Fátima;Bahia;17890;9
+Feira da Mata;Bahia;5665;9
+Feira de Santana;Bahia;614872;21
+Filadélfia;Bahia;16377;9
+Firmino Alves;Bahia;5617;9
+Floresta Azul;Bahia;10629;9
+Formosa do Rio Preto;Bahia;25591;9
+Gandu;Bahia;32403;9
+Gavião;Bahia;4463;9
+Gentio do Ouro;Bahia;11233;9
+Glória;Bahia;15221;9
+Gongogi;Bahia;7128;9
+Governador Mangabeira;Bahia;20722;9
+Guajeru;Bahia;6937;9
+Guanambi;Bahia;84481;10
+Guaratinga;Bahia;20843;9
+Heliópolis;Bahia;13031;9
+Iaçu;Bahia;24305;9
+Ibiassucê;Bahia;9224;9
+Ibicaraí;Bahia;21689;9
+Ibicoara;Bahia;19571;9
+Ibicuí;Bahia;16198;9
+Ibipeba;Bahia;18211;9
+Ibipitanga;Bahia;14902;9
+Ibiquera;Bahia;4044;9
+Ibirapitanga;Bahia;23375;9
+Ibirapuã;Bahia;8637;9
+Ibirataia;Bahia;15312;9
+Ibitiara;Bahia;16339;9
+Ibititá;Bahia;17113;9
+Ibotirama;Bahia;26927;9
+Ichu;Bahia;6206;9
+Igaporã;Bahia;15640;9
+Igrapiúna;Bahia;13226;9
+Iguaí;Bahia;26916;9
+Ilhéus;Bahia;162327;12
+Inhambupe;Bahia;39926;9
+Ipecaetá;Bahia;14487;9
+Ipiaú;Bahia;45873;9
+Ipirá;Bahia;59595;10
+Ipupiara;Bahia;9865;9
+Irajuba;Bahia;7260;9
+Iramaia;Bahia;8537;9
+Iraquara;Bahia;25216;9
+Irará;Bahia;29034;9
+Irecê;Bahia;72967;10
+Itabela;Bahia;30584;9
+Itaberaba;Bahia;64489;10
+Itabuna;Bahia;213223;13
+Itacaré;Bahia;28296;9
+Itaeté;Bahia;16056;9
+Itagi;Bahia;12351;9
+Itagibá;Bahia;14579;9
+Itagimirim;Bahia;6869;9
+Itaguaçu da Bahia;Bahia;14429;9
+Itaju do Colônia;Bahia;6682;9
+Itajuípe;Bahia;20491;9
+Itamaraju;Bahia;64486;10
+Itamari;Bahia;8035;9
+Itambé;Bahia;23049;9
+Itanagra;Bahia;6441;9
+Itanhém;Bahia;19405;9
+Itaparica;Bahia;22228;9
+Itapé;Bahia;8761;9
+Itapebi;Bahia;10259;9
+Itapetinga;Bahia;76147;10
+Itapicuru;Bahia;35576;9
+Itapitanga;Bahia;10313;9
+Itaquara;Bahia;8319;9
+Itarantim;Bahia;19747;9
+Itatim;Bahia;14487;9
+Itiruçu;Bahia;12576;9
+Itiúba;Bahia;36089;9
+Itororó;Bahia;20382;9
+Ituaçu;Bahia;18962;9
+Ituberá;Bahia;28602;9
+Iuiu;Bahia;10994;9
+Jaborandi;Bahia;8385;9
+Jacaraci;Bahia;14842;9
+Jacobina;Bahia;80518;10
+Jaguaquara;Bahia;54423;10
+Jaguarari;Bahia;33570;9
+Jaguaripe;Bahia;18788;9
+Jandaíra;Bahia;10709;9
+Jequié;Bahia;155966;12
+Jeremoabo;Bahia;40463;9
+Jiquiriçá;Bahia;14537;9
+Jitaúna;Bahia;11166;9
+João Dourado;Bahia;25188;9
+Juazeiro;Bahia;216707;13
+Jucuruçu;Bahia;9126;9
+Jussara;Bahia;15284;9
+Jussari;Bahia;5833;9
+Jussiape;Bahia;6186;9
+Lafaiete Coutinho;Bahia;3724;9
+Lagoa Real;Bahia;15665;9
+Laje;Bahia;23840;9
+Lajedão;Bahia;3955;9
+Lajedinho;Bahia;3783;9
+Lajedo do Tabocal;Bahia;8562;9
+Lamarão;Bahia;8307;9
+Lapão;Bahia;27223;9
+Lauro de Freitas;Bahia;198440;13
+Lençóis;Bahia;11409;9
+Licínio de Almeida;Bahia;12388;9
+Livramento de Nossa Senhora;Bahia;45732;9
+Luís Eduardo Magalhães;Bahia;87519;10
+Macajuba;Bahia;11348;9
+Macarani;Bahia;18755;9
+Macaúbas;Bahia;49826;10
+Macururé;Bahia;7824;9
+Madre de Deus;Bahia;21093;9
+Maetinga;Bahia;3161;9
+Maiquinique;Bahia;10112;9
+Mairi;Bahia;18676;9
+Malhada;Bahia;16845;9
+Malhada de Pedras;Bahia;8393;9
+Manoel Vitorino;Bahia;13240;9
+Mansidão;Bahia;13643;9
+Maracás;Bahia;20834;9
+Maragogipe;Bahia;44677;9
+Maraú;Bahia;20570;9
+Marcionílio Souza;Bahia;10406;9
+Mascote;Bahia;13822;9
+Mata de São João;Bahia;46583;9
+Matina;Bahia;12201;9
+Medeiros Neto;Bahia;22688;9
+Miguel Calmon;Bahia;26023;9
+Milagres;Bahia;10950;9
+Mirangaba;Bahia;18338;9
+Mirante;Bahia;8641;9
+Monte Santo;Bahia;49418;10
+Morpará;Bahia;8519;9
+Morro do Chapéu;Bahia;35413;9
+Mortugaba;Bahia;12042;9
+Mucugê;Bahia;9062;9
+Mucuri;Bahia;41748;9
+Mulungu do Morro;Bahia;10889;9
+Mundo Novo;Bahia;26776;9
+Muniz Ferreira;Bahia;7422;9
+Muquém do São Francisco;Bahia;11348;9
+Muritiba;Bahia;29399;9
+Mutuípe;Bahia;22221;9
+Nazaré;Bahia;28525;9
+Nilo Peçanha;Bahia;13997;9
+Nordestina;Bahia;13130;9
+Nova Canaã;Bahia;16462;9
+Nova Fátima;Bahia;7812;9
+Nova Ibiá;Bahia;6591;9
+Nova Itarana;Bahia;8226;9
+Nova Redenção;Bahia;9118;9
+Nova Soure;Bahia;26947;9
+Nova Viçosa;Bahia;43376;9
+Novo Horizonte;Bahia;12385;9
+Novo Triunfo;Bahia;15440;9
+Olindina;Bahia;28229;9
+Oliveira dos Brejinhos;Bahia;21825;9
+Ouriçangas;Bahia;8564;9
+Ourolândia;Bahia;17451;9
+Palmas de Monte Alto;Bahia;21750;9
+Palmeiras;Bahia;9019;9
+Paramirim;Bahia;21607;9
+Paratinga;Bahia;32000;9
+Paripiranga;Bahia;28989;9
+Pau Brasil;Bahia;9831;9
+Paulo Afonso;Bahia;117782;11
+Pé de Serra;Bahia;13578;9
+Pedrão;Bahia;7347;9
+Pedro Alexandre;Bahia;16667;9
+Piatã;Bahia;17123;9
+Pilão Arcado;Bahia;35048;9
+Pindaí;Bahia;16260;9
+Pindobaçu;Bahia;20150;9
+Pintadas;Bahia;10437;9
+Piraí do Norte;Bahia;10023;9
+Piripá;Bahia;10707;9
+Piritiba;Bahia;24755;9
+Planaltino;Bahia;9322;9
+Planalto;Bahia;26265;9
+Poções;Bahia;46871;9
+Pojuca;Bahia;39519;9
+Ponto Novo;Bahia;14914;9
+Porto Seguro;Bahia;148686;12
+Potiraguá;Bahia;7224;9
+Prado;Bahia;28174;9
+Presidente Dutra;Bahia;15142;9
+Presidente Jânio Quadros;Bahia;12338;9
+Presidente Tancredo Neves;Bahia;27719;9
+Queimadas;Bahia;25439;9
+Quijingue;Bahia;27580;9
+Quixabeira;Bahia;8972;9
+Rafael Jambeiro;Bahia;22621;9
+Remanso;Bahia;41008;9
+Retirolândia;Bahia;14396;9
+Riachão das Neves;Bahia;22339;9
+Riachão do Jacuípe;Bahia;33436;9
+Riacho de Santana;Bahia;35421;9
+Ribeira do Amparo;Bahia;14592;9
+Ribeira do Pombal;Bahia;53807;10
+Ribeirão do Largo;Bahia;5812;9
+Rio de Contas;Bahia;12989;9
+Rio do Antônio;Bahia;15371;9
+Rio do Pires;Bahia;11655;9
+Rio Real;Bahia;40732;9
+Rodelas;Bahia;9331;9
+Ruy Barbosa;Bahia;30814;9
+Salinas da Margarida;Bahia;15667;9
+Salvador;Bahia;2872347;41
+Santa Bárbara;Bahia;20791;9
+Santa Brígida;Bahia;14213;9
+Santa Cruz Cabrália;Bahia;27778;9
+Santa Cruz da Vitória;Bahia;6315;9
+Santa Inês;Bahia;10631;9
+Santaluz;Bahia;37348;9
+Santa Luzia;Bahia;12597;9
+Santa Maria da Vitória;Bahia;39845;9
+Santana;Bahia;26614;9
+Santanópolis;Bahia;8943;9
+Santa Rita de Cássia;Bahia;28338;9
+Santa Terezinha;Bahia;10405;9
+Santo Amaro;Bahia;60069;10
+Santo Antônio de Jesus;Bahia;101512;11
+Santo Estêvão;Bahia;52850;10
+São Desidério;Bahia;33742;9
+São Domingos;Bahia;9058;9
+São Félix;Bahia;14740;9
+São Félix do Coribe;Bahia;15391;9
+São Felipe;Bahia;21074;9
+São Francisco do Conde;Bahia;39802;9
+São Gabriel;Bahia;18793;9
+São Gonçalo dos Campos;Bahia;37550;9
+São José da Vitória;Bahia;5657;9
+São José do Jacuípe;Bahia;10462;9
+São Miguel das Matas;Bahia;11675;9
+São Sebastião do Passé;Bahia;44300;9
+Sapeaçu;Bahia;17398;9
+Sátiro Dias;Bahia;17273;9
+Saubara;Bahia;12043;9
+Saúde;Bahia;12913;9
+Seabra;Bahia;44091;9
+Sebastião Laranjeiras;Bahia;11434;9
+Senhor do Bonfim;Bahia;79015;10
+Serra do Ramalho;Bahia;31472;9
+Sento Sé;Bahia;40684;9
+Serra Dourada;Bahia;17386;9
+Serra Preta;Bahia;14878;9
+Serrinha;Bahia;80861;10
+Serrolândia;Bahia;13397;9
+Simões Filho;Bahia;134377;11
+Sítio do Mato;Bahia;13012;9
+Sítio do Quinto;Bahia;9986;9
+Sobradinho;Bahia;23191;9
+Souto Soares;Bahia;16979;9
+Tabocas do Brejo Velho;Bahia;12518;9
+Tanhaçu;Bahia;20403;9
+Tanque Novo;Bahia;17366;9
+Tanquinho;Bahia;7918;9
+Taperoá;Bahia;21074;9
+Tapiramutá;Bahia;17010;9
+Teixeira de Freitas;Bahia;160487;12
+Teodoro Sampaio;Bahia;7425;9
+Teofilândia;Bahia;22518;9
+Teolândia;Bahia;14943;9
+Terra Nova;Bahia;13033;9
+Tremedal;Bahia;16394;9
+Tucano;Bahia;50687;10
+Uauá;Bahia;24240;9
+Ubaíra;Bahia;19895;9
+Ubaitaba;Bahia;19056;9
+Ubatã;Bahia;27035;9
+Uibaí;Bahia;13887;9
+Umburanas;Bahia;19222;9
+Una;Bahia;19002;9
+Urandi;Bahia;16658;9
+Uruçuca;Bahia;20519;9
+Utinga;Bahia;19178;9
+Valença;Bahia;96562;11
+Valente;Bahia;28473;9
+Várzea da Roça;Bahia;14104;9
+Várzea do Poço;Bahia;9170;9
+Várzea Nova;Bahia;12697;9
+Varzedo;Bahia;8838;9
+Vera Cruz;Bahia;43223;9
+Vereda;Bahia;6205;9
+Vitória da Conquista;Bahia;338480;16
+Wagner;Bahia;9345;9
+Wanderley;Bahia;12238;9
+Wenceslau Guimarães;Bahia;21101;9
+Xique-Xique;Bahia;46483;9
+Abadia dos Dourados;Minas Gerais;6989;9
+Abaeté;Minas Gerais;23237;9
+Abre Campo;Minas Gerais;13454;9
+Acaiaca;Minas Gerais;3994;9
+Açucena;Minas Gerais;9470;9
+Água Boa;Minas Gerais;13735;9
+Água Comprida;Minas Gerais;1999;9
+Aguanil;Minas Gerais;4486;9
+Águas Formosas;Minas Gerais;19207;9
+Águas Vermelhas;Minas Gerais;13539;9
+Aimorés;Minas Gerais;25167;9
+Aiuruoca;Minas Gerais;6003;9
+Alagoa;Minas Gerais;2674;9
+Albertina;Minas Gerais;3007;9
+Além Paraíba;Minas Gerais;35362;9
+Alfenas;Minas Gerais;79996;10
+Alfredo Vasconcelos;Minas Gerais;6907;9
+Almenara;Minas Gerais;41896;9
+Alpercata;Minas Gerais;7424;9
+Alpinópolis;Minas Gerais;19853;9
+Alterosa;Minas Gerais;14466;9
+Alto Caparaó;Minas Gerais;5847;9
+Alto Rio Doce;Minas Gerais;11000;9
+Alvarenga;Minas Gerais;3907;9
+Alvinópolis;Minas Gerais;15203;9
+Alvorada de Minas;Minas Gerais;3606;9
+Amparo do Serra;Minas Gerais;4713;9
+Andradas;Minas Gerais;41077;9
+Cachoeira de Pajeú;Minas Gerais;9412;9
+Andrelândia;Minas Gerais;12224;9
+Angelândia;Minas Gerais;8520;9
+Antônio Carlos;Minas Gerais;11445;9
+Antônio Dias;Minas Gerais;9318;9
+Antônio Prado de Minas;Minas Gerais;1598;9
+Araçaí;Minas Gerais;2347;9
+Aracitaba;Minas Gerais;2063;9
+Araçuaí;Minas Gerais;36708;9
+Araguari;Minas Gerais;117267;11
+Arantina;Minas Gerais;2795;9
+Araponga;Minas Gerais;8439;9
+Araporã;Minas Gerais;6869;9
+Arapuá;Minas Gerais;2834;9
+Araújos;Minas Gerais;9273;9
+Araxá;Minas Gerais;106229;11
+Arceburgo;Minas Gerais;10772;9
+Arcos;Minas Gerais;40092;9
+Areado;Minas Gerais;15070;9
+Argirita;Minas Gerais;2727;9
+Aricanduva;Minas Gerais;5231;9
+Arinos;Minas Gerais;17875;9
+Astolfo Dutra;Minas Gerais;14179;9
+Ataléia;Minas Gerais;12868;9
+Augusto de Lima;Minas Gerais;4869;9
+Baependi;Minas Gerais;19148;9
+Baldim;Minas Gerais;7826;9
+Bambuí;Minas Gerais;23829;9
+Bandeira;Minas Gerais;4795;9
+Bandeira do Sul;Minas Gerais;5746;9
+Barão de Cocais;Minas Gerais;32485;9
+Barão de Monte Alto;Minas Gerais;5397;9
+Barbacena;Minas Gerais;137313;11
+Barra Longa;Minas Gerais;5131;9
+Barroso;Minas Gerais;20810;9
+Bela Vista de Minas;Minas Gerais;10255;9
+Belmiro Braga;Minas Gerais;3429;9
+Belo Horizonte;Minas Gerais;2512070;41
+Belo Oriente;Minas Gerais;26700;9
+Belo Vale;Minas Gerais;7715;9
+Berilo;Minas Gerais;11932;9
+Bertópolis;Minas Gerais;4604;9
+Berizal;Minas Gerais;4735;9
+Betim;Minas Gerais;439340;18
+Bias Fortes;Minas Gerais;3379;9
+Bicas;Minas Gerais;14494;9
+Biquinhas;Minas Gerais;2515;9
+Boa Esperança;Minas Gerais;40127;9
+Bocaina de Minas;Minas Gerais;5090;9
+Bocaiúva;Minas Gerais;49979;10
+Bom Despacho;Minas Gerais;50605;10
+Bom Jardim de Minas;Minas Gerais;6474;9
+Bom Jesus da Penha;Minas Gerais;4217;9
+Bom Jesus do Amparo;Minas Gerais;6083;9
+Bom Jesus do Galho;Minas Gerais;14935;9
+Bom Repouso;Minas Gerais;10547;9
+Bom Sucesso;Minas Gerais;17603;9
+Bonfim;Minas Gerais;6868;9
+Bonfinópolis de Minas;Minas Gerais;5493;9
+Bonito de Minas;Minas Gerais;11230;9
+Borda da Mata;Minas Gerais;19412;9
+Botelhos;Minas Gerais;14971;9
+Botumirim;Minas Gerais;6319;9
+Brasilândia de Minas;Minas Gerais;16538;9
+Brasília de Minas;Minas Gerais;32347;9
+Brás Pires;Minas Gerais;4333;9
+Braúnas;Minas Gerais;4801;9
+Brazópolis;Minas Gerais;14459;9
+Brumadinho;Minas Gerais;40103;9
+Bueno Brandão;Minas Gerais;11001;9
+Buenópolis;Minas Gerais;10365;9
+Bugre;Minas Gerais;3982;9
+Buritis;Minas Gerais;24841;9
+Buritizeiro;Minas Gerais;28056;9
+Cabeceira Grande;Minas Gerais;6949;9
+Cabo Verde;Minas Gerais;14075;9
+Cachoeira da Prata;Minas Gerais;3603;9
+Cachoeira de Minas;Minas Gerais;11547;9
+Cachoeira Dourada;Minas Gerais;2692;9
+Caetanópolis;Minas Gerais;11624;9
+Caeté;Minas Gerais;44718;9
+Caiana;Minas Gerais;5496;9
+Cajuri;Minas Gerais;3987;9
+Caldas;Minas Gerais;14480;9
+Camacho;Minas Gerais;2901;9
+Camanducaia;Minas Gerais;21770;9
+Cambuí;Minas Gerais;29551;9
+Cambuquira;Minas Gerais;12814;9
+Campanário;Minas Gerais;3721;9
+Campanha;Minas Gerais;16665;9
+Campestre;Minas Gerais;21055;9
+Campina Verde;Minas Gerais;19745;9
+Campo Azul;Minas Gerais;3817;9
+Campo Belo;Minas Gerais;54029;10
+Campo do Meio;Minas Gerais;11655;9
+Campo Florido;Minas Gerais;8151;9
+Campos Altos;Minas Gerais;15461;9
+Campos Gerais;Minas Gerais;28774;9
+Canaã;Minas Gerais;4563;9
+Canápolis;Minas Gerais;12150;9
+Cana Verde;Minas Gerais;5603;9
+Candeias;Minas Gerais;14886;9
+Cantagalo;Minas Gerais;4525;9
+Caparaó;Minas Gerais;5438;9
+Capela Nova;Minas Gerais;4653;9
+Capelinha;Minas Gerais;37784;9
+Capetinga;Minas Gerais;6920;9
+Capim Branco;Minas Gerais;9754;9
+Capinópolis;Minas Gerais;16173;9
+Capitão Andrade;Minas Gerais;5468;9
+Capitão Enéas;Minas Gerais;15234;9
+Capitólio;Minas Gerais;8632;9
+Caputira;Minas Gerais;9298;9
+Caraí;Minas Gerais;23685;9
+Caranaíba;Minas Gerais;3183;9
+Carandaí;Minas Gerais;25501;9
+Carangola;Minas Gerais;33000;9
+Caratinga;Minas Gerais;92062;10
+Carbonita;Minas Gerais;9405;9
+Careaçu;Minas Gerais;6757;9
+Carlos Chagas;Minas Gerais;18837;9
+Carmésia;Minas Gerais;2632;9
+Carmo da Cachoeira;Minas Gerais;12170;9
+Carmo da Mata;Minas Gerais;11476;9
+Carmo de Minas;Minas Gerais;14859;9
+Carmo do Cajuru;Minas Gerais;22478;9
+Carmo do Paranaíba;Minas Gerais;30329;9
+Carmo do Rio Claro;Minas Gerais;21225;9
+Carmópolis de Minas;Minas Gerais;19355;9
+Carneirinho;Minas Gerais;10027;9
+Carrancas;Minas Gerais;4047;9
+Carvalhópolis;Minas Gerais;3579;9
+Carvalhos;Minas Gerais;4478;9
+Casa Grande;Minas Gerais;2257;9
+Cascalho Rico;Minas Gerais;3075;9
+Cássia;Minas Gerais;17740;9
+Conceição da Barra de Minas;Minas Gerais;3954;9
+Cataguases;Minas Gerais;75123;10
+Catas Altas;Minas Gerais;5376;9
+Catas Altas da Noruega;Minas Gerais;3641;9
+Catuji;Minas Gerais;6311;9
+Catuti;Minas Gerais;4986;9
+Caxambu;Minas Gerais;21656;9
+Cedro do Abaeté;Minas Gerais;1164;9
+Central de Minas;Minas Gerais;7032;9
+Centralina;Minas Gerais;10350;9
+Chácara;Minas Gerais;3154;9
+Chalé;Minas Gerais;5704;9
+Chapada do Norte;Minas Gerais;15356;9
+Chapada Gaúcha;Minas Gerais;13680;9
+Chiador;Minas Gerais;2687;9
+Cipotânea;Minas Gerais;6787;9
+Claraval;Minas Gerais;4843;9
+Claro dos Poções;Minas Gerais;7551;9
+Cláudio;Minas Gerais;28617;9
+Coimbra;Minas Gerais;7556;9
+Coluna;Minas Gerais;8873;9
+Comendador Gomes;Minas Gerais;3111;9
+Comercinho;Minas Gerais;6929;9
+Conceição da Aparecida;Minas Gerais;10292;9
+Conceição das Pedras;Minas Gerais;2812;9
+Conceição das Alagoas;Minas Gerais;27893;9
+Conceição de Ipanema;Minas Gerais;4574;9
+Conceição do Mato Dentro;Minas Gerais;17842;9
+Conceição do Pará;Minas Gerais;5507;9
+Conceição do Rio Verde;Minas Gerais;13638;9
+Conceição dos Ouros;Minas Gerais;11638;9
+Cônego Marinho;Minas Gerais;7642;9
+Confins;Minas Gerais;6730;9
+Congonhal;Minas Gerais;11950;9
+Congonhas;Minas Gerais;54762;10
+Congonhas do Norte;Minas Gerais;5045;9
+Conquista;Minas Gerais;6939;9
+Conselheiro Lafaiete;Minas Gerais;128589;11
+Conselheiro Pena;Minas Gerais;22921;9
+Consolação;Minas Gerais;1783;9
+Contagem;Minas Gerais;663855;21
+Coqueiral;Minas Gerais;9159;9
+Coração de Jesus;Minas Gerais;26602;9
+Cordisburgo;Minas Gerais;8890;9
+Cordislândia;Minas Gerais;3538;9
+Corinto;Minas Gerais;23731;9
+Coroaci;Minas Gerais;9991;9
+Coromandel;Minas Gerais;27974;9
+Coronel Fabriciano;Minas Gerais;109855;11
+Coronel Murta;Minas Gerais;9222;9
+Coronel Pacheco;Minas Gerais;3086;9
+Coronel Xavier Chaves;Minas Gerais;3434;9
+Córrego Danta;Minas Gerais;3215;9
+Córrego do Bom Jesus;Minas Gerais;3704;9
+Córrego Fundo;Minas Gerais;6337;9
+Córrego Novo;Minas Gerais;2771;9
+Couto de Magalhães de Minas;Minas Gerais;4410;9
+Crisólita;Minas Gerais;6704;9
+Cristais;Minas Gerais;12798;9
+Cristália;Minas Gerais;5971;9
+Cristiano Otoni;Minas Gerais;5150;9
+Cristina;Minas Gerais;10242;9
+Crucilândia;Minas Gerais;5034;9
+Cruzeiro da Fortaleza;Minas Gerais;3626;9
+Cruzília;Minas Gerais;15417;9
+Cuparaque;Minas Gerais;4982;9
+Curral de Dentro;Minas Gerais;7729;9
+Curvelo;Minas Gerais;80129;10
+Datas;Minas Gerais;5410;9
+Delfim Moreira;Minas Gerais;8025;9
+Delfinópolis;Minas Gerais;7114;9
+Delta;Minas Gerais;10533;9
+Descoberto;Minas Gerais;5013;9
+Desterro de Entre Rios;Minas Gerais;7243;9
+Desterro do Melo;Minas Gerais;2901;9
+Diamantina;Minas Gerais;47723;10
+Diogo de Vasconcelos;Minas Gerais;3802;9
+Dionísio;Minas Gerais;7729;9
+Divinésia;Minas Gerais;3417;9
+Divino;Minas Gerais;19931;9
+Divino das Laranjeiras;Minas Gerais;4979;9
+Divinolândia de Minas;Minas Gerais;7571;9
+Divinópolis;Minas Gerais;238230;14
+Divisa Alegre;Minas Gerais;6786;9
+Divisa Nova;Minas Gerais;6011;9
+Divisópolis;Minas Gerais;11019;9
+Dom Bosco;Minas Gerais;3677;9
+Dom Cavati;Minas Gerais;5072;9
+Dom Joaquim;Minas Gerais;4195;9
+Dom Silvério;Minas Gerais;5237;9
+Dom Viçoso;Minas Gerais;3001;9
+Dona Eusébia;Minas Gerais;6572;9
+Dores de Campos;Minas Gerais;10153;9
+Dores de Guanhães;Minas Gerais;5169;9
+Dores do Indaiá;Minas Gerais;13483;9
+Dores do Turvo;Minas Gerais;4259;9
+Doresópolis;Minas Gerais;1527;9
+Douradoquara;Minas Gerais;1908;9
+Durandé;Minas Gerais;7841;9
+Elói Mendes;Minas Gerais;28076;9
+Engenheiro Caldas;Minas Gerais;11134;9
+Engenheiro Navarro;Minas Gerais;7242;9
+Entre Folhas;Minas Gerais;5370;9
+Entre Rios de Minas;Minas Gerais;15298;9
+Ervália;Minas Gerais;18895;9
+Esmeraldas;Minas Gerais;70552;10
+Espera Feliz;Minas Gerais;24951;9
+Espinosa;Minas Gerais;31617;9
+Espírito Santo do Dourado;Minas Gerais;4692;9
+Estiva;Minas Gerais;11354;9
+Estrela Dalva;Minas Gerais;2343;9
+Estrela do Indaiá;Minas Gerais;3500;9
+Estrela do Sul;Minas Gerais;7978;9
+Eugenópolis;Minas Gerais;11275;9
+Ewbank da Câmara;Minas Gerais;3913;9
+Extrema;Minas Gerais;36225;9
+Fama;Minas Gerais;2377;9
+Faria Lemos;Minas Gerais;3241;9
+Felício dos Santos;Minas Gerais;4753;9
+São Gonçalo do Rio Preto;Minas Gerais;3167;9
+Felisburgo;Minas Gerais;7457;9
+Felixlândia;Minas Gerais;15336;9
+Fernandes Tourinho;Minas Gerais;3431;9
+Ferros;Minas Gerais;9820;9
+Fervedouro;Minas Gerais;11006;9
+Florestal;Minas Gerais;7461;9
+Formiga;Minas Gerais;67683;10
+Formoso;Minas Gerais;9562;9
+Fortaleza de Minas;Minas Gerais;4412;9
+Fortuna de Minas;Minas Gerais;2947;9
+Francisco Badaró;Minas Gerais;10332;9
+Francisco Dumont;Minas Gerais;5215;9
+Francisco Sá;Minas Gerais;26277;9
+Franciscópolis;Minas Gerais;5391;9
+Frei Gaspar;Minas Gerais;5880;9
+Frei Inocêncio;Minas Gerais;9611;9
+Frei Lagonegro;Minas Gerais;3478;9
+Fronteira;Minas Gerais;18103;9
+Fronteira dos Vales;Minas Gerais;4581;9
+Fruta de Leite;Minas Gerais;5369;9
+Frutal;Minas Gerais;59496;10
+Funilândia;Minas Gerais;4349;9
+Galiléia;Minas Gerais;6817;9
+Gameleiras;Minas Gerais;5109;9
+Glaucilândia;Minas Gerais;3150;9
+Goiabeira;Minas Gerais;3353;9
+Goianá;Minas Gerais;3966;9
+Gonçalves;Minas Gerais;4350;9
+Gonzaga;Minas Gerais;6158;9
+Gouveia;Minas Gerais;11825;9
+Governador Valadares;Minas Gerais;279885;14
+Grão Mogol;Minas Gerais;15836;9
+Grupiara;Minas Gerais;1388;9
+Guanhães;Minas Gerais;34319;9
+Guapé;Minas Gerais;14245;9
+Guaraciaba;Minas Gerais;10324;9
+Guaraciama;Minas Gerais;4972;9
+Guaranésia;Minas Gerais;19021;9
+Guarani;Minas Gerais;8911;9
+Guarará;Minas Gerais;3796;9
+Guarda-Mor;Minas Gerais;6580;9
+Guaxupé;Minas Gerais;51917;10
+Guidoval;Minas Gerais;7078;9
+Guimarânia;Minas Gerais;8039;9
+Guiricema;Minas Gerais;8392;9
+Gurinhatã;Minas Gerais;5639;9
+Heliodora;Minas Gerais;6558;9
+Iapu;Minas Gerais;11004;9
+Ibertioga;Minas Gerais;5021;9
+Ibiá;Minas Gerais;25199;9
+Ibiaí;Minas Gerais;8395;9
+Ibiracatu;Minas Gerais;5400;9
+Ibiraci;Minas Gerais;13828;9
+Ibirité;Minas Gerais;180204;12
+Ibitiúra de Minas;Minas Gerais;3488;9
+Ibituruna;Minas Gerais;2989;9
+Icaraí de Minas;Minas Gerais;11990;9
+Igarapé;Minas Gerais;43045;9
+Igaratinga;Minas Gerais;10860;9
+Iguatama;Minas Gerais;7947;9
+Ijaci;Minas Gerais;6550;9
+Ilicínea;Minas Gerais;12375;9
+Imbé de Minas;Minas Gerais;6903;9
+Inconfidentes;Minas Gerais;7328;9
+Indaiabira;Minas Gerais;7351;9
+Indianópolis;Minas Gerais;6891;9
+Ingaí;Minas Gerais;2767;9
+Inhapim;Minas Gerais;24140;9
+Inhaúma;Minas Gerais;6271;9
+Inimutaba;Minas Gerais;7515;9
+Ipaba;Minas Gerais;18607;9
+Ipanema;Minas Gerais;19861;9
+Ipatinga;Minas Gerais;263410;14
+Ipiaçu;Minas Gerais;4221;9
+Ipuiúna;Minas Gerais;10079;9
+Iraí de Minas;Minas Gerais;6987;9
+Itabira;Minas Gerais;120060;11
+Itabirinha;Minas Gerais;11512;9
+Itabirito;Minas Gerais;51875;10
+Itacambira;Minas Gerais;5385;9
+Itacarambi;Minas Gerais;18153;9
+Itaguara;Minas Gerais;13358;9
+Itaipé;Minas Gerais;12760;9
+Itajubá;Minas Gerais;96869;11
+Itamarandiba;Minas Gerais;34735;9
+Itamarati de Minas;Minas Gerais;4355;9
+Itambacuri;Minas Gerais;23211;9
+Itambé do Mato Dentro;Minas Gerais;2081;9
+Itamogi;Minas Gerais;10192;9
+Itamonte;Minas Gerais;15579;9
+Itanhandu;Minas Gerais;15331;9
+Itanhomi;Minas Gerais;12228;9
+Itaobim;Minas Gerais;21062;9
+Itapagipe;Minas Gerais;15243;9
+Itapecerica;Minas Gerais;21762;9
+Itapeva;Minas Gerais;9783;9
+Itatiaiuçu;Minas Gerais;11146;9
+Itaú de Minas;Minas Gerais;16108;9
+Itaúna;Minas Gerais;93214;10
+Itaverava;Minas Gerais;5419;9
+Itinga;Minas Gerais;14990;9
+Itueta;Minas Gerais;6051;9
+Ituiutaba;Minas Gerais;104671;11
+Itumirim;Minas Gerais;6023;9
+Iturama;Minas Gerais;39263;9
+Itutinga;Minas Gerais;3788;9
+Jaboticatubas;Minas Gerais;20143;9
+Jacinto;Minas Gerais;12326;9
+Jacuí;Minas Gerais;7686;9
+Jacutinga;Minas Gerais;25979;9
+Jaguaraçu;Minas Gerais;3133;9
+Jaíba;Minas Gerais;38909;9
+Jampruca;Minas Gerais;5404;9
+Janaúba;Minas Gerais;71648;10
+Januária;Minas Gerais;67742;10
+Japaraíba;Minas Gerais;4350;9
+Japonvar;Minas Gerais;7969;9
+Jeceaba;Minas Gerais;4912;9
+Jenipapo de Minas;Minas Gerais;7692;9
+Jequeri;Minas Gerais;12386;9
+Jequitaí;Minas Gerais;7531;9
+Jequitibá;Minas Gerais;5211;9
+Jequitinhonha;Minas Gerais;25391;9
+Jesuânia;Minas Gerais;4787;9
+Joaíma;Minas Gerais;15432;9
+Joanésia;Minas Gerais;4573;9
+João Monlevade;Minas Gerais;79910;10
+João Pinheiro;Minas Gerais;47452;9
+Joaquim Felício;Minas Gerais;4695;9
+Jordânia;Minas Gerais;10812;9
+José Gonçalves de Minas;Minas Gerais;4501;9
+José Raydan;Minas Gerais;4995;9
+Josenópolis;Minas Gerais;4867;9
+Nova União;Minas Gerais;5725;9
+Juatuba;Minas Gerais;26946;9
+Juiz de Fora;Minas Gerais;568873;20
+Juramento;Minas Gerais;4331;9
+Juruaia;Minas Gerais;10563;9
+Juvenília;Minas Gerais;5724;9
+Ladainha;Minas Gerais;18111;9
+Lagamar;Minas Gerais;7613;9
+Lagoa da Prata;Minas Gerais;52165;10
+Lagoa dos Patos;Minas Gerais;4102;9
+Lagoa Dourada;Minas Gerais;13009;9
+Lagoa Formosa;Minas Gerais;18052;9
+Lagoa Grande;Minas Gerais;9532;9
+Lagoa Santa;Minas Gerais;64527;10
+Lajinha;Minas Gerais;19923;9
+Lambari;Minas Gerais;20814;9
+Lamim;Minas Gerais;3391;9
+Laranjal;Minas Gerais;6810;9
+Lassance;Minas Gerais;6512;9
+Lavras;Minas Gerais;103773;11
+Leandro Ferreira;Minas Gerais;3229;9
+Leme do Prado;Minas Gerais;4918;9
+Leopoldina;Minas Gerais;52587;10
+Liberdade;Minas Gerais;5069;9
+Lima Duarte;Minas Gerais;16698;9
+Limeira do Oeste;Minas Gerais;7536;9
+Lontra;Minas Gerais;9661;9
+Luisburgo;Minas Gerais;6266;9
+Luislândia;Minas Gerais;6699;9
+Luminárias;Minas Gerais;5446;9
+Luz;Minas Gerais;18215;9
+Machacalis;Minas Gerais;7111;9
+Machado;Minas Gerais;42133;9
+Madre de Deus de Minas;Minas Gerais;5098;9
+Malacacheta;Minas Gerais;18650;9
+Mamonas;Minas Gerais;6543;9
+Manga;Minas Gerais;18407;9
+Manhuaçu;Minas Gerais;90229;10
+Manhumirim;Minas Gerais;22707;9
+Mantena;Minas Gerais;27644;9
+Maravilhas;Minas Gerais;7976;9
+Mar de Espanha;Minas Gerais;12814;9
+Maria da Fé;Minas Gerais;14095;9
+Mariana;Minas Gerais;60724;10
+Marilac;Minas Gerais;4115;9
+Mário Campos;Minas Gerais;15416;9
+Maripá de Minas;Minas Gerais;2973;9
+Marliéria;Minas Gerais;4039;9
+Marmelópolis;Minas Gerais;2755;9
+Martinho Campos;Minas Gerais;13388;9
+Martins Soares;Minas Gerais;8417;9
+Mata Verde;Minas Gerais;8586;9
+Materlândia;Minas Gerais;4459;9
+Mateus Leme;Minas Gerais;31086;9
+Matias Barbosa;Minas Gerais;14468;9
+Matias Cardoso;Minas Gerais;11157;9
+Matipó;Minas Gerais;18908;9
+Mato Verde;Minas Gerais;12459;9
+Matozinhos;Minas Gerais;37820;9
+Matutina;Minas Gerais;3749;9
+Medeiros;Minas Gerais;3802;9
+Medina;Minas Gerais;20820;9
+Mendes Pimentel;Minas Gerais;6446;9
+Mercês;Minas Gerais;10739;9
+Mesquita;Minas Gerais;5605;9
+Minas Novas;Minas Gerais;31484;9
+Minduri;Minas Gerais;3894;9
+Mirabela;Minas Gerais;13589;9
+Miradouro;Minas Gerais;10754;9
+Miraí;Minas Gerais;15014;9
+Miravânia;Minas Gerais;4888;9
+Moeda;Minas Gerais;4919;9
+Moema;Minas Gerais;7517;9
+Monjolos;Minas Gerais;2220;9
+Monsenhor Paulo;Minas Gerais;8688;9
+Montalvânia;Minas Gerais;14877;9
+Monte Alegre de Minas;Minas Gerais;21120;9
+Monte Azul;Minas Gerais;20854;9
+Monte Belo;Minas Gerais;13166;9
+Monte Carmelo;Minas Gerais;47809;10
+Monte Formoso;Minas Gerais;4906;9
+Monte Santo de Minas;Minas Gerais;21524;9
+Montes Claros;Minas Gerais;409341;17
+Monte Sião;Minas Gerais;23803;9
+Montezuma;Minas Gerais;8249;9
+Morada Nova de Minas;Minas Gerais;8863;9
+Morro da Garça;Minas Gerais;2462;9
+Morro do Pilar;Minas Gerais;3182;9
+Munhoz;Minas Gerais;6029;9
+Muriaé;Minas Gerais;108763;11
+Mutum;Minas Gerais;26979;9
+Muzambinho;Minas Gerais;20569;9
+Nacip Raydan;Minas Gerais;3220;9
+Nanuque;Minas Gerais;40750;9
+Naque;Minas Gerais;6996;9
+Natalândia;Minas Gerais;3311;9
+Natércia;Minas Gerais;4730;9
+Nazareno;Minas Gerais;8608;9
+Nepomuceno;Minas Gerais;26769;9
+Ninheira;Minas Gerais;10295;9
+Nova Belém;Minas Gerais;3190;9
+Nova Era;Minas Gerais;17578;9
+Nova Lima;Minas Gerais;94889;10
+Nova Módica;Minas Gerais;3600;9
+Nova Ponte;Minas Gerais;15545;9
+Nova Porteirinha;Minas Gerais;7500;9
+Nova Resende;Minas Gerais;16723;9
+Nova Serrana;Minas Gerais;102693;11
+Novo Cruzeiro;Minas Gerais;31331;9
+Novo Oriente de Minas;Minas Gerais;10755;9
+Novorizonte;Minas Gerais;5299;9
+Olaria;Minas Gerais;1747;9
+Olhos-d'Água;Minas Gerais;6096;9
+Olímpio Noronha;Minas Gerais;2787;9
+Oliveira;Minas Gerais;41687;9
+Oliveira Fortes;Minas Gerais;2133;9
+Onça de Pitangui;Minas Gerais;3148;9
+Oratórios;Minas Gerais;4655;9
+Orizânia;Minas Gerais;8018;9
+Ouro Branco;Minas Gerais;39500;9
+Ouro Fino;Minas Gerais;33639;9
+Ouro Preto;Minas Gerais;74281;10
+Ouro Verde de Minas;Minas Gerais;5934;9
+Padre Carvalho;Minas Gerais;6378;9
+Padre Paraíso;Minas Gerais;20154;9
+Paineiras;Minas Gerais;4486;9
+Pains;Minas Gerais;8283;9
+Pai Pedro;Minas Gerais;6089;9
+Paiva;Minas Gerais;1529;9
+Palma;Minas Gerais;6616;9
+Palmópolis;Minas Gerais;5507;9
+Papagaios;Minas Gerais;15674;9
+Paracatu;Minas Gerais;93158;10
+Pará de Minas;Minas Gerais;93969;10
+Paraguaçu;Minas Gerais;21513;9
+Paraisópolis;Minas Gerais;21083;9
+Paraopeba;Minas Gerais;24540;9
+Passabém;Minas Gerais;1649;9
+Passa Quatro;Minas Gerais;16344;9
+Passa Tempo;Minas Gerais;8084;9
+Passa Vinte;Minas Gerais;2039;9
+Passos;Minas Gerais;114679;11
+Patis;Minas Gerais;5972;9
+Patos de Minas;Minas Gerais;152488;12
+Patrocínio;Minas Gerais;90757;10
+Patrocínio do Muriaé;Minas Gerais;5684;9
+Paula Cândido;Minas Gerais;9571;9
+Paulistas;Minas Gerais;4830;9
+Pavão;Minas Gerais;8450;9
+Peçanha;Minas Gerais;17541;9
+Pedra Azul;Minas Gerais;24324;9
+Pedra Bonita;Minas Gerais;7097;9
+Pedra do Anta;Minas Gerais;3052;9
+Pedra do Indaiá;Minas Gerais;3972;9
+Pedra Dourada;Minas Gerais;2504;9
+Pedralva;Minas Gerais;11195;9
+Pedras de Maria da Cruz;Minas Gerais;12107;9
+Pedrinópolis;Minas Gerais;3635;9
+Pedro Leopoldo;Minas Gerais;64258;10
+Pedro Teixeira;Minas Gerais;1807;9
+Pequeri;Minas Gerais;3320;9
+Pequi;Minas Gerais;4406;9
+Perdigão;Minas Gerais;11506;9
+Perdizes;Minas Gerais;16168;9
+Perdões;Minas Gerais;21390;9
+Periquito;Minas Gerais;6810;9
+Pescador;Minas Gerais;4252;9
+Piau;Minas Gerais;2748;9
+Piedade de Caratinga;Minas Gerais;8566;9
+Piedade de Ponte Nova;Minas Gerais;4140;9
+Piedade do Rio Grande;Minas Gerais;4497;9
+Piedade dos Gerais;Minas Gerais;4982;9
+Pimenta;Minas Gerais;8660;9
+Pingo d'Água;Minas Gerais;4941;9
+Pintópolis;Minas Gerais;7507;9
+Piracema;Minas Gerais;6409;9
+Pirajuba;Minas Gerais;6199;9
+Piranga;Minas Gerais;17626;9
+Piranguçu;Minas Gerais;5472;9
+Piranguinho;Minas Gerais;8596;9
+Pirapetinga;Minas Gerais;10752;9
+Pirapora;Minas Gerais;56428;10
+Piraúba;Minas Gerais;10787;9
+Pitangui;Minas Gerais;27989;9
+Piumhi;Minas Gerais;34691;9
+Planura;Minas Gerais;12133;9
+Poço Fundo;Minas Gerais;16791;9
+Poços de Caldas;Minas Gerais;167397;12
+Pocrane;Minas Gerais;8432;9
+Pompéu;Minas Gerais;31812;9
+Ponte Nova;Minas Gerais;59742;10
+Ponto Chique;Minas Gerais;4261;9
+Ponto dos Volantes;Minas Gerais;12121;9
+Porteirinha;Minas Gerais;37906;9
+Porto Firme;Minas Gerais;11279;9
+Poté;Minas Gerais;16555;9
+Pouso Alegre;Minas Gerais;150737;12
+Pouso Alto;Minas Gerais;5940;9
+Prados;Minas Gerais;9031;9
+Prata;Minas Gerais;27856;9
+Pratápolis;Minas Gerais;8603;9
+Pratinha;Minas Gerais;3603;9
+Presidente Bernardes;Minas Gerais;5369;9
+Presidente Juscelino;Minas Gerais;3641;9
+Presidente Kubitschek;Minas Gerais;3002;9
+Presidente Olegário;Minas Gerais;19573;9
+Alto Jequitibá;Minas Gerais;8317;9
+Prudente de Morais;Minas Gerais;10733;9
+Quartel Geral;Minas Gerais;3563;9
+Queluzito;Minas Gerais;1939;9
+Raposos;Minas Gerais;16354;9
+Raul Soares;Minas Gerais;23762;9
+Recreio;Minas Gerais;10517;9
+Reduto;Minas Gerais;7154;9
+Resende Costa;Minas Gerais;11500;9
+Resplendor;Minas Gerais;17397;9
+Ressaquinha;Minas Gerais;4808;9
+Riachinho;Minas Gerais;8136;9
+Riacho dos Machados;Minas Gerais;9481;9
+Ribeirão das Neves;Minas Gerais;334858;16
+Ribeirão Vermelho;Minas Gerais;4033;9
+Rio Acima;Minas Gerais;10312;9
+Rio Casca;Minas Gerais;13564;9
+Rio Doce;Minas Gerais;2610;9
+Rio do Prado;Minas Gerais;5150;9
+Rio Espera;Minas Gerais;5474;9
+Rio Manso;Minas Gerais;5832;9
+Rio Novo;Minas Gerais;8949;9
+Rio Paranaíba;Minas Gerais;12313;9
+Rio Pardo de Minas;Minas Gerais;30914;9
+Rio Piracicaba;Minas Gerais;14339;9
+Rio Pomba;Minas Gerais;17910;9
+Rio Preto;Minas Gerais;5476;9
+Rio Vermelho;Minas Gerais;12846;9
+Ritápolis;Minas Gerais;4604;9
+Rochedo de Minas;Minas Gerais;2305;9
+Rodeiro;Minas Gerais;8109;9
+Romaria;Minas Gerais;3533;9
+Rosário da Limeira;Minas Gerais;4594;9
+Rubelita;Minas Gerais;5995;9
+Rubim;Minas Gerais;10241;9
+Sabará;Minas Gerais;136344;11
+Sabinópolis;Minas Gerais;15470;9
+Sacramento;Minas Gerais;26185;9
+Salinas;Minas Gerais;41527;9
+Salto da Divisa;Minas Gerais;7009;9
+Santa Bárbara;Minas Gerais;31324;9
+Santa Bárbara do Leste;Minas Gerais;8147;9
+Santa Bárbara do Monte Verde;Minas Gerais;3150;9
+Santa Bárbara do Tugúrio;Minas Gerais;4430;9
+Santa Cruz de Minas;Minas Gerais;8604;9
+Santa Cruz de Salinas;Minas Gerais;4142;9
+Santa Cruz do Escalvado;Minas Gerais;4758;9
+Santa Efigênia de Minas;Minas Gerais;4409;9
+Santa Fé de Minas;Minas Gerais;3846;9
+Santa Helena de Minas;Minas Gerais;6366;9
+Santa Juliana;Minas Gerais;14003;9
+Santa Luzia;Minas Gerais;219134;13
+Santa Margarida;Minas Gerais;16208;9
+Santa Maria de Itabira;Minas Gerais;10847;9
+Santa Maria do Salto;Minas Gerais;5232;9
+Santa Maria do Suaçuí;Minas Gerais;14615;9
+Santana da Vargem;Minas Gerais;7100;9
+Santana de Cataguases;Minas Gerais;3872;9
+Santana de Pirapama;Minas Gerais;7642;9
+Santana do Deserto;Minas Gerais;3976;9
+Santana do Garambéu;Minas Gerais;2458;9
+Santana do Jacaré;Minas Gerais;4821;9
+Santana do Manhuaçu;Minas Gerais;8674;9
+Santana do Paraíso;Minas Gerais;34663;9
+Santana do Riacho;Minas Gerais;4295;9
+Santana dos Montes;Minas Gerais;3777;9
+Santa Rita de Caldas;Minas Gerais;8949;9
+Santa Rita de Jacutinga;Minas Gerais;4884;9
+Santa Rita de Minas;Minas Gerais;7212;9
+Santa Rita de Ibitipoca;Minas Gerais;3425;9
+Santa Rita do Itueto;Minas Gerais;5489;9
+Santa Rita do Sapucaí;Minas Gerais;43260;9
+Santa Rosa da Serra;Minas Gerais;3350;9
+Santa Vitória;Minas Gerais;19742;9
+Santo Antônio do Amparo;Minas Gerais;18525;9
+Santo Antônio do Aventureiro;Minas Gerais;3602;9
+Santo Antônio do Grama;Minas Gerais;3911;9
+Santo Antônio do Itambé;Minas Gerais;3838;9
+Santo Antônio do Jacinto;Minas Gerais;11640;9
+Santo Antônio do Monte;Minas Gerais;28243;9
+Santo Antônio do Retiro;Minas Gerais;7277;9
+Santo Antônio do Rio Abaixo;Minas Gerais;1765;9
+Santo Hipólito;Minas Gerais;3087;9
+Santos Dumont;Minas Gerais;46487;9
+São Bento Abade;Minas Gerais;5286;9
+São Brás do Suaçuí;Minas Gerais;3738;9
+São Domingos das Dores;Minas Gerais;5644;9
+São Domingos do Prata;Minas Gerais;17359;9
+São Félix de Minas;Minas Gerais;3369;9
+São Francisco;Minas Gerais;56323;10
+São Francisco de Paula;Minas Gerais;6527;9
+São Francisco de Sales;Minas Gerais;6238;9
+São Francisco do Glória;Minas Gerais;4844;9
+São Geraldo;Minas Gerais;12366;9
+São Geraldo da Piedade;Minas Gerais;3962;9
+São Geraldo do Baixio;Minas Gerais;4012;9
+São Gonçalo do Abaeté;Minas Gerais;8389;9
+São Gonçalo do Pará;Minas Gerais;12411;9
+São Gonçalo do Rio Abaixo;Minas Gerais;10920;9
+São Gonçalo do Sapucaí;Minas Gerais;25449;9
+São Gotardo;Minas Gerais;35469;9
+São João Batista do Glória;Minas Gerais;7453;9
+São João da Lagoa;Minas Gerais;4915;9
+São João da Mata;Minas Gerais;2749;9
+São João da Ponte;Minas Gerais;25165;9
+São João das Missões;Minas Gerais;13014;9
+São João del Rei;Minas Gerais;90082;10
+São João do Manhuaçu;Minas Gerais;11559;9
+São João do Manteninha;Minas Gerais;5859;9
+São João do Oriente;Minas Gerais;7498;9
+São João do Pacuí;Minas Gerais;4419;9
+São João do Paraíso;Minas Gerais;23618;9
+São João Evangelista;Minas Gerais;15774;9
+São João Nepomuceno;Minas Gerais;26361;9
+São Joaquim de Bicas;Minas Gerais;31578;9
+São José da Barra;Minas Gerais;7426;9
+São José da Lapa;Minas Gerais;23766;9
+São José da Safira;Minas Gerais;4268;9
+São José da Varginha;Minas Gerais;5004;9
+São José do Alegre;Minas Gerais;4196;9
+São José do Divino;Minas Gerais;3860;9
+São José do Goiabal;Minas Gerais;5420;9
+São José do Jacuri;Minas Gerais;6453;9
+São José do Mantimento;Minas Gerais;2791;9
+São Lourenço;Minas Gerais;45851;9
+São Miguel do Anta;Minas Gerais;6938;9
+São Pedro da União;Minas Gerais;4659;9
+São Pedro dos Ferros;Minas Gerais;7781;9
+São Pedro do Suaçuí;Minas Gerais;5246;9
+São Romão;Minas Gerais;12337;9
+São Roque de Minas;Minas Gerais;7051;9
+São Sebastião da Bela Vista;Minas Gerais;5504;9
+São Sebastião da Vargem Alegre;Minas Gerais;3007;9
+São Sebastião do Anta;Minas Gerais;6555;9
+São Sebastião do Maranhão;Minas Gerais;10044;9
+São Sebastião do Oeste;Minas Gerais;6775;9
+São Sebastião do Paraíso;Minas Gerais;70956;10
+São Sebastião do Rio Preto;Minas Gerais;1506;9
+São Sebastião do Rio Verde;Minas Gerais;2241;9
+São Tiago;Minas Gerais;10941;9
+São Tomás de Aquino;Minas Gerais;7021;9
+São Thomé das Letras;Minas Gerais;7089;9
+São Vicente de Minas;Minas Gerais;7753;9
+Sapucaí-Mirim;Minas Gerais;6930;9
+Sardoá;Minas Gerais;6300;9
+Sarzedo;Minas Gerais;32752;9
+Setubinha;Minas Gerais;12258;9
+Sem-Peixe;Minas Gerais;2633;9
+Senador Amaral;Minas Gerais;5356;9
+Senador Cortes;Minas Gerais;2005;9
+Senador Firmino;Minas Gerais;7812;9
+Senador José Bento;Minas Gerais;1502;9
+Senador Modestino Gonçalves;Minas Gerais;4156;9
+Senhora de Oliveira;Minas Gerais;5786;9
+Senhora do Porto;Minas Gerais;3523;9
+Senhora dos Remédios;Minas Gerais;10459;9
+Sericita;Minas Gerais;7326;9
+Seritinga;Minas Gerais;1851;9
+Serra Azul de Minas;Minas Gerais;4293;9
+Serra da Saudade;Minas Gerais;781;9
+Serra dos Aimorés;Minas Gerais;8699;9
+Serra do Salitre;Minas Gerais;11582;9
+Serrania;Minas Gerais;7669;9
+Serranópolis de Minas;Minas Gerais;4781;9
+Serranos;Minas Gerais;1963;9
+Serro;Minas Gerais;20966;9
+Sete Lagoas;Minas Gerais;239639;14
+Silveirânia;Minas Gerais;2261;9
+Silvianópolis;Minas Gerais;6238;9
+Simão Pereira;Minas Gerais;2615;9
+Simonésia;Minas Gerais;19633;9
+Sobrália;Minas Gerais;5553;9
+Soledade de Minas;Minas Gerais;6151;9
+Tabuleiro;Minas Gerais;3750;9
+Taiobeiras;Minas Gerais;34132;9
+Taparuba;Minas Gerais;3110;9
+Tapira;Minas Gerais;4773;9
+Tapiraí;Minas Gerais;1875;9
+Taquaraçu de Minas;Minas Gerais;4077;9
+Tarumirim;Minas Gerais;14326;9
+Teixeiras;Minas Gerais;11661;9
+Teófilo Otoni;Minas Gerais;140592;11
+Timóteo;Minas Gerais;89842;10
+Tiradentes;Minas Gerais;7981;9
+Tiros;Minas Gerais;6480;9
+Tocantins;Minas Gerais;16659;9
+Tocos do Moji;Minas Gerais;4101;9
+Toledo;Minas Gerais;6258;9
+Tombos;Minas Gerais;8022;9
+Três Corações;Minas Gerais;79482;10
+Três Marias;Minas Gerais;32356;9
+Três Pontas;Minas Gerais;56746;10
+Tumiritinga;Minas Gerais;6732;9
+Tupaciguara;Minas Gerais;25327;9
+Turmalina;Minas Gerais;19964;9
+Turvolândia;Minas Gerais;5040;9
+Ubá;Minas Gerais;115552;11
+Ubaí;Minas Gerais;12533;9
+Ubaporanga;Minas Gerais;12471;9
+Uberaba;Minas Gerais;333783;16
+Uberlândia;Minas Gerais;691305;21
+Umburatiba;Minas Gerais;2611;9
+Unaí;Minas Gerais;84378;10
+União de Minas;Minas Gerais;4304;9
+Uruana de Minas;Minas Gerais;3264;9
+Urucânia;Minas Gerais;10358;9
+Urucuia;Minas Gerais;16865;9
+Vargem Alegre;Minas Gerais;6480;9
+Vargem Bonita;Minas Gerais;2153;9
+Vargem Grande do Rio Pardo;Minas Gerais;5007;9
+Varginha;Minas Gerais;135558;11
+Varjão de Minas;Minas Gerais;7036;9
+Várzea da Palma;Minas Gerais;39493;9
+Varzelândia;Minas Gerais;19320;9
+Vazante;Minas Gerais;20590;9
+Verdelândia;Minas Gerais;9355;9
+Veredinha;Minas Gerais;5720;9
+Veríssimo;Minas Gerais;3999;9
+Vermelho Novo;Minas Gerais;4839;9
+Vespasiano;Minas Gerais;127601;11
+Viçosa;Minas Gerais;78846;10
+Vieiras;Minas Gerais;3608;9
+Mathias Lobato;Minas Gerais;3203;9
+Virgem da Lapa;Minas Gerais;13752;9
+Virgínia;Minas Gerais;8674;9
+Virginópolis;Minas Gerais;10510;9
+Virgolândia;Minas Gerais;5380;9
+Visconde do Rio Branco;Minas Gerais;42564;9
+Volta Grande;Minas Gerais;5252;9
+Wenceslau Braz;Minas Gerais;2552;9
+Afonso Cláudio;Espírito Santo;30586;9
+Águia Branca;Espírito Santo;9642;9
+Água Doce do Norte;Espírito Santo;11019;9
+Alegre;Espírito Santo;30084;9
+Alfredo Chaves;Espírito Santo;14601;9
+Alto Rio Novo;Espírito Santo;7836;9
+Anchieta;Espírito Santo;29263;9
+Apiacá;Espírito Santo;7567;9
+Aracruz;Espírito Santo;101220;11
+Atílio Vivacqua;Espírito Santo;11936;9
+Baixo Guandu;Espírito Santo;30998;9
+Barra de São Francisco;Espírito Santo;44650;9
+Boa Esperança;Espírito Santo;15037;9
+Bom Jesus do Norte;Espírito Santo;9936;9
+Brejetuba;Espírito Santo;12404;9
+Cachoeiro de Itapemirim;Espírito Santo;208972;13
+Cariacica;Espírito Santo;381285;17
+Castelo;Espírito Santo;37534;9
+Colatina;Espírito Santo;122499;11
+Conceição da Barra;Espírito Santo;31063;9
+Conceição do Castelo;Espírito Santo;12723;9
+Divino de São Lourenço;Espírito Santo;4304;9
+Domingos Martins;Espírito Santo;33850;9
+Dores do Rio Preto;Espírito Santo;6749;9
+Ecoporanga;Espírito Santo;22923;9
+Fundão;Espírito Santo;21509;9
+Governador Lindenberg;Espírito Santo;12709;9
+Guaçuí;Espírito Santo;30867;9
+Guarapari;Espírito Santo;124859;11
+Ibatiba;Espírito Santo;26082;9
+Ibiraçu;Espírito Santo;12479;9
+Ibitirama;Espírito Santo;8889;9
+Iconha;Espírito Santo;13860;9
+Irupi;Espírito Santo;13377;9
+Itaguaçu;Espírito Santo;14066;9
+Itapemirim;Espírito Santo;34348;9
+Itarana;Espírito Santo;10555;9
+Iúna;Espírito Santo;29161;9
+Jaguaré;Espírito Santo;30477;9
+Jerônimo Monteiro;Espírito Santo;12192;9
+João Neiva;Espírito Santo;16668;9
+Laranja da Terra;Espírito Santo;10947;9
+Linhares;Espírito Santo;173555;12
+Mantenópolis;Espírito Santo;15350;9
+Marataízes;Espírito Santo;38499;9
+Marechal Floriano;Espírito Santo;16694;9
+Marilândia;Espírito Santo;12833;9
+Mimoso do Sul;Espírito Santo;26153;9
+Montanha;Espírito Santo;18833;9
+Mucurici;Espírito Santo;5524;9
+Muniz Freire;Espírito Santo;17465;9
+Muqui;Espírito Santo;15449;9
+Nova Venécia;Espírito Santo;50110;10
+Pancas;Espírito Santo;23184;9
+Pedro Canário;Espírito Santo;26184;9
+Pinheiros;Espírito Santo;27047;9
+Piúma;Espírito Santo;21711;9
+Ponto Belo;Espírito Santo;7863;9
+Presidente Kennedy;Espírito Santo;11574;9
+Rio Bananal;Espírito Santo;19141;9
+Rio Novo do Sul;Espírito Santo;11622;9
+Santa Leopoldina;Espírito Santo;12224;9
+Santa Maria de Jetibá;Espírito Santo;40431;9
+Santa Teresa;Espírito Santo;23590;9
+São Domingos do Norte;Espírito Santo;8638;9
+São Gabriel da Palha;Espírito Santo;37947;9
+São José do Calçado;Espírito Santo;10556;9
+São Mateus;Espírito Santo;130611;11
+São Roque do Canaã;Espírito Santo;12415;9
+Serra;Espírito Santo;517510;19
+Sooretama;Espírito Santo;30070;9
+Vargem Alta;Espírito Santo;21402;9
+Venda Nova do Imigrante;Espírito Santo;25277;9
+Viana;Espírito Santo;78239;10
+Vila Pavão;Espírito Santo;9208;9
+Vila Valério;Espírito Santo;14080;9
+Vila Velha;Espírito Santo;493838;19
+Vitória;Espírito Santo;362097;16
+Angra dos Reis;Rio de Janeiro;203785;13
+Aperibé;Rio de Janeiro;11759;9
+Araruama;Rio de Janeiro;132400;11
+Areal;Rio de Janeiro;12572;9
+Armação dos Búzios;Rio de Janeiro;33870;9
+Arraial do Cabo;Rio de Janeiro;30349;9
+Barra do Piraí;Rio de Janeiro;100374;11
+Barra Mansa;Rio de Janeiro;184412;12
+Belford Roxo;Rio de Janeiro;510906;19
+Bom Jardim;Rio de Janeiro;27446;9
+Bom Jesus do Itabapoana;Rio de Janeiro;37096;9
+Cabo Frio;Rio de Janeiro;226525;13
+Cachoeiras de Macacu;Rio de Janeiro;58937;10
+Cambuci;Rio de Janeiro;15505;9
+Carapebus;Rio de Janeiro;16301;9
+Comendador Levy Gasparian;Rio de Janeiro;8561;9
+Campos dos Goytacazes;Rio de Janeiro;507548;19
+Cantagalo;Rio de Janeiro;20172;9
+Cardoso Moreira;Rio de Janeiro;12823;9
+Carmo;Rio de Janeiro;18895;9
+Casimiro de Abreu;Rio de Janeiro;44184;9
+Conceição de Macabu;Rio de Janeiro;23228;9
+Cordeiro;Rio de Janeiro;21926;9
+Duas Barras;Rio de Janeiro;11492;9
+Duque de Caxias;Rio de Janeiro;919596;21
+Engenheiro Paulo de Frontin;Rio de Janeiro;14002;9
+Guapimirim;Rio de Janeiro;60517;10
+Iguaba Grande;Rio de Janeiro;28310;9
+Itaboraí;Rio de Janeiro;240592;14
+Itaguaí;Rio de Janeiro;133019;11
+Italva;Rio de Janeiro;15207;9
+Itaocara;Rio de Janeiro;23234;9
+Itaperuna;Rio de Janeiro;103224;11
+Itatiaia;Rio de Janeiro;31805;9
+Japeri;Rio de Janeiro;104768;11
+Laje do Muriaé;Rio de Janeiro;7355;9
+Macaé;Rio de Janeiro;256672;14
+Macuco;Rio de Janeiro;5599;9
+Magé;Rio de Janeiro;245071;14
+Mangaratiba;Rio de Janeiro;44468;9
+Maricá;Rio de Janeiro;161207;12
+Mendes;Rio de Janeiro;18614;9
+Mesquita;Rio de Janeiro;176103;12
+Miguel Pereira;Rio de Janeiro;25538;9
+Miracema;Rio de Janeiro;27174;9
+Natividade;Rio de Janeiro;15317;9
+Nilópolis;Rio de Janeiro;162485;12
+Niterói;Rio de Janeiro;513584;19
+Nova Friburgo;Rio de Janeiro;190631;13
+Nova Iguaçu;Rio de Janeiro;821128;21
+Paracambi;Rio de Janeiro;52257;10
+Paraíba do Sul;Rio de Janeiro;44285;9
+Paraty;Rio de Janeiro;43165;9
+Paty do Alferes;Rio de Janeiro;27769;9
+Petrópolis;Rio de Janeiro;306191;15
+Pinheiral;Rio de Janeiro;25156;9
+Piraí;Rio de Janeiro;29277;9
+Porciúncula;Rio de Janeiro;18847;9
+Porto Real;Rio de Janeiro;19683;9
+Quatis;Rio de Janeiro;14302;9
+Queimados;Rio de Janeiro;150319;12
+Quissamã;Rio de Janeiro;24700;9
+Resende;Rio de Janeiro;131341;11
+Rio Bonito;Rio de Janeiro;60201;10
+Rio Claro;Rio de Janeiro;18529;9
+Rio das Flores;Rio de Janeiro;9284;9
+Rio das Ostras;Rio de Janeiro;150674;12
+Rio de Janeiro;Rio de Janeiro;6718903;55
+Santa Maria Madalena;Rio de Janeiro;10404;9
+Santo Antônio de Pádua;Rio de Janeiro;42479;9
+São Francisco de Itabapoana;Rio de Janeiro;42205;9
+São Fidélis;Rio de Janeiro;38669;9
+São Gonçalo;Rio de Janeiro;1084839;33
+São João da Barra;Rio de Janeiro;36102;9
+São João de Meriti;Rio de Janeiro;472406;18
+São José de Ubá;Rio de Janeiro;7171;9
+São José do Vale do Rio Preto;Rio de Janeiro;21795;9
+São Pedro da Aldeia;Rio de Janeiro;104476;11
+São Sebastião do Alto;Rio de Janeiro;9357;9
+Sapucaia;Rio de Janeiro;18228;9
+Saquarema;Rio de Janeiro;89170;10
+Seropédica;Rio de Janeiro;82312;10
+Silva Jardim;Rio de Janeiro;21774;9
+Sumidouro;Rio de Janeiro;15623;9
+Tanguá;Rio de Janeiro;34309;9
+Teresópolis;Rio de Janeiro;182594;12
+Trajano de Moraes;Rio de Janeiro;10626;9
+Três Rios;Rio de Janeiro;81804;10
+Valença;Rio de Janeiro;76523;10
+Varre-Sai;Rio de Janeiro;11000;9
+Vassouras;Rio de Janeiro;36896;9
+Volta Redonda;Rio de Janeiro;273012;14
+Adamantina;São Paulo;35068;9
+Adolfo;São Paulo;3562;9
+Aguaí;São Paulo;36305;9
+Águas da Prata;São Paulo;8180;9
+Águas de Lindóia;São Paulo;18705;9
+Águas de Santa Bárbara;São Paulo;6075;9
+Águas de São Pedro;São Paulo;3451;9
+Agudos;São Paulo;37214;9
+Alambari;São Paulo;6025;9
+Alfredo Marcondes;São Paulo;4166;9
+Altair;São Paulo;4160;9
+Altinópolis;São Paulo;16184;9
+Alto Alegre;São Paulo;4099;9
+Alumínio;São Paulo;18628;9
+Álvares Florence;São Paulo;3679;9
+Álvares Machado;São Paulo;24915;9
+Álvaro de Carvalho;São Paulo;5227;9
+Alvinlândia;São Paulo;3222;9
+Americana;São Paulo;239597;14
+Américo Brasiliense;São Paulo;40504;9
+Américo de Campos;São Paulo;5969;9
+Amparo;São Paulo;72195;10
+Analândia;São Paulo;4995;9
+Andradina;São Paulo;57157;10
+Angatuba;São Paulo;25228;9
+Anhembi;São Paulo;6724;9
+Anhumas;São Paulo;4115;9
+Aparecida;São Paulo;36157;9
+Aparecida d'Oeste;São Paulo;4196;9
+Apiaí;São Paulo;24374;9
+Araçariguama;São Paulo;22364;9
+Araçatuba;São Paulo;197016;13
+Araçoiaba da Serra;São Paulo;34146;9
+Aramina;São Paulo;5620;9
+Arandu;São Paulo;6357;9
+Arapeí;São Paulo;2469;9
+Araraquara;São Paulo;236072;13
+Araras;São Paulo;134236;11
+Arco-Íris;São Paulo;1791;9
+Arealva;São Paulo;8560;9
+Areias;São Paulo;3886;9
+Areiópolis;São Paulo;11129;9
+Ariranha;São Paulo;9668;9
+Artur Nogueira;São Paulo;54408;10
+Arujá;São Paulo;89824;10
+Aspásia;São Paulo;1822;9
+Assis;São Paulo;104386;11
+Atibaia;São Paulo;142761;11
+Auriflama;São Paulo;15189;9
+Avaí;São Paulo;5403;9
+Avanhandava;São Paulo;13649;9
+Avaré;São Paulo;90655;10
+Bady Bassitt;São Paulo;17502;9
+Balbinos;São Paulo;5735;9
+Bálsamo;São Paulo;9068;9
+Bananal;São Paulo;10945;9
+Barão de Antonina;São Paulo;3469;9
+Barbosa;São Paulo;7402;9
+Bariri;São Paulo;35264;9
+Barra Bonita;São Paulo;36126;9
+Barra do Chapéu;São Paulo;5724;9
+Barra do Turvo;São Paulo;7659;9
+Barretos;São Paulo;122098;11
+Barrinha;São Paulo;32812;9
+Barueri;São Paulo;274182;14
+Bastos;São Paulo;20953;9
+Batatais;São Paulo;62508;10
+Bauru;São Paulo;376818;16
+Bebedouro;São Paulo;77496;10
+Bento de Abreu;São Paulo;2980;9
+Bernardino de Campos;São Paulo;11148;9
+Bertioga;São Paulo;63249;10
+Bilac;São Paulo;8034;9
+Birigui;São Paulo;123638;11
+Biritiba Mirim;São Paulo;32598;9
+Boa Esperança do Sul;São Paulo;14923;9
+Bocaina;São Paulo;12329;9
+Bofete;São Paulo;11730;9
+Boituva;São Paulo;60997;10
+Bom Jesus dos Perdões;São Paulo;25448;9
+Bom Sucesso de Itararé;São Paulo;3954;9
+Borá;São Paulo;837;9
+Boracéia;São Paulo;4823;9
+Borborema;São Paulo;16046;9
+Borebi;São Paulo;2653;9
+Botucatu;São Paulo;146497;12
+Bragança Paulista;São Paulo;168668;12
+Braúna;São Paulo;5686;9
+Brejo Alegre;São Paulo;2865;9
+Brodowski;São Paulo;24939;9
+Brotas;São Paulo;24403;9
+Buri;São Paulo;19878;9
+Buritama;São Paulo;17144;9
+Buritizal;São Paulo;4481;9
+Cabrália Paulista;São Paulo;4264;9
+Cabreúva;São Paulo;49707;10
+Caçapava;São Paulo;94263;10
+Cachoeira Paulista;São Paulo;33327;9
+Caconde;São Paulo;18985;9
+Cafelândia;São Paulo;17767;9
+Caiabu;São Paulo;4191;9
+Caieiras;São Paulo;101470;11
+Caiuá;São Paulo;5874;9
+Cajamar;São Paulo;76801;10
+Cajati;São Paulo;28549;9
+Cajobi;São Paulo;10542;9
+Cajuru;São Paulo;26167;9
+Campina do Monte Alegre;São Paulo;6024;9
+Campinas;São Paulo;1204073;34
+Campo Limpo Paulista;São Paulo;84650;10
+Campos do Jordão;São Paulo;52088;10
+Campos Novos Paulista;São Paulo;4965;9
+Cananéia;São Paulo;12540;9
+Canas;São Paulo;5138;9
+Cândido Mota;São Paulo;31280;9
+Cândido Rodrigues;São Paulo;2793;9
+Canitar;São Paulo;5216;9
+Capão Bonito;São Paulo;47138;9
+Capela do Alto;São Paulo;20706;9
+Capivari;São Paulo;55768;10
+Caraguatatuba;São Paulo;121532;11
+Carapicuíba;São Paulo;400927;17
+Cardoso;São Paulo;12326;9
+Casa Branca;São Paulo;30380;9
+Cássia dos Coqueiros;São Paulo;2523;9
+Castilho;São Paulo;21006;9
+Catanduva;São Paulo;121862;11
+Catiguá;São Paulo;7804;9
+Cedral;São Paulo;9237;9
+Cerqueira César;São Paulo;19985;9
+Cerquilho;São Paulo;48949;10
+Cesário Lange;São Paulo;18148;9
+Charqueada;São Paulo;17190;9
+Clementina;São Paulo;8617;9
+Colina;São Paulo;18468;9
+Colômbia;São Paulo;6210;9
+Conchal;São Paulo;28050;9
+Conchas;São Paulo;17896;9
+Cordeirópolis;São Paulo;24528;9
+Coroados;São Paulo;6058;9
+Coronel Macedo;São Paulo;4681;9
+Corumbataí;São Paulo;4055;9
+Cosmópolis;São Paulo;72252;10
+Cosmorama;São Paulo;7307;9
+Cotia;São Paulo;249210;14
+Cravinhos;São Paulo;35292;9
+Cristais Paulista;São Paulo;8631;9
+Cruzália;São Paulo;2073;9
+Cruzeiro;São Paulo;82238;10
+Cubatão;São Paulo;130705;11
+Cunha;São Paulo;21547;9
+Descalvado;São Paulo;33718;9
+Diadema;São Paulo;423884;17
+Dirce Reis;São Paulo;1793;9
+Divinolândia;São Paulo;11146;9
+Dobrada;São Paulo;8929;9
+Dois Córregos;São Paulo;27315;9
+Dolcinópolis;São Paulo;2115;9
+Dourado;São Paulo;8873;9
+Dracena;São Paulo;46793;9
+Duartina;São Paulo;12445;9
+Dumont;São Paulo;9868;9
+Echaporã;São Paulo;6102;9
+Eldorado;São Paulo;15494;9
+Elias Fausto;São Paulo;17772;9
+Elisiário;São Paulo;3651;9
+Embaúba;São Paulo;2452;9
+Embu das Artes;São Paulo;273726;14
+Embu-Guaçu;São Paulo;69385;10
+Emilianópolis;São Paulo;3214;9
+Engenheiro Coelho;São Paulo;20773;9
+Espírito Santo do Pinhal;São Paulo;44330;9
+Espírito Santo do Turvo;São Paulo;4829;9
+Estrela d'Oeste;São Paulo;8419;9
+Estrela do Norte;São Paulo;2766;9
+Euclides da Cunha Paulista;São Paulo;9371;9
+Fartura;São Paulo;16036;9
+Fernandópolis;São Paulo;69116;10
+Fernando Prestes;São Paulo;5783;9
+Fernão;São Paulo;1716;9
+Ferraz de Vasconcelos;São Paulo;194276;13
+Flora Rica;São Paulo;1464;9
+Floreal;São Paulo;2917;9
+Flórida Paulista;São Paulo;14640;9
+Florínea;São Paulo;2676;9
+Franca;São Paulo;353187;16
+Francisco Morato;São Paulo;175844;12
+Franco da Rocha;São Paulo;154489;12
+Gabriel Monteiro;São Paulo;2776;9
+Gália;São Paulo;6548;9
+Garça;São Paulo;44390;9
+Gastão Vidigal;São Paulo;4808;9
+Gavião Peixoto;São Paulo;4789;9
+General Salgado;São Paulo;10869;9
+Getulina;São Paulo;11409;9
+Glicério;São Paulo;4815;9
+Guaiçara;São Paulo;12168;9
+Guaimbê;São Paulo;5765;9
+Guaíra;São Paulo;40790;9
+Guapiaçu;São Paulo;21454;9
+Guapiara;São Paulo;17157;9
+Guará;São Paulo;21220;9
+Guaraçaí;São Paulo;8323;9
+Guaraci;São Paulo;11188;9
+Guarani d'Oeste;São Paulo;2000;9
+Guarantã;São Paulo;6664;9
+Guararapes;São Paulo;32939;9
+Guararema;São Paulo;29798;9
+Guaratinguetá;São Paulo;121798;11
+Guareí;São Paulo;18520;9
+Guariba;São Paulo;40105;9
+Guarujá;São Paulo;320459;15
+Guarulhos;São Paulo;1379182;36
+Guatapará;São Paulo;7656;9
+Guzolândia;São Paulo;5267;9
+Herculândia;São Paulo;9526;9
+Holambra;São Paulo;14930;9
+Hortolândia;São Paulo;230851;13
+Iacanga;São Paulo;11710;9
+Iacri;São Paulo;6321;9
+Iaras;São Paulo;9240;9
+Ibaté;São Paulo;35104;9
+Ibirá;São Paulo;12393;9
+Ibirarema;São Paulo;7753;9
+Ibitinga;São Paulo;60033;10
+Ibiúna;São Paulo;78878;10
+Icém;São Paulo;8243;9
+Iepê;São Paulo;8159;9
+Igaraçu do Tietê;São Paulo;24674;9
+Igarapava;São Paulo;30432;9
+Igaratá;São Paulo;9534;9
+Iguape;São Paulo;30857;9
+Ilhabela;São Paulo;34970;9
+Ilha Comprida;São Paulo;11166;9
+Ilha Solteira;São Paulo;26686;9
+Indaiatuba;São Paulo;251627;14
+Indiana;São Paulo;4885;9
+Indiaporã;São Paulo;3897;9
+Inúbia Paulista;São Paulo;3991;9
+Ipaussu;São Paulo;14971;9
+Iperó;São Paulo;37133;9
+Ipeúna;São Paulo;7546;9
+Ipiguá;São Paulo;5392;9
+Iporanga;São Paulo;4218;9
+Ipuã;São Paulo;16409;9
+Iracemápolis;São Paulo;24235;9
+Irapuã;São Paulo;7993;9
+Irapuru;São Paulo;8294;9
+Itaberá;São Paulo;17556;9
+Itaí;São Paulo;27125;9
+Itajobi;São Paulo;15262;9
+Itaju;São Paulo;3835;9
+Itanhaém;São Paulo;101816;11
+Itaoca;São Paulo;3328;9
+Itapecerica da Serra;São Paulo;175693;12
+Itapetininga;São Paulo;163901;12
+Itapeva;São Paulo;94354;10
+Itapevi;São Paulo;237700;13
+Itapira;São Paulo;74773;10
+Itapirapuã Paulista;São Paulo;4241;9
+Itápolis;São Paulo;43120;9
+Itaporanga;São Paulo;15149;9
+Itapuí;São Paulo;13992;9
+Itapura;São Paulo;4906;9
+Itaquaquecetuba;São Paulo;370821;16
+Itararé;São Paulo;50503;10
+Itariri;São Paulo;17436;9
+Itatiba;São Paulo;120858;11
+Itatinga;São Paulo;20697;9
+Itirapina;São Paulo;18157;9
+Itirapuã;São Paulo;6499;9
+Itobi;São Paulo;7841;9
+Itu;São Paulo;173939;12
+Itupeva;São Paulo;61252;10
+Ituverava;São Paulo;41824;9
+Jaborandi;São Paulo;6929;9
+Jaboticabal;São Paulo;77263;10
+Jacareí;São Paulo;233662;13
+Jaci;São Paulo;7067;9
+Jacupiranga;São Paulo;17866;9
+Jaguariúna;São Paulo;57488;10
+Jales;São Paulo;49107;10
+Jambeiro;São Paulo;6602;9
+Jandira;São Paulo;124937;11
+Jardinópolis;São Paulo;44380;9
+Jarinu;São Paulo;30044;9
+Jaú;São Paulo;150252;12
+Jeriquara;São Paulo;3159;9
+Joanópolis;São Paulo;13220;9
+João Ramalho;São Paulo;4523;9
+José Bonifácio;São Paulo;37015;9
+Júlio Mesquita;São Paulo;4776;9
+Jumirim;São Paulo;3367;9
+Jundiaí;São Paulo;418962;17
+Junqueirópolis;São Paulo;20679;9
+Juquiá;São Paulo;18812;9
+Juquitiba;São Paulo;31444;9
+Lagoinha;São Paulo;4896;9
+Laranjal Paulista;São Paulo;28516;9
+Lavínia;São Paulo;11980;9
+Lavrinhas;São Paulo;7260;9
+Leme;São Paulo;103391;11
+Lençóis Paulista;São Paulo;68432;10
+Limeira;São Paulo;306114;15
+Lindóia;São Paulo;7980;9
+Lins;São Paulo;78013;10
+Lorena;São Paulo;88706;10
+Lourdes;São Paulo;2289;9
+Louveira;São Paulo;48885;10
+Lucélia;São Paulo;21747;9
+Lucianópolis;São Paulo;2394;9
+Luís Antônio;São Paulo;14947;9
+Luiziânia;São Paulo;5790;9
+Lupércio;São Paulo;4584;9
+Lutécia;São Paulo;2649;9
+Macatuba;São Paulo;17163;9
+Macaubal;São Paulo;8120;9
+Macedônia;São Paulo;3698;9
+Magda;São Paulo;3119;9
+Mairinque;São Paulo;47150;9
+Mairiporã;São Paulo;100179;11
+Manduri;São Paulo;9846;9
+Marabá Paulista;São Paulo;5853;9
+Maracaí;São Paulo;14002;9
+Marapoama;São Paulo;3031;9
+Mariápolis;São Paulo;4084;9
+Marília;São Paulo;238882;14
+Marinópolis;São Paulo;2112;9
+Martinópolis;São Paulo;26461;9
+Matão;São Paulo;83170;10
+Mauá;São Paulo;472912;18
+Mendonça;São Paulo;5490;9
+Meridiano;São Paulo;3836;9
+Mesópolis;São Paulo;1908;9
+Miguelópolis;São Paulo;22226;9
+Mineiros do Tietê;São Paulo;12908;9
+Miracatu;São Paulo;19779;9
+Mira Estrela;São Paulo;3086;9
+Mirandópolis;São Paulo;29564;9
+Mirante do Paranapanema;São Paulo;18259;9
+Mirassol;São Paulo;59824;10
+Mirassolândia;São Paulo;4871;9
+Mococa;São Paulo;68885;10
+Mogi das Cruzes;São Paulo;445842;18
+Mogi Guaçu;São Paulo;151888;12
+Mogi Mirim;São Paulo;93189;10
+Mombuca;São Paulo;3493;9
+Monções;São Paulo;2259;9
+Mongaguá;São Paulo;56702;10
+Monte Alegre do Sul;São Paulo;8038;9
+Monte Alto;São Paulo;50498;10
+Monte Aprazível;São Paulo;25087;9
+Monte Azul Paulista;São Paulo;19008;9
+Monte Castelo;São Paulo;4166;9
+Monteiro Lobato;São Paulo;4653;9
+Monte Mor;São Paulo;59772;10
+Morro Agudo;São Paulo;32968;9
+Morungaba;São Paulo;13622;9
+Motuca;São Paulo;4758;9
+Murutinga do Sul;São Paulo;4486;9
+Nantes;São Paulo;3141;9
+Narandiba;São Paulo;4857;9
+Natividade da Serra;São Paulo;6661;9
+Nazaré Paulista;São Paulo;18524;9
+Neves Paulista;São Paulo;8930;9
+Nhandeara;São Paulo;11478;9
+Nipoã;São Paulo;5213;9
+Nova Aliança;São Paulo;6973;9
+Nova Campina;São Paulo;9755;9
+Nova Canaã Paulista;São Paulo;1881;9
+Nova Castilho;São Paulo;1267;9
+Nova Europa;São Paulo;11186;9
+Nova Granada;São Paulo;21500;9
+Nova Guataporanga;São Paulo;2316;9
+Nova Independência;São Paulo;3969;9
+Novais;São Paulo;5830;9
+Nova Luzitânia;São Paulo;4101;9
+Nova Odessa;São Paulo;60174;10
+Novo Horizonte;São Paulo;41052;9
+Nuporanga;São Paulo;7432;9
+Ocauçu;São Paulo;4289;9
+Óleo;São Paulo;2496;9
+Olímpia;São Paulo;54772;10
+Onda Verde;São Paulo;4381;9
+Oriente;São Paulo;6515;9
+Orindiúva;São Paulo;7066;9
+Orlândia;São Paulo;44028;9
+Osasco;São Paulo;698418;21
+Oscar Bressane;São Paulo;2603;9
+Osvaldo Cruz;São Paulo;32879;9
+Ourinhos;São Paulo;113542;11
+Ouroeste;São Paulo;10361;9
+Ouro Verde;São Paulo;8562;9
+Pacaembu;São Paulo;14197;9
+Palestina;São Paulo;12957;9
+Palmares Paulista;São Paulo;13275;9
+Palmeira d'Oeste;São Paulo;9283;9
+Palmital;São Paulo;22221;9
+Panorama;São Paulo;15777;9
+Paraguaçu Paulista;São Paulo;45703;9
+Paraibuna;São Paulo;18222;9
+Paraíso;São Paulo;6454;9
+Paranapanema;São Paulo;20197;9
+Paranapuã;São Paulo;4078;9
+Parapuã;São Paulo;10964;9
+Pardinho;São Paulo;6435;9
+Pariquera-Açu;São Paulo;19648;9
+Parisi;São Paulo;2161;9
+Patrocínio Paulista;São Paulo;14670;9
+Paulicéia;São Paulo;7366;9
+Paulínia;São Paulo;109424;11
+Paulistânia;São Paulo;1833;9
+Paulo de Faria;São Paulo;8945;9
+Pederneiras;São Paulo;46687;9
+Pedra Bela;São Paulo;6093;9
+Pedranópolis;São Paulo;2494;9
+Pedregulho;São Paulo;16744;9
+Pedreira;São Paulo;47919;10
+Pedrinhas Paulista;São Paulo;3093;9
+Pedro de Toledo;São Paulo;11331;9
+Penápolis;São Paulo;63407;10
+Pereira Barreto;São Paulo;25669;9
+Pereiras;São Paulo;8668;9
+Peruíbe;São Paulo;68284;10
+Piacatu;São Paulo;5980;9
+Piedade;São Paulo;55348;10
+Pilar do Sul;São Paulo;29185;9
+Pindamonhangaba;São Paulo;168328;12
+Pindorama;São Paulo;17049;9
+Pinhalzinho;São Paulo;15207;9
+Piquerobi;São Paulo;3692;9
+Piquete;São Paulo;13657;9
+Piracaia;São Paulo;27303;9
+Piracicaba;São Paulo;404142;17
+Piraju;São Paulo;29806;9
+Pirajuí;São Paulo;25492;9
+Pirangi;São Paulo;11417;9
+Pirapora do Bom Jesus;São Paulo;18895;9
+Pirapozinho;São Paulo;27527;9
+Pirassununga;São Paulo;76409;10
+Piratininga;São Paulo;13636;9
+Pitangueiras;São Paulo;39719;9
+Planalto;São Paulo;5237;9
+Platina;São Paulo;3550;9
+Poá;São Paulo;117452;11
+Poloni;São Paulo;6059;9
+Pompéia;São Paulo;22014;9
+Pongaí;São Paulo;3416;9
+Pontal;São Paulo;49961;10
+Pontalinda;São Paulo;4628;9
+Pontes Gestal;São Paulo;2577;9
+Populina;São Paulo;4169;9
+Porangaba;São Paulo;9925;9
+Porto Feliz;São Paulo;53098;10
+Porto Ferreira;São Paulo;56150;10
+Potim;São Paulo;24643;9
+Potirendaba;São Paulo;17361;9
+Pracinha;São Paulo;4093;9
+Pradópolis;São Paulo;21496;9
+Praia Grande;São Paulo;325073;15
+Pratânia;São Paulo;5261;9
+Presidente Alves;São Paulo;4094;9
+Presidente Bernardes;São Paulo;13106;9
+Presidente Epitácio;São Paulo;44200;9
+Presidente Prudente;São Paulo;228743;13
+Presidente Venceslau;São Paulo;39516;9
+Promissão;São Paulo;40432;9
+Quadra;São Paulo;3804;9
+Quatá;São Paulo;14109;9
+Queiroz;São Paulo;3406;9
+Queluz;São Paulo;13420;9
+Quintana;São Paulo;6638;9
+Rafard;São Paulo;9076;9
+Rancharia;São Paulo;29707;9
+Redenção da Serra;São Paulo;3851;9
+Regente Feijó;São Paulo;20261;9
+Reginópolis;São Paulo;9621;9
+Registro;São Paulo;56322;10
+Restinga;São Paulo;7593;9
+Ribeira;São Paulo;3340;9
+Ribeirão Bonito;São Paulo;13219;9
+Ribeirão Branco;São Paulo;16444;9
+Ribeirão Corrente;São Paulo;4718;9
+Ribeirão do Sul;São Paulo;4541;9
+Ribeirão dos Índios;São Paulo;2225;9
+Ribeirão Grande;São Paulo;7673;9
+Ribeirão Pires;São Paulo;123393;11
+Ribeirão Preto;São Paulo;703293;21
+Riversul;São Paulo;5524;9
+Rifaina;São Paulo;3629;9
+Rincão;São Paulo;10799;9
+Rinópolis;São Paulo;9981;9
+Rio Claro;São Paulo;206424;13
+Rio das Pedras;São Paulo;35228;9
+Rio Grande da Serra;São Paulo;50846;10
+Riolândia;São Paulo;12518;9
+Rosana;São Paulo;16643;9
+Roseira;São Paulo;10712;9
+Rubiácea;São Paulo;3128;9
+Rubinéia;São Paulo;3148;9
+Sabino;São Paulo;5590;9
+Sagres;São Paulo;2432;9
+Sales;São Paulo;6331;9
+Sales Oliveira;São Paulo;11890;9
+Salesópolis;São Paulo;17139;9
+Salmourão;São Paulo;5300;9
+Saltinho;São Paulo;8286;9
+Salto;São Paulo;118663;11
+Salto de Pirapora;São Paulo;45422;9
+Salto Grande;São Paulo;9331;9
+Sandovalina;São Paulo;4302;9
+Santa Adélia;São Paulo;15480;9
+Santa Albertina;São Paulo;6008;9
+Santa Bárbara d'Oeste;São Paulo;193475;13
+Santa Branca;São Paulo;14788;9
+Santa Clara d'Oeste;São Paulo;2115;9
+Santa Cruz da Conceição;São Paulo;4503;9
+Santa Cruz da Esperança;São Paulo;2139;9
+Santa Cruz das Palmeiras;São Paulo;34361;9
+Santa Cruz do Rio Pardo;São Paulo;47673;10
+Santa Ernestina;São Paulo;5599;9
+Santa Fé do Sul;São Paulo;32322;9
+Santa Gertrudes;São Paulo;26898;9
+Santa Isabel;São Paulo;57386;10
+Santa Lúcia;São Paulo;8817;9
+Santa Maria da Serra;São Paulo;6173;9
+Santa Mercedes;São Paulo;2939;9
+Santana da Ponte Pensa;São Paulo;1487;9
+Santana de Parnaíba;São Paulo;139447;11
+Santa Rita d'Oeste;São Paulo;2498;9
+Santa Rita do Passa Quatro;São Paulo;27557;9
+Santa Rosa de Viterbo;São Paulo;26540;9
+Santa Salete;São Paulo;1545;9
+Santo Anastácio;São Paulo;20878;9
+Santo André;São Paulo;718773;21
+Santo Antônio da Alegria;São Paulo;6929;9
+Santo Antônio de Posse;São Paulo;23310;9
+Santo Antônio do Aracanguá;São Paulo;8420;9
+Santo Antônio do Jardim;São Paulo;5954;9
+Santo Antônio do Pinhal;São Paulo;6811;9
+Santo Expedito;São Paulo;3111;9
+Santópolis do Aguapeí;São Paulo;4777;9
+Santos;São Paulo;433311;18
+São Bento do Sapucaí;São Paulo;10878;9
+São Bernardo do Campo;São Paulo;838936;21
+São Caetano do Sul;São Paulo;161127;12
+São Carlos;São Paulo;251983;14
+São Francisco;São Paulo;2821;9
+São João da Boa Vista;São Paulo;91211;10
+São João das Duas Pontes;São Paulo;2568;9
+São João de Iracema;São Paulo;1922;9
+São João do Pau d'Alho;São Paulo;2105;9
+São Joaquim da Barra;São Paulo;51888;10
+São José da Bela Vista;São Paulo;8928;9
+São José do Barreiro;São Paulo;4147;9
+São José do Rio Pardo;São Paulo;54946;10
+São José do Rio Preto;São Paulo;460671;18
+São José dos Campos;São Paulo;721944;21
+São Lourenço da Serra;São Paulo;15825;9
+São Luiz do Paraitinga;São Paulo;10687;9
+São Manuel;São Paulo;40954;9
+São Miguel Arcanjo;São Paulo;32931;9
+São Paulo;São Paulo;12252023;55
+São Pedro;São Paulo;35653;9
+São Pedro do Turvo;São Paulo;7666;9
+São Roque;São Paulo;91016;10
+São Sebastião;São Paulo;88980;10
+São Sebastião da Grama;São Paulo;12182;9
+São Simão;São Paulo;15322;9
+São Vicente;São Paulo;365798;16
+Sarapuí;São Paulo;10285;9
+Sarutaiá;São Paulo;3638;9
+Sebastianópolis do Sul;São Paulo;3513;9
+Serra Azul;São Paulo;14662;9
+Serrana;São Paulo;45107;9
+Serra Negra;São Paulo;29229;9
+Sertãozinho;São Paulo;125815;11
+Sete Barras;São Paulo;12832;9
+Severínia;São Paulo;17496;9
+Silveiras;São Paulo;6302;9
+Socorro;São Paulo;41005;9
+Sorocaba;São Paulo;679378;21
+Sud Mennucci;São Paulo;7718;9
+Sumaré;São Paulo;282441;14
+Suzano;São Paulo;297637;15
+Suzanápolis;São Paulo;3963;9
+Tabapuã;São Paulo;12407;9
+Tabatinga;São Paulo;16496;9
+Taboão da Serra;São Paulo;289664;15
+Taciba;São Paulo;6285;9
+Taguaí;São Paulo;13859;9
+Taiaçu;São Paulo;6295;9
+Taiúva;São Paulo;5566;9
+Tambaú;São Paulo;23207;9
+Tanabi;São Paulo;25967;9
+Tapiraí;São Paulo;7807;9
+Tapiratiba;São Paulo;12960;9
+Taquaral;São Paulo;2811;9
+Taquaritinga;São Paulo;57177;10
+Taquarituba;São Paulo;23218;9
+Taquarivaí;São Paulo;5852;9
+Tarabai;São Paulo;7468;9
+Tarumã;São Paulo;15000;9
+Tatuí;São Paulo;121766;11
+Taubaté;São Paulo;314924;15
+Tejupá;São Paulo;4532;9
+Teodoro Sampaio;São Paulo;23148;9
+Terra Roxa;São Paulo;9370;9
+Tietê;São Paulo;42076;9
+Timburi;São Paulo;2658;9
+Torre de Pedra;São Paulo;2412;9
+Torrinha;São Paulo;10010;9
+Trabiju;São Paulo;1724;9
+Tremembé;São Paulo;47185;9
+Três Fronteiras;São Paulo;5807;9
+Tuiuti;São Paulo;6894;9
+Tupã;São Paulo;65524;10
+Tupi Paulista;São Paulo;15495;9
+Turiúba;São Paulo;2016;9
+Turmalina;São Paulo;1727;9
+Ubarana;São Paulo;6309;9
+Ubatuba;São Paulo;90799;10
+Ubirajara;São Paulo;4780;9
+Uchoa;São Paulo;10110;9
+União Paulista;São Paulo;1844;9
+Urânia;São Paulo;9114;9
+Uru;São Paulo;1165;9
+Urupês;São Paulo;13809;9
+Valentim Gentil;São Paulo;13326;9
+Valinhos;São Paulo;129193;11
+Valparaíso;São Paulo;26480;9
+Vargem;São Paulo;10537;9
+Vargem Grande do Sul;São Paulo;42845;9
+Vargem Grande Paulista;São Paulo;52597;10
+Várzea Paulista;São Paulo;121838;11
+Vera Cruz;São Paulo;10843;9
+Vinhedo;São Paulo;78728;10
+Viradouro;São Paulo;18898;9
+Vista Alegre do Alto;São Paulo;8810;9
+Vitória Brasil;São Paulo;1840;9
+Votorantim;São Paulo;122480;11
+Votuporanga;São Paulo;94547;10
+Zacarias;São Paulo;2718;9
+Chavantes;São Paulo;12418;9
+Estiva Gerbi;São Paulo;11304;9
+Abatiá;Paraná;7457;9
+Adrianópolis;Paraná;5919;9
+Agudos do Sul;Paraná;9371;9
+Almirante Tamandaré;Paraná;118623;11
+Altamira do Paraná;Paraná;1942;9
+Altônia;Paraná;22056;9
+Alto Paraná;Paraná;14770;9
+Alto Piquiri;Paraná;9836;9
+Alvorada do Sul;Paraná;11406;9
+Amaporã;Paraná;6257;9
+Ampére;Paraná;19152;9
+Anahy;Paraná;2801;9
+Andirá;Paraná;20031;9
+Ângulo;Paraná;2928;9
+Antonina;Paraná;18980;9
+Antônio Olinto;Paraná;7434;9
+Apucarana;Paraná;134996;11
+Arapongas;Paraná;123027;11
+Arapoti;Paraná;28115;9
+Arapuã;Paraná;3068;9
+Araruna;Paraná;13970;9
+Araucária;Paraná;143843;12
+Ariranha do Ivaí;Paraná;2108;9
+Assaí;Paraná;15119;9
+Assis Chateaubriand;Paraná;33362;9
+Astorga;Paraná;26111;9
+Atalaia;Paraná;3892;9
+Balsa Nova;Paraná;12941;9
+Bandeirantes;Paraná;31367;9
+Barbosa Ferraz;Paraná;11568;9
+Barracão;Paraná;10275;9
+Barra do Jacaré;Paraná;2781;9
+Bela Vista da Caroba;Paraná;3511;9
+Bela Vista do Paraíso;Paraná;15397;9
+Bituruna;Paraná;16389;9
+Boa Esperança;Paraná;4105;9
+Boa Esperança do Iguaçu;Paraná;2503;9
+Boa Ventura de São Roque;Paraná;6387;9
+Boa Vista da Aparecida;Paraná;7591;9
+Bocaiúva do Sul;Paraná;12944;9
+Bom Jesus do Sul;Paraná;3541;9
+Bom Sucesso;Paraná;7032;9
+Bom Sucesso do Sul;Paraná;3264;9
+Borrazópolis;Paraná;6592;9
+Braganey;Paraná;5427;9
+Brasilândia do Sul;Paraná;2651;9
+Cafeara;Paraná;2934;9
+Cafelândia;Paraná;18120;9
+Cafezal do Sul;Paraná;4044;9
+Califórnia;Paraná;8570;9
+Cambará;Paraná;25360;9
+Cambé;Paraná;106533;11
+Cambira;Paraná;7865;9
+Campina da Lagoa;Paraná;14202;9
+Campina do Simão;Paraná;3887;9
+Campina Grande do Sul;Paraná;43288;9
+Campo Bonito;Paraná;3833;9
+Campo do Tenente;Paraná;7971;9
+Campo Largo;Paraná;132002;11
+Campo Magro;Paraná;29318;9
+Campo Mourão;Paraná;94859;10
+Cândido de Abreu;Paraná;15018;9
+Candói;Paraná;15979;9
+Cantagalo;Paraná;13317;9
+Capanema;Paraná;19124;9
+Capitão Leônidas Marques;Paraná;15780;9
+Carambeí;Paraná;23415;9
+Carlópolis;Paraná;14320;9
+Cascavel;Paraná;328454;15
+Castro;Paraná;71484;10
+Catanduvas;Paraná;10189;9
+Centenário do Sul;Paraná;10827;9
+Cerro Azul;Paraná;17779;9
+Céu Azul;Paraná;11765;9
+Chopinzinho;Paraná;19254;9
+Cianorte;Paraná;82620;10
+Cidade Gaúcha;Paraná;12652;9
+Clevelândia;Paraná;16559;9
+Colombo;Paraná;243726;14
+Colorado;Paraná;24012;9
+Congonhinhas;Paraná;8818;9
+Conselheiro Mairinck;Paraná;3860;9
+Contenda;Paraná;18584;9
+Corbélia;Paraná;17071;9
+Cornélio Procópio;Paraná;47845;10
+Coronel Domingos Soares;Paraná;7497;9
+Coronel Vivida;Paraná;20734;9
+Corumbataí do Sul;Paraná;3219;9
+Cruzeiro do Iguaçu;Paraná;4252;9
+Cruzeiro do Oeste;Paraná;20932;9
+Cruzeiro do Sul;Paraná;4469;9
+Cruz Machado;Paraná;18708;9
+Cruzmaltina;Paraná;2950;9
+Curitiba;Paraná;1933105;40
+Curiúva;Paraná;15101;9
+Diamante do Norte;Paraná;5087;9
+Diamante do Sul;Paraná;3439;9
+Diamante D'Oeste;Paraná;5253;9
+Dois Vizinhos;Paraná;40641;9
+Douradina;Paraná;8747;9
+Doutor Camargo;Paraná;5979;9
+Enéas Marques;Paraná;5961;9
+Engenheiro Beltrão;Paraná;14000;9
+Esperança Nova;Paraná;1698;9
+Entre Rios do Oeste;Paraná;4539;9
+Espigão Alto do Iguaçu;Paraná;4117;9
+Farol;Paraná;3089;9
+Faxinal;Paraná;17251;9
+Fazenda Rio Grande;Paraná;100209;11
+Fênix;Paraná;4762;9
+Fernandes Pinheiro;Paraná;5646;9
+Figueira;Paraná;7770;9
+Floraí;Paraná;4929;9
+Flor da Serra do Sul;Paraná;4624;9
+Floresta;Paraná;6774;9
+Florestópolis;Paraná;10548;9
+Flórida;Paraná;2689;9
+Formosa do Oeste;Paraná;6578;9
+Foz do Iguaçu;Paraná;258532;14
+Francisco Alves;Paraná;6046;9
+Francisco Beltrão;Paraná;91093;10
+Foz do Jordão;Paraná;4650;9
+General Carneiro;Paraná;13710;9
+Godoy Moreira;Paraná;2946;9
+Goioerê;Paraná;28884;9
+Goioxim;Paraná;7111;9
+Grandes Rios;Paraná;5618;9
+Guaíra;Paraná;33119;9
+Guairaçá;Paraná;6581;9
+Guamiranga;Paraná;8739;9
+Guapirama;Paraná;3802;9
+Guaporema;Paraná;2243;9
+Guaraci;Paraná;5502;9
+Guaraniaçu;Paraná;12472;9
+Guarapuava;Paraná;181504;12
+Guaraqueçaba;Paraná;7636;9
+Guaratuba;Paraná;37067;9
+Honório Serpa;Paraná;5211;9
+Ibaiti;Paraná;31364;9
+Ibema;Paraná;6352;9
+Ibiporã;Paraná;54558;10
+Icaraíma;Paraná;7904;9
+Iguaraçu;Paraná;4404;9
+Iguatu;Paraná;2256;9
+Imbaú;Paraná;13111;9
+Imbituva;Paraná;32564;9
+Inácio Martins;Paraná;11125;9
+Inajá;Paraná;3109;9
+Indianópolis;Paraná;4457;9
+Ipiranga;Paraná;15172;9
+Iporã;Paraná;13926;9
+Iracema do Oeste;Paraná;2288;9
+Irati;Paraná;60727;10
+Iretama;Paraná;10169;9
+Itaguajé;Paraná;4466;9
+Itaipulândia;Paraná;11176;9
+Itambaracá;Paraná;6582;9
+Itambé;Paraná;6108;9
+Itapejara d'Oeste;Paraná;11964;9
+Itaperuçu;Paraná;28634;9
+Itaúna do Sul;Paraná;2865;9
+Ivaí;Paraná;13879;9
+Ivaiporã;Paraná;31984;9
+Ivaté;Paraná;8185;9
+Ivatuba;Paraná;3259;9
+Jaboti;Paraná;5274;9
+Jacarezinho;Paraná;39378;9
+Jaguapitã;Paraná;13620;9
+Jaguariaíva;Paraná;34857;9
+Jandaia do Sul;Paraná;21176;9
+Janiópolis;Paraná;5245;9
+Japira;Paraná;4994;9
+Japurá;Paraná;9425;9
+Jardim Alegre;Paraná;11328;9
+Jardim Olinda;Paraná;1331;9
+Jataizinho;Paraná;12588;9
+Jesuítas;Paraná;8412;9
+Joaquim Távora;Paraná;11908;9
+Jundiaí do Sul;Paraná;3292;9
+Juranda;Paraná;7340;9
+Jussara;Paraná;7013;9
+Kaloré;Paraná;4100;9
+Lapa;Paraná;48163;10
+Laranjal;Paraná;5852;9
+Laranjeiras do Sul;Paraná;32073;9
+Leópolis;Paraná;3954;9
+Lidianópolis;Paraná;3310;9
+Lindoeste;Paraná;4676;9
+Loanda;Paraná;23086;9
+Lobato;Paraná;4787;9
+Londrina;Paraná;569733;20
+Luiziana;Paraná;7262;9
+Lunardelli;Paraná;4794;9
+Lupionópolis;Paraná;4920;9
+Mallet;Paraná;13630;9
+Mamborê;Paraná;13132;9
+Mandaguaçu;Paraná;22819;9
+Mandaguari;Paraná;34400;9
+Mandirituba;Paraná;26869;9
+Manfrinópolis;Paraná;2571;9
+Mangueirinha;Paraná;16714;9
+Manoel Ribas;Paraná;13502;9
+Marechal Cândido Rondon;Paraná;52944;10
+Maria Helena;Paraná;5677;9
+Marialva;Paraná;35496;9
+Marilândia do Sul;Paraná;8836;9
+Marilena;Paraná;7076;9
+Mariluz;Paraná;10345;9
+Maringá;Paraná;423666;17
+Mariópolis;Paraná;6610;9
+Maripá;Paraná;5603;9
+Marmeleiro;Paraná;14367;9
+Marquinho;Paraná;4405;9
+Marumbi;Paraná;4679;9
+Matelândia;Paraná;17943;9
+Matinhos;Paraná;34720;9
+Mato Rico;Paraná;3272;9
+Mauá da Serra;Paraná;10601;9
+Medianeira;Paraná;46198;9
+Mercedes;Paraná;5536;9
+Mirador;Paraná;2213;9
+Miraselva;Paraná;1806;9
+Missal;Paraná;10702;9
+Moreira Sales;Paraná;12121;9
+Morretes;Paraná;16406;9
+Munhoz de Melo;Paraná;3984;9
+Nossa Senhora das Graças;Paraná;4008;9
+Nova Aliança do Ivaí;Paraná;1543;9
+Nova América da Colina;Paraná;3445;9
+Nova Aurora;Paraná;10472;9
+Nova Cantu;Paraná;5302;9
+Nova Esperança;Paraná;27904;9
+Nova Esperança do Sudoeste;Paraná;5046;9
+Nova Fátima;Paraná;8153;9
+Nova Laranjeiras;Paraná;11554;9
+Nova Londrina;Paraná;13213;9
+Nova Olímpia;Paraná;5806;9
+Nova Santa Bárbara;Paraná;4249;9
+Nova Santa Rosa;Paraná;8219;9
+Nova Prata do Iguaçu;Paraná;10548;9
+Nova Tebas;Paraná;5649;9
+Novo Itacolomi;Paraná;2844;9
+Ortigueira;Paraná;22141;9
+Ourizona;Paraná;3428;9
+Ouro Verde do Oeste;Paraná;5996;9
+Paiçandu;Paraná;41281;9
+Palmas;Paraná;50986;10
+Palmeira;Paraná;33877;9
+Palmital;Paraná;13172;9
+Palotina;Paraná;31846;9
+Paraíso do Norte;Paraná;13830;9
+Paranacity;Paraná;11472;9
+Paranaguá;Paraná;154936;12
+Paranapoema;Paraná;3203;9
+Paranavaí;Paraná;88374;10
+Pato Bragado;Paraná;5610;9
+Pato Branco;Paraná;82881;10
+Paula Freitas;Paraná;5873;9
+Paulo Frontin;Paraná;7354;9
+Peabiru;Paraná;13996;9
+Perobal;Paraná;6127;9
+Pérola;Paraná;11234;9
+Pérola d'Oeste;Paraná;6347;9
+Piên;Paraná;12746;9
+Pinhais;Paraná;132157;11
+Pinhalão;Paraná;6326;9
+Pinhal de São Bento;Paraná;2731;9
+Pinhão;Paraná;32391;9
+Piraí do Sul;Paraná;25463;9
+Piraquara;Paraná;113036;11
+Pitanga;Paraná;30310;9
+Pitangueiras;Paraná;3224;9
+Planaltina do Paraná;Paraná;4263;9
+Planalto;Paraná;13479;9
+Ponta Grossa;Paraná;351736;16
+Pontal do Paraná;Paraná;27284;9
+Porecatu;Paraná;12914;9
+Porto Amazonas;Paraná;4848;9
+Porto Barreiro;Paraná;3237;9
+Porto Rico;Paraná;2559;9
+Porto Vitória;Paraná;4065;9
+Prado Ferreira;Paraná;3753;9
+Pranchita;Paraná;5157;9
+Presidente Castelo Branco;Paraná;5306;9
+Primeiro de Maio;Paraná;11123;9
+Prudentópolis;Paraná;52241;10
+Quarto Centenário;Paraná;4512;9
+Quatiguá;Paraná;7449;9
+Quatro Barras;Paraná;23559;9
+Quatro Pontes;Paraná;4015;9
+Quedas do Iguaçu;Paraná;34103;9
+Querência do Norte;Paraná;12206;9
+Quinta do Sol;Paraná;4573;9
+Quitandinha;Paraná;19049;9
+Ramilândia;Paraná;4451;9
+Rancho Alegre;Paraná;3808;9
+Rancho Alegre D'Oeste;Paraná;2655;9
+Realeza;Paraná;16922;9
+Rebouças;Paraná;14899;9
+Renascença;Paraná;6802;9
+Reserva;Paraná;26715;9
+Reserva do Iguaçu;Paraná;8010;9
+Ribeirão Claro;Paraná;10668;9
+Ribeirão do Pinhal;Paraná;13029;9
+Rio Azul;Paraná;15236;9
+Rio Bom;Paraná;3203;9
+Rio Bonito do Iguaçu;Paraná;13269;9
+Rio Branco do Ivaí;Paraná;4096;9
+Rio Branco do Sul;Paraná;32397;9
+Rio Negro;Paraná;34170;9
+Rolândia;Paraná;66580;10
+Roncador;Paraná;9849;9
+Rondon;Paraná;9579;9
+Rosário do Ivaí;Paraná;4786;9
+Sabáudia;Paraná;6827;9
+Salgado Filho;Paraná;3580;9
+Salto do Itararé;Paraná;4935;9
+Salto do Lontra;Paraná;14785;9
+Santa Amélia;Paraná;3324;9
+Santa Cecília do Pavão;Paraná;3334;9
+Santa Cruz de Monte Castelo;Paraná;7800;9
+Santa Fé;Paraná;12037;9
+Santa Helena;Paraná;26490;9
+Santa Inês;Paraná;1596;9
+Santa Isabel do Ivaí;Paraná;8562;9
+Santa Izabel do Oeste;Paraná;14659;9
+Santa Lúcia;Paraná;3813;9
+Santa Maria do Oeste;Paraná;9615;9
+Santa Mariana;Paraná;11724;9
+Santa Mônica;Paraná;3981;9
+Santana do Itararé;Paraná;4992;9
+Santa Tereza do Oeste;Paraná;10139;9
+Santa Terezinha de Itaipu;Paraná;23465;9
+Santo Antônio da Platina;Paraná;45993;9
+Santo Antônio do Caiuá;Paraná;2641;9
+Santo Antônio do Paraíso;Paraná;2106;9
+Santo Antônio do Sudoeste;Paraná;20166;9
+Santo Inácio;Paraná;5438;9
+São Carlos do Ivaí;Paraná;6878;9
+São Jerônimo da Serra;Paraná;11170;9
+São João;Paraná;10241;9
+São João do Caiuá;Paraná;5855;9
+São João do Ivaí;Paraná;10219;9
+São João do Triunfo;Paraná;15120;9
+São Jorge d'Oeste;Paraná;9050;9
+São Jorge do Ivaí;Paraná;5551;9
+São Jorge do Patrocínio;Paraná;5641;9
+São José da Boa Vista;Paraná;6206;9
+São José das Palmeiras;Paraná;3654;9
+São José dos Pinhais;Paraná;323340;15
+São Manoel do Paraná;Paraná;2160;9
+São Mateus do Sul;Paraná;46261;9
+São Miguel do Iguaçu;Paraná;27452;9
+São Pedro do Iguaçu;Paraná;5897;9
+São Pedro do Ivaí;Paraná;10981;9
+São Pedro do Paraná;Paraná;2313;9
+São Sebastião da Amoreira;Paraná;8853;9
+São Tomé;Paraná;5722;9
+Sapopema;Paraná;6736;9
+Sarandi;Paraná;96688;11
+Saudade do Iguaçu;Paraná;5500;9
+Sengés;Paraná;19327;9
+Serranópolis do Iguaçu;Paraná;4495;9
+Sertaneja;Paraná;5284;9
+Sertanópolis;Paraná;16369;9
+Siqueira Campos;Paraná;21016;9
+Sulina;Paraná;2981;9
+Tamarana;Paraná;14797;9
+Tamboara;Paraná;5120;9
+Tapejara;Paraná;16205;9
+Tapira;Paraná;5539;9
+Teixeira Soares;Paraná;12367;9
+Telêmaco Borba;Paraná;78974;10
+Terra Boa;Paraná;17094;9
+Terra Rica;Paraná;16789;9
+Terra Roxa;Paraná;17481;9
+Tibagi;Paraná;20522;9
+Tijucas do Sul;Paraná;16868;9
+Toledo;Paraná;140635;11
+Tomazina;Paraná;7918;9
+Três Barras do Paraná;Paraná;12040;9
+Tunas do Paraná;Paraná;8769;9
+Tuneiras do Oeste;Paraná;8566;9
+Tupãssi;Paraná;8124;9
+Turvo;Paraná;13215;9
+Ubiratã;Paraná;21013;9
+Umuarama;Paraná;111557;11
+União da Vitória;Paraná;57517;10
+Uniflor;Paraná;2605;9
+Uraí;Paraná;11314;9
+Wenceslau Braz;Paraná;19414;9
+Ventania;Paraná;11892;9
+Vera Cruz do Oeste;Paraná;8521;9
+Verê;Paraná;7257;9
+Alto Paraíso;Paraná;2741;9
+Doutor Ulysses;Paraná;5580;9
+Virmond;Paraná;4023;9
+Vitorino;Paraná;6838;9
+Xambrê;Paraná;5679;9
+Abdon Batista;Santa Catarina;2563;9
+Abelardo Luz;Santa Catarina;17904;9
+Agrolândia;Santa Catarina;10864;9
+Agronômica;Santa Catarina;5448;9
+Água Doce;Santa Catarina;7145;9
+Águas de Chapecó;Santa Catarina;6486;9
+Águas Frias;Santa Catarina;2366;9
+Águas Mornas;Santa Catarina;6469;9
+Alfredo Wagner;Santa Catarina;10036;9
+Alto Bela Vista;Santa Catarina;1937;9
+Anchieta;Santa Catarina;5638;9
+Angelina;Santa Catarina;4801;9
+Anita Garibaldi;Santa Catarina;7133;9
+Anitápolis;Santa Catarina;3232;9
+Antônio Carlos;Santa Catarina;8513;9
+Apiúna;Santa Catarina;10743;9
+Arabutã;Santa Catarina;4267;9
+Araquari;Santa Catarina;38129;9
+Araranguá;Santa Catarina;68228;10
+Armazém;Santa Catarina;8674;9
+Arroio Trinta;Santa Catarina;3550;9
+Arvoredo;Santa Catarina;2240;9
+Ascurra;Santa Catarina;7934;9
+Atalanta;Santa Catarina;3210;9
+Aurora;Santa Catarina;5679;9
+Balneário Arroio do Silva;Santa Catarina;13071;9
+Balneário Camboriú;Santa Catarina;142295;11
+Balneário Barra do Sul;Santa Catarina;10795;9
+Balneário Gaivota;Santa Catarina;10979;9
+Bandeirante;Santa Catarina;2678;9
+Barra Bonita;Santa Catarina;1677;9
+Barra Velha;Santa Catarina;29168;9
+Bela Vista do Toldo;Santa Catarina;6337;9
+Belmonte;Santa Catarina;2706;9
+Benedito Novo;Santa Catarina;11652;9
+Biguaçu;Santa Catarina;68481;10
+Blumenau;Santa Catarina;357199;16
+Bocaina do Sul;Santa Catarina;3474;9
+Bombinhas;Santa Catarina;19769;9
+Bom Jardim da Serra;Santa Catarina;4743;9
+Bom Jesus;Santa Catarina;3010;9
+Bom Jesus do Oeste;Santa Catarina;2142;9
+Bom Retiro;Santa Catarina;9966;9
+Botuverá;Santa Catarina;5246;9
+Braço do Norte;Santa Catarina;33450;9
+Braço do Trombudo;Santa Catarina;3743;9
+Brunópolis;Santa Catarina;2420;9
+Brusque;Santa Catarina;134723;11
+Caçador;Santa Catarina;78595;10
+Caibi;Santa Catarina;6148;9
+Calmon;Santa Catarina;3346;9
+Camboriú;Santa Catarina;82989;10
+Capão Alto;Santa Catarina;2525;9
+Campo Alegre;Santa Catarina;11978;9
+Campo Belo do Sul;Santa Catarina;7016;9
+Campo Erê;Santa Catarina;8526;9
+Campos Novos;Santa Catarina;36244;9
+Canelinha;Santa Catarina;12240;9
+Canoinhas;Santa Catarina;54401;10
+Capinzal;Santa Catarina;22848;9
+Capivari de Baixo;Santa Catarina;24871;9
+Catanduvas;Santa Catarina;10861;9
+Caxambu do Sul;Santa Catarina;3642;9
+Celso Ramos;Santa Catarina;2728;9
+Cerro Negro;Santa Catarina;3124;9
+Chapadão do Lageado;Santa Catarina;2988;9
+Chapecó;Santa Catarina;220367;13
+Cocal do Sul;Santa Catarina;16684;9
+Concórdia;Santa Catarina;74641;10
+Cordilheira Alta;Santa Catarina;4453;9
+Coronel Freitas;Santa Catarina;9981;9
+Coronel Martins;Santa Catarina;2549;9
+Corupá;Santa Catarina;15909;9
+Correia Pinto;Santa Catarina;12795;9
+Criciúma;Santa Catarina;215186;13
+Cunha Porã;Santa Catarina;11086;9
+Cunhataí;Santa Catarina;1962;9
+Curitibanos;Santa Catarina;39745;9
+Descanso;Santa Catarina;8250;9
+Dionísio Cerqueira;Santa Catarina;15498;9
+Dona Emma;Santa Catarina;4146;9
+Doutor Pedrinho;Santa Catarina;4064;9
+Entre Rios;Santa Catarina;3203;9
+Ermo;Santa Catarina;2063;9
+Erval Velho;Santa Catarina;4412;9
+Faxinal dos Guedes;Santa Catarina;10667;9
+Flor do Sertão;Santa Catarina;1582;9
+Florianópolis;Santa Catarina;500973;19
+Formosa do Sul;Santa Catarina;2510;9
+Forquilhinha;Santa Catarina;26793;9
+Fraiburgo;Santa Catarina;36443;9
+Frei Rogério;Santa Catarina;2023;9
+Galvão;Santa Catarina;2873;9
+Garopaba;Santa Catarina;23078;9
+Garuva;Santa Catarina;18145;9
+Gaspar;Santa Catarina;69639;10
+Governador Celso Ramos;Santa Catarina;14471;9
+Grão Pará;Santa Catarina;6569;9
+Gravatal;Santa Catarina;11501;9
+Guabiruba;Santa Catarina;23832;9
+Guaraciaba;Santa Catarina;10090;9
+Guaramirim;Santa Catarina;44819;9
+Guarujá do Sul;Santa Catarina;5160;9
+Guatambú;Santa Catarina;4704;9
+Herval d'Oeste;Santa Catarina;22606;9
+Ibiam;Santa Catarina;1957;9
+Ibicaré;Santa Catarina;3202;9
+Ibirama;Santa Catarina;18950;9
+Içara;Santa Catarina;56421;10
+Ilhota;Santa Catarina;14184;9
+Imaruí;Santa Catarina;10135;9
+Imbituba;Santa Catarina;44853;9
+Imbuia;Santa Catarina;6197;9
+Indaial;Santa Catarina;69425;10
+Iomerê;Santa Catarina;2945;9
+Ipira;Santa Catarina;4446;9
+Iporã do Oeste;Santa Catarina;8996;9
+Ipuaçu;Santa Catarina;7514;9
+Ipumirim;Santa Catarina;7593;9
+Iraceminha;Santa Catarina;3976;9
+Irani;Santa Catarina;10419;9
+Irati;Santa Catarina;1930;9
+Irineópolis;Santa Catarina;11222;9
+Itá;Santa Catarina;6169;9
+Itaiópolis;Santa Catarina;21669;9
+Itajaí;Santa Catarina;219536;13
+Itapema;Santa Catarina;65312;10
+Itapiranga;Santa Catarina;16872;9
+Itapoá;Santa Catarina;20576;9
+Ituporanga;Santa Catarina;25086;9
+Jaborá;Santa Catarina;3936;9
+Jacinto Machado;Santa Catarina;10416;9
+Jaguaruna;Santa Catarina;20024;9
+Jaraguá do Sul;Santa Catarina;177697;12
+Jardinópolis;Santa Catarina;1570;9
+Joaçaba;Santa Catarina;30118;9
+Joinville;Santa Catarina;590466;21
+José Boiteux;Santa Catarina;4997;9
+Jupiá;Santa Catarina;2101;9
+Lacerdópolis;Santa Catarina;2246;9
+Lages;Santa Catarina;157544;12
+Laguna;Santa Catarina;45814;9
+Lajeado Grande;Santa Catarina;1427;9
+Laurentino;Santa Catarina;6970;9
+Lauro Müller;Santa Catarina;15244;9
+Lebon Régis;Santa Catarina;12107;9
+Leoberto Leal;Santa Catarina;3041;9
+Lindóia do Sul;Santa Catarina;4563;9
+Lontras;Santa Catarina;12130;9
+Luiz Alves;Santa Catarina;12859;9
+Luzerna;Santa Catarina;5685;9
+Macieira;Santa Catarina;1775;9
+Mafra;Santa Catarina;56292;10
+Major Gercino;Santa Catarina;3442;9
+Major Vieira;Santa Catarina;8103;9
+Maracajá;Santa Catarina;7293;9
+Maravilha;Santa Catarina;25762;9
+Marema;Santa Catarina;1797;9
+Massaranduba;Santa Catarina;16916;9
+Matos Costa;Santa Catarina;2520;9
+Meleiro;Santa Catarina;7015;9
+Mirim Doce;Santa Catarina;2309;9
+Modelo;Santa Catarina;4209;9
+Mondaí;Santa Catarina;11742;9
+Monte Carlo;Santa Catarina;9866;9
+Monte Castelo;Santa Catarina;8275;9
+Morro da Fumaça;Santa Catarina;17796;9
+Morro Grande;Santa Catarina;2893;9
+Navegantes;Santa Catarina;81475;10
+Nova Erechim;Santa Catarina;5019;9
+Nova Itaberaba;Santa Catarina;4331;9
+Nova Trento;Santa Catarina;14549;9
+Nova Veneza;Santa Catarina;15166;9
+Novo Horizonte;Santa Catarina;2442;9
+Orleans;Santa Catarina;22912;9
+Otacílio Costa;Santa Catarina;18744;9
+Ouro;Santa Catarina;7295;9
+Ouro Verde;Santa Catarina;2217;9
+Paial;Santa Catarina;1505;9
+Painel;Santa Catarina;2359;9
+Palhoça;Santa Catarina;171797;12
+Palma Sola;Santa Catarina;7423;9
+Palmeira;Santa Catarina;2627;9
+Palmitos;Santa Catarina;16169;9
+Papanduva;Santa Catarina;19320;9
+Paraíso;Santa Catarina;3437;9
+Passo de Torres;Santa Catarina;8823;9
+Passos Maia;Santa Catarina;4147;9
+Paulo Lopes;Santa Catarina;7494;9
+Pedras Grandes;Santa Catarina;3976;9
+Penha;Santa Catarina;32531;9
+Peritiba;Santa Catarina;2787;9
+Pescaria Brava;Santa Catarina;10091;9
+Petrolândia;Santa Catarina;5937;9
+Balneário Piçarras;Santa Catarina;23147;9
+Pinhalzinho;Santa Catarina;20313;9
+Pinheiro Preto;Santa Catarina;3555;9
+Piratuba;Santa Catarina;3854;9
+Planalto Alegre;Santa Catarina;2870;9
+Pomerode;Santa Catarina;33447;9
+Ponte Alta;Santa Catarina;4682;9
+Ponte Alta do Norte;Santa Catarina;3414;9
+Ponte Serrada;Santa Catarina;11593;9
+Porto Belo;Santa Catarina;21388;9
+Porto União;Santa Catarina;35398;9
+Pouso Redondo;Santa Catarina;17453;9
+Praia Grande;Santa Catarina;7319;9
+Presidente Castello Branco;Santa Catarina;1568;9
+Presidente Getúlio;Santa Catarina;17471;9
+Presidente Nereu;Santa Catarina;2287;9
+Princesa;Santa Catarina;2924;9
+Quilombo;Santa Catarina;9887;9
+Rancho Queimado;Santa Catarina;2878;9
+Rio das Antas;Santa Catarina;6205;9
+Rio do Campo;Santa Catarina;5940;9
+Rio do Oeste;Santa Catarina;7489;9
+Rio dos Cedros;Santa Catarina;11676;9
+Rio do Sul;Santa Catarina;71061;10
+Rio Fortuna;Santa Catarina;4611;9
+Rio Negrinho;Santa Catarina;42302;9
+Rio Rufino;Santa Catarina;2483;9
+Riqueza;Santa Catarina;4598;9
+Rodeio;Santa Catarina;11551;9
+Romelândia;Santa Catarina;4786;9
+Salete;Santa Catarina;7642;9
+Saltinho;Santa Catarina;3781;9
+Salto Veloso;Santa Catarina;4718;9
+Sangão;Santa Catarina;12678;9
+Santa Cecília;Santa Catarina;16830;9
+Santa Helena;Santa Catarina;2223;9
+Santa Rosa de Lima;Santa Catarina;2142;9
+Santa Rosa do Sul;Santa Catarina;8358;9
+Santa Terezinha;Santa Catarina;8787;9
+Santa Terezinha do Progresso;Santa Catarina;2428;9
+Santiago do Sul;Santa Catarina;1260;9
+Santo Amaro da Imperatriz;Santa Catarina;23245;9
+São Bernardino;Santa Catarina;2336;9
+São Bento do Sul;Santa Catarina;84507;10
+São Bonifácio;Santa Catarina;2838;9
+São Carlos;Santa Catarina;11281;9
+São Cristóvão do Sul;Santa Catarina;5549;9
+São Domingos;Santa Catarina;9445;9
+São Francisco do Sul;Santa Catarina;52721;10
+São João do Oeste;Santa Catarina;6381;9
+São João Batista;Santa Catarina;37424;9
+São João do Itaperiú;Santa Catarina;3733;9
+São João do Sul;Santa Catarina;7297;9
+São Joaquim;Santa Catarina;26952;9
+São José;Santa Catarina;246586;14
+São José do Cedro;Santa Catarina;13829;9
+São José do Cerrito;Santa Catarina;8295;9
+São Lourenço do Oeste;Santa Catarina;24076;9
+São Ludgero;Santa Catarina;13410;9
+São Martinho;Santa Catarina;3180;9
+São Miguel da Boa Vista;Santa Catarina;1820;9
+São Miguel do Oeste;Santa Catarina;40482;9
+São Pedro de Alcântara;Santa Catarina;5823;9
+Saudades;Santa Catarina;9745;9
+Schroeder;Santa Catarina;21365;9
+Seara;Santa Catarina;17541;9
+Serra Alta;Santa Catarina;3263;9
+Siderópolis;Santa Catarina;14007;9
+Sombrio;Santa Catarina;30374;9
+Sul Brasil;Santa Catarina;2461;9
+Taió;Santa Catarina;18395;9
+Tangará;Santa Catarina;8676;9
+Tigrinhos;Santa Catarina;1633;9
+Tijucas;Santa Catarina;38407;9
+Timbé do Sul;Santa Catarina;5348;9
+Timbó;Santa Catarina;44238;9
+Timbó Grande;Santa Catarina;7877;9
+Três Barras;Santa Catarina;19275;9
+Treviso;Santa Catarina;3929;9
+Treze de Maio;Santa Catarina;7081;9
+Treze Tílias;Santa Catarina;7840;9
+Trombudo Central;Santa Catarina;7360;9
+Tubarão;Santa Catarina;105686;11
+Tunápolis;Santa Catarina;4543;9
+Turvo;Santa Catarina;12899;9
+União do Oeste;Santa Catarina;2464;9
+Urubici;Santa Catarina;11235;9
+Urupema;Santa Catarina;2465;9
+Urussanga;Santa Catarina;21268;9
+Vargeão;Santa Catarina;3573;9
+Vargem;Santa Catarina;2477;9
+Vargem Bonita;Santa Catarina;4492;9
+Vidal Ramos;Santa Catarina;6338;9
+Videira;Santa Catarina;53065;10
+Vitor Meireles;Santa Catarina;4979;9
+Witmarsum;Santa Catarina;3965;9
+Xanxerê;Santa Catarina;50982;10
+Xavantina;Santa Catarina;3933;9
+Xaxim;Santa Catarina;28706;9
+Zortéa;Santa Catarina;3363;9
+Balneário Rincão;Santa Catarina;12760;9
+Aceguá;Rio Grande do Sul;4901;9
+Água Santa;Rio Grande do Sul;3748;9
+Agudo;Rio Grande do Sul;16461;9
+Ajuricaba;Rio Grande do Sul;7024;9
+Alecrim;Rio Grande do Sul;5950;9
+Alegrete;Rio Grande do Sul;73589;10
+Alegria;Rio Grande do Sul;3464;9
+Almirante Tamandaré do Sul;Rio Grande do Sul;1964;9
+Alpestre;Rio Grande do Sul;6258;9
+Alto Alegre;Rio Grande do Sul;1638;9
+Alto Feliz;Rio Grande do Sul;3028;9
+Alvorada;Rio Grande do Sul;210305;13
+Amaral Ferrador;Rio Grande do Sul;7031;9
+Ametista do Sul;Rio Grande do Sul;7409;9
+André da Rocha;Rio Grande do Sul;1333;9
+Anta Gorda;Rio Grande do Sul;5981;9
+Antônio Prado;Rio Grande do Sul;13050;9
+Arambaré;Rio Grande do Sul;3581;9
+Araricá;Rio Grande do Sul;5698;9
+Aratiba;Rio Grande do Sul;6235;9
+Arroio do Meio;Rio Grande do Sul;20805;9
+Arroio do Sal;Rio Grande do Sul;10065;9
+Arroio do Padre;Rio Grande do Sul;2937;9
+Arroio dos Ratos;Rio Grande do Sul;14151;9
+Arroio do Tigre;Rio Grande do Sul;13373;9
+Arroio Grande;Rio Grande do Sul;18293;9
+Arvorezinha;Rio Grande do Sul;10424;9
+Augusto Pestana;Rio Grande do Sul;6661;9
+Áurea;Rio Grande do Sul;3554;9
+Bagé;Rio Grande do Sul;121143;11
+Balneário Pinhal;Rio Grande do Sul;14068;9
+Barão;Rio Grande do Sul;6171;9
+Barão de Cotegipe;Rio Grande do Sul;6623;9
+Barão do Triunfo;Rio Grande do Sul;7487;9
+Barracão;Rio Grande do Sul;5275;9
+Barra do Guarita;Rio Grande do Sul;3248;9
+Barra do Quaraí;Rio Grande do Sul;4215;9
+Barra do Ribeiro;Rio Grande do Sul;13491;9
+Barra do Rio Azul;Rio Grande do Sul;1690;9
+Barra Funda;Rio Grande do Sul;2539;9
+Barros Cassal;Rio Grande do Sul;11199;9
+Benjamin Constant do Sul;Rio Grande do Sul;1994;9
+Bento Gonçalves;Rio Grande do Sul;120454;11
+Boa Vista das Missões;Rio Grande do Sul;2098;9
+Boa Vista do Buricá;Rio Grande do Sul;6712;9
+Boa Vista do Cadeado;Rio Grande do Sul;2470;9
+Boa Vista do Incra;Rio Grande do Sul;2603;9
+Boa Vista do Sul;Rio Grande do Sul;2783;9
+Bom Jesus;Rio Grande do Sul;11349;9
+Bom Princípio;Rio Grande do Sul;14055;9
+Bom Progresso;Rio Grande do Sul;1942;9
+Bom Retiro do Sul;Rio Grande do Sul;12328;9
+Boqueirão do Leão;Rio Grande do Sul;7714;9
+Bossoroca;Rio Grande do Sul;6279;9
+Bozano;Rio Grande do Sul;2123;9
+Braga;Rio Grande do Sul;3353;9
+Brochier;Rio Grande do Sul;5074;9
+Butiá;Rio Grande do Sul;20941;9
+Caçapava do Sul;Rio Grande do Sul;33624;9
+Cacequi;Rio Grande do Sul;12561;9
+Cachoeira do Sul;Rio Grande do Sul;82201;10
+Cachoeirinha;Rio Grande do Sul;130293;11
+Cacique Doble;Rio Grande do Sul;5065;9
+Caibaté;Rio Grande do Sul;4846;9
+Caiçara;Rio Grande do Sul;4743;9
+Camaquã;Rio Grande do Sul;66261;10
+Camargo;Rio Grande do Sul;2733;9
+Cambará do Sul;Rio Grande do Sul;6431;9
+Campestre da Serra;Rio Grande do Sul;3388;9
+Campina das Missões;Rio Grande do Sul;5474;9
+Campinas do Sul;Rio Grande do Sul;5454;9
+Campo Bom;Rio Grande do Sul;66712;10
+Campo Novo;Rio Grande do Sul;4484;9
+Campos Borges;Rio Grande do Sul;3320;9
+Candelária;Rio Grande do Sul;31365;9
+Cândido Godói;Rio Grande do Sul;6198;9
+Candiota;Rio Grande do Sul;9584;9
+Canela;Rio Grande do Sul;44998;9
+Canguçu;Rio Grande do Sul;56045;10
+Canoas;Rio Grande do Sul;346616;16
+Canudos do Vale;Rio Grande do Sul;1716;9
+Capão Bonito do Sul;Rio Grande do Sul;1654;9
+Capão da Canoa;Rio Grande do Sul;53049;10
+Capão do Cipó;Rio Grande do Sul;3651;9
+Capão do Leão;Rio Grande do Sul;25354;9
+Capivari do Sul;Rio Grande do Sul;4660;9
+Capela de Santana;Rio Grande do Sul;11940;9
+Capitão;Rio Grande do Sul;2757;9
+Carazinho;Rio Grande do Sul;62110;10
+Caraá;Rio Grande do Sul;8270;9
+Carlos Barbosa;Rio Grande do Sul;29833;9
+Carlos Gomes;Rio Grande do Sul;1377;9
+Casca;Rio Grande do Sul;9031;9
+Caseiros;Rio Grande do Sul;3202;9
+Catuípe;Rio Grande do Sul;8774;9
+Caxias do Sul;Rio Grande do Sul;510906;19
+Centenário;Rio Grande do Sul;2891;9
+Cerrito;Rio Grande do Sul;6091;9
+Cerro Branco;Rio Grande do Sul;4691;9
+Cerro Grande;Rio Grande do Sul;2311;9
+Cerro Grande do Sul;Rio Grande do Sul;12239;9
+Cerro Largo;Rio Grande do Sul;14133;9
+Chapada;Rio Grande do Sul;9269;9
+Charqueadas;Rio Grande do Sul;40789;9
+Charrua;Rio Grande do Sul;3279;9
+Chiapetta;Rio Grande do Sul;3756;9
+Chuí;Rio Grande do Sul;6704;9
+Chuvisca;Rio Grande do Sul;5441;9
+Cidreira;Rio Grande do Sul;16254;9
+Ciríaco;Rio Grande do Sul;4747;9
+Colinas;Rio Grande do Sul;2438;9
+Colorado;Rio Grande do Sul;3175;9
+Condor;Rio Grande do Sul;6753;9
+Constantina;Rio Grande do Sul;9911;9
+Coqueiro Baixo;Rio Grande do Sul;1501;9
+Coqueiros do Sul;Rio Grande do Sul;2306;9
+Coronel Barros;Rio Grande do Sul;2519;9
+Coronel Bicaco;Rio Grande do Sul;7325;9
+Coronel Pilar;Rio Grande do Sul;1628;9
+Cotiporã;Rio Grande do Sul;3853;9
+Coxilha;Rio Grande do Sul;2756;9
+Crissiumal;Rio Grande do Sul;13448;9
+Cristal;Rio Grande do Sul;8009;9
+Cristal do Sul;Rio Grande do Sul;2847;9
+Cruz Alta;Rio Grande do Sul;60299;10
+Cruzaltense;Rio Grande do Sul;1833;9
+Cruzeiro do Sul;Rio Grande do Sul;12348;9
+David Canabarro;Rio Grande do Sul;4740;9
+Derrubadas;Rio Grande do Sul;2805;9
+Dezesseis de Novembro;Rio Grande do Sul;2427;9
+Dilermando de Aguiar;Rio Grande do Sul;3014;9
+Dois Irmãos;Rio Grande do Sul;32671;9
+Dois Irmãos das Missões;Rio Grande do Sul;2026;9
+Dois Lajeados;Rio Grande do Sul;3400;9
+Dom Feliciano;Rio Grande do Sul;15414;9
+Dom Pedro de Alcântara;Rio Grande do Sul;2534;9
+Dom Pedrito;Rio Grande do Sul;38461;9
+Dona Francisca;Rio Grande do Sul;3041;9
+Doutor Maurício Cardoso;Rio Grande do Sul;4549;9
+Doutor Ricardo;Rio Grande do Sul;1983;9
+Eldorado do Sul;Rio Grande do Sul;41285;9
+Encantado;Rio Grande do Sul;22706;9
+Encruzilhada do Sul;Rio Grande do Sul;25877;9
+Engenho Velho;Rio Grande do Sul;1034;9
+Entre-Ijuís;Rio Grande do Sul;8475;9
+Entre Rios do Sul;Rio Grande do Sul;2792;9
+Erebango;Rio Grande do Sul;2991;9
+Erechim;Rio Grande do Sul;105862;11
+Ernestina;Rio Grande do Sul;3168;9
+Herval;Rio Grande do Sul;6821;9
+Erval Grande;Rio Grande do Sul;4859;9
+Erval Seco;Rio Grande do Sul;6912;9
+Esmeralda;Rio Grande do Sul;3282;9
+Esperança do Sul;Rio Grande do Sul;2926;9
+Espumoso;Rio Grande do Sul;15588;9
+Estação;Rio Grande do Sul;5958;9
+Estância Velha;Rio Grande do Sul;50022;10
+Esteio;Rio Grande do Sul;83202;10
+Estrela;Rio Grande do Sul;34116;9
+Estrela Velha;Rio Grande do Sul;3655;9
+Eugênio de Castro;Rio Grande do Sul;2396;9
+Fagundes Varela;Rio Grande do Sul;2731;9
+Farroupilha;Rio Grande do Sul;72331;10
+Faxinal do Soturno;Rio Grande do Sul;6677;9
+Faxinalzinho;Rio Grande do Sul;2315;9
+Fazenda Vilanova;Rio Grande do Sul;4533;9
+Feliz;Rio Grande do Sul;13547;9
+Flores da Cunha;Rio Grande do Sul;30745;9
+Floriano Peixoto;Rio Grande do Sul;1766;9
+Fontoura Xavier;Rio Grande do Sul;10304;9
+Formigueiro;Rio Grande do Sul;6664;9
+Forquetinha;Rio Grande do Sul;2412;9
+Fortaleza dos Valos;Rio Grande do Sul;4320;9
+Frederico Westphalen;Rio Grande do Sul;31313;9
+Garibaldi;Rio Grande do Sul;35070;9
+Garruchos;Rio Grande do Sul;2924;9
+Gaurama;Rio Grande do Sul;5534;9
+General Câmara;Rio Grande do Sul;8385;9
+Gentil;Rio Grande do Sul;1634;9
+Getúlio Vargas;Rio Grande do Sul;16212;9
+Giruá;Rio Grande do Sul;16004;9
+Glorinha;Rio Grande do Sul;8098;9
+Gramado;Rio Grande do Sul;36232;9
+Gramado dos Loureiros;Rio Grande do Sul;2082;9
+Gramado Xavier;Rio Grande do Sul;4325;9
+Gravataí;Rio Grande do Sul;281519;14
+Guabiju;Rio Grande do Sul;1503;9
+Guaíba;Rio Grande do Sul;98143;11
+Guaporé;Rio Grande do Sul;25727;9
+Guarani das Missões;Rio Grande do Sul;7537;9
+Harmonia;Rio Grande do Sul;4866;9
+Herveiras;Rio Grande do Sul;3018;9
+Horizontina;Rio Grande do Sul;19329;9
+Hulha Negra;Rio Grande do Sul;6776;9
+Humaitá;Rio Grande do Sul;4762;9
+Ibarama;Rio Grande do Sul;4406;9
+Ibiaçá;Rio Grande do Sul;4709;9
+Ibiraiaras;Rio Grande do Sul;7262;9
+Ibirapuitã;Rio Grande do Sul;4013;9
+Ibirubá;Rio Grande do Sul;20350;9
+Igrejinha;Rio Grande do Sul;36899;9
+Ijuí;Rio Grande do Sul;83475;10
+Ilópolis;Rio Grande do Sul;4078;9
+Imbé;Rio Grande do Sul;22800;9
+Imigrante;Rio Grande do Sul;3120;9
+Independência;Rio Grande do Sul;6167;9
+Inhacorá;Rio Grande do Sul;2226;9
+Ipê;Rio Grande do Sul;6640;9
+Ipiranga do Sul;Rio Grande do Sul;1889;9
+Iraí;Rio Grande do Sul;7241;9
+Itaara;Rio Grande do Sul;5499;9
+Itacurubi;Rio Grande do Sul;3465;9
+Itapuca;Rio Grande do Sul;2094;9
+Itaqui;Rio Grande do Sul;37620;9
+Itati;Rio Grande do Sul;2419;9
+Itatiba do Sul;Rio Grande do Sul;3324;9
+Ivorá;Rio Grande do Sul;1910;9
+Ivoti;Rio Grande do Sul;24293;9
+Jaboticaba;Rio Grande do Sul;3810;9
+Jacuizinho;Rio Grande do Sul;2692;9
+Jacutinga;Rio Grande do Sul;3561;9
+Jaguarão;Rio Grande do Sul;26680;9
+Jaguari;Rio Grande do Sul;10848;9
+Jaquirana;Rio Grande do Sul;3716;9
+Jari;Rio Grande do Sul;3503;9
+Jóia;Rio Grande do Sul;8560;9
+Júlio de Castilhos;Rio Grande do Sul;19293;9
+Lagoa Bonita do Sul;Rio Grande do Sul;2903;9
+Lagoão;Rio Grande do Sul;6452;9
+Lagoa dos Três Cantos;Rio Grande do Sul;1609;9
+Lagoa Vermelha;Rio Grande do Sul;27807;9
+Lajeado;Rio Grande do Sul;84014;10
+Lajeado do Bugre;Rio Grande do Sul;2564;9
+Lavras do Sul;Rio Grande do Sul;7480;9
+Liberato Salzano;Rio Grande do Sul;5219;9
+Lindolfo Collor;Rio Grande do Sul;6054;9
+Linha Nova;Rio Grande do Sul;1714;9
+Machadinho;Rio Grande do Sul;5445;9
+Maçambará;Rio Grande do Sul;4587;9
+Mampituba;Rio Grande do Sul;2981;9
+Manoel Viana;Rio Grande do Sul;7299;9
+Maquiné;Rio Grande do Sul;6714;9
+Maratá;Rio Grande do Sul;2691;9
+Marau;Rio Grande do Sul;44161;9
+Marcelino Ramos;Rio Grande do Sul;4402;9
+Mariana Pimentel;Rio Grande do Sul;3885;9
+Mariano Moro;Rio Grande do Sul;2031;9
+Marques de Souza;Rio Grande do Sul;4009;9
+Mata;Rio Grande do Sul;4823;9
+Mato Castelhano;Rio Grande do Sul;2540;9
+Mato Leitão;Rio Grande do Sul;4515;9
+Mato Queimado;Rio Grande do Sul;1648;9
+Maximiliano de Almeida;Rio Grande do Sul;4377;9
+Minas do Leão;Rio Grande do Sul;8075;9
+Miraguaí;Rio Grande do Sul;4925;9
+Montauri;Rio Grande do Sul;1453;9
+Monte Alegre dos Campos;Rio Grande do Sul;3226;9
+Monte Belo do Sul;Rio Grande do Sul;2548;9
+Montenegro;Rio Grande do Sul;65264;10
+Mormaço;Rio Grande do Sul;3085;9
+Morrinhos do Sul;Rio Grande do Sul;2949;9
+Morro Redondo;Rio Grande do Sul;6568;9
+Morro Reuter;Rio Grande do Sul;6407;9
+Mostardas;Rio Grande do Sul;12804;9
+Muçum;Rio Grande do Sul;4954;9
+Muitos Capões;Rio Grande do Sul;3162;9
+Muliterno;Rio Grande do Sul;1893;9
+Não-Me-Toque;Rio Grande do Sul;17624;9
+Nicolau Vergueiro;Rio Grande do Sul;1682;9
+Nonoai;Rio Grande do Sul;11695;9
+Nova Alvorada;Rio Grande do Sul;3625;9
+Nova Araçá;Rio Grande do Sul;4759;9
+Nova Bassano;Rio Grande do Sul;9916;9
+Nova Boa Vista;Rio Grande do Sul;1775;9
+Nova Bréscia;Rio Grande do Sul;3330;9
+Nova Candelária;Rio Grande do Sul;2698;9
+Nova Esperança do Sul;Rio Grande do Sul;5352;9
+Nova Hartz;Rio Grande do Sul;21615;9
+Nova Pádua;Rio Grande do Sul;2553;9
+Nova Palma;Rio Grande do Sul;6512;9
+Nova Petrópolis;Rio Grande do Sul;21353;9
+Nova Prata;Rio Grande do Sul;27257;9
+Nova Ramada;Rio Grande do Sul;2242;9
+Nova Roma do Sul;Rio Grande do Sul;3689;9
+Nova Santa Rita;Rio Grande do Sul;29300;9
+Novo Cabrais;Rio Grande do Sul;4196;9
+Novo Hamburgo;Rio Grande do Sul;246748;14
+Novo Machado;Rio Grande do Sul;3323;9
+Novo Tiradentes;Rio Grande do Sul;2211;9
+Novo Xingu;Rio Grande do Sul;1719;9
+Novo Barreiro;Rio Grande do Sul;4164;9
+Osório;Rio Grande do Sul;45994;9
+Paim Filho;Rio Grande do Sul;3828;9
+Palmares do Sul;Rio Grande do Sul;11318;9
+Palmeira das Missões;Rio Grande do Sul;33303;9
+Palmitinho;Rio Grande do Sul;7057;9
+Panambi;Rio Grande do Sul;43667;9
+Pantano Grande;Rio Grande do Sul;9174;9
+Paraí;Rio Grande do Sul;7657;9
+Paraíso do Sul;Rio Grande do Sul;7611;9
+Pareci Novo;Rio Grande do Sul;3837;9
+Parobé;Rio Grande do Sul;58272;10
+Passa Sete;Rio Grande do Sul;5702;9
+Passo do Sobrado;Rio Grande do Sul;6535;9
+Passo Fundo;Rio Grande do Sul;203275;13
+Paulo Bento;Rio Grande do Sul;2293;9
+Paverama;Rio Grande do Sul;8487;9
+Pedras Altas;Rio Grande do Sul;1982;9
+Pedro Osório;Rio Grande do Sul;7730;9
+Pejuçara;Rio Grande do Sul;3874;9
+Pelotas;Rio Grande do Sul;342405;16
+Picada Café;Rio Grande do Sul;5742;9
+Pinhal;Rio Grande do Sul;2579;9
+Pinhal da Serra;Rio Grande do Sul;1941;9
+Pinhal Grande;Rio Grande do Sul;4350;9
+Pinheirinho do Vale;Rio Grande do Sul;4871;9
+Pinheiro Machado;Rio Grande do Sul;12271;9
+Pinto Bandeira;Rio Grande do Sul;3003;9
+Pirapó;Rio Grande do Sul;2304;9
+Piratini;Rio Grande do Sul;20663;9
+Planalto;Rio Grande do Sul;10084;9
+Poço das Antas;Rio Grande do Sul;2098;9
+Pontão;Rio Grande do Sul;3904;9
+Ponte Preta;Rio Grande do Sul;1547;9
+Portão;Rio Grande do Sul;37079;9
+Porto Alegre;Rio Grande do Sul;1483771;36
+Porto Lucena;Rio Grande do Sul;4678;9
+Porto Mauá;Rio Grande do Sul;2374;9
+Porto Vera Cruz;Rio Grande do Sul;1360;9
+Porto Xavier;Rio Grande do Sul;10246;9
+Pouso Novo;Rio Grande do Sul;1639;9
+Presidente Lucena;Rio Grande do Sul;2901;9
+Progresso;Rio Grande do Sul;6244;9
+Protásio Alves;Rio Grande do Sul;1947;9
+Putinga;Rio Grande do Sul;3919;9
+Quaraí;Rio Grande do Sul;22687;9
+Quatro Irmãos;Rio Grande do Sul;1849;9
+Quevedos;Rio Grande do Sul;2788;9
+Quinze de Novembro;Rio Grande do Sul;3796;9
+Redentora;Rio Grande do Sul;11549;9
+Relvado;Rio Grande do Sul;2090;9
+Restinga Sêca;Rio Grande do Sul;15789;9
+Rio dos Índios;Rio Grande do Sul;2752;9
+Rio Grande;Rio Grande do Sul;211005;13
+Rio Pardo;Rio Grande do Sul;38275;9
+Riozinho;Rio Grande do Sul;4653;9
+Roca Sales;Rio Grande do Sul;11393;9
+Rodeio Bonito;Rio Grande do Sul;5867;9
+Rolador;Rio Grande do Sul;2323;9
+Rolante;Rio Grande do Sul;21349;9
+Ronda Alta;Rio Grande do Sul;10601;9
+Rondinha;Rio Grande do Sul;5130;9
+Roque Gonzales;Rio Grande do Sul;6847;9
+Rosário do Sul;Rio Grande do Sul;39422;9
+Sagrada Família;Rio Grande do Sul;2609;9
+Saldanha Marinho;Rio Grande do Sul;2650;9
+Salto do Jacuí;Rio Grande do Sul;12449;9
+Salvador das Missões;Rio Grande do Sul;2733;9
+Salvador do Sul;Rio Grande do Sul;7799;9
+Sananduva;Rio Grande do Sul;16270;9
+Santa Bárbara do Sul;Rio Grande do Sul;7994;9
+Santa Cecília do Sul;Rio Grande do Sul;1639;9
+Santa Clara do Sul;Rio Grande do Sul;6603;9
+Santa Cruz do Sul;Rio Grande do Sul;130416;11
+Santa Maria;Rio Grande do Sul;282123;14
+Santa Maria do Herval;Rio Grande do Sul;6331;9
+Santa Margarida do Sul;Rio Grande do Sul;2562;9
+Santana da Boa Vista;Rio Grande do Sul;8098;9
+Sant'Ana do Livramento;Rio Grande do Sul;77027;10
+Santa Rosa;Rio Grande do Sul;73254;10
+Santa Tereza;Rio Grande do Sul;1729;9
+Santa Vitória do Palmar;Rio Grande do Sul;29676;9
+Santiago;Rio Grande do Sul;49425;10
+Santo Ângelo;Rio Grande do Sul;77593;10
+Santo Antônio do Palma;Rio Grande do Sul;2128;9
+Santo Antônio da Patrulha;Rio Grande do Sul;42894;9
+Santo Antônio das Missões;Rio Grande do Sul;10175;9
+Santo Antônio do Planalto;Rio Grande do Sul;2019;9
+Santo Augusto;Rio Grande do Sul;13885;9
+Santo Cristo;Rio Grande do Sul;14257;9
+Santo Expedito do Sul;Rio Grande do Sul;2324;9
+São Borja;Rio Grande do Sul;60282;10
+São Domingos do Sul;Rio Grande do Sul;3074;9
+São Francisco de Assis;Rio Grande do Sul;18335;9
+São Francisco de Paula;Rio Grande do Sul;21710;9
+São Gabriel;Rio Grande do Sul;62105;10
+São Jerônimo;Rio Grande do Sul;24248;9
+São João da Urtiga;Rio Grande do Sul;4657;9
+São João do Polêsine;Rio Grande do Sul;2552;9
+São Jorge;Rio Grande do Sul;2824;9
+São José das Missões;Rio Grande do Sul;2537;9
+São José do Herval;Rio Grande do Sul;1971;9
+São José do Hortêncio;Rio Grande do Sul;4804;9
+São José do Inhacorá;Rio Grande do Sul;2073;9
+São José do Norte;Rio Grande do Sul;27568;9
+São José do Ouro;Rio Grande do Sul;6933;9
+São José do Sul;Rio Grande do Sul;2408;9
+São José dos Ausentes;Rio Grande do Sul;3527;9
+São Leopoldo;Rio Grande do Sul;236835;13
+São Lourenço do Sul;Rio Grande do Sul;43582;9
+São Luiz Gonzaga;Rio Grande do Sul;33468;9
+São Marcos;Rio Grande do Sul;21556;9
+São Martinho;Rio Grande do Sul;5426;9
+São Martinho da Serra;Rio Grande do Sul;3234;9
+São Miguel das Missões;Rio Grande do Sul;7673;9
+São Nicolau;Rio Grande do Sul;5265;9
+São Paulo das Missões;Rio Grande do Sul;5790;9
+São Pedro da Serra;Rio Grande do Sul;3801;9
+São Pedro das Missões;Rio Grande do Sul;2009;9
+São Pedro do Butiá;Rio Grande do Sul;2947;9
+São Pedro do Sul;Rio Grande do Sul;16198;9
+São Sebastião do Caí;Rio Grande do Sul;25685;9
+São Sepé;Rio Grande do Sul;23621;9
+São Valentim;Rio Grande do Sul;3299;9
+São Valentim do Sul;Rio Grande do Sul;2242;9
+São Valério do Sul;Rio Grande do Sul;2727;9
+São Vendelino;Rio Grande do Sul;2243;9
+São Vicente do Sul;Rio Grande do Sul;8721;9
+Sapiranga;Rio Grande do Sul;81734;10
+Sapucaia do Sul;Rio Grande do Sul;141075;11
+Sarandi;Rio Grande do Sul;24489;9
+Seberi;Rio Grande do Sul;10750;9
+Sede Nova;Rio Grande do Sul;2907;9
+Segredo;Rio Grande do Sul;7421;9
+Selbach;Rio Grande do Sul;5100;9
+Senador Salgado Filho;Rio Grande do Sul;2779;9
+Sentinela do Sul;Rio Grande do Sul;5581;9
+Serafina Corrêa;Rio Grande do Sul;17502;9
+Sério;Rio Grande do Sul;1962;9
+Sertão;Rio Grande do Sul;5415;9
+Sertão Santana;Rio Grande do Sul;6486;9
+Sete de Setembro;Rio Grande do Sul;1970;9
+Severiano de Almeida;Rio Grande do Sul;3657;9
+Silveira Martins;Rio Grande do Sul;2384;9
+Sinimbu;Rio Grande do Sul;10172;9
+Sobradinho;Rio Grande do Sul;14967;9
+Soledade;Rio Grande do Sul;31002;9
+Tabaí;Rio Grande do Sul;4719;9
+Tapejara;Rio Grande do Sul;24111;9
+Tapera;Rio Grande do Sul;10584;9
+Tapes;Rio Grande do Sul;17300;9
+Taquara;Rio Grande do Sul;57466;10
+Taquari;Rio Grande do Sul;26862;9
+Taquaruçu do Sul;Rio Grande do Sul;3072;9
+Tavares;Rio Grande do Sul;5481;9
+Tenente Portela;Rio Grande do Sul;13485;9
+Terra de Areia;Rio Grande do Sul;11204;9
+Teutônia;Rio Grande do Sul;33232;9
+Tio Hugo;Rio Grande do Sul;3030;9
+Tiradentes do Sul;Rio Grande do Sul;5704;9
+Toropi;Rio Grande do Sul;2806;9
+Torres;Rio Grande do Sul;38732;9
+Tramandaí;Rio Grande do Sul;51715;10
+Travesseiro;Rio Grande do Sul;2336;9
+Três Arroios;Rio Grande do Sul;2668;9
+Três Cachoeiras;Rio Grande do Sul;11053;9
+Três Coroas;Rio Grande do Sul;28220;9
+Três de Maio;Rio Grande do Sul;23906;9
+Três Forquilhas;Rio Grande do Sul;2697;9
+Três Palmeiras;Rio Grande do Sul;4271;9
+Três Passos;Rio Grande do Sul;23906;9
+Trindade do Sul;Rio Grande do Sul;5802;9
+Triunfo;Rio Grande do Sul;29538;9
+Tucunduva;Rio Grande do Sul;5678;9
+Tunas;Rio Grande do Sul;4569;9
+Tupanci do Sul;Rio Grande do Sul;1472;9
+Tupanciretã;Rio Grande do Sul;23948;9
+Tupandi;Rio Grande do Sul;4855;9
+Tuparendi;Rio Grande do Sul;7893;9
+Turuçu;Rio Grande do Sul;3438;9
+Ubiretama;Rio Grande do Sul;2015;9
+União da Serra;Rio Grande do Sul;1154;9
+Unistalda;Rio Grande do Sul;2338;9
+Uruguaiana;Rio Grande do Sul;126970;11
+Vacaria;Rio Grande do Sul;66218;10
+Vale Verde;Rio Grande do Sul;3497;9
+Vale do Sol;Rio Grande do Sul;11781;9
+Vale Real;Rio Grande do Sul;5913;9
+Vanini;Rio Grande do Sul;2113;9
+Venâncio Aires;Rio Grande do Sul;71554;10
+Vera Cruz;Rio Grande do Sul;26863;9
+Veranópolis;Rio Grande do Sul;26241;9
+Vespasiano Corrêa;Rio Grande do Sul;1815;9
+Viadutos;Rio Grande do Sul;4756;9
+Viamão;Rio Grande do Sul;255224;14
+Vicente Dutra;Rio Grande do Sul;4670;9
+Victor Graeff;Rio Grande do Sul;2882;9
+Vila Flores;Rio Grande do Sul;3385;9
+Vila Lângaro;Rio Grande do Sul;2091;9
+Vila Maria;Rio Grande do Sul;4358;9
+Vila Nova do Sul;Rio Grande do Sul;4280;9
+Vista Alegre;Rio Grande do Sul;2752;9
+Vista Alegre do Prata;Rio Grande do Sul;1561;9
+Vista Gaúcha;Rio Grande do Sul;2851;9
+Vitória das Missões;Rio Grande do Sul;3133;9
+Westfália;Rio Grande do Sul;3014;9
+Xangri-lá;Rio Grande do Sul;16408;9
+Água Clara;Mato Grosso do Sul;15522;9
+Alcinópolis;Mato Grosso do Sul;5343;9
+Amambai;Mato Grosso do Sul;39396;9
+Anastácio;Mato Grosso do Sul;25135;9
+Anaurilândia;Mato Grosso do Sul;9035;9
+Angélica;Mato Grosso do Sul;10780;9
+Antônio João;Mato Grosso do Sul;8956;9
+Aparecida do Taboado;Mato Grosso do Sul;25745;9
+Aquidauana;Mato Grosso do Sul;47871;10
+Aral Moreira;Mato Grosso do Sul;12149;9
+Bandeirantes;Mato Grosso do Sul;6788;9
+Bataguassu;Mato Grosso do Sul;23024;9
+Batayporã;Mato Grosso do Sul;11329;9
+Bela Vista;Mato Grosso do Sul;24629;9
+Bodoquena;Mato Grosso do Sul;7875;9
+Bonito;Mato Grosso do Sul;21976;9
+Brasilândia;Mato Grosso do Sul;11872;9
+Caarapó;Mato Grosso do Sul;30174;9
+Camapuã;Mato Grosso do Sul;13711;9
+Campo Grande;Mato Grosso do Sul;895982;21
+Caracol;Mato Grosso do Sul;6116;9
+Cassilândia;Mato Grosso do Sul;21939;9
+Chapadão do Sul;Mato Grosso do Sul;25218;9
+Corguinho;Mato Grosso do Sul;5947;9
+Coronel Sapucaia;Mato Grosso do Sul;15253;9
+Corumbá;Mato Grosso do Sul;111435;11
+Costa Rica;Mato Grosso do Sul;20823;9
+Coxim;Mato Grosso do Sul;33543;9
+Deodápolis;Mato Grosso do Sul;12924;9
+Dois Irmãos do Buriti;Mato Grosso do Sul;11385;9
+Douradina;Mato Grosso do Sul;5924;9
+Dourados;Mato Grosso do Sul;222949;13
+Eldorado;Mato Grosso do Sul;12353;9
+Fátima do Sul;Mato Grosso do Sul;19189;9
+Figueirão;Mato Grosso do Sul;3051;9
+Glória de Dourados;Mato Grosso do Sul;9965;9
+Guia Lopes da Laguna;Mato Grosso do Sul;9895;9
+Iguatemi;Mato Grosso do Sul;16078;9
+Inocência;Mato Grosso do Sul;7610;9
+Itaporã;Mato Grosso do Sul;24839;9
+Itaquiraí;Mato Grosso do Sul;21142;9
+Ivinhema;Mato Grosso do Sul;23187;9
+Japorã;Mato Grosso do Sul;9110;9
+Jaraguari;Mato Grosso do Sul;7187;9
+Jardim;Mato Grosso do Sul;26097;9
+Jateí;Mato Grosso do Sul;4027;9
+Juti;Mato Grosso do Sul;6712;9
+Ladário;Mato Grosso do Sul;23331;9
+Laguna Carapã;Mato Grosso do Sul;7341;9
+Maracaju;Mato Grosso do Sul;47083;9
+Miranda;Mato Grosso do Sul;28013;9
+Mundo Novo;Mato Grosso do Sul;18366;9
+Naviraí;Mato Grosso do Sul;54878;10
+Nioaque;Mato Grosso do Sul;13930;9
+Nova Alvorada do Sul;Mato Grosso do Sul;21882;9
+Nova Andradina;Mato Grosso do Sul;54374;10
+Novo Horizonte do Sul;Mato Grosso do Sul;3814;9
+Paraíso das Águas;Mato Grosso do Sul;5555;9
+Paranaíba;Mato Grosso do Sul;42148;9
+Paranhos;Mato Grosso do Sul;14228;9
+Pedro Gomes;Mato Grosso do Sul;7674;9
+Ponta Porã;Mato Grosso do Sul;92526;10
+Porto Murtinho;Mato Grosso do Sul;17131;9
+Ribas do Rio Pardo;Mato Grosso do Sul;24615;9
+Rio Brilhante;Mato Grosso do Sul;37514;9
+Rio Negro;Mato Grosso do Sul;4831;9
+Rio Verde de Mato Grosso;Mato Grosso do Sul;19746;9
+Rochedo;Mato Grosso do Sul;5499;9
+Santa Rita do Pardo;Mato Grosso do Sul;7851;9
+São Gabriel do Oeste;Mato Grosso do Sul;26771;9
+Sete Quedas;Mato Grosso do Sul;10791;9
+Selvíria;Mato Grosso do Sul;6529;9
+Sidrolândia;Mato Grosso do Sul;57665;10
+Sonora;Mato Grosso do Sul;19274;9
+Tacuru;Mato Grosso do Sul;11552;9
+Taquarussu;Mato Grosso do Sul;3588;9
+Terenos;Mato Grosso do Sul;21806;9
+Três Lagoas;Mato Grosso do Sul;121388;11
+Vicentina;Mato Grosso do Sul;6102;9
+Acorizal;Mato Grosso;5399;9
+Água Boa;Mato Grosso;25721;9
+Alta Floresta;Mato Grosso;51782;10
+Alto Araguaia;Mato Grosso;19044;9
+Alto Boa Vista;Mato Grosso;6822;9
+Alto Garças;Mato Grosso;12030;9
+Alto Paraguai;Mato Grosso;11356;9
+Alto Taquari;Mato Grosso;10847;9
+Apiacás;Mato Grosso;10133;9
+Araguaiana;Mato Grosso;3100;9
+Araguainha;Mato Grosso;935;9
+Araputanga;Mato Grosso;16822;9
+Arenápolis;Mato Grosso;9607;9
+Aripuanã;Mato Grosso;22354;9
+Barão de Melgaço;Mato Grosso;8564;9
+Barra do Bugres;Mato Grosso;34966;9
+Barra do Garças;Mato Grosso;61012;10
+Bom Jesus do Araguaia;Mato Grosso;6580;9
+Brasnorte;Mato Grosso;19695;9
+Cáceres;Mato Grosso;94376;10
+Campinápolis;Mato Grosso;15980;9
+Campo Novo do Parecis;Mato Grosso;35360;9
+Campo Verde;Mato Grosso;44041;9
+Campos de Júlio;Mato Grosso;6891;9
+Canabrava do Norte;Mato Grosso;4743;9
+Canarana;Mato Grosso;21579;9
+Carlinda;Mato Grosso;10305;9
+Castanheira;Mato Grosso;8729;9
+Chapada dos Guimarães;Mato Grosso;19752;9
+Cláudia;Mato Grosso;12149;9
+Cocalinho;Mato Grosso;5700;9
+Colíder;Mato Grosso;33438;9
+Colniza;Mato Grosso;38582;9
+Comodoro;Mato Grosso;20763;9
+Confresa;Mato Grosso;30933;9
+Conquista D'Oeste;Mato Grosso;4038;9
+Cotriguaçu;Mato Grosso;19750;9
+Cuiabá;Mato Grosso;612547;21
+Curvelândia;Mato Grosso;5219;9
+Denise;Mato Grosso;9462;9
+Diamantino;Mato Grosso;22041;9
+Dom Aquino;Mato Grosso;8178;9
+Feliz Natal;Mato Grosso;14192;9
+Figueirópolis D'Oeste;Mato Grosso;3494;9
+Gaúcha do Norte;Mato Grosso;7648;9
+General Carneiro;Mato Grosso;5540;9
+Glória D'Oeste;Mato Grosso;3026;9
+Guarantã do Norte;Mato Grosso;35816;9
+Guiratinga;Mato Grosso;15141;9
+Indiavaí;Mato Grosso;2752;9
+Ipiranga do Norte;Mato Grosso;7667;9
+Itanhangá;Mato Grosso;6737;9
+Itaúba;Mato Grosso;3802;9
+Itiquira;Mato Grosso;13345;9
+Jaciara;Mato Grosso;27776;9
+Jangada;Mato Grosso;8409;9
+Jauru;Mato Grosso;8793;9
+Juara;Mato Grosso;34974;9
+Juína;Mato Grosso;40997;9
+Juruena;Mato Grosso;15865;9
+Juscimeira;Mato Grosso;11221;9
+Lambari D'Oeste;Mato Grosso;6121;9
+Lucas do Rio Verde;Mato Grosso;65534;10
+Luciara;Mato Grosso;2077;9
+Vila Bela da Santíssima Trindade;Mato Grosso;16128;9
+Marcelândia;Mato Grosso;10499;9
+Matupá;Mato Grosso;16566;9
+Mirassol d'Oeste;Mato Grosso;27739;9
+Nobres;Mato Grosso;15336;9
+Nortelândia;Mato Grosso;5989;9
+Nossa Senhora do Livramento;Mato Grosso;13216;9
+Nova Bandeirantes;Mato Grosso;15288;9
+Nova Nazaré;Mato Grosso;3849;9
+Nova Lacerda;Mato Grosso;6640;9
+Nova Santa Helena;Mato Grosso;3718;9
+Nova Brasilândia;Mato Grosso;3829;9
+Nova Canaã do Norte;Mato Grosso;12787;9
+Nova Mutum;Mato Grosso;45378;9
+Nova Olímpia;Mato Grosso;20301;9
+Nova Ubiratã;Mato Grosso;11982;9
+Nova Xavantina;Mato Grosso;21374;9
+Novo Mundo;Mato Grosso;9178;9
+Novo Horizonte do Norte;Mato Grosso;4004;9
+Novo São Joaquim;Mato Grosso;5074;9
+Paranaíta;Mato Grosso;11225;9
+Paranatinga;Mato Grosso;22563;9
+Novo Santo Antônio;Mato Grosso;2640;9
+Pedra Preta;Mato Grosso;17626;9
+Peixoto de Azevedo;Mato Grosso;34976;9
+Planalto da Serra;Mato Grosso;2662;9
+Poconé;Mato Grosso;32843;9
+Pontal do Araguaia;Mato Grosso;6711;9
+Ponte Branca;Mato Grosso;1576;9
+Pontes e Lacerda;Mato Grosso;45436;9
+Porto Alegre do Norte;Mato Grosso;12517;9
+Porto dos Gaúchos;Mato Grosso;5410;9
+Porto Esperidião;Mato Grosso;12017;9
+Porto Estrela;Mato Grosso;2963;9
+Poxoréu;Mato Grosso;16219;9
+Primavera do Leste;Mato Grosso;62019;10
+Querência;Mato Grosso;17479;9
+São José dos Quatro Marcos;Mato Grosso;18906;9
+Reserva do Cabaçal;Mato Grosso;2732;9
+Ribeirão Cascalheira;Mato Grosso;10206;9
+Ribeirãozinho;Mato Grosso;2405;9
+Rio Branco;Mato Grosso;5156;9
+Santa Carmem;Mato Grosso;4525;9
+Santo Afonso;Mato Grosso;3146;9
+São José do Povo;Mato Grosso;4063;9
+São José do Rio Claro;Mato Grosso;20664;9
+São José do Xingu;Mato Grosso;5595;9
+São Pedro da Cipa;Mato Grosso;4727;9
+Rondolândia;Mato Grosso;4001;9
+Rondonópolis;Mato Grosso;232491;13
+Rosário Oeste;Mato Grosso;17151;9
+Santa Cruz do Xingu;Mato Grosso;2564;9
+Salto do Céu;Mato Grosso;3365;9
+Santa Rita do Trivelato;Mato Grosso;3429;9
+Santa Terezinha;Mato Grosso;8371;9
+Santo Antônio do Leste;Mato Grosso;5174;9
+Santo Antônio do Leverger;Mato Grosso;16628;9
+São Félix do Araguaia;Mato Grosso;11708;9
+Sapezal;Mato Grosso;25881;9
+Serra Nova Dourada;Mato Grosso;1650;9
+Sinop;Mato Grosso;142996;12
+Sorriso;Mato Grosso;90313;10
+Tabaporã;Mato Grosso;9489;9
+Tangará da Serra;Mato Grosso;103750;11
+Tapurah;Mato Grosso;13705;9
+Terra Nova do Norte;Mato Grosso;9667;9
+Tesouro;Mato Grosso;3805;9
+Torixoréu;Mato Grosso;3609;9
+União do Sul;Mato Grosso;3525;9
+Vale de São Domingos;Mato Grosso;3127;9
+Várzea Grande;Mato Grosso;284971;14
+Vera;Mato Grosso;11309;9
+Vila Rica;Mato Grosso;26037;9
+Nova Guarita;Mato Grosso;4519;9
+Nova Marilândia;Mato Grosso;3278;9
+Nova Maringá;Mato Grosso;8641;9
+Nova Monte Verde;Mato Grosso;9178;9
+Abadia de Goiás;Goiás;8773;9
+Abadiânia;Goiás;20042;9
+Acreúna;Goiás;22366;9
+Adelândia;Goiás;2516;9
+Água Fria de Goiás;Goiás;5735;9
+Água Limpa;Goiás;1850;9
+Águas Lindas de Goiás;Goiás;212440;13
+Alexânia;Goiás;27653;9
+Aloândia;Goiás;1995;9
+Alto Horizonte;Goiás;6414;9
+Alto Paraíso de Goiás;Goiás;7624;9
+Alvorada do Norte;Goiás;8660;9
+Amaralina;Goiás;3812;9
+Americano do Brasil;Goiás;6111;9
+Amorinópolis;Goiás;3126;9
+Anápolis;Goiás;386923;17
+Anhanguera;Goiás;1149;9
+Anicuns;Goiás;21850;9
+Aparecida de Goiânia;Goiás;578179;21
+Aparecida do Rio Doce;Goiás;2474;9
+Aporé;Goiás;4198;9
+Araçu;Goiás;3522;9
+Aragarças;Goiás;20118;9
+Aragoiânia;Goiás;10308;9
+Araguapaz;Goiás;7770;9
+Arenópolis;Goiás;2612;9
+Aruanã;Goiás;9875;9
+Aurilândia;Goiás;3120;9
+Avelinópolis;Goiás;2417;9
+Baliza;Goiás;5138;9
+Barro Alto;Goiás;11167;9
+Bela Vista de Goiás;Goiás;29975;9
+Bom Jardim de Goiás;Goiás;8841;9
+Bom Jesus de Goiás;Goiás;25216;9
+Bonfinópolis;Goiás;9706;9
+Bonópolis;Goiás;4405;9
+Brazabrantes;Goiás;3703;9
+Britânia;Goiás;5779;9
+Buriti Alegre;Goiás;9459;9
+Buriti de Goiás;Goiás;2488;9
+Buritinópolis;Goiás;3292;9
+Cabeceiras;Goiás;7993;9
+Cachoeira Alta;Goiás;12484;9
+Cachoeira de Goiás;Goiás;1351;9
+Cachoeira Dourada;Goiás;8067;9
+Caçu;Goiás;16009;9
+Caiapônia;Goiás;18913;9
+Caldas Novas;Goiás;91162;10
+Caldazinha;Goiás;3804;9
+Campestre de Goiás;Goiás;3630;9
+Campinaçu;Goiás;3640;9
+Campinorte;Goiás;12626;9
+Campo Alegre de Goiás;Goiás;7589;9
+Campo Limpo de Goiás;Goiás;7789;9
+Campos Belos;Goiás;19887;9
+Campos Verdes;Goiás;2141;9
+Carmo do Rio Verde;Goiás;10082;9
+Castelândia;Goiás;3435;9
+Catalão;Goiás;108823;11
+Caturaí;Goiás;5070;9
+Cavalcante;Goiás;9709;9
+Ceres;Goiás;22191;9
+Cezarina;Goiás;8606;9
+Chapadão do Céu;Goiás;10167;9
+Cidade Ocidental;Goiás;71376;10
+Cocalzinho de Goiás;Goiás;20240;9
+Colinas do Sul;Goiás;3382;9
+Córrego do Ouro;Goiás;2327;9
+Corumbá de Goiás;Goiás;11110;9
+Corumbaíba;Goiás;9723;9
+Cristalina;Goiás;58997;10
+Cristianópolis;Goiás;2966;9
+Crixás;Goiás;16949;9
+Cromínia;Goiás;3486;9
+Cumari;Goiás;2854;9
+Damianópolis;Goiás;3311;9
+Damolândia;Goiás;2938;9
+Davinópolis;Goiás;2094;9
+Diorama;Goiás;2484;9
+Doverlândia;Goiás;7322;9
+Edealina;Goiás;3699;9
+Edéia;Goiás;12372;9
+Estrela do Norte;Goiás;3275;9
+Faina;Goiás;6627;9
+Fazenda Nova;Goiás;5637;9
+Firminópolis;Goiás;13292;9
+Flores de Goiás;Goiás;16557;9
+Formosa;Goiás;121617;11
+Formoso;Goiás;4248;9
+Gameleira de Goiás;Goiás;3818;9
+Divinópolis de Goiás;Goiás;4804;9
+Goianápolis;Goiás;11231;9
+Goiandira;Goiás;5600;9
+Goianésia;Goiás;70084;10
+Goiânia;Goiás;1516113;37
+Goianira;Goiás;44289;9
+Goiás;Goiás;22645;9
+Goiatuba;Goiás;34095;9
+Gouvelândia;Goiás;5898;9
+Guapó;Goiás;14209;9
+Guaraíta;Goiás;1996;9
+Guarani de Goiás;Goiás;3893;9
+Guarinos;Goiás;1794;9
+Heitoraí;Goiás;3724;9
+Hidrolândia;Goiás;21706;9
+Hidrolina;Goiás;3564;9
+Iaciara;Goiás;13947;9
+Inaciolândia;Goiás;6194;9
+Indiara;Goiás;15611;9
+Inhumas;Goiás;52866;10
+Ipameri;Goiás;26985;9
+Ipiranga de Goiás;Goiás;2893;9
+Iporá;Goiás;31531;9
+Israelândia;Goiás;2800;9
+Itaberaí;Goiás;42900;9
+Itaguari;Goiás;4676;9
+Itaguaru;Goiás;5237;9
+Itajá;Goiás;4539;9
+Itapaci;Goiás;22981;9
+Itapirapuã;Goiás;4997;9
+Itapuranga;Goiás;25768;9
+Itarumã;Goiás;7178;9
+Itauçu;Goiás;8938;9
+Itumbiara;Goiás;104742;11
+Ivolândia;Goiás;2370;9
+Jandaia;Goiás;6048;9
+Jaraguá;Goiás;50511;10
+Jataí;Goiás;100882;11
+Jaupaci;Goiás;2879;9
+Jesúpolis;Goiás;2490;9
+Joviânia;Goiás;7387;9
+Jussara;Goiás;18478;9
+Lagoa Santa;Goiás;1588;9
+Leopoldo de Bulhões;Goiás;7647;9
+Luziânia;Goiás;208299;13
+Mairipotaba;Goiás;2368;9
+Mambaí;Goiás;8882;9
+Mara Rosa;Goiás;9503;9
+Marzagão;Goiás;2236;9
+Matrinchã;Goiás;4351;9
+Maurilândia;Goiás;14080;9
+Mimoso de Goiás;Goiás;2597;9
+Minaçu;Goiás;29070;9
+Mineiros;Goiás;66801;10
+Moiporá;Goiás;1529;9
+Monte Alegre de Goiás;Goiás;8606;9
+Montes Claros de Goiás;Goiás;8055;9
+Montividiu;Goiás;13396;9
+Montividiu do Norte;Goiás;4479;9
+Morrinhos;Goiás;46136;9
+Morro Agudo de Goiás;Goiás;2248;9
+Mossâmedes;Goiás;4290;9
+Mozarlândia;Goiás;15659;9
+Mundo Novo;Goiás;4887;9
+Mutunópolis;Goiás;3778;9
+Nazário;Goiás;9142;9
+Nerópolis;Goiás;29850;9
+Niquelândia;Goiás;46388;9
+Nova América;Goiás;2352;9
+Nova Aurora;Goiás;2210;9
+Nova Crixás;Goiás;12869;9
+Nova Glória;Goiás;8164;9
+Nova Iguaçu de Goiás;Goiás;2929;9
+Nova Roma;Goiás;3264;9
+Nova Veneza;Goiás;9853;9
+Novo Brasil;Goiás;2913;9
+Novo Gama;Goiás;115711;11
+Novo Planalto;Goiás;4495;9
+Orizona;Goiás;15615;9
+Ouro Verde de Goiás;Goiás;3759;9
+Ouvidor;Goiás;6667;9
+Padre Bernardo;Goiás;33835;9
+Palestina de Goiás;Goiás;3464;9
+Palmeiras de Goiás;Goiás;28858;9
+Palmelo;Goiás;2381;9
+Palminópolis;Goiás;3585;9
+Panamá;Goiás;2615;9
+Paranaiguara;Goiás;10057;9
+Paraúna;Goiás;10988;9
+Perolândia;Goiás;3129;9
+Petrolina de Goiás;Goiás;10281;9
+Pilar de Goiás;Goiás;2253;9
+Piracanjuba;Goiás;24524;9
+Piranhas;Goiás;10385;9
+Pirenópolis;Goiás;24908;9
+Pires do Rio;Goiás;31458;9
+Planaltina;Goiás;89918;10
+Pontalina;Goiás;17819;9
+Porangatu;Goiás;45394;9
+Porteirão;Goiás;3881;9
+Portelândia;Goiás;4011;9
+Posse;Goiás;36900;9
+Professor Jamil;Goiás;3223;9
+Quirinópolis;Goiás;50065;10
+Rialma;Goiás;10918;9
+Rianápolis;Goiás;4801;9
+Rio Quente;Goiás;4493;9
+Rio Verde;Goiás;235647;13
+Rubiataba;Goiás;19882;9
+Sanclerlândia;Goiás;7637;9
+Santa Bárbara de Goiás;Goiás;6560;9
+Santa Cruz de Goiás;Goiás;2855;9
+Santa Fé de Goiás;Goiás;5459;9
+Santa Helena de Goiás;Goiás;38648;9
+Santa Isabel;Goiás;3809;9
+Santa Rita do Araguaia;Goiás;8756;9
+Santa Rita do Novo Destino;Goiás;3343;9
+Santa Rosa de Goiás;Goiás;2319;9
+Santa Tereza de Goiás;Goiás;3355;9
+Santa Terezinha de Goiás;Goiás;8744;9
+Santo Antônio da Barra;Goiás;4821;9
+Santo Antônio de Goiás;Goiás;6283;9
+Santo Antônio do Descoberto;Goiás;74744;10
+São Domingos;Goiás;12949;9
+São Francisco de Goiás;Goiás;6264;9
+São João d'Aliança;Goiás;13740;9
+São João da Paraúna;Goiás;1381;9
+São Luís de Montes Belos;Goiás;33817;9
+São Luiz do Norte;Goiás;5167;9
+São Miguel do Araguaia;Goiás;21993;9
+São Miguel do Passa Quatro;Goiás;4057;9
+São Patrício;Goiás;2036;9
+São Simão;Goiás;20645;9
+Senador Canedo;Goiás;115371;11
+Serranópolis;Goiás;8544;9
+Silvânia;Goiás;20695;9
+Simolândia;Goiás;6856;9
+Sítio d'Abadia;Goiás;2989;9
+Taquaral de Goiás;Goiás;3529;9
+Teresina de Goiás;Goiás;3458;9
+Terezópolis de Goiás;Goiás;8043;9
+Três Ranchos;Goiás;2833;9
+Trindade;Goiás;127599;11
+Trombas;Goiás;3500;9
+Turvânia;Goiás;4598;9
+Turvelândia;Goiás;5281;9
+Uirapuru;Goiás;2854;9
+Uruaçu;Goiás;40532;9
+Uruana;Goiás;13843;9
+Urutaí;Goiás;3072;9
+Valparaíso de Goiás;Goiás;168468;12
+Varjão;Goiás;3827;9
+Vianópolis;Goiás;13863;9
+Vicentinópolis;Goiás;8743;9
+Vila Boa;Goiás;6171;9
+Vila Propício;Goiás;5821;9
+Brasília;Distrito Federal;3015268;41
