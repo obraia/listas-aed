@@ -1,0 +1,10 @@
+789123450001;Desinfetante Líquido Pinho Sol - Lavanda 1L;8.60
+789123450002;Leite Longa Vida Integral ITALAC 1L;3.15
+789123450003;Macarrão com Ovos Parafuso SANTA AMÁLIA Pacote 500g;3.79
+789123450004;Arroz Parboilizado Tipo 1 QUALITÁ Pacote 1kg;3.49
+789123450005;Óleo Equilíbrio LIZA Pet 900ml;13.95
+789123450006;Feijão Carioca Tipo 1 CAMIL Pacote 1kg;9.99
+789123450007;Fralda Pampers Premium Care RN - 20 Unidades;13.49
+789123450008;Conjunto de Potes Euro Home em Vidro – 3 Peças;49.90
+789123450009;Cafeteira Expresso Arno Dolce Gusto Mini Me Automática;319.90
+789123450010;Cadeira Diretor Encosto Telado - Preta;239.90
